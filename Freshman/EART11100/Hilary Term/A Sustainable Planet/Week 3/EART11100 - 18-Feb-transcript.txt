@@ -1,0 +1,1629 @@
+'EART11100 - 18-Feb', automated transcript
+01/08/2026
+---
+
+Okay good morning everybody, I think we'll get started. So we should have
+
+subtitles throughout this. I'll keep an eye on, check out, check that they're
+
+working okay. Hopefully it's helpful. So today we're going to talk about the
+
+food
+
+crisis and in particular the importance of plant-soil interaction. So a lot of
+
+this will concern the importance of soil, what we use the soil for and why it's
+
+important that we look after that interaction. So these are the focus areas
+
+of today's lecture. We're going to be thinking about this in
+
+relation to the Sustainable Development Goal Zero Hunger. We'll talk about the
+
+major agriculturally driven sustainability issues. We'll also talk
+
+about the underpinning mechanisms that lead to soil degradation, which is one of
+
+the major issues we'll talk about today. We'll talk about some of the
+
+approaches to mitigate those issues and then we'll also talk about how plants
+
+get
+
+resources. Some of that will relate back to last week's lecture and also about
+
+the importance of partnerships between, in this case, bacteria and fungi with
+
+those plants that we rely on. So just as a refresher, this is the
+
+Sustainable Development Goal around zero hunger and the challenge is that we
+
+need
+
+more food with a growing population but we need to use fewer resources. We also
+
+need to reduce our environmental impact of growing and distributing this food.
+
+We could do with finding new ways to grow food and extracting plant growth
+
+limiting resources. So again that links back to last week's lecture around
+
+fertilizers and we need to ensure that our farming systems are resilient in a
+
+changing world where we might have increased pests and so forth. And the
+
+status as of last year of this particular goal is in regression. So this
+
+is a very active problem that we're not really able to solve just yet and much
+
+of that, like all of these Sustainable Development Goals, is anchored in this
+
+idea that we have this increase in global population. We're currently at 8.2
+
+billion and it's estimated that in 2100, 2100 will be at 10 billion, 10.9
+
+billion.
+
+So we still have this growing population and that is in spite of the fact that
+
+world population growth rates are limiting quite a lot. So the agri
+
+revolution goes back a long way actually, thousands, tens of thousands of years
+
+ago
+
+where man started domesticating animals and growing crops and then much more
+
+recently this idea that you can make your own synthetic fertilizer and you
+
+can automate a lot of that agricultural process using things like tractors.
+
+There have been more policy incentives that have influenced the way that farming
+
+is done and there are some modern tools that we're not really going to talk
+
+about too much but ways that you can use technology, sensors, to monitor
+
+nutrients
+
+in the soil, things like that. All of these have played a role in what we call
+
+this agri revolution and it might suggest the direction of travel for the
+
+years to come. So that you might recognize this pie chart, this was in
+
+our lecture last week and all of what we're talking about today relies on
+
+having healthy, well-maintained soils and soils and although they have a
+
+geological component and they have minerals and organic matter in them and
+
+they are very much alive so they contain water and we can classify these but
+
+there are thousands of different forms of carbon and other critical elements
+
+and if you can see these images of the soils these are different types of soils.
+
+You don't need to worry about what they are but it's just to illustrate that
+
+soils don't all look the same, they're not characterized by the same
+
+characteristics, some have lots of iron in so you can see that orangey one, some
+
+have a very high loading of organic carbon, some are very limited and so
+
+forth. So not all soils are created equally but we need to look after them
+
+because soils are universally important for this zero hunger sustainable
+
+development goal and in fact if we don't treat our soil well it's not just that
+
+we might not get good food. There's this nice quote from Franklin Roosevelt, the
+
+nation that destroys its soil destroys itself and this is a really good quote
+
+to go alongside the dust bowl issue that the US experienced in the 1930s and you
+
+can see that in this image here, don't know whether you can see my cursor, and
+
+the soils eroded to such a degree that they were no longer useful for farming
+
+but worse than that they have these huge dust storms which displaced a huge
+
+number
+
+of people, lots of people died and the famous book that John Steinbeck wrote
+
+The Grapes of Wrath was written set in this time and it's a very harrowing
+
+account of how the human story of that was displacement and suffering, human
+
+suffering. But it's not just in the past, I mean that's coming on for a hundred
+
+years ago now, we see quite often recent news that talks about the issues of
+
+land
+
+degradation, this post-apocalyptic book, Collapse, is partly based on the fact
+
+that soils were not looked after and that caused the demise of civilization so
+
+it sounds quite scary but it's to demonstrate how important it really is so
+
+we don't want history to repeat itself, we need to look after them and knowing
+
+that they're important for the for the existence and health of our of our
+
+planet is key to that. So in the UK there have been some changes that are
+
+politically driven so we are now no longer part of the European Union and
+
+that has incentivized, there have been some incentivizing schemes to enhance
+
+ecosystem services, for example farmers are now incentivized to enhance soil
+
+carbon stocks, improve air and water quality and look for ways to reduce
+
+flooding and greenhouse gas emissions. This is still quite early days but it's
+
+a sign of how policy has got a really linked role in it being able to achieve
+
+some of these things regardless of whether they are you know founded in
+
+environmental science or not. So the two issues that we're going to really talk
+
+about today are the issue of soil degradation and the issue of greenhouse
+
+gas emissions and the ones that we focus on here it's not just CO2 it's
+
+methane and it's also nitrous oxide, N2O. So to get straight into our first
+
+issue
+
+of soil degradation, so what is soil degradation? So as we've talked about
+
+soils are complex and they can be degraded in many ways so it depends a bit
+
+on how you look at it but the working definition that most farmers use is
+
+degradation being a reduction in the ability of soil to produce crops or
+
+support livestock. Okay so that's the key to agriculture you're either growing
+
+crops in soils or you're grazing livestock on those soils. So the
+
+degradation therefore is a change usually for the worse in key soil
+
+properties. So the very act of agriculture of grazing and harvesting
+
+plants removes those essential elements acquired by plants from the soil. So
+
+that's the key three and we'll come back to these key three in nitrogen,
+
+potassium and phosphorus. So how do we think about replacing these nutrients
+
+when they use? They're not a renewable resource in the soil. Biomass is often
+
+removed as well so biomass being the organic matter in the soil and it
+
+confers lots of benefits including the ability to retain water, the ability to
+
+support biological activity and it supplies nutrients directly as well.
+
+Another contributor to degradation of soils is working the land with machines
+
+or tillage which can can detrimentally affect physical properties of
+
+the soil and then in the worst case you get erosion which is complete loss of
+
+the soil so the soil is just being wholesale removed from that environment.
+
+So it's got lots of different scales of degradation here but these are the key
+
+properties that this degradation refers to so it's important to become familiar
+
+with those. So here's an example in the US you've got different tillage or
+
+different land management practices having different impacts on the soil. So
+
+on the left you'll see tomatoes grown using a so-called non till farming
+
+system so you're not using machinery to dig to dig ruts in the ground and plant
+
+your crops compared to what a conventional till farming system would
+
+look like and this is an attempt to reduce some of the destruction or some
+
+of the negative impacts of tillage on farmland. In arable fields these are the
+
+fields that we use to grow crops and soil quality declines from the
+
+hedgerow or beyond the hedgerow all the way into the middle so you can see here
+
+some very nice work done by some colleagues who are now at Manchester
+
+showing wheat grown in soil taken from arable lands along a transect from the
+
+wood to the hedgerow to the grassy strip into the arable area and then further
+
+into that arable area there's no added fertilizer here so what this is really
+
+testing is the ability for wheat to grow in the soil as you find it at those
+
+different parts of that transect and you can see really clearly through this
+
+image it's very visually striking that the higher the growth the better the
+
+growth of that crop which suggests or indicates that there's more nutrients
+
+there so in other words we get that soil quality declining it's less able to
+
+support healthy wheat growth as you go from that wood all the way into the
+
+middle of that arable field and this is yeah this is how they look from the top
+
+you also see a decrease in organic carbon as you go across that transect
+
+and an increase in bulk density so these are fundamental
+
+properties that impact on how the soil can support growth of plants and there's
+
+a nice perspective here which looks at grassland degradation which
+
+is a global perspective and this is authored by some former academics in the
+
+department but it looks at grasslands as a particular biome in different parts
+
+of
+
+the planet so that's a nice one also to get a
+
+you wanted to familiarize yourself with that okay so we know that soil
+
+degradation is a real problem it can sometimes get all the way to soil
+
+erosion which is the worst of those problems what about solutions so strip
+
+cropping is one idea this is this is an old picture as you can tell it's a black
+
+and white or maybe even a sepia image and this is Hugh Hammond Bennett
+
+inspecting strips strip cropping in the Coon Creek watershed which is the
+
+nation's first watershed demonstration project so basically you're doing it in
+
+strips that you're not using the entirety of your land and you can also
+
+do it according to the contours of your land so it's a similar idea here contour
+
+stripping strip cropping so strip cropping IE you're growing in these
+
+strips and you're using the natural contours of the land and then here you
+
+can see an up-to-date version of that where that's occurring so this is a
+
+watershed which is very large 92,000 acres and it's a conservation plan in
+
+this case and this is in fact the same place so you can see here the first
+
+demonstration of that and then this is how it looks today so this this approach
+
+to maintaining soil health has been in use for a very long time 70 years so
+
+this could be considered one one kind of landscape scale approach to combating
+
+degradation there are other approaches for example having trees making sure
+
+your trees can provide that stability of your soil these ditches they're able to
+
+conserve water so that you can retain that degree of hydration to your crops
+
+using terraces that create level ground and cover crops this is a really
+
+interesting one so it's a way of planting other crops to reinvigorate
+
+that soil with nutrients this looks like clover here which is a good way to
+
+introduce nitrogen into your soils they're not the crops that we harvest
+
+for food but they help keep that crop healthy using mulch which stops splash
+
+erosion so that erosion from the surface as a result of heavy rainfall and it
+
+can
+
+keep that soil moist so it retains that moisture in the soil and it also does
+
+the added benefit of adding organic carbon to that soil as well and then
+
+using grass along the edges it's to help keep that terrace strong if you're
+
+going
+
+to be growing in terraces and so so there's lots of different approaches
+
+that when used together can transform that image of how you can farm to
+
+retain soil health okay and the second major issue is greenhouse gas emissions
+
+so globally agriculture contributes 25% of all greenhouse gas emissions from
+
+human activity I've seen other numbers and you will see other numbers but the
+
+point here is that it's a substantial contribution to greenhouse gases and
+
+they they occur at various stages of production including the direct loss of
+
+so in fact ruminants such as cows and sheep are a major source of methane they
+
+burp that methane out it can come straight from the soils it can be the
+
+storage of effluent that can give off gases but also just the transport of
+
+those crops that transport itself produces greenhouse gases and there is a
+
+huge variability in emissions depending on the agricultural practice and
+
+so it's always an emitter but to what extent depends a lot on on what scale of
+
+agriculture we're looking at and where in the world you're looking but there
+
+are some soil management approaches that can be really key to making sure this
+
+is
+
+minimized so you can you can for example hone in on some of these greenhouse
+
+gases that are solely derived from soil or mainly derived from soil such as
+
+so nitrous oxide by sector this is a global view from up to 2010 so the point
+
+here is there's a trend that's increasing and agriculture is this
+
+green band here and some of that agriculture will then feed into some of
+
+these other uses as well so transport for example and waste the agriculture is
+
+a huge emitter of N2O so why is it mainly from the soil well it it's linked
+
+to this nitrogen cycle which is a part of the soil functioning that is governed
+
+by microorganisms so you can see here the process of nitrification by certain
+
+microorganisms such as those pictured here these could be nitrosomonas or
+
+and they are able to convert ammonium into nitrates and it's the nitrates
+
+that are then most useful for other plants and other organisms in that soil
+
+and the main controls on this process are the substrates of the quality of
+
+that soil what it's made of how it can inhabit that soil oxygen water and
+
+so some quite basic environmental conditions that influence the ability of
+
+microbial communities in that soil to turn ammonium into a useful form of
+
+nitrate but there is a hole in the pipe when it comes to this nitrogen cycling
+
+in the soil so here we see this schematic where there's the atmosphere
+
+here and you can see this soil layer here and here's the aqueous phase so you
+
+can think of this as the water table and you have this nitrogen mineralization
+
+into ammonium but then gradually this can go all the way to nitrogen it can
+
+go the other way as well but there is a release of nitrous oxide here and that
+
+gets exchanged from this process in the aqueous phase where it's mediated by
+
+these bacteria into that gaseous phase where it can diffuse out into the
+
+atmosphere so this is that leaky pipe but it both can be released and retained
+
+the important thing to flag at this point so here you go here's a slightly
+
+different number this is by sector 2023 so this is all global greenhouse gas
+
+emissions and this was putting agriculture at 11% contribution so it's
+
+not a small contribution at all and why is it important that we're talking about
+
+nitrous oxide if you look here we always think of carbon dioxide as the main
+
+culprit and in terms of the contribution to the atmosphere it is but in terms of
+
+its strength as a greenhouse gas it's the lesser of three so we have here
+
+methane which is equivalent to 28 molecules of co2 for every one molecule
+
+of methane but nitrous oxide is equivalent to 265 molecules of co2 in
+
+other words it's a very potent greenhouse gas much more so than co2 and
+
+methane they are still all very important but it's worth putting that in
+
+perspective when we think about the impact that will have and you can see
+
+here you know the contribution of greenhouse gases as a pie chart so 82%
+
+of these greenhouse gases globally are co2 but if you think of the 6% that
+
+nitrous oxide represents and how potent that is that puts into perspective why
+
+it's important sometimes to focus on these smaller contributors in terms of
+
+volume okay so nitrate reduction is a very important process as part of this
+
+nitrogen cycling it's an anaerobic or near aerobic anaerobic process and a
+
+large diversity of microorganisms can do this so this is a way that
+
+microorganisms can gain energy they turn nitrate into nitrite and then all
+
+the way into nitrogen gas which can then be returned back into the
+
+atmosphere this is a high energy yielding metabolism which makes it a
+
+very efficient way for microorganisms to generate energy and it's a really key
+
+part of that nitrogen cycle in the soil because it will influence what sources
+
+of nitrogen are available so this is these are the multi-step processes that
+
+release the gases in the nitrogen cycle so we have firstly this conversion of
+
+nitrate here using the NAR the nitrate reduction gene using also iron and
+
+molybdenum in those enzymes as catalysts and that produces nitrite so a slightly
+
+more reducing form then this nitrite with the help of this nitrite reductase
+
+gene which contains iron produces NO which can nitric oxide which can then
+
+be turned into nitrous oxide and this nitrous oxide could either be released
+
+as it is or then further reduced into nitrogen gas and this is using the
+
+nitrous oxide reductase gene so these are all steps mediated by microbes but
+
+if you don't allow this fourth step to happen that's where you have your your
+
+source of nitrous oxide into the atmosphere from the soil whereas
+
+nitrogen is harmless it's an inert gas it's the majority of what our atmosphere
+
+is made of and it's certainly not a greenhouse gas so this is central to the
+
+of availability of nitrogen in the soil the plants and other organisms so when
+
+we look at nitrate reduction which is the first of those steps these are the
+
+key environmental controls have temperature soil moisture soil redox so
+
+redox is short for reduction oxidation so it's essentially the degree to which
+
+that environment is aerobic oxygenated or not which influences which of those
+
+reactions will happen it's also influenced by substrate availability so
+
+for example if you have low carbon or nitrate availability it suppresses
+
+denitrification whereas if you have high nitrate concentration it's more likely
+
+to favor that reaction and importantly high labile which means available highly
+
+carbon favors the production of nitrous oxide rather than nitrogen so that's
+
+really key so even though you think having high levels of organic carbon
+
+would be a good thing it's a good source of nutrients for that plant crop that
+
+you're growing for example it has that caveat that it it favors that production
+
+of nitrous oxide and then here we have pH so a low pH or an acidic environment
+
+suppresses the denitrification enzyme activity and it inhibits complete
+
+denitrification to N2 so in other words acidic soils can favor production of
+
+more nitrous oxide so you can then see how it's important that the context of
+
+your soil is key to whether it's large emitter or not so if you think back to
+
+incentivizing farmers of how they can minimize the release of greenhouse gas
+
+this is where it kind of becomes important you can start managing your
+
+soil so that it favors the production of nitrogen and not nitrous oxide so this
+
+is showing the effects of soil moisture on nitrification denitrification and
+
+nitrogen gas flux so you can see here your nitrous oxide which is the
+
+greenhouse gas and we're increasing our water content in our soils from from
+
+0 to 100% here and the production of nitrogen is favored when the soil
+
+moisture is above around 70% so you have a net flux of nitrogen instead of
+
+nitrous oxide so here's a good example of how you know keeping your water well
+
+irrigated is another way of keeping your soil well irrigated rather is another
+
+way that you can help manage greenhouse gas emissions so clearly understanding
+
+how plants respond to nutrients how they acquire nutrients will help us
+
+devise sustainable crop and forestry management strategies so this is all
+
+about having control over that system and these are all the different
+
+sustainable development sustainable development goals that rely on having
+
+healthy soil this is a nice way of just illustrating how important this soil is
+
+not just to the zero hunger goal but but no poverty you know if you can support
+
+agriculture and forestry animal husbandry and development you're
+
+enabling and society to benefit financially and lift them out of poverty
+
+also leads to good health and well-being it's implicated in clean water and
+
+sanitation affordable clean energy it's a precursor to bioenergy in many cases
+
+but it also influences what climate action because we've seen already how
+
+nitrous oxide is a greenhouse gas it influences life on land directly and it
+
+also encourages responsible consumption and production so it's essential that we
+
+can understand those factors that help us keep the soil healthy in order that
+
+we can grow productive crops with a few with the least environmental impact as
+
+possible so with that in mind we're going to move on to looking at nutrient
+
+and fertilizer use and so-called natural nutrient cycling processes okay so this
+
+is our second issue about getting mint getting resources from soils so I've
+
+already alluded to this but this is the big three so these are the big three
+
+elements that plants need to grow so we're going to focus a lot now on
+
+nitrogen but they also need phosphorus and you heard about recovering phosphorus
+
+from from the earth last week and potassium as well and there are a whole
+
+load of other trace elements required like boron iron selenium and others
+
+these are often used for certain enzymes that that produce things like key key
+
+molecules for that organism to survive but the main three of these and this is
+
+designed to recreate basically and and if we think back to Bowlby where some of
+
+that fertilizer is mined from is potash or polyhalite that's exactly what is in
+
+these basically you have you have varying degrees of nitrogen phosphorus
+
+and potassium in one sort and so we're going to focus more on the nitrogen and
+
+continue that theme we've already seen how important that is for the greenhouse
+
+gas emissions but the important thing to point out here is that the humans
+
+have short-circuited this natural nutrient cycle in in the very act of
+
+making synthetic fertilizers so you can see here total fertilizer production by
+
+nutrient and this is a global view up to 2014 these are really nice graphics for
+
+the way you can you can find lots more at our world in data and there's another
+
+couple I'll show you in this and future lectures so this is showing in millions
+
+of tons and the the increase in production of nitrogen phosphate and
+
+potash fertilizers so potash is what is currently mined I think at Bowlby yep
+
+polyhalite and it used to be potash and now it's polyhalite yeah so the nitrogen
+
+fertilizer is by far the lion's share of that contribution of fertilizers so
+
+here's an example of why it's important so we can see here in this paper which
+
+was published in the Journal of Cereal Science about ten years ago that wheat
+
+yield which is this solid line here it does not respond linearly to nitrogen
+
+fertilizer addition in other words it's not as simple as you add X amount more
+
+and you get X amount more yield it's not quite as straightforward as that in
+
+fact
+
+it's it becomes the efficiency of its use is limiting over over the amount
+
+applied so it's it's almost diminishing returns the more you add does not
+
+increase yields and it actually detrimentally impacts on the ability or
+
+the efficiency of that use that's in the contact context of the fact that we
+
+have
+
+increased the yields of wheat over the last hundred years so this is the
+
+continuous line here this is since 1942 in the UK or Great Britain and so we're
+
+likely to continue this production with that increase in global population so we
+
+need to think carefully about how we can manage optimal growth of that wheat
+
+crop
+
+with nitrogen addition so understanding how plants have evolved to acquire
+
+nutrients could help develop more sustainable approaches to increase their
+
+yields so this is an indication of the larger scale nutrient cycling we've
+
+already seen that microbial nitrogen cycling but here now we're considering a
+
+plant in in its soil of different layers and you can see these roots here so the
+
+fluxes are linked to litter fall so this is this is leaves that fall on the
+
+ground and that returns nutrients back to that soil and the turnover of roots
+
+or plant microbe uptake so the uptake of those nutrients from that soil and it's
+
+contingent on the biochemistry of individual nutrients so how a plant
+
+recovers nitrogen components will be different to how it will recover things
+
+like phosphorus components and there are local exchanges and we're going to come
+
+back to this local exchanges between the plants the microbes in the soil so
+
+it's not just a factor of you need your soil and you grow your plant in it there
+
+are many other components in there that play a role but individual plants have
+
+large local effects on nutrient availability and soil conditions so the
+
+crop that you're growing will influence the availability of nutrients in the
+
+soil often nitrogen is the limiting factor and plant growth so if we look at
+
+the terrestrial nitrogen cycle the size of the pools and the rate that are
+
+trans that these pools are transformed varies a lot depending on where you find
+
+these pools so we can see here and this is the organic nitrogen pool here and
+
+it's usually very large in natural soils and you can see here you have the
+
+nitrogen from the atmosphere it gets fixed by a certain group of microbes and
+
+that contributes to that labile nitrogen pool and it all gets cycled
+
+around and round and round but the size of these arrows will change depending on
+
+the context of that soil so the distribution of nitrogen in soil like
+
+many factors is heterogeneous when you look across large and small scales so
+
+you can see here a really nice global map from from this paper from a few
+
+years ago which shows you this total nitrogen content of soils and you can
+
+see some are very high some are really very low and it affects it's affected by
+
+where in the world the kind of biome you're looking at so we've got hyper
+
+arid which you'd expect to see around about here you see these lower levels of
+
+nitrogen you get arid environments semi-arid dry dry and humid and as that
+
+water content increases implied by those different environmental factors you get
+
+increase in soil nitrogen content and therefore the total stock of nitrogen in
+
+those soils is different depending on where latitudinally you find them so
+
+this is about how plants acquire the nutrients from soil to grow and we see
+
+here what's happening at the root level so we've got this main root here you've
+
+got this outside environment we have water there's also air there if you
+
+remember that pie chart that we saw at the beginning the composition of soils
+
+this is how it looks in space so you've got other components of the soil that
+
+are alive like bacteria and fungi you've got clay particles dead organic matter
+
+you might have larger animals like worms and and all of this plays a role in
+
+being able to recover the nutrients needed so you would think from that that
+
+only requiring these nutrients with their roots alone in fact most plants
+
+rely on symbiosis with fungi and bacteria or both to recover their
+
+nutrients this is really key and this is going to be what we talk about for the
+
+rest of the lecture but I'm just wondering if we want a quick break now
+
+just while we're at that sort of natural point so keep this in mind we're going
+
+to revisit this in in five minutes okay and we'll then continue with learning
+
+about fungi thank you yeah okay guys we're gonna get cracking that's been a
+
+nice five minute break for you we'll have another little break in between the
+
+end of this lecture in the paper of the week okay should we get started again
+
+thank you guys I know soil is really exciting so we're going to talk now
+
+about mycorrhizal interactions okay let me just check I've got everyone's
+
+attention this is important okay good thank you so as we've seen from this
+
+image it looks as though the plant root just pulls all the nutrients it requires
+
+from that environment around the root on its own in fact there's been this close
+
+association that's evolved over a very long period of time between fungi and
+
+bacteria and the plants in the grounds that helps maximize that nutrient uptake
+
+or it certainly impacts on the ability to uptake nutrients and that's what
+
+we're going to talk about now so most plants don't simply just have roots they
+
+have what we call mycorrhizas which are the result of a fungus or fungi that
+
+and this is an example of a mutually beneficial symbiosis okay so sometimes
+
+you think of colonizing things as being parasitic or some kind of disease and
+
+sometimes they are but there are many examples in nature where these these
+
+associations can be mutually beneficial or what we what we term as symbiotic so
+
+symbiosis of the fungi and the plants is really key to maximizing recovery of
+
+key
+
+nutrients and you can see what they look like here so actually in all of these
+
+cases these are not just roots these are roots with with fungi colonizing them
+
+so
+
+you can see in this example if you can see my cursor here you've got the bare
+
+root of the plant here and then you have the mycorrhizal fungi so they are
+
+covering the end of that root and they look different depending on which plant
+
+and fungi you're looking at but this is this is the norm for most plants in fact
+
+so the classic definition of mycorrhizal is a mutualistic association
+
+between plant roots and soil fungi so mutualistic implies that you get
+
+both parties benefit it's a mutual interaction and so it's based on the
+
+transfer of soil derived nutrients to the plant from the fungus and in return
+
+the sugars that the plant turns co2 into get transferred back to that fungal
+
+colonizer so in other words the fungi help the plant get the nutrients it needs
+
+from the soil and the plant returns that favor by giving them energy in the form
+
+of photosynthesize or sugars made from photosynthesis and over 90% of all land
+
+plants that we know so far form these relationships with mycorrhizal fungi so
+
+this is the hidden interactions that go on in the soil that occur for the
+
+majority of plants so a certain type of mycorrhizal fungi are particularly
+
+important for crop growth and these are the arbuscular mycorrhizal fungi and you
+
+can see their arbuscular it's the name of these arbuscles here and they look
+
+different depending on what what organism they're being produced by so
+
+this is an arbuscle being produced within the root the root cells or the
+
+plant cells and this is the fungal hyphae here whereas here you can get you
+
+see the the plant cells you see the arbuscles that the fungus makes and these
+
+are the hyphae or the the main parts of that network of fungus and this is how
+
+they look at a slightly bigger scale and these affect most plants just in
+
+natural
+
+meadows but also key crops so you've got here wheat and beans another form of
+
+mycorrhizal fungi is ectomycorrhizal fungi and these produce a fruiting body
+
+so you would see these as mushrooms or toadstools in the forest or the woods in
+
+fact they are just the thing that produces the spores to reproduce the
+
+actual network is closely associated with the roots of a certain plant so this
+
+is how extensive that network actually might look in the subsurface so you can
+
+see the primary roots are this sort of orangey color this looks like maybe some
+
+kind of pine and then this very expansive white mycelial growth of the
+
+fungus and you can just see how much more coverage that fungus allows that
+
+plant by being an association this is what the tips look like if the
+
+ectomycorrhizal
+
+so the host plants for ectomycorrhizal fungi only represent
+
+about three percent of land flora which is around 8,000 species spanning a
+
+hundred
+
+different genera and these are predominantly woody perennial plants so
+
+really important for boreal north temperate forests and dip taro carps in
+
+Southeast Asia and I'm not sure exactly what these are but I think they're
+
+mangroves something like that but the point is there's there's not a huge
+
+proportion of plants that are affected by these in terms of all plants on the
+
+planet but they they therefore impact very large areas of our planet so
+
+boreal and northern temperate forests cover a huge amount of landmass
+
+particularly in the in the northern parts of our planet so these are the
+
+ones that are likely to have those ectomycorrhizal hosts and fungi
+
+colonizing them and these are sometimes what give rise to those toadstools and
+
+mushrooms so every time you look in in woods nearby here or in forests and you
+
+see these mushrooms you now should think about that huge network of mycelia and
+
+the associations that's likely to have with plants nearby for example oak
+
+trees or beech trees these are really closely associated here are some
+
+examples they can be small plants like the dwarf willow which is only a few
+
+centimeters high or they can be hundreds of meters high and both in both cases
+
+these are fueled i.e. their nutrients are being recovered with the help of tiny
+
+mycorrhizal root tips so these root tips here are responsible for providing both
+
+this small and this very large plant nutrients it needs to grow so like many
+
+fungi and I've referred to these already mycorrhizal fungi produce these fine
+
+filaments called hyphae that's the plural it's hyphus if it's singular but
+
+hyphae is
+
+the collective name for the web of of those mycelium so the mycelium sorry is
+
+the collective name for the hyphae so that mycelial network is is is made up
+
+of these filaments called hyphae and in a single teaspoon of soil you might have
+
+one gram of soil there that represents 10 to 100 meters of fungal hyphae so you
+
+might not be aware of them but they are everywhere in our soils and you can see
+
+them just about here so what might look like plant roots could actually be
+
+fungal roots so plants with mycorrhizas usually grow more so you can see here
+
+images of the same plant grown with on the right and without mycorrhizae and you
+
+can see these mycorrhizal networks dominating more of this soil in this
+
+image and the absence of them here so this is just relying on the plant roots
+
+and simply this is because as we've established already these mycorrhizas
+
+allow more nutrients to flow from the soil to the plant and you can see that
+
+it's healthier happier bigger grows better so in fact there's evidence that
+
+these hyphae forage nutrients far beyond the reach of the roots so not only do
+
+they extend the reach in depth they also extend the reach laterally so this is
+
+really amazing because it basically means you can have a root network of a
+
+plant that extends for two meters but your hyphae network could extend it by
+
+double that and this is a really nice piece of research that demonstrates that
+
+so the distance from the root and these meshes are there to control whether
+
+these hyphae networks can reach or not and with these hyphae networks you can
+
+get much further away from that root root nexus so when you have mycorrhizal
+
+hyphae you can see things like the concentration of inorganic phosphorus
+
+reduced so these fungi are acquiring the nutrients and transferring some of it
+
+to
+
+the host plant obviously the fungus itself needs these essential nutrients as
+
+well but different fungals fungi have different effects on those on those
+
+different plants and exactly what efficiency they can recover these
+
+nutrients in so this challenges that dogma of inorganic nutrient use by
+
+plants so this dogma assumes that you have this big pool of nutrients which is
+
+purely chemical and very variable and that then gets transferred into a form
+
+that it can uptake by its roots via a series of free-living microbes and
+
+into a smaller pool but this is then directly accessible to that plant rate
+
+but in fact when plants are aided by mycorrhizal fungi they can take up simple
+
+organic forms directly or without the need of free-living organisms so this is
+
+what we always thought happened whereas you know life evolution tends to find
+
+very clever ways round obstacles and this is one such example so here you can
+
+see the amino acid glycine and this is an example of the direct uptake of simple
+
+organic nitrogen forms with these mycorrhizal and so you can basically
+
+make this so that you can label the elements in it in this case this has an
+
+isotope of nitrogen and an isotope of carbon that are not naturally occurring
+
+which allows you to trace the transfer of that organic compound from its source
+
+to its sink so this is what we would describe as dual labeled because two
+
+parts of that compound have been have been labeled so you can independently
+
+track what happens to the nitrogen as well as the carbon but the ratio
+
+between the carbon and nitrogen across this compound is consistent this is a
+
+really nice paper it's linked to here so then you can analyze the leaves to
+
+measure the amount of carbon-13 and nitrogen-15 that is present there and
+
+that gives you a quantification of how much uptake there has been so we can see
+
+here a constant ratio of C to N which shows the molecule remain intact so it's
+
+not actually being broken down via that living component in the soil it's being
+
+directly uptaken and so this is where it was inputted in the soil and then you
+
+measure it in the leaves and you can see that just like we've seen in that in
+
+here
+
+you can directly take that up and glycine is one of those essential amino
+
+acids that then can be used to build proteins rather than being broken down
+
+and then made available again so this is how you can visualize that this is the
+
+organic nitrogen molecule in an amino acid transferred by an ectomycorrhizal
+
+fungus in this case Paxilis involutus which is colonizing a Scott's pine
+
+seedling this is a very cute version of a much bigger tree that we usually see
+
+in in evergreen forests so you can see here and this is the labeled stuff here
+
+and you can see it being transferred to the root but the roots of the of the
+
+sapling itself or the seedling do not extend to that stock in other words this
+
+is the work of this ectomycorrhizal fungus so what controls the movement in
+
+complex networks so this is the natural or semi natural ecosystem with the
+
+nitrogen cycle being shown as highly conserved and closed so you can you can
+
+completely close that cycle you have that nitrogen draw down from the
+
+atmosphere we've already seen this nitrogen cycling from the microorganisms
+
+and other fauna then we have this highly labeled version that gets produced from
+
+this ectomycorrhizal so they play a really key role and you can see the
+
+thickness of the arrows not these red ones because they're just they're just
+
+an important process so it's a very important part of that cycle that
+
+closed cycle and this is so important because the number of crops that we rely
+
+on to feed our global population have evolved associations with mycorrhizal
+
+fungi so for example many of the cereal crops are grasses within the same family
+
+these include things like oats wheat barley millet rice corn sorghum I would
+
+bet that anyone who's eaten something today is probably in one or more of
+
+these already and and the the wild type versions or the naturally occurring
+
+versions are highly dependent on mycorrhizal fungi but and there is some
+
+evidence to suggest that as we've bred these to be more resilient or more
+
+productive the dependency or the associations with mycorrhizal fungi have
+
+been reduced not eliminated but certainly reduced and this is particularly
+
+important part of the carbon cycle the nitrogen fixation that we talked about
+
+already some plants are able to do that directly as part of them so you see here
+
+the legume family which is known now is the fabaceae family these include things
+
+like beans and legumes are basically your beans and your your other pulses I
+
+think and they're really key in a global diet as well these have these little
+
+modules here that are inhabited by nitrogen fixing bacteria and they can
+
+directly fix that nitrogen from the atmosphere rather than relying on a food
+
+web to supply that nitrogen so it's a very large diverse family of plants
+
+spanning about 20,000 species it includes tree shrubs herbaceous perennials
+
+and annuals I mean a good example of this is clover so if you it's quite
+
+trendy at the moment to plant a clover lawn because it's quite low maintenance
+
+and one big reason it's low maintenance is because it has these nodules and it
+
+can produce its own nitrate in nitrogen sources from directly from the
+
+atmosphere so this is this association with the specialized bacteria that have
+
+the capacity to fix nitrogen from the atmosphere remember how that nitrogen
+
+although it's quite inert is the majority of our atmosphere is made up of
+
+nitrogen so there's there's no shortage of supply as long as you've got a
+
+mechanism to convert that atmospheric nitrogen into a label form of of nitrogen
+
+nitrogen so here are your legumes you've got the beans peas lentils soybeans
+
+chickpea mung bean broad bean peanut so you can see just how diverse those
+
+legumes are to the global diet these are vital for human health and nutrition
+
+they tend to be quite high in protein as a food as a non-animal food and and and
+
+they form the bacteria form those nodules on the roots they also form
+
+mycorrhizas but the symbiosis and nothing to do with this nitrogen
+
+fixation so this is another example of a plant association with another group of
+
+it's they can have both but in this case the specific role is purely to get that
+
+nitrogen fixed and supplied to that plant so this is the nitrogen fixation
+
+step it's a hugely important step you could consider this as an ecosystem
+
+service and we're going to come back to ecosystem function later on in one of my
+
+later lectures but in any in any community or system that you look at
+
+which is alive you need to have this step otherwise that nitrogen will end up
+
+limiting process that relies exclusively on what stocks you have either through
+
+fertilizer or through other sources so this is a reaction that turns nitrogen
+
+from the atmosphere into ammonium or ammonia and it's catalyzed by the enzyme
+
+nitrogenase so enzymes always catalyze reactions there's what type of protein
+
+that allows a reaction to be faster more efficient than without wherever there's
+
+or benefit to be had life is usually found a way to develop an enzyme that can
+
+do it and in this case the enzyme is nitrogenase so that the enzymes usually
+
+have a name that indicates what the function is and there's an ace at the
+
+end of it so in this case it's a nitrogenase which tells us already it's
+
+an enzyme because of that that suffix at the end and and these are a really
+
+diverse group of organisms so you can see here they span the alpha proteo
+
+bacterial domain and the beta proteo bacteria and these are just some of the
+
+examples of the bacteria that fulfill that role and some of them are named for
+
+that so rhizobium they're found in the rhizome amino bacta okay and this is how
+
+they look so these are the nodules that they form and associated with the roots
+
+these are all different scales but you can see down here a close-up image of
+
+the bacteria fact these are some of the earliest forms of bacteria studied
+
+because they were seen to play such an important role so in a global sense this
+
+natural or biological nitrogen fixation is is very significant so we can see
+
+here the non biological ways of fixing nitrogen we have industrial or
+
+combustion or even lightning lightning is an important route to fix nitrogen
+
+from the atmosphere and collectively it accounts for about what's that 80 10 to
+
+the 12 grams per year or gigatons is it trying to figure out what that metric is
+
+a lot it's a very large number and this is a global level but when you compare
+
+that to the biological sources you can see that includes agricultural land
+
+which we've talked a lot about today forest and non agricultural land so
+
+those natural biomes that cover such a large part of our landmass and the sea
+
+collectively I mean even agricultural land alone contributes more than the
+
+sum of the non biological sources of nitrogen fixation and collectively it's
+
+it's more than double so this is a significant source of fixed nitrogen
+
+but some plants that we rely on for our food do not have associations with
+
+either
+
+mycorrhizal fungi or bacteria so they have to they require a little bit more
+
+so here you can see things like cabbage sprouts spinach you might not like them
+
+all but they are an important source of nutrition for our society so how can
+
+these plants compete against plants that have highly evolved root fungal or root
+
+bacterial symbiosis how do they compete for example with the beans that have got
+
+their nitrogen fixes in the nodules or or wheat that have those mycorrhizal
+
+fungi so I mean the answer to this is we have to add them right if we want to
+
+grow these things efficiently and they haven't got that natural affinity with
+
+that symbiosis to pull all those nutrients out the out the soil then we
+
+have to give it to them and that is one major reason why fertilizer use has
+
+become such an important part of our agricultural revolution okay so this is
+
+the last slide from the from the lecture itself and the key messages I hope that
+
+you've learned from this are that plants need to acquire resources notably the
+
+nutrients water and energy the nutrients we discussed mainly with a big three
+
+which is potassium nitrogen and phosphorus but we focused a lot on
+
+nitrogen because it's often a limiting nutrient and they interact with a large
+
+variety of different soil microorganisms which are either bacteria or fungi or
+
+both and these are essential for many plants to be able to require those
+
+resources not just from the soil but from the atmosphere and if we think
+
+about atmosphere then you're thinking nitrogen fixation so can we harness the
+
+power of evolution to develop crop varieties or cropping systems that
+
+exploit this natural mechanism you could think of this is like a quest to find
+
+nature-based solutions how do we harness the power of nature to do more of what
+
+we need in a less natural way which almost always comes with a more
+
+sustainable solution less environmental impact so with that in mind we're going
+
+to move on to paper of the week which is now a blackboard apologies it wasn't
+
+there before this morning we're going to have a short five-minute break while
+
+you
+
+get that paper in front of you and just refresh ourselves a little bit and and
+
+it's here including some of the you can't find it on blackboard then you
+
+have to find it on Google Scholar with this okay so this is a very relevant
+
+part of this second part of the lecture looking at Michael Reisel okay so have
+
+five minutes to gather the paper gather your thoughts and then we'll go we'll go
+
+on to the paper itself and there's a seats code that I will get for you
+
+during this five minutes break okay here is the seats QR code I'll put it up
+
+again at the end if you if you struggle to get it registered now okay does
+
+everyone have access to the publication of the week because you will need that
+
+after we've gone through some parts of it together so if you haven't already
+
+found it yourself there is it's alongside the lecture in your folder on
+
+blackboard for this week okay another two minutes of seats code and then we'll
+
+move on it's good to see so many of you here today hopefully we can keep these
+
+numbers up okay one more minute don't worry if you haven't got the code now I
+
+will put it back up at the end of the lecture okay so we're going to move on
+
+now we're going to we're going to go through some of this paper together and
+
+then you're going to have a look at some questions and have a discussion and
+
+have
+
+a think about it okay guys everyone's settled got what you need the code will
+
+be up again at the end if you haven't got it yet okay so we're going to go
+
+through some of the key parts of this paper together as you can I mean the
+
+title is already quite telling the title is in fact a statement which is what
+
+good papers tend to do they tell you what the paper is telling you with the
+
+with the story unfolds in the title itself and it also suggests the way
+
+they've done this as well so this is about our buskular mycorrhizal fungi and
+
+if you remember back to those slides our buskular mycorrhizae are the ones that
+
+are most important for our crops and indeed this is looking at grain yields
+
+and it's and it's suggesting it's a meta analysis this meta analysis can be
+
+thought of is like an analysis of other people's analysis so in this case and
+
+it's about finding papers that primary research sources that have been published
+
+already that you can draw upon to make a bigger conclusion about a particular
+
+subject by assessing it all together so it's a very large-scale increasingly
+
+popular approach to doing research now that we have so much data out there it's
+
+the method that my group uses a lot and the point of it is that you can then
+
+maximize on the insights gained from all those individual studies in a unified
+
+way and and try and find something that's greater than the sum of its parts
+
+so this paper is a few years old now but it it's a really nice demonstration of
+
+that meta analysis approach and the whole question underpinning this this
+
+piece of research is whether we can use we can add mycorrhizal fungi to increase
+
+crop production so these are examples of the field trials and you can see down
+
+here there's a separator here and on the left there are two rows of crops
+
+without
+
+our buskular mycorrhizal fungi and two rows here where you have added
+
+which suggests that you can increase those crop yields but I guess a single
+
+example of that is not a conclusive or generalizable rule that you can apply at
+
+the global scale so that's what this meta analysis looks like so what is a
+
+mycorrhizal fungal inoculum it sounds dreadful but inoculum just means
+
+something you add to a system that's alive okay so these come in many forms
+
+psycho myco sounds pretty cool we've got root more these are all things that
+
+looks like you could find in a garden center so these are already available
+
+but just because something's available does not mean it necessarily works these
+
+indeed have no accreditation there is no formal system of accrediting these and
+
+so in other words they're not regulated and because they're not regulated they
+
+won't have a predictable composition if you think two examples that are
+
+regulated things like baby formula there's strictly regulated so you know
+
+that the variation between products would be would be very minimal whereas
+
+this it's a free-for-all okay so it's also a vague description about what it
+
+is and how it was produced I guess that's in the interest of the producer
+
+because they might not want to expose the fact that they're just chucking a
+
+give away their IP okay and some companies have more rigorous standards
+
+than others but because it's not regulated none of these companies are
+
+enforced to do that so the scientific trials can use inocular from specific
+
+organisms from reputable repositories so how you define that I'm not sure but
+
+for
+
+these our bus killer mycorrhizal fungi the main species used are for Nella
+
+also known as glomus moss mossier so the species name is the same mossier but as
+
+you'll find perhaps through your degree whenever we talk about taxonomy it
+
+changes a lot especially in the new era of genomics we are reorganizing where
+
+we place things on the tree of life so it's rather common now to find something
+
+you thought was named one thing changed to another thing okay so the way to do
+
+these trials then is to conduct an established experimental design so you
+
+know you want to be able to compare the results of your trials to the results of
+
+others that have followed the exact same methodology okay so there are some good
+
+reasons why mycorrhizal inoculation products are not widely used or some
+
+indirect reasons perhaps it's just that people don't know about them so the
+
+effectiveness is often context dependent you know the idea that you can add one
+
+thing regardless of the environment that you're in regardless of that soil
+
+moisture content for example and it will still produce the same result is
+
+clearly
+
+overly simplistic and probably the biggest problem or the biggest barrier is
+
+that fertilizers are a much more direct and efficient way of supplying nutrients
+
+to plants however as we've discussed in other ways fertilizer use is not ideal
+
+for the environment so these are a slightly more subtle way of getting
+
+those crops growing better but they're always going to have to compete with
+
+some crop varieties don't respond well to mycorrhizal inoculation perhaps this
+
+is because we're not adding the right mycorrhizal fungi perhaps it's just some
+
+are more responsive than others to that colonization in general and as we've
+
+talked about already when we've read these crops to be more of a certain way
+
+maybe for you know you think of wheat you can make it shorter we've read it to
+
+make it shorter so it's less likely to be damaged by winds that kind of
+
+breeding regime that we've subject all our crops to has also negatively
+
+impacted the ability to form mycorrhizal interactions as we've
+
+seen they're also expensive and because they're not regulated or widely used
+
+there's a lack of technical know-how okay so this paper then this is the
+
+metadata or meta analysis approach so you can see there's a nice map here and
+
+because I mean the trade-off with the meta study is that you're you have no
+
+control over any of the things that were done to that original study you're just
+
+taking the results and you have to find some way of making them parallelized so
+
+here we've got we've got whole data sets we've got field data sets and feel
+
+inoculation data data sets across these key crops and you can see they've been
+
+plotted on where they're from so we're looking at North America some of Europe
+
+some of Africa and across Middle East and Asia as well and then the crops all
+
+vary quite a lot so this is a really nice way of showing how much work has
+
+gone into gathering all these data sets so where we have these whole data sets
+
+we've got for example 168 studies most of which are in English but some are in
+
+Chinese so these could have been missed off any other meta study if the English
+
+language was just the first prerequisite so we've got a broad cast a wide net of
+
+pulling these studies in and there's a very large number of studies in total so
+
+this is actually a massive piece of work okay so the aims of the paper then
+
+which you should be able to read from the abstract good abstract should tell
+
+you what maybe in more of a concise way but should tell you what the point of
+
+the work is so this is testing whether adding this type of fungal inoculum has
+
+a consistent effect on grain yield so there's already precedent for adding it
+
+they've already shown that there's a there's an increased yield in some
+
+examples but is it a generalized rule that adding it will always help crop
+
+yield so by doing this meta analysis a whole load of other factors can be
+
+considered so they can test for relationships with a range of variables
+
+such as the experimental type fertilizer addition crop type photosynthetic
+
+strategies so some plants use a different variation of photosynthetic
+
+pathways than others so if you can gather all of that what we call metadata
+
+associated with each of these which is a massive part of that job of gathering
+
+all that information you can do all sorts of statistical analyses to
+
+understand what's influencing what so the key metric that they've distilled
+
+this information in is called the effect size which is simply derived from the
+
+difference between the control and the treated crops so it's either a plus or a
+
+minus and can be statistically tested to differ from zero so it's a very
+
+diagnostic way of assessing whether it's done what you're assessing it could do
+
+or not so has it made a difference yes or no and statistically how how
+
+important is that difference so they found by looking by pulling all of these
+
+studies together they found most trials demonstrated a positive effect on
+
+grain yield from adding these mycorrhizal fungi so there are some
+
+cases where it negatively affected grain yield which is very important to
+
+consider because it's not a given that it will that it won't do any harm so you
+
+can see these red lines here these are where it's negatively affected and yield
+
+here it's had a net neutral effect and here we've got nothing that's that goes
+
+below that line and we see a varying degree of benefit so I think that's a
+
+really good demonstration of why doing a meta study at that scale is important
+
+to
+
+be able to make a conclusive decisive outcome from that aim and they're here
+
+we see different effects of the experimental systems so impact of the
+
+type of study so these are all the different crops that are grown and
+
+whether they are field or lab and overall what the effect was so you can
+
+see the effect changes depending on what crop it is it'll be interesting to
+
+start thinking about why that might be and then here we have the impacts of the
+
+intervention okay so whether we've got just the inoculation of the of the
+
+mycorrhizal fungi compared with rotating crops so this is a way a very old way
+
+of
+
+of naturally trying to enhance crop yields through replenishing nutrients
+
+and then tillage which is which is the much more invasive way so we can see
+
+having that rich data set allows us to pull all those different factors out and
+
+start to understand a more granular cause and effect that's going on here so
+
+it's now over to you these are some of the questions you should start thinking
+
+about perhaps you can discuss them and we also had one for the mentimeter we're
+
+going to get you to think about all of these but then there is one that we want
+
+you to put some answers to on a mentimeter and we'll come around as well
+
+and discuss this with you so three obvious questions that I've already
+
+alluded to how do you explain the variation in yield across the different
+
+studies included in this study what circumstances or conditions might impact
+
+on whether mycorrhizal fungi are effective or not and this focus the
+
+focused on grain yields what what else could be considered I mean we it's a
+
+very narrow focus of determining whether this is right or not so have a think
+
+about what are the things and that you know not necessarily right or wrong
+
+answers here we're just trying to get you to familiarize yourself with the
+
+study and think a bit more about this so what aspects of it okay okay guys I can
+
+see many of you are getting ready to leave yeah you'll have to wait I'll put
+
+so just to sum up hopefully you've all got a bit familiar with that paper if
+
+you could hang around for a minute please okay there's some nice comments
+
+on the mentimeter it's good to see that you've been thinking a bit about those
+
+factors so the key take homes are about soil erosion greenhouse gas emissions
+
+interactions with other organisms in the soils okay you should be able to go
+
+back through those lectures that those lecture slides now and make a bit more
+
+sense of what we've we've discussed and that paper is a really nice example of
+
+how you can make good use of existing data sets to learn something more
+
+comprehensive about these questions so hopefully you've learned something there
+
+feel free to ask me any questions now if you've got any more I will put the
+
+seats
+
+so don't let that be one of your questions okay thanks guys and see you
+
+next week

@@ -1,0 +1,2403 @@
+'EART11200 - 01-Apr', automated transcript
+01/08/2026
+---
+
+OK, good afternoon, everyone.
+
+Welcome to the final class before Easter.
+
+This is actually the final lecture on our course,
+
+but the practicals will remain, because this is
+
+where we lock in the content.
+
+So the final topic of today is probably
+
+my favorite, which is machine learning and cluster analysis.
+
+So we're in week nine at the moment.
+
+It's obviously all data-driven, so we're
+
+at the end of the pandas and data discovery arm.
+
+And this also has an option for the assessment as well.
+
+And I'll talk about that again at the end,
+
+cover off any questions that have come
+
+through over the last few days.
+
+So I'm guessing most of you will have heard of machine learning.
+
+You particularly will have heard of AI,
+
+or artificial intelligence, for which machine learning
+
+is a subset of that whole space.
+
+So machine learning is really the engine room
+
+behind the decisions that an AI tool will make.
+
+And it's all driven by data.
+
+So again, we're dealing with numbers
+
+and recognizing patterns in numbers.
+
+And this is what machine learning is all about.
+
+One thing we did last week was use pandas
+
+in a statistical package to look at statistical distributions
+
+in our data, potential relationships.
+
+So we looked at correlation coefficients,
+
+and we looked at correlation between meteorological and air
+
+pollution data.
+
+You might have heard the phrase correlation
+
+doesn't infer causation, i.e. just because they're strongly
+
+correlated doesn't mean we can predict one from the other.
+
+But what we'll do today is to start
+
+looking at tools that can enable that,
+
+so to develop predictive techniques.
+
+So I'll talk a lot about models, but what I mean really
+
+is we're going to be using tools, again,
+
+that someone else has written, and we're
+
+going to fit that to the data that we have.
+
+And that's what machine learning is all about.
+
+You're fitting a framework to the data
+
+you have access to and telling that framework what
+
+you want from it.
+
+And we'll cover off some of those generic areas today.
+
+So the presentation, I think, really this lecture
+
+is going to be quite high level, because we
+
+could spend a whole course on machine learning.
+
+There are different families of algorithms
+
+driven by different applications.
+
+It's got a long history, obviously.
+
+So who's heard of deep learning?
+
+Have you heard of deep learning in the press
+
+when people talk about artificial intelligence?
+
+So really where this is coming from,
+
+if you go all the way back to the 50s,
+
+so obviously when Turing was talking about machines
+
+that could think, actually you go all the way back
+
+to Ada Lovelace, remember, a couple of hundred years
+
+ago, who was the first person to think that a computer could
+
+generate new things.
+
+So she's often touted as the world's first programmer.
+
+But really, this is what artificial intelligence
+
+is all about.
+
+So it's come a really long way from talking
+
+about the art of what's possible and actually showing that
+
+with technological developments.
+
+From the 80s onwards, people started
+
+playing with machine learning.
+
+So that's using computers to learn patterns
+
+and then repeat those patterns.
+
+It was really from 2000 onwards where this really accelerated
+
+because of the explosion in graphics cards.
+
+So it's funny that a lot of that was
+
+driven by computer gaming industry,
+
+but graphics cards, which most computers will have,
+
+so when you're sat on a desktop on campus,
+
+internally it will have a particular slot,
+
+a card that's sat there dealing with the graphics.
+
+Within that card, they have thousands of little processors.
+
+So when I talk about a CPU, which is a big processor
+
+on the motherboard in a computer,
+
+that has a number of cores, maybe typically around four
+
+to eight on a standard computer now.
+
+Each of those cores can do things separately,
+
+so you can put more and more things on a computer.
+
+Well, on a GPU, you might have 3,000 of those cores.
+
+Now, it's not the same technology,
+
+but what that means is you can do things in parallel at scale.
+
+And what machine learning is all about
+
+is to basically learn features and properties
+
+from your data and huge amounts of data.
+
+So GPUs really ballooned that development
+
+machine learning.
+
+And now you'll often hear reference to Nvidia
+
+creating their next generation of GPUs.
+
+The whole media circus recently around the DeepSeek
+
+release of their tools that showed you don't have to
+
+have access to huge amounts of these graphic cards
+
+to train an AI model.
+
+So it's really changing the ecosystem.
+
+But deep learning, you can think about it,
+
+we won't cover neural networks in this course,
+
+but a neural network which is replicating
+
+our thought pathways has collections of neurons
+
+in different stages, and a deep network has multiple layers
+
+rather than a shallow that just has one.
+
+Okay, so the more neurons you have,
+
+the more things you can learn.
+
+So obviously as we grow, we get bigger, our brains develop,
+
+we're learning more and more pathways,
+
+so our neuron base, if you like,
+
+is growing and growing and growing.
+
+And this is what machine learning is trying to replicate,
+
+is trying to replicate our thought processes.
+
+And this is changing quite rapidly.
+
+I think I put this on the very beginning slide, this course,
+
+because the reason I put this up at the beginning,
+
+because as a scientist, someone who works with digital tools
+
+by default now, I mean, when I did my degree,
+
+I spent way more time in a lab, which I hated,
+
+as opposed to being in a computer lab.
+
+It's just my personal preference.
+
+And now you'll see there's a balance between the two,
+
+because technology is rapidly evolving in this space.
+
+So you'll see on this curve, which is the Gartner Hype Cycle,
+
+which I won't go over in detail again,
+
+but from the bottom left, you have an idea,
+
+which is then developed,
+
+and we think it can solve everything, it's at the peak.
+
+Then we realize it can't solve everything,
+
+but becomes stable.
+
+So computer vision is an area of machine learning,
+
+where you can actually take a model and fit to your images
+
+and ask that model to detect distinct things
+
+in those images.
+
+And you can actually give them a label.
+
+So detect a person, does a person have a face mask?
+
+Is the person running?
+
+You can do very, very complex things with computer vision.
+
+The great thing about it being here
+
+is it's classed as a stable technology now,
+
+so we can use it throughout our research.
+
+So in Earth and environmental science,
+
+some great examples of that.
+
+Hurricane map tracking, so we've been able to predict
+
+where a current hurricane is on a satellite map,
+
+where it might go.
+
+So that's predicting how images evolve.
+
+Medical science is obviously detecting cancerous growth
+
+in scan, in image scans.
+
+But lots and lots of applications where computer vision
+
+has really revolutionized scientific fields.
+
+What we're seeing now, you'll see generative AI is here.
+
+It's about to enter this trough delusionment,
+
+but that's good for us, because it means
+
+that we'll finally realize what it can and can't do.
+
+And already we're using generative AI
+
+within a research ecosystem.
+
+We're using it to understand, extract topics from papers.
+
+So if you speak to the environment agency, for example,
+
+and they dictate risk zone around landfill sites,
+
+composting sites, sounds really dull,
+
+but actually they emit lots of nasty bacteria,
+
+which actually could be damaging to human health.
+
+What they do is they manually triage maybe 11,000 papers,
+
+go to 600, work through that manually,
+
+and then extract the information
+
+that scientists have generated.
+
+What we're seeing now is LLMs can do that automatically.
+
+Maybe look at millions of papers, extract information.
+
+So within our department, we're actually looking
+
+at using those to conduct that thematic research.
+
+So it is changing rapidly.
+
+But I'm talking about machine learning today,
+
+and it's worthwhile having a feel for what we mean
+
+when we talk about different parts of it.
+
+And if you were to come across Python tutorials online,
+
+typically you'll see most of them fall
+
+into two of these three categories.
+
+So on the left, we talk about unsupervised learning,
+
+and this is what we'll do with cluster analysis.
+
+So unsupervised learning literally means
+
+you're not supervising the algorithm.
+
+You give it some data and say,
+
+tell me the distinct groups in that data.
+
+So that might be useful where you're collecting patterns
+
+on something you can't measure in the lab,
+
+but you want to know the distinct groupings.
+
+It could be species images.
+
+It could be sound bites of birds in a forest.
+
+It could be anything where you want to pull out
+
+the distinct groups, and then you can research further.
+
+Examples given here include customer segmentation.
+
+So clustering is where we literally cluster
+
+different groups within our data in an unsupervised way.
+
+So we're literally saying, algorithm, take my data.
+
+Give me the distinct clusters in there.
+
+As you're shopping in Tesco, Sainsbury's, Aldi,
+
+whatever your preference is, huge amounts of data
+
+being collected on consumer behavior,
+
+cluster analysis extracts what people are likely to purchase
+
+on a given day of the week.
+
+So for example, cluster patterns there
+
+might enable a supermarket to optimize
+
+their food distribution, and there are charities
+
+that work with supermarkets that then distribute food
+
+when that's not working very well.
+
+That's just one example where cluster analysis could work.
+
+Unsupervised learning can also reduce
+
+the complexity of your data.
+
+Some of you, I guess, might at some point
+
+see what's going on in the labs here,
+
+and we might have complex microscopes
+
+or mass spectral instruments.
+
+And if you're measuring something in water or soil
+
+or whatever, you can produce very complex mass spectra
+
+at high time resolution.
+
+So you might have thousands of different mass spectral peaks
+
+as a function of time.
+
+How do you visualize change?
+
+Well, this is what unsupervised learning can do.
+
+It can squash that down so you can visualize it,
+
+i.e. tell me the distinct features of that data set.
+
+So it's all about really turning the data
+
+into insights we can act upon.
+
+Supervised learning is actually when we give
+
+the algorithm a helping hand.
+
+So imagine the scenario where we have a data set
+
+of sound bites from a forest,
+
+and we're collecting sound files
+
+over months and months and months,
+
+and we're collecting, we're trying to detect
+
+the different birds in that forest.
+
+Now, we might have a data set where we know
+
+what particular birds sound like.
+
+Imagine I have five different bird species,
+
+and I have the sound bites matched to those labels.
+
+So we can tell the algorithm, do your cluster analysis.
+
+However, I know these are the answers
+
+that you should be finding.
+
+So we're supervising it a little bit,
+
+i.e. can you find these species in this ambient data set?
+
+So that's where the supervised learning comes from.
+
+And there are multiple examples.
+
+Classification, image classification,
+
+this is by far the most common example you'll come across
+
+if you look for machine learning Python examples.
+
+So this is where computer vision comes into its own.
+
+You might have millions and millions of images
+
+from a camera, and you want to detect a certain vehicle,
+
+so a bus or a truck.
+
+So if you see traffic intersections in the city,
+
+you might see cameras on top of the traffic lights.
+
+They're actually capturing and measuring
+
+the different types of vehicles
+
+coming in and out of road intersections.
+
+That affects a number of things like pollution,
+
+mobility schemes, whatnot.
+
+Those cameras are using image classification,
+
+i.e. they can detect when a truck has passed,
+
+because someone has trained an algorithm
+
+and supervised way to say, this is what a truck looks like.
+
+Please do that.
+
+You don't have to just label things.
+
+You can predict continuous variables as well.
+
+So in my field, if I want to predict
+
+what the pollution's like in six hours time,
+
+I can get a machine learning supervised algorithm
+
+and say, well, here's 10 years worth of data
+
+on air pollution and meteorology.
+
+I know what the meteorology will be like in six hours time.
+
+Give me the value for the pollution.
+
+So that's regression.
+
+So predicting a continuous variable rather than an image.
+
+So there's many, many different things.
+
+What we'll do today is we'll show you an example
+
+in the practical of how to use cluster analysis
+
+on environmental data,
+
+but also how to build a supervised learning algorithm.
+
+So we'll use information that I've extracted
+
+from environmental data repositories,
+
+and you'll see the workflow to enable that to happen.
+
+So I've mentioned workflow a few times in this course,
+
+i.e. the steps from loading data in,
+
+cleaning it, checking it,
+
+and then fitting your model and testing the model.
+
+So it's all about learning the workflow,
+
+and this is why this course is really applied.
+
+You don't have to get your hands dirty with the algorithms.
+
+That's not what we're here to do.
+
+And these algorithms that are available in Python
+
+are pretty mature, i.e. we can trust they do something.
+
+It doesn't mean it's the best algorithm for the job.
+
+So it's again, it's like working in a car garage.
+
+What tool do I need for the problem I've got?
+
+So that's about learning the workflow today in the notebook.
+
+Reinforcement learning is quite complicated,
+
+but you'll have heard of reinforcement learning
+
+maybe indirectly with algorithms
+
+that can play games and beat humans.
+
+So what a reinforcement learning algorithm does
+
+is it learns from its environment.
+
+It keeps going until it gets to the optimal point.
+
+So remember the story a couple of years ago
+
+of Atari games, algorithms playing old Atari games
+
+and getting to an end point, playing chess and AlphaGo?
+
+That's what reinforcement learning is.
+
+That's being used in the environmental sphere
+
+in my area of work because indoor air pollution
+
+is a big problem, probably okay in this room,
+
+but in many houses, as we're cooking,
+
+pollution can get really bad.
+
+So engineers are building systems now
+
+that change the ventilation rate
+
+according to the pollution it measures.
+
+So a reinforcement learning algorithm can work out
+
+what's the best ventilation conditions
+
+according to what is being measured now.
+
+So it's reaching an optimal goal.
+
+That's what reinforcement learning is about.
+
+But much harder to code and much more less stable
+
+than the examples we'll see.
+
+There's absolutely a data dependency.
+
+When we talk about AI, which is these huge models
+
+with many billions of parameters.
+
+So the GPT type models have a couple of hundred
+
+of billion parameters.
+
+And if you think about that to scale,
+
+if we're fitting a line through a data set,
+
+that's only got three parameters.
+
+So these neural networks have many, many parameters.
+
+They need huge amounts of data to fit those parameters.
+
+So this broad schematic is showing
+
+that the performance of a machine learning algorithm
+
+can vary with the amount of data.
+
+When we talk about neural networks,
+
+which we hear about all the time in the press,
+
+they are really data hungry.
+
+And this is what people are worried about
+
+in terms of carbon footprint.
+
+And the footprint of data centers,
+
+the footprint of running AI models,
+
+they take a lot of computational power.
+
+I heard from a colleague,
+
+who's an expert in this space last week,
+
+that now islands 20% data requirements
+
+come from data centers, 20% of a country.
+
+So it's massive.
+
+So the need to reduce the carbon footprint is with us.
+
+It doesn't mean a deep neural network is the best though
+
+if you don't have enough data.
+
+Because often in the lab,
+
+you can't collect enough data to fit a neural network.
+
+People jump straight into these
+
+because they sound really fancy.
+
+They're in the media.
+
+They want to practice deep neural networks.
+
+There are older machine learning libraries
+
+which are much, much easier to understand
+
+that perform much better when you don't have much data.
+
+And that's what we'll use in the notebook today.
+
+I'll point you to references
+
+if you want to understand more about deep neural networks.
+
+But we're gonna use algorithms that we can interpret.
+
+I mean, we can understand the decisions they've made and why.
+
+So I talked about unsupervised learning.
+
+We're going to use a library in Python,
+
+called scikit-learn.
+
+So again, we've got another module.
+
+And if you open up the documentation of that library,
+
+they'll give you an example of cluster analysis.
+
+So on this quite messy diagram,
+
+what we have are different data distributions.
+
+Each column is a different algorithm
+
+for performing cluster analysis.
+
+I.e. grouping data sets into distinct groups.
+
+We can visually see the answer
+
+in these two dimensional data sets.
+
+Our brains are trained to actually work out
+
+what looks separate, what looks unique.
+
+So we learn that, obviously, as we grow up,
+
+as we become toddlers.
+
+From that very early age, we're recognizing visual cues
+
+and we learn from our environment.
+
+Reinforcement learning.
+
+So that's the premise behind reinforcement learning.
+
+It's replicating those early stages of human growth.
+
+But anyway, so you can recognize from the top row,
+
+there are two distinct groups there, aren't they?
+
+There seems to be an inner and an outer group of data points.
+
+Some of these algorithms
+
+can't even get this simple data set right.
+
+You'll see here, this spectral clustering seems to get,
+
+it colors the outer and inner circle appropriately.
+
+As we change our data structure, though,
+
+the algorithms perform differently.
+
+And the whole point of this diagram is,
+
+there is data and algorithm dependency.
+
+So we'll show you the workflow to use,
+
+but it doesn't necessarily mean the algorithm you'll find
+
+is the one that's best for your job.
+
+So if you had more time, you'd start exploring more algorithms,
+
+you'd understand your data a little bit more.
+
+But this is definitely where you would start.
+
+So unsupervised learning really is built on the fact
+
+that we need to understand similarity between data points.
+
+So how do we do that?
+
+Well, obviously, we don't question it.
+
+We can see that things are different colors,
+
+things are different shapes and size.
+
+Our brain interprets that they're similar.
+
+If we see a row of oranges on a table,
+
+we know that they belong to the same class.
+
+We know that chairs belong to the same class.
+
+But what does that mean in terms of data?
+
+What do I mean by similar data?
+
+Typically, what machine learning does across the board,
+
+it defines similarity as the distance between numbers.
+
+So, in fact, what a large language model does
+
+is if you're asking a question of chat GPT,
+
+what it does is it, imagine I have a text,
+
+I want something, whatever that is.
+
+What the model first does is convert this
+
+into a set of numbers.
+
+It encodes text as a string of numbers.
+
+And that might be 1.2, 3, 5.6, whatever.
+
+And it might have 4,000 elements.
+
+When you ask it a question, what it does is
+
+then it extracts from this, from its knowledge base,
+
+what looks the same in terms of numbers.
+
+So imagine that this question is,
+
+I want, let's make it more specific.
+
+I want information on, info on, I don't know, housing.
+
+That's our question.
+
+What it has in its knowledge base
+
+from those two 400 billion parameters
+
+it will see the information that closest matches
+
+the numerical representations and give you the answer.
+
+So it's all about matching numbers.
+
+So that's called an encoding model, which chat GPT,
+
+they all do.
+
+So in terms of cluster analysis,
+
+if we've got two dimensional data sets,
+
+which you'll play around with in the notebook,
+
+on the left-hand side, what we want cluster analysis to do
+
+is to group those into the most similar regions.
+
+So we can calculate a distance in multiple ways.
+
+A Euclidean distance is literally the sum of
+
+the difference between the values squared, square root.
+
+What that means is we want the points
+
+to be in the blue circle with small distances,
+
+but the distance between the blue and green to be large.
+
+I want to group things that are very similar together,
+
+but very separate from things that aren't.
+
+So that's what cluster analysis is trying to do.
+
+It's all about matching similar numbers.
+
+A bad cluster analysis result would actually make things
+
+very close to each other.
+
+I mean, in this case, if you see here,
+
+there's ambiguity as to whether this point
+
+would belong to a blue or the yellow class.
+
+But it's all about trying to group things together.
+
+But that's basically what machine learning is all about.
+
+Images are the same.
+
+We won't go into the theory here,
+
+but images are numbers.
+
+So I've talked about image classification.
+
+If you're using an AI system to detect things in a PDF,
+
+so you upload a PDF to check GPT, right?
+
+And under the hood, it'll be detecting text
+
+from those images.
+
+What it's doing is recognizing numerical patterns.
+
+So an image is just basically a matrix of numbers.
+
+You might have, not that one.
+
+So when you look at an image of a landscape,
+
+what you've got is three layers.
+
+You've got a red layer of numbers,
+
+and each pixel represents the intensity of red.
+
+You've got a blue layer, and you've got a green layer.
+
+So they're all numbers,
+
+and they represent intensities of that color.
+
+Of course, the higher resolution the image,
+
+the more pixels you've got.
+
+You then can extract features and colors.
+
+What your convolutional neural networks try and do
+
+is represent this image,
+
+which is cycling numerical values,
+
+but written values as an array of numbers.
+
+That's all it's trying to do.
+
+It's just that it's trying to squash and represent
+
+that level of complexity into something much more simpler.
+
+So what does that mean from our perspective?
+
+Well, what we're gonna do in the notebook
+
+is we're gonna load data into a data frame,
+
+and we're gonna have rows of observations.
+
+So our data, oh God, wrecked the joint.
+
+Our data frame, you'll have already seen,
+
+can have rows of observations like so.
+
+So imagine that I've got information
+
+on characteristics of animals
+
+that we've been looked at at the lab,
+
+and each column might be height, width, age,
+
+and this is number one, number two, number three,
+
+and basically we've got rows of numbers.
+
+I don't know, 6.4, 6.5, 3.2, 6.6, 3.1, eight, two.
+
+What cluster analysis is going to do
+
+is look at the distance between the numerical distance
+
+and actually put them into distinct groups.
+
+So we're doing the exact same thing
+
+as the complex algorithm does,
+
+but we're asking the algorithm to do that for us.
+
+We're not gonna calculate the distance.
+
+So the first example is we're gonna use scikit-learn,
+
+which is a Python module that will do this for us,
+
+i.e. we can load data into a data frame,
+
+extract the data, pass it to a clustering algorithm,
+
+go, give me the membership of five distinct groups,
+
+i.e. put observations into five different groups,
+
+and it will do that.
+
+So we're loading data on forest fires here in the example.
+
+So we have historical data on the temperature,
+
+humidity, wind conditions, rainfall,
+
+and we're going to look at the distinct properties
+
+of different types of forest fires using k-means.
+
+K-means is just one of those clustering algorithms
+
+I made reference to on that slide
+
+where you see a schematic.
+
+K-means has been around for a very long time.
+
+It's very quick.
+
+It's very simple under the hood, but it's quite bad.
+
+But it's very quick, so we can run it in our environment.
+
+But let's look at some of the code
+
+that you might recognize here.
+
+We're importing a function, k-means.
+
+We have a data frame, and all I'm going to do at first
+
+is try and cluster my observations by these three entries,
+
+temperature, humidity, and area.
+
+So recognize that syntax here.
+
+I'm specifying the columns in my data frame.
+
+I'm extracting the values into a numpy matrix.
+
+On the next line, I'm preparing
+
+my k-means clustering algorithm.
+
+So the slight problem with things like k-means
+
+is it won't tell you how many distinct groups
+
+there are at first.
+
+That doesn't matter for our application,
+
+so we need to tell it how many distinct groups
+
+we want it to group together.
+
+So in this case, once I've loaded the function,
+
+I'm preparing the algorithm and telling it,
+
+I want you to give me four distinct clusters.
+
+This variable name is one that I haven't defined.
+
+That's the requirement from the function.
+
+So if you check the documentation,
+
+you'll see the entries that you can put in there.
+
+The minimum is specifying the numbers of clusters.
+
+Once that's ready, we can fit the algorithm to our data.
+
+So this fitting process is doing everything
+
+I just mentioned.
+
+It's calculating the distances between everything,
+
+and then it's grouping similar observations together,
+
+and it stops when we've reached
+
+the desired number of clusters,
+
+in which case this is four.
+
+What's the point in me saying it's quick?
+
+Well, sometimes you might have 100,000 observations,
+
+sometimes you might have a million.
+
+If you had a million observations,
+
+it's quite easy to create,
+
+especially when you're running model outputs.
+
+K-means will still give you an answer
+
+within a matter of seconds.
+
+If you ran a more accurate method,
+
+such as the third column,
+
+which I showed the clustering algorithm performed best,
+
+that might take days.
+
+It could even take weeks,
+
+or you could run out of memory.
+
+Because what's happening is,
+
+if you're calculating the distance
+
+between a million observations,
+
+you need more and more and more memory
+
+for the more accurate methods.
+
+So there are limitations.
+
+The more accurate the method,
+
+typically the higher the computational resource
+
+you required.
+
+It doesn't matter here.
+
+So we fit the clustering method.
+
+We then extract the labels.
+
+So once it's fit,
+
+we can extract labels from this function.
+
+So remember a dot operator?
+
+You can access functions and properties of things.
+
+This labels underscore is literally a number
+
+that the algorithm has given to the members of each group.
+
+And it will typically be,
+
+you belong to group zero,
+
+you belong to group one,
+
+you belong to group two,
+
+you belong to group three.
+
+But it gives us an identifier to now look at the properties
+
+of each of those different groups.
+
+So the example we're looking at in terms of forest fires,
+
+you'll also then look at a data set
+
+of audio samples from different frogs.
+
+Many different families and species there.
+
+But can the clustering algorithm get the right membership?
+
+Because in that example,
+
+we've actually got what the known labels are.
+
+So you can actually see if the membership
+
+has been calculated correctly.
+
+So labels is the label given to each row.
+
+So each row now will have a family label,
+
+if you like, a cluster label.
+
+We add that to our data frame.
+
+So we data square brackets K means label
+
+is literally us adding another column into our data frame,
+
+but now with a cluster member number.
+
+And what that means is we can then do a box plot
+
+and look at the properties of those different clusters.
+
+So in this case,
+
+I'm looking at the variation in those properties
+
+that are extracted by cluster member.
+
+So K means label goes from zero to three,
+
+because I asked K means give me four distinct groups,
+
+I put every observation into one of four groups.
+
+You'll see here that clearly the temperature
+
+in those forest fires vary according to the group.
+
+So it's done something right.
+
+So in K means label one,
+
+we see the highest median temperature.
+
+So there's a certain type of fire that's occurred here.
+
+The humidity is the lowest.
+
+So highest temperature, lowest humidity.
+
+And we might expect the fire area to be biggest,
+
+which it is.
+
+So it starts to make some sense
+
+if we try and understand the data that we've got access to.
+
+But really that's just demonstrating
+
+how little code it takes to get from your data
+
+you've loaded in to then determine
+
+the distinct groups in your data.
+
+And that's K means.
+
+But as I've said all along,
+
+with any machine learning application,
+
+you can have garbage in, garbage out.
+
+If we just throw the data from our data frame,
+
+there might be errors, there might be outliers,
+
+you can really affect the results.
+
+So we need to work backward a little bit
+
+and start understanding the data we have
+
+and manipulating the data to give K means
+
+its best chance of getting the right answer.
+
+So data preparation takes up most of our time,
+
+because when you run this code,
+
+it will appear instantaneous.
+
+K means is very, very fast.
+
+And with the files that we've given you in the example,
+
+there aren't that many observation.
+
+Even with 18,000 rows,
+
+that's quite a low amount when it comes to cluster analysis.
+
+So we need to do some data preparation.
+
+The other thing we need to do is to change our data
+
+before we pass it to K means.
+
+I've said what cluster analysis tries to do
+
+is calculate the distance between observations.
+
+Now that could be a problem because imagine
+
+that in your data, imagine that you have,
+
+let's imagine we've got a data set that has
+
+information where feature one has a range
+
+between 10,000 and minus 30,000.
+
+You know, we have a distribution of values like this.
+
+That's feature one of our data frame.
+
+Feature two might have values between 0.6 and 0.2.
+
+Feature three might have values between 50 and 90.
+
+Very different scales of data,
+
+but they all represent something about our system.
+
+The problem with calculating a distance,
+
+if I go back to this algorithm here, eventually.
+
+So the visualization of a distance between points here,
+
+we can visualize it in 2D space,
+
+but imagine we've got seven dimensions
+
+or even three dimensions becomes hard.
+
+Our distance is gonna be dominated by this value
+
+because it's so large.
+
+It's gonna completely warp the observations.
+
+What we want is we want to give each feature equal weight
+
+in the first instance.
+
+So if this represented something about human health
+
+and you're trying to look at the potential groupings
+
+of disease progression,
+
+then we want to give that ample weighting,
+
+which means we need to bring these scales down.
+
+We need to standardize them.
+
+So there's another step before we pass the data
+
+to the k-means algorithm.
+
+We'll extract the data from the data frame,
+
+but we're going to make sure that we scale it.
+
+And this is what this visualization's trying to show here
+
+on the left.
+
+So our original features could be,
+
+imagine we're looking at two raw features.
+
+Feature one has this distribution over a large range,
+
+but feature two is really tightly constrained.
+
+What standardization does or normalization
+
+is it puts everything on a similar scale.
+
+Typically what that means is there are a range of approaches
+
+where the scale for each column might go from one
+
+to minus one.
+
+So then everything has equal weight
+
+in the distance calculation.
+
+So it's normalizing to itself,
+
+i.e. what's the maximum and minimum.
+
+Then we'll throw that data into the k-means algorithm.
+
+It'll calculate a new distance
+
+and you'll find that it'll become more accurate typically
+
+in doing so.
+
+So you'll see in the notebook that we'll start to look
+
+at the distribution of data we've got.
+
+And this was the features,
+
+this is the features you'll see from the frog data set.
+
+There are many different features.
+
+This is feature 17.
+
+And we can look at the spread of values.
+
+So we can see that there are a range of values.
+
+Some are bigger, some are smaller.
+
+But the key is to standardize that.
+
+So typically, well, you'll end up with this workflow
+
+when you're applying any machine learning algorithm.
+
+And from our cluster analysis perspective,
+
+we'll load data in, we'll have a look at the data,
+
+generate those statistical plots, maybe clean it.
+
+We can look at, see if there are outliers.
+
+Because again, if there are outliers,
+
+what's the problem here?
+
+If we have an outlier that's 100,000,
+
+but it's literally one observation,
+
+that's gonna affect where one is.
+
+So again, it's a problem.
+
+So we just still have to understand our data.
+
+Standardize it, which is bringing the values
+
+to a common base, to a standard base,
+
+then fit the clustering algorithm.
+
+I've put this as an option as well.
+
+Reduce the number of dimensions.
+
+Typically, what you need to do
+
+with any unsupervised learning algorithm
+
+is give it as simple as data as possible.
+
+So you're helping it.
+
+Even though I said it's unsupervised,
+
+you're manipulating the data to give it its best chance.
+
+In the same way that we struggle
+
+with huge amounts of data,
+
+we've got information flying at us from different angles,
+
+if that can be distilled down,
+
+we can deal with it better.
+
+Same with any machine learning algorithm.
+
+So we've done that with the standardization approach,
+
+but if you've got 100,000 columns
+
+and you've only got 50 observations,
+
+that's also a problem.
+
+So squash the number of dimensions down
+
+and there's an algorithm to do that.
+
+It's all about using what other people have developed
+
+before we pass the data to the clustering algorithm.
+
+This is one of those examples in the notebook
+
+where we'll just give you that workflow.
+
+It's a very much an applied approach.
+
+So reducing the number of dimensions,
+
+there are many algorithms.
+
+If you were working in a particular sector,
+
+if you were looking at pollution data,
+
+health data, financial data,
+
+you would learn what the industry standard approaches are
+
+for your problem, but the workflow will be the same.
+
+So it's like anyone who becomes a practitioner
+
+in a certain field.
+
+You have that grounding in their workflow like this,
+
+but then you'll learn relevant tools for your field.
+
+And that's why this is really the groundwork
+
+and you can go on from this
+
+and look at any particular examples.
+
+We'll also be able to evaluate the accuracy
+
+because in an unsupervised approach, it's given us groups,
+
+but how do we know whether the groups are right?
+
+So what you do typically is if you can,
+
+you'll have a data set to test the accuracy
+
+of a clustering approach before you apply it
+
+to something from the real world.
+
+So in this case, we'll use something
+
+called a confusion matrix.
+
+And what the confusion matrix does,
+
+it literally sees how confused the algorithm is
+
+or the output.
+
+What you want to see in a confusion matrix,
+
+if you've got the true label, in this case,
+
+these are species and then a predicted label,
+
+you want to see dark blue along the diagonal.
+
+Where you don't, you see a misclassification
+
+or a misgrouping.
+
+And a misgrouping means that an observation
+
+that's gone into one should have gone into two.
+
+And more and more of those are happening.
+
+It might be related to the data.
+
+You could have not standardized it.
+
+You might have missed an outlier.
+
+You might have missed some features
+
+that you haven't measured yet.
+
+So this is why that data preparation
+
+really is 90% of your time.
+
+So the algorithm fitting, you'll see,
+
+is a couple of lines of code.
+
+But really understanding the data
+
+that impacts your model performance is the key thing.
+
+So cluster analysis really takes up
+
+the majority of the notebook.
+
+But I wanted to give you an example
+
+of a supervised algorithm as well.
+
+Mainly because if you were to look outside of this course,
+
+this is where you'll find a lot of examples.
+
+So what supervised learning algorithm is trying to do
+
+is to predict something as a function of something else.
+
+So in this case, we're moving away
+
+from clustering our observations into distinct families
+
+to then actually predicting the label.
+
+So this is a numerical family label, 01234.
+
+That might be dog, cat, mouse, whatever.
+
+So predicting the actual species, predicting a value.
+
+So what we have here on the right-hand side
+
+is showing that we will have what's called labeled data.
+
+So we actually have another data frame
+
+where we have a column of known labels.
+
+And we can get an algorithm to predict this
+
+as a function of all of these.
+
+So that's more like a straight line, isn't it?
+
+When you've got Y as a function of X,
+
+what we're doing here is we're predicting labels
+
+as a function of all the different features.
+
+But we're not specifying an equation for that.
+
+We're using, under the hood, different algorithms
+
+that have many different equations associated with them.
+
+We're just using the method, okay?
+
+So using the same data set, you'll look at clustering.
+
+You'll then see if another algorithm can actually predict
+
+the actual species it belongs to.
+
+That's supervised, we're supervising it.
+
+We're giving it a training set.
+
+So I'll quickly look at the notebook.
+
+So there's quite a few bits to this notebook.
+
+You'll see in the table of contents,
+
+but it's all replicating that workflow.
+
+So we'll load the data in.
+
+We'll plot some histograms.
+
+We'll plot some correlation coefficients.
+
+That's about understanding our data.
+
+Then we'll apply k-means, but we'll also standardize it.
+
+I will normalize the data.
+
+So the first outcome, really, of this notebook
+
+is to apply k-means clustering algorithm
+
+and then see how it changes,
+
+depending on how you change the data.
+
+So you'll see the sensitivity to the data you're loading in.
+
+You'll then work with label data set, a frog data set,
+
+to see if clustering can actually perform well,
+
+where we know what the answer is,
+
+but also then develop a supervised
+
+learning approach to that.
+
+So the text reinforces what I said in the lecture.
+
+I've made a comment about foundational models.
+
+That's just to give you context
+
+with regards to large language models at the moment,
+
+chat GPT, but we'll jump straight into cluster analysis.
+
+We'll load our data in, create this data frame again,
+
+plot a histogram of the different columns
+
+using the standard approach we've used up to this point.
+
+We then make them look much more prettier
+
+so we can visualize them a little bit better.
+
+We'll produce a correlation coefficient matrix,
+
+get a feel for any latent relationships there may be,
+
+but then we'll jump straight into fitting
+
+a k-means cluster algorithm
+
+and then looking at the variation in features
+
+by the groups it's worked out.
+
+So that's the box plot to look at
+
+how these features vary by grouping.
+
+So because I've specified four clusters here,
+
+it's given me a graph of,
+
+well, it's given me a box plot of four different features.
+
+I could have specified clusters equal to 10.
+
+You could do the same thing.
+
+You'll realize with cluster analysis,
+
+the more clusters you specify,
+
+you'll start to lose any difference.
+
+So there is an optimal number of clusters.
+
+There are techniques to work out
+
+the optimal number of clusters.
+
+What we can do is just eyeball it for now.
+
+If you have a known answer,
+
+then you already know what the optimal number is.
+
+You know what the accuracy is.
+
+So you could specify to k-means if there are three,
+
+please give me three clusters
+
+and see if everyone fits within the right group.
+
+So that's what the confusion matrix does.
+
+We scale the data.
+
+We'll use functions that other people have created.
+
+We won't generate anything ourselves,
+
+but we'll pull it in from a function from pandas
+
+and scikit-learn.
+
+There's min-max scaling, so between minus one and one.
+
+There are various other different approaches,
+
+but we'll use one in the example.
+
+And then we'll look at how the cluster membership changes,
+
+and it does change.
+
+You can actually eyeball when you spend time
+
+looking at this output that these properties do change.
+
+Is it more accurate?
+
+We don't know yet,
+
+because this is a data set without labels.
+
+But nonetheless, it shows you the sensitivity.
+
+You'll then jump into working with labeled data.
+
+We'll look at the, and there are many different features.
+
+There are around 23 features in our column,
+
+in our columns, in our data frame.
+
+We'll look at the spread of those features,
+
+but we'll also reduce those dimensions.
+
+So when you're reading through this text,
+
+it's just to get a feel for, this is a standard workflow.
+
+We're not here to understand how dimension reduction works.
+
+We're trying to give cluster analysis its best chance.
+
+In the exercise, you can evaluate the cluster accuracy
+
+with and without standardization,
+
+with or without dimension reduction.
+
+And here we have an example, so we can get an accuracy,
+
+which in this example is 76%.
+
+It's gaining 76% of the labels right.
+
+An appropriate level of accuracy
+
+is completely up to the user.
+
+So typically, if you're using something in healthcare sector,
+
+you don't, every one image missed
+
+where there's a tumor, that's bad.
+
+So how do you define an appropriate level of accuracy
+
+when you're applying machine learning?
+
+That's all about ethical and sustainable use of AI.
+
+In this case, 76% might be good enough.
+
+It depends on the, and obviously this is safe data.
+
+We don't have to worry about the accuracy.
+
+But this is why there are implications
+
+when there are decisions based on top of
+
+machine learning algorithms.
+
+So how do you define what's good or bad?
+
+And whether or not that's accurate
+
+than a human doing the same thing, right?
+
+Because we know that we change our outputs,
+
+we change our response according to the time of day,
+
+day of the week and so on.
+
+So, and then you'll fit a supervised
+
+machine learning algorithm to the same data set.
+
+And the information here is about how you train
+
+a supervised learning algorithm.
+
+With the cluster analysis, we've just told it
+
+to give us a distinct grouping.
+
+When we're training an algorithm,
+
+what we do is we give it the answer we expect,
+
+but we also give it a test data.
+
+So we can train it on a subset
+
+and then hold a bit of data back
+
+to evaluate it in a robust way.
+
+I, you've not seen this data before,
+
+but can you get it right?
+
+So that's train and test data sets.
+
+Okay, and that reaches the end of the notebook.
+
+Just before I go over the assessment again,
+
+while we've got time,
+
+if you are interested in learning
+
+about the Python ecosystem in this space,
+
+there are two things I'd highly recommend.
+
+They're very mature modules
+
+and they have some fantastic examples
+
+which you can run in Colab as well.
+
+Typically they'll refer to a Colab sheet.
+
+Keras is the Python framework that I mostly use
+
+and a lot of people use
+
+for building these deep learning,
+
+machine learning algorithms.
+
+So this is where you could actually upload your own images
+
+and do object detection quite quickly.
+
+Keras works with video streams,
+
+so you can buy a webcam
+
+and you can actually use code in the documentation
+
+to detect images in real time.
+
+So you could count.
+
+So one of the examples I give on the open day,
+
+I don't know what your open day was like,
+
+but having a camera in a room
+
+and be able to count number of people in a given area.
+
+So that's all about object detection,
+
+distance calculations.
+
+These libraries can give you examples
+
+to do that quite quickly, so it's pretty impressive.
+
+PyTorch is another Python framework
+
+to code deep learning algorithms.
+
+Again, you could run this on Colab
+
+or on the Anaconda distribution.
+
+This is a bit more low level.
+
+So Keras has a nice entry point.
+
+You can actually see how you're coding the neural networks.
+
+It's got some really nice visualization tools.
+
+PyTorch is a bit low level,
+
+but you can get more performance from it,
+
+depending if you're interested in that.
+
+If you want hands-on training in that space,
+
+so Nvidia have a deep learning institute.
+
+We're actually formalizing a partnership
+
+with them at the moment.
+
+So there are self-paced courses for free.
+
+If you go online and check this deep learning institute out,
+
+there'll often be calls for courses
+
+which will run over a day.
+
+That can be instructor-led or it can be in your own time.
+
+When you finish those courses, you can get a certificate.
+
+So I've attended a deep learning course.
+
+And they're a great way to understand
+
+once you have that Python grounding which you're developing,
+
+how you can then get into that AI space.
+
+So I'd highly recommend looking at those
+
+if this is something that interests you.
+
+Right, so I mentioned last week,
+
+you can start working on your assessments now.
+
+And there are six options to pick from.
+
+The structure is all the same.
+
+So there's an abstract and intro.
+
+And just to clarify, so in each notebook,
+
+there's a stream of activities to work on
+
+to go from loading the data in or running a model
+
+and getting to the end point.
+
+They're all related to a particular week.
+
+So in this case, it's the geospatial week
+
+where we use GeoPandas.
+
+Abstract is a standard abstract.
+
+Summarize the results, the area and the results to someone
+
+to give them a lay summary.
+
+Intro, so even without being an expert,
+
+obviously we're not expecting you to write a dissertation
+
+on an area you've never worked in before.
+
+This is about introducing an area though
+
+so someone can at least get a feel
+
+for why it's important scientifically.
+
+So this is not about the data science element.
+
+It's about why the example's important.
+
+So why earthquakes, the history of earthquakes,
+
+earthquakes, why they're important, flood risks.
+
+Depending on the notebook, Conway's Game of Life,
+
+where that came from, what's the background.
+
+Because ultimately you need the context.
+
+If you were coming at this cold yourselves
+
+and you were looking through a notebook example,
+
+having the context makes you understand
+
+the code that follows.
+
+So rather than deep jumping straight into a code
+
+to solve a particular problem, why are we doing that?
+
+There's no maximum or minimum length.
+
+Can't really do that in a notebook anyway.
+
+Can't check that.
+
+So as much information as you would like
+
+to introduce the area.
+
+So how many references, do you need four or five?
+
+Enough to introduce the area.
+
+It's all about can I read it
+
+and understand why you're doing it.
+
+So rather than copying the text from the notebook
+
+that I put in there, can you expand on that
+
+and do a little bit of reading?
+
+Shouldn't take you long to do that.
+
+And what I typically recommend is work on the code
+
+a little bit first while we're helping you in the labs
+
+and then you can wrap the text around it.
+
+The methodology, there are two options here.
+
+Well, there's one option.
+
+There's a requirement to use the class template.
+
+Now this section of text is to explain to the user
+
+the workflow.
+
+So what Python modules are being used and in what order?
+
+How is the code being put together and why?
+
+So that gives someone a feel for what they're about to see
+
+within the code area.
+
+How are you solving it?
+
+How are you applying those functions?
+
+Take the Conway's game of life.
+
+What are you implementing?
+
+I've put an option for methodology using gen AI
+
+because obviously a lot of people are using that
+
+to code at the moment.
+
+If you want to use a generative AI example, you can.
+
+It won't hinder you at all if you don't want to.
+
+That's just if you want some feedback on it
+
+but it won't affect the results
+
+because we're not teaching you how to use generative AI.
+
+But I work with it all the time.
+
+So if you do want to put that example in,
+
+you're absolutely fine to.
+
+The only thing to be wary of is because
+
+what large language models do
+
+is when they produce this output,
+
+so when they go from a text number and then number to text,
+
+it's done using probabilities.
+
+In the same way that we might change what we say
+
+in response to a question,
+
+large language models behind the scenes
+
+will write text and write code in order
+
+but that will change if you ask it over and over again
+
+because it's done by chance.
+
+So when you're using chat GPT,
+
+there's a parameter called temperature
+
+which basically dictates its randomness.
+
+So the higher the temperature,
+
+the more diverse and random it is.
+
+The lower the temperature, the more consistent it is.
+
+There's a level of accuracy
+
+that depends on that temperature.
+
+So just be wary.
+
+If you run it once, the code can vary as well.
+
+But if you want to do that and talk about what it's doing
+
+and solve the same problem,
+
+absolutely fine.
+
+Perhaps work on the class template first,
+
+get that nailed,
+
+and then if you want to look at the GenAI option.
+
+And there's some interesting outputs.
+
+I've looked at all of these
+
+depending on which LLM that you use.
+
+So the code is where you can put the code.
+
+You don't have to use one code block.
+
+You can use multiple.
+
+It doesn't matter.
+
+If you want to split everything within the methodology
+
+and the text, that's absolutely fine.
+
+It all boils down to personal preference.
+
+Some people want to put the whole code into one block
+
+and have it run.
+
+Some people want to introduce code blocks
+
+up and down the notebook.
+
+Really depends on your style.
+
+So you can introduce code blocks within the notebook.
+
+If you're not sure how to do that,
+
+I can show you in the practical.
+
+And results is just standard results.
+
+What's happening?
+
+How have you solved the problem that's been set?
+
+What could you do better?
+
+What are the limitations?
+
+What have other people done?
+
+So it's pretty much the same approach
+
+you would take with a dissertation,
+
+but you're embedding within that,
+
+telling the user how code has been used,
+
+what modules and functions have been used,
+
+and then referring back to the output from the code.
+
+The weekly examples give you a feel
+
+for the amount of code you'll need.
+
+You'll change some of the inputs.
+
+You'll change some of the settings.
+
+You'll create figures and then work the text around that.
+
+We can help you with the code.
+
+You can use the code from the weekly examples.
+
+You can drop that in.
+
+Absolutely fine.
+
+So the templates are there for you to use.
+
+You'll have to change them though,
+
+whether it's numbers in the code,
+
+whether it's adding a bit of other code in the bottom
+
+or repeating it.
+
+So depending on which option you pick,
+
+you'll get a feel for that.
+
+But we can walk around with help you.
+
+That's the whole point of tomorrow
+
+and the two practicals after Easter.
+
+So you've got enough time to nail the code section
+
+and then start wrapping the text around it.
+
+Okay?
+
+If anything isn't clear, let me know.
+
+Otherwise, I'll see you tomorrow morning.
+
+Okay?
+
+Oh, hang on.
+
+I need to put the seats up, don't I?
+
+Today, today.
+
+Here we go.
+
+Oh, you can do that, yeah.
+
+Have you learned that this one is at the end
+
+of node for zero be a few resources,
+
+but while I scroll down after this, there's nothing?
+
+Ah, yeah, I didn't.
+
+So what I'll do, I'll email those around.
+
+They're basically how to carry on the learning
+
+through Keras, DeepTorch, and other things.
+
+And what is this, extra 2022?
+
+Ah, yeah, ignore that.
+
+I had to put that in for a reason.

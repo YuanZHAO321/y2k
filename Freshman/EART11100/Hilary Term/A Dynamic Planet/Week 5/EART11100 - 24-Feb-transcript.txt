@@ -1,0 +1,1899 @@
+'EART11100 - 24-Feb', automated transcript
+01/08/2026
+---
+
+So the purpose of this lecture is to try and overall understand why we get
+
+topography effectively.
+
+In the sea, right, negative topography is coming with water.
+
+Virges per symmetry, as you're going to encounter that too.
+
+So we're basically looking at overall why we get vertical movements in the
+
+crust.
+
+So you understand that there are horizontal motions in the surface of the Earth.
+
+We're going to try and develop that now into understanding a little bit more
+
+about vertical changes.
+
+But first, there's some kind of fundamentals in this topic of structural
+
+geology,
+
+and I just want to cover these at a relatively superficial level
+
+because we want to integrate a couple of concepts from there in order to
+
+understand why you get vertical changes
+
+and vertical motions in the Earth's surface.
+
+So I've broken up the lecture into three.
+
+So one, we're going to cover some kind of fundamentals of structural geology.
+
+Secondly, we're going to look at the mechanisms for vertical crust movements,
+
+and then we're going to see, in the third part, from a tectonic perspective,
+
+where different kinds of vertical crust movements happen.
+
+So as with the lecture that we did on volcanoes,
+
+hopefully we'll be able to work out where these different things are happening.
+
+You can look at a map of the world and predict where you think these different
+
+processes are happening.
+
+So we're going to start, firstly, by covering these slightly dry but important
+
+fundamentals.
+
+So in this first part here, what we're going to do is we're going to describe
+
+the main rock structural features,
+
+made in contractional, extensional, and conservative tectonic regions.
+
+So that's the part one.
+
+So structural geology is the study of the deformation of the lithosphere.
+
+So effectively, it's mechanics.
+
+So it's the study of how rocks become deformed, how we can actually damage them,
+
+and how they damage them.
+
+It's a whole subject of its own, but it deals with some of the most spectacular
+
+rocks that there are in my view.
+
+So I'm not a structural biologist, but I appreciate that it makes very nice
+
+rocks.
+
+So these rocks here in Canada, they were originally deposited on a horizontal
+
+surface,
+
+and now obviously you can see that they've been folded into this structure here.
+
+So this is a map that you keep on seeing, so I'm going to stop sort of over
+
+-explaining it now,
+
+but you're familiar with this map of the world where we've got these different
+
+plates,
+
+and they've got different relative motion to one another.
+
+So we've got extension, we've got contraction, and in some cases here we've got
+
+conservatism.
+
+So it's neither squashing nor extending, they're just moving past each other,
+
+like you would pass somebody in the street.
+
+And as we know, these horizontal movements, they impart stresses onto the rock.
+
+So they're going to do things, they're going to squash them, they're going to
+
+stretch them.
+
+And this squashing and this stretching is going to impart some kind of change
+
+onto the rock.
+
+So if you squash something, it changes shape.
+
+And that's what we're going to look at here.
+
+So why are rocks like to do this very stressed?
+
+So firstly, you have something which is called load pressure, which is also
+
+termed lithostatic stress or confining stress.
+
+So if you're reading at a different textbook or sometimes encountering different
+
+lecturers,
+
+they may use any of those terms, so just be aware of that.
+
+And that's the result of the weight of overlying rock.
+
+And that is analogous to hydrostatic stress in water.
+
+So you know if you swim, you feel that that water is pushing on you in every
+
+direction.
+
+And that's exactly what happens to rocks when they're in the subsurface,
+
+is that they have a stress that is imparted onto them in every orientation.
+
+So that's load pressure.
+
+We're actually more interested right now in something that's called deviatoric
+
+or differential stresses.
+
+And so these are particular settings, particular environments in which stresses
+
+don't act uniformly onto the rock.
+
+So you have got load pressure on you right now.
+
+There's a column of atmosphere above you that is actually squashing you and
+
+stopping you from exploding.
+
+If you left the Earth's atmosphere and went into vacuum beyond, you would
+
+literally just disintegrate.
+
+So right now you've got a load pressure working in all three directions on you,
+
+which is keeping you together.
+
+And so this is what's happening at depth for rocks.
+
+But in certain circumstances, you also have deviatoric stresses, and that's the
+
+equivalent of somebody pushing you.
+
+Or alternatively, somebody pushing you in one direction and somebody else
+
+pushing you in the other direction and squashing you.
+
+These are deviatoric stresses where you've got stresses that are being imparted
+
+in one direction more than in the other.
+
+And so this obviously happens to rocks as well.
+
+And in particular, close to plate boundaries where the rocks are being pushed or
+
+pulled or they're being wretched.
+
+They have stresses that are imparted on them more in one direction than in the
+
+others.
+
+So deviatoric stresses are caused by the transmission of horizontal tectonic
+
+forces through the solid Earth crust.
+
+And this is a diagram that instinctively looks complicated, but I promise you
+
+it's a lot less complicated than you think it is.
+
+Fundamentally, in the three-dimensional world, there's always three principal
+
+perpendicular stresses acting on an object.
+
+So you've got something which is called the maximum principal stress, something
+
+called the intermediate principal stress,
+
+and something called the minimum principal stress, which is denoted with sigma
+
+1, sigma 2, and sigma 3 conventionally.
+
+Don't worry about the sigmas, not important, but basically the rocks have got a
+
+big push with a maximum and intermediate.
+
+What does that mean?
+
+Well, when you start to impose a stress on an object, it's going to respond.
+
+So it's either going to be, we've got this, and I'm going to impose a stress on
+
+it,
+
+it's either going to respond by translation, by moving, or it's going to start
+
+to deform, it's going to change its shape.
+
+If you impart some kind of stress on them, they begin to change shape.
+
+And they can do that in two ways.
+
+They can do it either by basically behaving in a plastic manner, so kind of like
+
+folding up, or stretching like chewing gum,
+
+or they can deform by breaking in a brittle manner.
+
+And so when they do that, we call that fault.
+
+So I hope I'm not over-explaining here.
+
+And faults, they fall into three main categories, according to the orientation
+
+of these principal stresses.
+
+So they're referred to as normal, reverse, or strike-slip faults.
+
+And these are the three end member possible faults that exist.
+
+So people say to you now, what are the three possible faults that exist?
+
+There are only three end members, and it's those three.
+
+Sometimes faults can show a little component of more than one, or they can move
+
+in one direction and then move in another,
+
+but fundamentally there's only three different kinds of faults.
+
+And that's true now, and that will be true if you ever look at faults.
+
+So not too complicated.
+
+There's three principal stress orientations, and there's three different kinds
+
+of faults.
+
+And there's only three possible configurations of these principal stresses.
+
+You're going to have sigma 1 is vertical, sigma 2 and sigma 3 are horizontal,
+
+and that makes a normal fault.
+
+You can have sigma 1 is horizontal, sigma 2 is horizontal, but sigma 3 is
+
+vertical.
+
+And that will give you something called a reverse or thrust fault.
+
+And then finally, you can have a situation where sigma 3 and sigma 1 are
+
+horizontal and sigma 2 is vertical.
+
+Those are the only three possible combinations that exist.
+
+And therefore, you only get three end member faults that will develop.
+
+And so you can see that if sigma 1, the maximum principal stress, is horizontal,
+
+we're fundamentally squashing her off.
+
+And so the effect of that is to generate these reverse or these thrust faults.
+
+Now, here, where sigma 1 is vertical, what do you think is probably acting as a
+
+vertical stress on the Earth's surface?
+
+What's going on there? What's the main vertical stress? Gravity.
+
+So when gravity is the principal stress and sigma 3 is horizontal, that means
+
+that this is really, really weak.
+
+It can actually be so weak as to go into negative values. In other words, it's
+
+being stretched.
+
+Then you get normal faults.
+
+And then when you have this maximum and minimum in the Holocaust orientation,
+
+you get something called strike-slip faults,
+
+which are faults which are conservative, where you just get movement along
+
+there.
+
+Feels intuitively a little bit complicated, but actually, if you notice that if
+
+you take that first block diagram that shows normal faulting
+
+and tip it on its side like that, that gives you exactly that block diagram
+
+there, including the orientations of these little arrows.
+
+And then if we take that one and we tip it up like this, it gives you this
+
+diagram.
+
+Fundamentally, the faults orient themselves in exactly the same way, depending
+
+on the orientation of these principal stresses.
+
+Let's look at these in a little bit more detail.
+
+So we'll start with normal and reverse faults.
+
+So both normal and reverse faults are referred to as slip-slip faults.
+
+Don't worry about that too much.
+
+But what it basically means is that in this example here and in that example
+
+there, there's a component of vertical movement along the fault.
+
+Whereas in this one, there's none. There's only horizontal movement.
+
+So when there's a component of vertical movement, it's referred to as dip-slip
+
+faults.
+
+And normal faults and reverse faults are dip-slip faults.
+
+In normal faults, where sigma 1, the maximum principal stress, is vertical and
+
+sigma 3, the minimum principal stress, is basically extensional, is pulling,
+
+you get normal faults.
+
+And you tend to get steep faults around about 60 degrees, where you can see this
+
+block here, which hangs above the fault.
+
+You can see that the fault is shown in red.
+
+And this block here hangs above it and is therefore referred to as the hanging
+
+wall.
+
+That falls down.
+
+So the hanging wall is down to room.
+
+And the effect of that, as you can see from that diagram, is to...
+
+I wish I wasn't so short. I didn't actually care about that.
+
+You can see that the effect between there and there is to actually thin that big
+
+block and to make it wider.
+
+Which is intuitive, right?
+
+If you're going to stretch, if that sigma 3 there is basically stretching, then
+
+it's intuitive that it's going to get thinner and wider.
+
+And so that's how you do that with faults, rather than just like chewing gum,
+
+just like stretching.
+
+That's the effect of thinning the crust.
+
+So I've got a little video here. This is one that Ian and I did a few years ago.
+
+It's a box diagram.
+
+And in this box here, we've made some layers.
+
+So you can imagine these could be like layers of rock that have been laid down
+
+through geological time.
+
+And what we're going to do is we're going to have gravity as your maximum
+
+stress, vertical.
+
+And we're going to stretch.
+
+We're going to pull this block in this direction.
+
+And we're going to see what the effect of stretching those layers is going to do
+
+in this fluid tank.
+
+At various points, Ian adds a little bit of sand in. Just ignore that.
+
+It's not relevant to what we're interested in doing right here.
+
+So you can see straight away that that's the hanging wall and it's down and
+
+that's been down through.
+
+Similarly here, that's been down through.
+
+Can you see that that layer there is now down through?
+
+Similarly here, that one is down there.
+
+That one is down there.
+
+Can you see that that block is in the opposite direction?
+
+And that one is coming down that way.
+
+That one, that block there, is in the opposite direction from this one.
+
+So we've got a block here which is falling down.
+
+So those are normal faults.
+
+So they're typically steep.
+
+And the hanging wall, the block that's hanging above the fault, is always down
+
+through.
+
+That's how you recognise it.
+
+We were very pleased with how these videos came out.
+
+We can continue that.
+
+You can see that the overall effect as you continue the video
+
+is to just stretch and spin.
+
+The crust used to be that big and now it's getting thinner and thinner.
+
+OK, so that's theoretically what was going on based on the blue cat fox model.
+
+Here it's a little bit darker as photographed, but can you see that we've got
+
+some rocks,
+
+you've got some layers, and we've got some blocks,
+
+we've got some faults that disrupt these layers,
+
+and you can see that that block there is that one down there.
+
+So we've got a fault there and this has come down to here.
+
+Similarly this one there, we've got another fault there, that one has come down,
+
+that one has come down.
+
+So you can see what you can do is you can actually measure those faults
+
+and you can determine, you can work out that at some point
+
+that crust has been extended in that direction at some point in the past.
+
+Maybe it's still happening, but you can work out that these are rocks
+
+that have been stretched, extended.
+
+That's the classic look of normal faults.
+
+So basically the opposite of the normal fault is instead of sigma 3,
+
+the minimum principle stress being low on a negative value
+
+is where the maximum principle stress is horizontal.
+
+So we're squashing the rock in this instance instead of stretching.
+
+And so here you develop a fault that is of lower angle.
+
+So it dips by 30 degrees relative to the horizontal.
+
+That shows 60 degrees relative to the vertical.
+
+So 30 degrees relative to the horizontal.
+
+So compared to normal faults, these are really low angle faults.
+
+And can you see the hanging wall, the block that sits above the fault,
+
+in this instance is pushed upwards.
+
+So here the hanging wall comes down, in this instance the hanging wall is
+
+shunted upwards.
+
+And the effect of that is fundamentally to shorten and thicken.
+
+So here's another video that we did.
+
+So we've got a similar setup.
+
+This time which is that we put some layers of sand into this boom tank
+
+and we're going to use a wrench to shut that block,
+
+so to move that horizontally.
+
+We're going to see the effect on that layer.
+
+So here we go.
+
+Ian is doing some explaining.
+
+Ignore the sand being added.
+
+That's irrelevant.
+
+Right, so you can see that there are two features that develop
+
+when you squash rocks actually.
+
+So one is that you have these faults, you can see them coming through here,
+
+there's one through there,
+
+and you can see that the effect here on this fault,
+
+this is quite well developed, is that this brown layer has been,
+
+this is the hanging wall, that's your fault, dipping that way,
+
+this is the block that's hanging above that fault,
+
+and you can see that it's been shunted in that direction.
+
+So the hanging wall is thrown up in this instance.
+
+You can see that in this little one here.
+
+Now this layer here is being shunted up over the fault that's cut there.
+
+What's the other feature that's developing that you wouldn't call fault?
+
+What's the other feature that's developing here,
+
+as we squash these rocks for this sand?
+
+Yeah, there's loads of faults.
+
+There's a big one, and then there's quite a lot of them,
+
+but there's more here as well.
+
+So another thing that's often associated with squashing rocks
+
+is not just that you break through and fault them,
+
+but you often tend to fold them up as well.
+
+Okay, so quite a few diagrams here.
+
+So this is a kind of diagram, effectively,
+
+but oriented in the opposite direction,
+
+that shows these layers, there's your fault,
+
+and this layer has been thrown up.
+
+So the hanging wall is thrown up.
+
+And this is basically a cross-section through the Rocky Mountains in Canada.
+
+Then you can kind of bounce, seeing that part of the world, very nice.
+
+And you can see in particular, it's picked up really nicely in these blue
+
+layers,
+
+that these blue layers have been thrust on top of one another,
+
+which is why it's often called reverse faults, called thrust faults.
+
+So basically, you take these layers and you shunt them on top of one another.
+
+And that's the way that you end up shortening and thickening up the thrust
+
+during squashing.
+
+Here's a nice tiny little example of a thrust.
+
+So there's a compass there, so that shows you what the scale is.
+
+You can see this layer. Do you see this layer?
+
+And then these two thin layers underneath.
+
+This is quite characteristic.
+
+You can see the same layer there, and these two thin layers underneath.
+
+And then through here, you can see that you have these two layers,
+
+and then the same two layers, again, repeated on top of one another.
+
+So the fault actually comes through there.
+
+It's really, really, really small scale,
+
+but you've got these two layers and the same two layers,
+
+and they've been shunted on top of one another.
+
+The most important thing to remember about thrusts or about construction
+
+is that the effect of the faulting is to duplicate or to thicken up the layers
+
+and to pile them on top of one another.
+
+And then finally, if we take that diagram
+
+and we tip it so that this surface now is the top surface,
+
+you get what we refer to as strike-slip faulting.
+
+So strike-slip faults don't have any component of vertical movement on the
+
+fault.
+
+It's purely horizontal.
+
+And you get these when the principle and the minimum principle stresses
+
+are horizontal and the intermediate principle stress is vertical.
+
+And this has no effect on the rock thickness.
+
+It doesn't thin it or it doesn't thicken it.
+
+It has no effect.
+
+You just have these two blocks that are sliding past.
+
+And these are the ones I think that people often think about
+
+when they think about fault structure at the surface.
+
+So we've got an example at the top here from Japan
+
+where you can see that there's been a horizontal displacement
+
+across that fault there that's disrupted this guy's crops.
+
+And there's a nice example here from China where you can see,
+
+for example, you can see this sort of quite strong layer,
+
+that layer there, and then this red one.
+
+And you can see these, that layer, that layer, and then the red one.
+
+And obviously they used to match up to another and now they don't.
+
+So you can see here that this right block has been shifted north
+
+and this westerly block has been shifted to the south.
+
+A fault running somewhere through like that.
+
+Okay, so that's faults.
+
+Just finish off quickly on folds.
+
+The majority of folding is caused by compression.
+
+So what you do is you simply take a layer
+
+and rather than it behaving in a ripple manner,
+
+that it just folds up.
+
+And you can form a series of folds in this manner,
+
+just by squashing things.
+
+And folds tend to happen where you have collision between two plates.
+
+So your sigma one is horizontal.
+
+And just for your information, they're typically classified
+
+according to the orientation of the axial plane of the fold.
+
+So the axial plane of the fold,
+
+can you see we have these folds here,
+
+The axial plane is an imaginary surface.
+
+From a geometrical perspective,
+
+and obviously most of you studied this level of geometry,
+
+it's an imaginary surface that bisects the angle
+
+between the maximum dip of two layers of a fold.
+
+And so you can see that they can be vertical, inclined,
+
+or they can be virtually horizontal.
+
+So that's one way of classifying folds.
+
+If you think about what the orientation of the axial plane is.
+
+And then the other thing that we do is look at the tightness of the folds.
+
+So you can actually measure the difference between these two limbs.
+
+You can imagine these as triangles.
+
+And the smaller that angle, the tighter the fold is.
+
+Which rocks here have been experienced the greatest amount of stress?
+
+Which ones have been squashed more?
+
+These open folds or these isoclinal folds where the limb is more or less the
+
+same?
+
+Which ones?
+
+Hands up if you say open fold to be squashed more.
+
+Hands up if you say isoclinal fold to be squashed more.
+
+So this is quite an important point.
+
+We've got two folds here.
+
+We've got this, this is a hammer.
+
+Can you see that we've got this little fold?
+
+Tiny little baby fold.
+
+And then we've got this one here which is really big.
+
+There should be a human there but I cut him out by accident.
+
+So that's a few hundred meters across.
+
+So which of these two folds was generated by the greatest amount of squashing?
+
+The top one or the bottom one?
+
+The very big one up there or this tiny little one down here?
+
+Who says the very big one up there?
+
+Hands up.
+
+And who says this tiny little one down here?
+
+Correct.
+
+It's not the scale that matters, it's how tight the fold is.
+
+So to summarize this little first bit before we move on to the real nuts and
+
+bolts of this lecture.
+
+The earth's crust can be resolved into one of three n-member tectonic states.
+
+Extension, compression and conservatism or shearing.
+
+And the stress is, when they're sufficient to strain the crust,
+
+you'll get extension leading to normal faulting where the hanging wall is down
+
+thrown.
+
+And that has the effect of thinning the crust but stretching it.
+
+Compression leads to a reverse or thrust faulting and folding
+
+and that has the effect of shortening and thickening the crust.
+
+And conservative regimes lead to strike-slip faulting that have no impact on the
+
+thickness of the crust.
+
+So you can see where we're going with this about what the impact of thinning or
+
+thickening the crust is going to have
+
+obviously on this concept of vertical crustal influence.
+
+So any questions before I move on?
+
+OK, so what we're going to do now is we're going to look at the three principal
+
+mechanisms that exist for vertical crustal influence.
+
+So if you take anything back from this lecture today is the number three because
+
+that number just keeps turning up again and again.
+
+If I say do you remember anything from that lecture just say three.
+
+Right, so we're going to look at mechanisms for vertical crustal movement.
+
+So by the end of this little mini part you should be able to explain why
+
+topography and photometry reflect an earth's surface that's out of equilibrium.
+
+And you should be able to describe the three main mechanisms for vertical
+
+crustal movement.
+
+OK, so some of you may I hope have wondered why some of the earth is high and
+
+others low.
+
+If you don't look around the earth and wonder why it is the way that it is you
+
+probably just shouldn't be studying environmental effects.
+
+So some areas as we know are approaching 10 kilometers high and others 10
+
+kilometers low in the deepest part of the ocean.
+
+And the formation of these features are primarily driven by tectonics.
+
+But as you know tectonics involves the horizontal movement of plates, not
+
+vertical movement of plates.
+
+So we're going to try and develop a link between these horizontal and vertical
+
+crustal movements.
+
+So fundamentally uplift results in high areas that we call mountains or under
+
+some circumstances people refer to them as hinterlands.
+
+And subsidence forms loads which ultimately we refer to as we often in earth
+
+sciences refer to them as sedimentary bases.
+
+And the reason we do that of course is because uplifted areas and subsiding
+
+areas are out of equilibrium.
+
+If the earth's surface doesn't want to have this complexity on the surface the
+
+earth would like its surface to be as flat as the easiest solution.
+
+So fundamentally what happens when you get uplift is that these become areas
+
+that you erode sediment.
+
+And then you have a sediment transfer zone and then you have these low areas and
+
+that's the areas where that eroded sediment gets deposited.
+
+That's why we refer to them as sedimentary basins. They're like a basin which
+
+are filling up.
+
+In this case it's sediment that you're eroding from over here.
+
+So the earth is busy trying to uplift and subside different parts of the planet
+
+and earth's surface processes are trying to even out that effect by eroding down
+
+the mountains and filling up the sedimentary basins.
+
+So we can think of all these settings that I showed you earlier on as existing
+
+in some form of out of equilibrium state.
+
+So in this instance for example at Mount Everest the long term rate of uplift is
+
+faster than the rate at which the earth's system is able to erode it.
+
+Consequently the mountain is still there. It exists.
+
+Similarly the Mariana Trench which is the deepest part place on planet earth is
+
+a place where subsidence has happened but that space has not been filled up with
+
+sediment yet.
+
+And then you look at places like this, very very flat places and these are
+
+places that are at equilibrium.
+
+If they're being uplifted then they're probably having the uplifted material
+
+removed at about the same rate at which they're being uplifted.
+
+In order to understand why vertical crustal movement occurs we need to look at
+
+the relationship between the lithosphere and the limanthal which you guys are
+
+very familiar with now.
+
+And then in the last part of the lecture we'll try and understand where these
+
+things happen.
+
+So you guys know this very well. Basically you have a lithosphere that floats on
+
+top of a mantle that is not molten but it is denser.
+
+And we've got these discrete plates that move relative to one another.
+
+If that is true then there are three main mechanisms for the uplift and
+
+subsidence.
+
+And those are the three of them. And I'm going to talk about each one separately
+
+so it's just a slide so that you have all three of them shown on one single
+
+slide.
+
+And these three manners by which uplift and subsidence can happen, vertical
+
+crustal movement can happen, are via isostasy, via flexural loading and via
+
+dynamic effects.
+
+These are the three that you need to understand.
+
+So let's look at isostasy first.
+
+So isostasy is the effect of changes in lithospheric thickness.
+
+And we know that we can change the thickness of the Earth's crust because we've
+
+seen that by folding and thrusting we can make it thicker in constructional
+
+regimes.
+
+And by normal faulting and by stretching we can make it thinner.
+
+So we can change the thickness of the Earth's crust through tectonics.
+
+So if we imagine that the Earth's crust are basically effectively a bunch of
+
+sort of buoyant blocks that are floating on a fluid mantle and it's definitely
+
+not a fluid mantle.
+
+But in this case we're going to suppose that the mantle behaves like a Newtonian
+
+fluid.
+
+Then we have effectively isostasy operating.
+
+We know that icebergs, the majority of the icebergs is effectively beneath the
+
+surface of the water.
+
+And as we melt that iceberg, then the effect of buoyancy on the iceberg by the
+
+water diminishes as you lose the mass of the iceberg.
+
+Exactly the same thing occurs with the Earth's crust.
+
+The model of area isostasy says that the body immersed in the fluid is buoyed up
+
+by force equal to the weight of the displaced fluid.
+
+So that means the more fluid you displace, the bigger the object, the more it's
+
+buoyed upwards.
+
+And the smaller the object, the less it's buoyed upwards.
+
+Do not worry about if you want to learn that equation, go ahead, but you won't
+
+be asked about it.
+
+We need to be able to explain it conceptually.
+
+At the same time, also you have what's called craft isostasy, which is that
+
+changes in the density of floating blocks will result in changes in the buoyant
+
+forces acting.
+
+So a denser block will have more forces applied upwards on it, a less dense
+
+block will have less.
+
+So effectively, what happens when you thicken up the crust, when you make it
+
+thicker, like you do in mountain, orogenic mountain belts, is that the mantle
+
+underneath buoys it up harder.
+
+It maybe sounds counterintuitive, but that is what happens when you have less
+
+dense blocks floating on a Newtonian fluid underneath.
+
+It's exactly what happens with icebergs.
+
+And simultaneously, if you stretch and extend the crust, then the buoyant forces
+
+acting up on it will relax, they'll do less.
+
+And so consequently, you have uplift and subsidence happening in response to
+
+changes in thickness of the crust on top of the mantle.
+
+However, the Earth is not actually made up of like independent blocks that are
+
+sort of floating, like some kind of weird, you know, like from gladiators and
+
+stuff like that.
+
+They've got things where you go and run on these kind of like floating pancakes
+
+on water or whatever.
+
+The Earth's crust is different.
+
+In reality, the Leprosy plates are not made up of these discrete blocks.
+
+And the blocks are actually quite rigid.
+
+And that means that if you do something to the block at one location, it's going
+
+to affect it somewhere else.
+
+So I'm going to use this as an example one more time.
+
+If we move the crust over here, then you can see that it has an effect on the
+
+crust over there.
+
+I shouldn't do this, so you can all see it.
+
+So if I'm busy playing around with the crust over here, you can see that it has
+
+an effect on the crust over there.
+
+It's like society.
+
+If you do one thing in one place, it's actually going to have an effect
+
+somewhere else.
+
+And so this is this concept of flexural loading, of flexing the Earth's crust.
+
+The Leprosy is rigid enough to resist changes in the load caused by thickening
+
+thinning or density contrast of wavelengths of less than 100 kilometers.
+
+But if you impose some kind of change over a length scale bigger than 100
+
+kilometers, it starts to literally have an effect elsewhere on the Earth's
+
+crust.
+
+So if you build up a mountain belt, you thicken up the crust here and it's
+
+moving around.
+
+But it also is going to start moving crust in other places.
+
+So a pretty nice example of this, this is not really tectonics, but it's quite a
+
+nice example,
+
+is that during, until nearly 10,000 years ago, there was an ice cap, perhaps a
+
+kilometer thick in places, sitting on top of Stockholm.
+
+That did not exist down in Southern England.
+
+And that ice has melted.
+
+So what's happening to, well, basically the Earth's crust is rebounding in
+
+Scotland in response to the melting of this ice out there.
+
+So it's bouncing back upwards, it's depressed downwards and now it's bouncing
+
+back upwards because it's lost that ice.
+
+There was no ice in England, so in principle nothing should change, it should
+
+have no effect, but that's not true.
+
+What you find is that Scotland is rebounding and England is actually sinking.
+
+So Scotland is basically getting bigger as it emerges out of the sea and England
+
+is getting smaller as it's sinking down into the sea in response to the loss of
+
+that weight.
+
+Various other things will happen, as we'll see a little bit later, from a
+
+tectonics perspective as well.
+
+So that's the second mechanism by which things change on the Earth's surface.
+
+Something happening somewhere else has an effect, that's the effect of flexural
+
+loading.
+
+And then finally, this is the easiest one to explain, so I'm only going to put
+
+one slide here.
+
+You've got to be pretty thick not to understand what I'm about to say.
+
+Basically you have mantle effects, so you have mantle upwelling and you also
+
+have convection currents where cool material is sinking downwards.
+
+So where you get upwelling, it literally is like inflating the Earth's surface
+
+above it, or the Earth's crust above where the upwelling is happening.
+
+And where the material is sinking, the Earth's surface is sinking as well.
+
+Any questions on that? Probably no one's going to ask one.
+
+So those are the three possible ways that you get vertical crusts.
+
+Perhaps at this stage it all sounds a little bit esoteric, a bit difficult to
+
+pinpoint exactly how this works, but after the break we're going to look at
+
+that.
+
+So what we're going to do now, we understand there are three principal ways of
+
+moving the crust up and down.
+
+We're going to look at where these processes are happening in different tectonic
+
+settings.
+
+And I'm going to resolve our different tectonic settings into the three
+
+fundamental principle tectonic settings.
+
+So basically breathing, stretching, squashing and conserving.
+
+And I'm basically barely going to say anything about conserving this in the top.
+
+So by the end of this you should be able to describe where isostasy, flexor
+
+loading and dynamic effects, the three mechanisms,
+
+where they happen in different tectonic settings,
+
+and to predict where topography and vertical crystal movements might be expected
+
+based on that.
+
+So, seeing this diagram, I'm going to skip on.
+
+We've got all these different, these three main tectonic settings and you can
+
+just quickly Google and find out where those three settings occur.
+
+Let's start by thinking about extension.
+
+So, extensional strain or stretching of the lithosphere results in thinning of
+
+the lithosphere.
+
+And we know how that happens. You can either stretch it, like chewing gum, or we
+
+can generate these normal faults.
+
+These normal faults have the effect of thinning the crust.
+
+And if we thin the crust, what should be the isostatic response to a thin crust?
+
+What happens to the bionic forces underneath the crust if you thin it?
+
+They should decrease and that's exactly what happens.
+
+So you thin the crust and you, number one, you make it thinner and therefore
+
+it's less high.
+
+But secondly, the bionic forces underneath are collapsing and so the blocks just
+
+simply drop.
+
+And so what you have is the formation of a sedimentary basin, an extensional
+
+sedimentary basin, a low area.
+
+The other thing that we know tends to happen when we extend the crust is that we
+
+reduce this geothermal gradient where we basically take off the mantle lid.
+
+And so we often get lots of volcanic activity in these basins also.
+
+They tend to be very volcanically active. See the lecture that we did two weeks
+
+ago as to why.
+
+But perhaps counter-intuitively, what tends to happen is that the centre of the
+
+area of extension drops,
+
+but also actually at the same time the flanks, the two sides, tend to rise
+
+upwards.
+
+And there are two main reasons, two main models as to why this often happens.
+
+So in this first model, which is that people call it passive drifting but I
+
+don't care what you call it.
+
+Basically what happens is that we extend and we stretch the crust.
+
+And so you get decompression melting beneath the crust, beneath the thinned
+
+crust for the reasons that we discussed two weeks ago.
+
+And what that does is that that actually encourages upwelling of the lithosphere
+
+underneath.
+
+And so consequently the whole area starts to do something a bit weird, which is
+
+you start to get these blocks sort of dropping down.
+
+But the area on either side ultimately starts to rise.
+
+So it goes through two phases basically.
+
+Number one, you stretch it, the buoyant forces collapse, but also at the same
+
+time you start to get dynamic effects coming up,
+
+the second mechanism, as you start to get lots of melting beneath the crust.
+
+Sounds a little bit complicated, but fundamentally two things happen.
+
+You stretch it, the buoyant forces collapse, but you start to get lots of
+
+melting underneath.
+
+And so then you start to get convection upwards in the mantle that starts to
+
+sort of hold the area out.
+
+And so the overall area, a really good place where this is happening right now,
+
+is in the Basin and Range of the western United States, like in Nevada.
+
+Where the overall area is actually very high.
+
+You can see on this topographic map, the overall area is very high because we've
+
+got later upwelling happening.
+
+But these basins that you can see here, so between these ridges, they're formed
+
+by these blocks that are falling down, which are called grabbers.
+
+And then this sort of second model, which applies to East Africa, where you
+
+inverse this story.
+
+So actually what happens is that it started off with a mantle upwelling.
+
+So you have dynamic effects, this third mechanism, where you get upwelling
+
+underneath and it causes the lithosphere to bow upwards.
+
+And so this is why you can see again, in blues the areas of East Africa that are
+
+low and in these yellows and reds the area of East Africa that's quite high.
+
+You can see that there's this area which is very high.
+
+And that's because the mantle is actually upwelling underneath East Africa in
+
+that area, so you've got dynamic effects.
+
+But what happens then is that the lithosphere is pushed upwards and then begins
+
+to slide off the area of uplift.
+
+So you get mantle upwelling, dynamic effects which sort of balloon up the
+
+earth's surface, and then it starts to slide off.
+
+So the earth's crust is actually sliding off itself.
+
+And so there you can see as it slides in that direction and in that direction,
+
+you get extension.
+
+And as you get extension, you thin the crust and the buoy forces acting upwards
+
+then start to collapse.
+
+So it's the opposite way around from passive rifting and active rifting.
+
+You get upwelling first and then spreading afterwards.
+
+And so this whole area here, this range of hills that extend across East Africa
+
+is generated by the upward flexure of the earth's surface because of dynamic
+
+effects underneath.
+
+But it's undergoing extension and we're getting these rift valleys forming.
+
+These important blocks that are basically falling down, forming the East African
+
+rift valleys across the Great Lakes.
+
+Again, because of extension and thinning of the crust, we also get melting and
+
+volcanism.
+
+And that's why Kilimanjaro and a variety of other active volcanoes occur within
+
+this zone.
+
+So in extensional zones, you tend to get two main things happening.
+
+You tend to get isostatic forces collapsing, causing things to sink.
+
+And you also often get dynamic effects that will buoy up the area as well.
+
+So two of the three are important in extensional settings.
+
+Now, what can happen, of course, is that you can continue to extend the crust
+
+until the point at which you basically are starting to melt the manifold and
+
+generate oceanic crust.
+
+So ultimately, in the Nevada example and East Africa, we're in a setting where
+
+we've got continental crust that's beginning to be pulled apart.
+
+But ultimately, if you continue this extension, then you start to form oceanic
+
+crust.
+
+Which is what's happening in this area of extension up here in the Red Sea where
+
+there's more movement up here and now we've started to actually form oceanic
+
+crust.
+
+And the reason that stays low or is low and stays low is because oceanic crust
+
+is both dense and therefore sits quite low.
+
+But it's also mainly it's very, very thin.
+
+And so it just sits very, very low.
+
+A brief history of how we nearly became America.
+
+Thank goodness we didn't at the moment.
+
+So in this map here, you can see Scotland.
+
+And here you can see the European continent.
+
+So Norway, Germany is here.
+
+And between us is the North Sea.
+
+And the Atlantic attempted to open in Jurassic times down the North Sea.
+
+Instead of where the other side of the UK, to the west of the UK, where the
+
+Atlantic now is.
+
+So at first, the Atlantic attempted to open up where the North Sea now is.
+
+But it gave up.
+
+It found it too difficult to try and rip open this segment of continental crust.
+
+And the movement, the extension of the Atlantic jumped to the other side of the
+
+British Isles.
+
+To form what is now the Atlantic.
+
+And so we formed, we call these failed rifts.
+
+So it's where the Earth's crust attempted to open, to try and form an ocean.
+
+And then it gave up and just said, I can't do this. I'm going to jump somewhere
+
+else to do that.
+
+And so consequently, and perhaps slightly comfortably, the Atlantic opened up to
+
+the other side of the British Isles instead.
+
+So that's what the North Sea is.
+
+It's the first ocean that attempted to open that gave up and it's not yet
+
+totally been filled up with sand.
+
+Of course, if extension is successful and continues and continues and continues,
+
+then ultimately you form these major low areas on planet Earth, which we refer
+
+to as the oceans.
+
+Of this very, very thin, relatively thin oceanic crust.
+
+Okay, so now let's look at compressional or contractional settings.
+
+Okay, so what goes on here?
+
+So the first thing that tends to happen is that if you have subduction,
+
+either of an oceanic or a, or sometimes you can get continental slag coming
+
+down,
+
+this subducting slag is wet, right?
+
+And therefore, this material melts very easily.
+
+So we begin to melt this and then it gets emplaced into the overlying slag.
+
+Okay, so you take bits of this, melt it and then emplace it, put it basically
+
+into the overlying slag.
+
+And the other thing that happens is that as you subduct this bit of oceanic
+
+crust here,
+
+any sediment that's on the surface basically gets scraped off it.
+
+Okay, so it gets scraped off.
+
+And this mass here, which is called an accretionary prism,
+
+is a load of material that was on the surface of this oceanic slag,
+
+which has been scraped off and attached onto the overlying bit of crust.
+
+And so overall, what are we doing to the volume of this overlying slag?
+
+If we're melting material from this slag and then emplacing it in here
+
+and scraping material off this slag and sticking it, attaching it onto this
+
+slag,
+
+what are we doing to the overall volume of the overlying slag with these
+
+processes?
+
+Are we increasing its volume or decreasing its volume?
+
+We're increasing its volume, okay?
+
+And what happens to the forces acting on this slag if we increase its volume?
+
+They increase.
+
+So in other words, we start to add additional volume forces to this slag
+
+and consequently it starts to uplift.
+
+So it gets thicker and it's being uplifted.
+
+And so the overlying slag begins to get uplifted out of the ocean.
+
+Really, really fantastic place where this is happening right now is Japan.
+
+Okay, so what we have is we've got the Eurasian plate here
+
+and then we've got the Pacific and the Philippine plate
+
+sub-dubbing beneath this bit of ocean here, okay?
+
+And so what we're doing is there's a lot of melting happening in the subsurface
+
+here
+
+and also we're scraping off sediments from the Philippine plate
+
+and from the Pacific plate and adding it onto this plate.
+
+And consequently the buoyant forces acting up on this zone
+
+beneath what is now Japan are increasing
+
+and so Japan is being lifted out of the ocean basically.
+
+So Japan used to be ocean and it's being lifted out
+
+because those buoyant forces are acting upwards on it, okay?
+
+By the increase of the volume of the Eurasian slag
+
+beneath the sub-dubbing Philippine Pacific and the Pacific slag, okay?
+
+Now, if you're looking carefully at this diagram
+
+you'll see that behind Japan, in the Sea of Japan, okay,
+
+is the word extension written, okay?
+
+Which should sound counterintuitive, okay?
+
+Because what we've got is a slag here and these winds that are coming in into
+
+it.
+
+So why is extension going on there, okay?
+
+So we'll have a quick little digression now
+
+to why you have extension behind the back of ocean subduction zones.
+
+Does anybody here fish, by the way?
+
+Don't you think it's just my hobby?
+
+Does anybody here have fish? No?
+
+So I don't, but when you cast out, okay, alright,
+
+you'll notice that people typically fish for a while after they've cast it out,
+
+reel it in and then recast it back out again, okay?
+
+And what happens when you cast out is that, you know, your hook and your barb
+
+land
+
+and then they gradually just drift backwards towards you, okay?
+
+And therefore you need to reel it in and recast it back out into the middle of
+
+the lake.
+
+This is exactly what subducting slabs do inside the Earth's crust, okay?
+
+So what happens is that they begin by subducting at a relatively low angle.
+
+As you can see in the purple up there,
+
+apologies if any of you have colour blindness, I don't know if colour choices
+
+are great here, okay?
+
+But gradually with time, the slab starts to get steeper and steeper and steeper
+
+and steeper.
+
+Okay, so you can see here, this is getting steeper.
+
+And so as that slab gets steeper, it starts to actually pull back on the
+
+overlying slab, okay?
+
+So it goes in like this and then as it gets steeper, it starts to stretch the
+
+overlying slab, okay?
+
+And so you start to form behind the back of the main island arc, okay?
+
+And behind the back, as that overriding slab is being stretched,
+
+as you start to form a sedimentary basin behind the back of the island arc,
+
+okay?
+
+So here you have stretching, even though it's your overall compressional
+
+setting,
+
+because that slab is rolling backwards and beginning to pull back on a bit of
+
+crust that it's subducting.
+
+Okay? And consequently, in these settings, because you've got stretching
+
+and because the thickness of the crust is decreasing,
+
+the buoyant forces acting beneath this area here are decreasing and so it starts
+
+to subside.
+
+So you've got buoyant forces increasing here and decreasing there, okay?
+
+And so island arcs, above subducting zones, often have a seaway behind the back
+
+of them,
+
+which are called back arc basins, okay?
+
+A basin that's behind the back of the arc, okay?
+
+A little bit complicated, any questions on that?
+
+Okay, so ultimately, though we know that you can't just keep subducting ocean
+
+forever,
+
+there's a continent at the end of it, okay?
+
+And so ultimately, you'll get two blocks of continent attaching onto one another
+
+and where one block slightly overrides the other one,
+
+obviously, what we're doing there is we're massively thickening the crust.
+
+We do that through stretching and we do it through foaming,
+
+through one slab being on top of the other, okay?
+
+So in these settings, quite obviously, the buoyant forces are acting upwards on
+
+this, okay?
+
+And you start to get major uplift and formation of mountain belts, okay?
+
+In the strictest sense, okay?
+
+And so this is an example that I'm going to show you, which is from the
+
+Pyrenees.
+
+This is a now inactive mountain belt,
+
+but what's really cool here is that they shot the seismic survey through the
+
+entire mountain
+
+so that we can actually see what it looks like right very, very far down into
+
+the crust, okay?
+
+So just for information, you don't know this part of the world,
+
+you have France here, you have Spain for a while.
+
+Spain was an independent plate which collided upwards into Eurasia to form this
+
+mountain belt called the Pyrenees, okay?
+
+Anybody been to the Pyrenees?
+
+Okay, it used to be a field trip that we did, obviously.
+
+So, many of you may not have looked at seismic data before, okay?
+
+So don't worry about that, but the raw seismic data that was shot through that
+
+cross section, through the Pyrenees,
+
+so there's your cross section there, okay?
+
+We have Spain on this side, and we have France on this side, okay?
+
+And you can see that the Spanish plate or the Iberian plate here subducted
+
+beneath the Eurasian plate,
+
+and we've got this zone of really, really thick crust, okay?
+
+Double the thickness when you're in the Pyrenees than on the adjacent areas,
+
+okay?
+
+And that has the effect of, obviously, this zone of crust here is being void
+
+upwards, okay?
+
+But what about this area of crust that has not been thickened?
+
+Is that being void upwards in principle?
+
+Every bit of crust is acting independently.
+
+Should this be being void upwards?
+
+Here in here, okay?
+
+What actually happens is that the effect of adding all of this thickness, this
+
+weight onto the crust, okay,
+
+acts basically as a load on the Earth's surface.
+
+And so this area, you can just about see it, this area of the Earth's crust is
+
+actually being flexed downwards,
+
+and this area is being flexed downwards towards this giant weight that's just
+
+been added onto the Earth's surface
+
+in the form of this new mountain belt.
+
+And so you get these little areas either side of the mountain belt, okay, which
+
+are bases, which are subsiding, okay?
+
+So counter-intuitively, right, because of flexural loading, because of the
+
+effects of adding all this weight onto the Earth's surface,
+
+you're flexing the crust immediately adjacent to the mountain, and you're
+
+generating these areas in dark grey here,
+
+which are actually subsiding, okay, adjacent to the main area that's being
+
+uplifted.
+
+So the increase in load on the lithosphere through thickening and density
+
+increase leads to long-wave-like flexure of the lithosphere, okay?
+
+And this leads to the formation of what we refer to as fallen basins, okay?
+
+So you have these two basins that are formed in yellow here, adjacent to the
+
+main mountain belt,
+
+because that weight of that mountain is basically like pushing the crust, okay?
+
+Fallen basins receive the sediment that is eroded from the uplifting mountain,
+
+okay?
+
+So if you remember back to what we were saying about the Earth being a dynamic
+
+equilibrium,
+
+the Earth's surface is being uplifted in the mountain belt, that material is
+
+being eroded and is being dumped in these two little basins
+
+that form adjacent to the mountain belt, where you've got subsidence, okay?
+
+Another example, here from effectively the Middle East, is the Zagros mountain
+
+belt.
+
+So what we have is we've got Arabia colliding with Eurasia.
+
+Guys, I'm finding your chat a little bit distracting, it's not offensive by
+
+anything.
+
+So we've got this plate and this plate, these two continental plates which are
+
+coming together, okay?
+
+We've got massive thickening of the crust here, and adjacent to this mountain
+
+belt, called the Zagros mountain belt,
+
+we've got this area of subsidence, and consequently the sea has flooded in to
+
+this area of subsidence to form the Arabian Sea.
+
+The Arabian Sea does not have any oceanic crust beneath it, it's just
+
+continental crust that's being flexed downwards
+
+by this mountain belt that you can see here called the Zagros mountains, okay?
+
+And obviously perhaps the most famous example of an orogenic belt in the world
+
+at the moment are the Himalayas,
+
+so you can see these are the Himalayas, and then immediately adjacent to the
+
+Himalaya is this zone that you can see there, okay?
+
+That's the Gangetic plain, alright, this is where the River Ganges flows.
+
+This area is subsiding, it's not being uplifted, it's actually subsiding at the
+
+moment, okay?
+
+Because this weight of the Tibetan pattern, the Himalayas, is pushing down on
+
+this area of crust here, okay?
+
+Now, so much sediment has been generated by the erosion of the Himalaya,
+
+that all of this space that has been generated here has been filled up with
+
+sediment all the time, but this is subsiding.
+
+Okay, and then finally, so, do I have anything else to interrupt for a couple of
+
+seconds?
+
+I think not. The main mechanisms, okay, are isostasy,
+
+the main orogenic belt is having its forces acting upwards on it and increasing,
+
+because of the increase in volume,
+
+and adjacent to the mountain belt, you've got flexure, okay, the crust that's
+
+leading to subsidence.
+
+Okay, finally, conservative settings, okay, so where you have shear, where
+
+you've got two plates that are moving on one side each other.
+
+What happens there? It's relatively simple. In general, faults are not really,
+
+really, really straight lines, or straight planes, or flat planes,
+
+like you can see in that diagram at the top, that's pretty unusual.
+
+Normally, you have like these kinks in the faults that are related to the fact
+
+that the Earth's physical properties, the rocks, are not, have got a variation
+
+variety, okay.
+
+And so you can see in this example here, right, that if this block, right, is
+
+moving that way, and that block is moving that way,
+
+what's going to happen to this zone where we've got this kink in this direction?
+
+If that's moving that way, and that block is moving that way,
+
+then we have local extension going on here, okay. And similarly, if you've got
+
+the opposite sense, where you've got the kink oriented in the opposite
+
+direction,
+
+you can see that this block is trying to move that way, that block is trying to
+
+move that way, and where this kink is, blocks up, are trying to push against one
+
+another.
+
+And so you have local contraction, you've got local squashing going on, okay.
+
+So all the rules for extension and compression that I told you about earlier on,
+
+they apply to these little zones there.
+
+But they're often quite small, and so the overall effect is quite local, and
+
+it's not like mountain-bound scale uplift and things like that, it seems to be
+
+very local, okay.
+
+Alright, any questions?

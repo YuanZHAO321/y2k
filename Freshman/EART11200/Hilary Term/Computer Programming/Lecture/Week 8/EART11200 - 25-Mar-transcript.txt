@@ -1,0 +1,1639 @@
+'EART11200 - 25-Mar', automated transcript
+01/08/2026
+---
+
+Okay, afternoon everyone.
+
+So what we're going to do today is continue talking about Panda's data frames,
+
+but look
+
+at two specific activities really.
+
+Merging different data frames, so it's very similar to what you've done on the
+
+previous
+
+notebook, but that was based on merging on geographical information.
+
+What we'll do today is merge on time information.
+
+And this is really useful because a lot of the information we're able to access
+
+through
+
+instruments, we're measuring stuff as a function of time, and typically if
+
+you're collecting
+
+any data, whether it's manual or in the lab, then you'll have a time stamp, so
+
+you'll observe
+
+something as a function of, it might be hours, seconds, it might be really high
+
+resolution.
+
+Often we collect things in different ways, so you might have one data frame,
+
+let's say,
+
+on meteorological information, which we'll use today, and one data frame on air
+
+pollution.
+
+For various reasons they might not match, but we want to combine the two because
+
+we
+
+understand the impacts of weather on air quality, which is a key determinant of
+
+air quality.
+
+So really what we don't want to do is have to manually match the data sets
+
+because there's
+
+a lot of chance for error there.
+
+What you'll see today is we can actually get Pandas to do that for us.
+
+So we'll use the index of a data frame, which we've not really worked with up to
+
+this point,
+
+but we can merge two and it makes sure that the exact time aligns between the
+
+two, which
+
+is really useful.
+
+And then we can start looking at potential relationships.
+
+We're going to generate some statistical plots today, not necessarily get, we
+
+don't have
+
+to get under the hood of what those statistics mean, but it's more about showing
+
+what you
+
+can do by loading data in and then visualize the data, so tell a story with the
+
+data.
+
+We're very close to the end, I'm sure you'll be pleased to hear.
+
+So we have one last week of new content, which is next week.
+
+So the reason I put a gap in last week was to make sure that there were any
+
+issues getting
+
+up to this point that you could deal with.
+
+So next week we look at machine learning cluster analysis before the Easter
+
+break, and then
+
+we have that long break, and then after that, the practicals still exist,
+
+there's no other
+
+lectures but the practicals exist, and those practicals are a chance for us to
+
+help you
+
+with your assessment notebook.
+
+This is a relatively short lecture today because I'm going to be repeating what
+
+I've talked
+
+about with Panda's data frames, but show what we can do in generating stats.
+
+So I will spend a couple of minutes on the assessment notebook so you can start
+
+to get
+
+a feel for that and maybe think about which option you want to pick if you
+
+haven't already.
+
+And that then gives you a long runway to work on that until the assessment
+
+deadline, which
+
+is all on blackboard.
+
+But we're going to just quickly look through some statistical analysis today.
+
+Bit of a recap, I hope you're getting a general feel for Python now so you can
+
+get a feel
+
+for its style, how you structure programs.
+
+We've said many times that Panda's is really useful when we want to do something
+
+with data.
+
+It acts as the frame, so the data frame in which we can load data into a data
+
+frame and
+
+then do stuff with that data, whether it's geospatial or whether it's time
+
+series as
+
+we'll see today.
+
+Next week we will look at models and algorithms.
+
+So this classical data science process here, we'll start to actually use that
+
+data that
+
+we're happy with to generate insights.
+
+Specifically what we'll do is we'll detect distinct groups within our data, so
+
+that's
+
+called clustering.
+
+So we merge similar observations together, and that's useful in many different
+
+areas,
+
+whether it's finance, socioeconomic work, or environmental science, because
+
+often what
+
+we're measuring we don't have a label for.
+
+If you're observing lots of different species in an environment, you might have
+
+images of
+
+lots of different birds or sound files of different birds.
+
+You might not necessarily know which one each is, but clustering at least
+
+bunches those
+
+into very similar groups in the same way that we can visualise chairs that look
+
+a similar
+
+colour or a different colour.
+
+So we get into the nuts and bolts of the start of machine learning, but as I've
+
+said before,
+
+everything before that is really key, and demonstrating you can do the generic
+
+data
+
+science process is really important.
+
+And a lot of people are still missing out on this.
+
+If you do want to actually take your coding journey forward after this course
+
+and actually
+
+plough ahead and do more and more work around machine learning and the data
+
+science process,
+
+when you get to applying to the next stage, so you might have a GitHub
+
+repository, which
+
+can help you set that up if you like, so really showcase your digital CV.
+
+The more that you can show that you can do the cleaning steps prior to models
+
+and algorithms,
+
+the more competitive it is, because not many people want to spend time on that
+
+element,
+
+but everything rests on that, because you can create a garbage model from
+
+garbage data.
+
+It's useless.
+
+So we're going to finish off this whole process today by looking at statistics.
+
+This is really the stage of the course at which you can generate really
+
+impactful visualisations,
+
+and I always like to use these diagrams because I think we assume that when
+
+we're doing statistics,
+
+we want to look at numbers.
+
+So we want to understand means, medians and interpret them scientifically.
+
+But you can bypass that and generate really meaningful visualisations, and we
+
+can do that
+
+in pandas.
+
+So what we're going to do is bring in another module that can take the
+
+information in the
+
+data frame and generate statistical visualisations.
+
+These are always examples I like to throw out, because being through the Covid
+
+period,
+
+a lot of hesitancy around vaccinations, lots of misuse of information in the
+
+media,
+
+and this is where visualisations can be really powerful, particularly like this
+
+one on the
+
+right-hand side, and you can do this kind of visualisation in the package we're
+
+going
+
+to start working with today.
+
+And this is just showing as a function of time the yearly incidences of measles
+
+outbreaks
+
+before and after vaccines were introduced.
+
+That in itself tells the story you need to tell.
+
+You don't need to look at medians into quartile ranges and other things.
+
+It actually visualises in a story the importance of the data.
+
+So you can actually bypass a lot of the work that we spend all of our time
+
+focusing on
+
+and actually tell a story with the data to someone who can affect change.
+
+So in my area of work, when we're looking at changes in pollution fields and how
+
+they
+
+impact on health outcomes, someone who's working in a public sector organisation
+
+just wants
+
+to see something like this, they need to tell their bosses that we need to keep
+
+funding
+
+this.
+
+So this is why the Python environment's great.
+
+If you were working in another environment, which would be fine, much more low
+
+-level coding,
+
+you wouldn't necessarily be able to produce these so quickly.
+
+And relevant to last week, you can put the same information on a map.
+
+So seeing the time-varying information, we're going to focus on time series
+
+today, is important,
+
+but then to see the regional dependencies of hesitancy, for example, that also
+
+tells
+
+us a lot.
+
+So what we're doing is you can start combining the different modules we've
+
+integrated into
+
+our workflow so far for a particular purpose.
+
+And there are many different visualisations.
+
+You may or may not have come across some of them before.
+
+We're going to work with something called a box plot today.
+
+Have you heard of box plots before?
+
+Well, box plots are a really nice way of visualising the statistics of the data
+
+in a single figure.
+
+So for example, this is just actually taken from the Seaborn documentation.
+
+So Seaborn is the package we'll work with today.
+
+Look at this top category here.
+
+So I'm looking at the variation in radial velocity.
+
+This is an astronomy data set as a function of distance.
+
+A box plot allows us to see the distribution of our data, but highlight the
+
+mean, the
+
+interquartile range, and the outliers.
+
+So in a single figure, we can see how skewed our data is, where the outliers
+
+are.
+
+Do we need to ignore them?
+
+So we don't have to create line plot after line plot after line plot because
+
+quite quickly
+
+you wouldn't be able to see the information in your data.
+
+In a box plot, which is a standard statistical distribution plot, we can do
+
+that.
+
+So we're going to look at pollution fields as a function of time, which we'll
+
+see shortly.
+
+So imagine this axis was hour of the day, and we're going to look at air
+
+pollution
+
+you can then see the range of values as a function of the hour of day.
+
+And why that's important?
+
+Because you can start to link that with human activity.
+
+If you see pollution spikes during rush hour, you can then start to infer.
+
+There's probably a relationship there.
+
+So again, that's the kind of thing that someone in the healthcare sector wants
+
+to see.
+
+They don't want to be concerned with all the data we're dealing with.
+
+They just want to see the impact of the environmental fields we're looking at.
+
+So I'm going to recommend actually that there's many different modules we've
+
+worked with.
+
+Start looking at the documentation of these packages because you can go
+
+much further beyond than what I'm introducing you to.
+
+And Seaborn is another example of that.
+
+You can produce really pretty visualizations with the data you're already
+
+playing with,
+
+including data in GeoPandas as well.
+
+You don't have to be limited by the data from a particular notebook.
+
+Okay, so but before we get to that, we need to tell pandas what we want to
+
+visualize.
+
+In this case, what we want to do is start looking at temporal patterns.
+
+So we've loaded data in already to a data frame.
+
+You've seen the typical profile where we have column names and data across a
+
+row.
+
+In this case, it's name, age, salary department.
+
+It's just a standard visualization.
+
+But what we haven't done is use the row indices.
+
+Because when we've loaded data into a data frame, pandas does that for us.
+
+And it makes sense because it assumes that the first row has an index of zero,
+
+second has an index of one.
+
+Everything starts at zero in pandas.
+
+But if we tell Seaborn, which is the statistical visualization package,
+
+I want you to give me all of the information at 9 a.m. on a weekday.
+
+Then how do we do that?
+
+Again, what we don't want to do is start getting ourselves in a twist
+
+by chaining together different conditional statements.
+
+We could if we wanted.
+
+But Python's all about redoing the minimum, really,
+
+in terms of the way that language is built.
+
+So what we'll see today is we can specify that if we have a column that has
+
+time,
+
+that can become our index.
+
+And we can tell pandas and Seaborn, just give me the values at 9 a.m.
+
+And it'll do that automatically.
+
+And again, that removes a hell of a lot of work that we would have to otherwise
+
+do.
+
+You can specify more complex criteria.
+
+Give me information on a Saturday in April between the hours of two and four.
+
+It really depends what you're interested in.
+
+But again, it's about selecting that subset of data.
+
+So by using indices, we can make this even more powerful than we had up to this
+
+point.
+
+So we've loaded data in and we've had a preview that looks like this.
+
+We could create a data just by specifying a range of values as well.
+
+The point being, you've seen this type of data frame already.
+
+One thing I mentioned at the beginning of today
+
+was the ability to merge different data frames.
+
+We don't have, just to repeat that,
+
+we often don't have everything we need in a single space.
+
+You'd probably get a feel for that on the last practical.
+
+So when we've loaded shape files, raster data, vector data,
+
+they've all come from different repositories.
+
+And in those examples, we were able to clip on a map by a certain geographical
+
+region.
+
+What we'll do today is once we can tell pandas that the index is time,
+
+and ask it to merge two data frames on the same timestamp.
+
+So even if they don't overlap, we can remove above and below that time
+
+or identify missing values.
+
+So then our statistics are safe.
+
+Because if I want to, for example, generate a correlation coefficient
+
+between one column and another,
+
+and they've come from two different data frames,
+
+if they're not in sync, I'm going to get an erroneous statistic.
+
+And that can then lead to many, many errors, as we say, upstream.
+
+So if I'm providing data to inform a decision and my data's wrong,
+
+then that decision could be wrong.
+
+So remember that data science process,
+
+it doesn't matter what we do with the models and the algorithms.
+
+If the data's not right, this can lead to massive problems.
+
+This is when it comes to AI, there's a real attempt at the moment
+
+to rapidly define the regulations.
+
+So if we're building a model to effect a change,
+
+and that can be clinical healthcare models,
+
+someone's trying to generate a foundational model
+
+of all of our NHS records at the moment called Nightingale AI.
+
+It's ridiculously large, complex challenge.
+
+But if data's wrong in that,
+
+and that'll be used to inform clinical practice,
+
+you can see where the problems lie.
+
+And then who's at fault?
+
+Is it the scientists at fault?
+
+Is it the people who developed the model?
+
+So this is what regulations deal with.
+
+But the point being is Pandas is that safe environment
+
+to make sure that the data is doing what we think it should be doing.
+
+And then when we merge the data,
+
+then we can generate correlation coefficients,
+
+we can generate box plots,
+
+and you'll see that in the practical today.
+
+So you've already seen an index,
+
+but as I said, we've not done anything with it.
+
+What we've done up to this point is we've loaded data into a data frame,
+
+we've extracted data from columns,
+
+whether it's latitude and longitude values.
+
+And remember the link to NumPy, numerical Python there.
+
+So when we extract numerical data out of data frame,
+
+it gives us a NumPy array.
+
+We can do multiple things with that array.
+
+We've plotted it on a canvas in Kartopi,
+
+but then we took it in a much more robust way and used GeoPandas.
+
+But we didn't do anything with the index.
+
+So what we're going to load today is two data frames.
+
+We're going to load data on meteorology and data on air quality.
+
+And I've got that information from an air quality monitoring site from China.
+
+And we can get it from any part of the world,
+
+but it's just to illustrate the point that what we have in this data set
+
+is meteorology from multiple sites, air quality from multiple sites.
+
+And I'm only interested in one site.
+
+I want to look at the range of meteorology and air quality at one site.
+
+So think about what we need to do here.
+
+We're going to load data into two data frames.
+
+We're going to merge them so they meet on the time
+
+and then going to extract a subset from a single site,
+
+so meteorology and air quality.
+
+And then I'm going to tell Seaborn,
+
+show me the hourly range of values because of that index.
+
+So it's building up that stack of what you can do.
+
+So the different functionalities available to us in Pandas.
+
+We could always interrogate the index with the data,
+
+the frames that we've had thus far.
+
+If you remember when you have the name of a data frame dot something,
+
+that's using an internal property or internal function that data frame has.
+
+So dot index just tells us in this case,
+
+the data that we're loading in today has 15, 158,047 rows.
+
+It's quite a lot.
+
+But again, I don't want to manually deal with that.
+
+And this is where I want Pandas to do a lot of the heavy lifting for me.
+
+What we end up doing is using another function of a data frame called set index.
+
+And that function allows us to tell Pandas,
+
+we'll use this column as the data frame.
+
+We have a column that we'll load in called UTC underscore time.
+
+So this is a standard time format
+
+that a lot of environmental monitoring instruments use.
+
+So typically if you're making a measurement
+
+at some point in any part of your degree,
+
+you might go outside with a bit of kit, measure stuff outside or indoors in the
+
+lab.
+
+There will be a timestamp on that data frame, on that data set, sorry.
+
+If there isn't, it's a pretty useless instrument.
+
+So we've got two separate data frames.
+
+What I've done before this point is I've told Pandas
+
+that the information in that column is time information.
+
+And then set that value to the index.
+
+So we've got two separate data frames here,
+
+one on meteorological information.
+
+This is just the name that I've given it.
+
+One on air quality, set the index and then I can merge the two.
+
+And that's doing that overlapping operation that I've talked about before.
+
+So there's another function that enables that merge.
+
+Yeah, so again, we're pulling out,
+
+there's so many functions in Pandas and in Pandas data frames.
+
+Pandas pd.merge is that merging function.
+
+So we've imported Pandas, import Pandas as pd.
+
+We can access the functions from Pandas, pd dot whatever.
+
+And merge, if you look at the documentation,
+
+allows to specify which data frames we want to combine and on which column.
+
+Or it'll do it on index if we don't specify.
+
+So this combined data frame is a brand new data frame.
+
+It's not a copy, it's actually creating a new one.
+
+So when we first loaded data in,
+
+we used the dot head function to give us a preview.
+
+And what you'll see when you do that is it now combines
+
+meteorology and air quality information on a common timestamp,
+
+which we can set to the index again.
+
+So pretty much all of this that we're doing is getting a feel for the workflows
+
+and which functions to use.
+
+As I said at the very beginning,
+
+a lot of these functions have been built by the community.
+
+They've been tested, validated.
+
+We just use them in a very applied sense,
+
+which is really what we want to do more broadly.
+
+Once we've done that, we can then produce these box plots.
+
+This is actually information that's not provided,
+
+but if anyone's interested, I can provide it for you.
+
+But this is just illustrating what we can do.
+
+So in this case, I have a data frame with timestamps.
+
+And this is when we were researching the impact of the lockdown
+
+on traffic flow and air quality.
+
+So the information in this graph we provided to the council.
+
+And this just shows that again,
+
+I can specify using Seaborn colors for different criteria.
+
+So there was a period obviously with lockdown was a thing
+
+and it wasn't a thing.
+
+And we found that the ratio of HGVs to normal traffic
+
+increased significantly during lockdown
+
+because pollution wasn't dropping as quickly as we thought it should.
+
+We were all online ordering on Amazon.
+
+So the number of HGVs went up
+
+and we're all coming down certain routes.
+
+I think DPD increased threefold its business operations.
+
+And then that made sense.
+
+So we were monitoring increases in carbon,
+
+nitrogen dioxide and particulate matter
+
+that just didn't reflect the state that the country was in.
+
+But this made sense.
+
+So we gave this to Transport for Greater Manchester
+
+and said, look, this is a really unfortunate experiment,
+
+but this shows the impact of HGVs,
+
+which we know are one of the key pollutants.
+
+But getting to this point was through pandas and using Seaborn.
+
+These are the plots that you'll produce.
+
+So you'll have that combined data frame
+
+with their quality and meteorological information
+
+because the index is the time.
+
+We'll tell Seaborn to use X and Y.
+
+You don't need to get a feel for that here.
+
+We'll look at the notebook shortly.
+
+But we can tell Seaborn from our entire data frame,
+
+use this column on the Y axis
+
+and on the X axis, take from the index the hour.
+
+So this data frame dot index basically is me accessing the index.
+
+And the hour dot minute dot second dot weekday dot month
+
+is a property of a timestamped index.
+
+So I could specify the weekday if I wanted to.
+
+I could just switch this hour to weekday
+
+and produce a plot to look at the variability over the week.
+
+What this shows us is there's not much diurnal dependency
+
+on particulate pollution.
+
+And you wouldn't expect that in the UK anyway
+
+because now we've moved away from heavy industries.
+
+You don't see these spikes as a function of human activity.
+
+Very different in other countries.
+
+You do with nitrogen dioxide because a lot of that comes from cars.
+
+So you see the rush hour peaks going through.
+
+But that's just to illustrate you can generate plots
+
+that make sense scientifically.
+
+But you'll be able to select a subset in the notebook,
+
+produce these plots for October, produce them for December.
+
+There's a big problem with particulate matter in colder months
+
+because everyone puts their wood burners on.
+
+They've become trendy, haven't they?
+
+And we see that now certainly in South Manchester.
+
+The spike in particulate pollution in affluent areas as well.
+
+Various political connotations there.
+
+But it's all about producing statistical plots.
+
+We can produce correlation coefficient heat maps
+
+using the exact same data frame.
+
+So dot core is a property of our data frame
+
+that produces a correlation coefficient matrix
+
+Seaborne can then take that matrix and produce this heat map.
+
+So these are correlation coefficients.
+
+So the hotter the cell,
+
+the higher the correlation between meteorological factors
+
+and pollution factors.
+
+So we can start to understand the relationships inherent in the data.
+
+I would recommend checking it out
+
+because you'll find within the Seaborne documentation
+
+there are a lot of really interesting visualisations.
+
+This is the kind of stuff you can use moving forward out of this course.
+
+One thing I like about this course is it doesn't matter
+
+which pathway you pick.
+
+If you've got access to data,
+
+you can generate really interesting reports for dissertations.
+
+You can play around with it yourself as well.
+
+So I think the workflow you'll come across today
+
+using Seaborne and Pandas,
+
+you can apply to any data that you can load in,
+
+whether it's time series,
+
+you could then combine it with the GeoPandas data frames as well.
+
+So let's just have a quick look at the notebook
+
+so you get a feel for that.
+
+And then I'll quickly go over the...
+
+Because we have time,
+
+I'll go over the assessment procedure as well.
+
+Okay, right.
+
+So standard notebook layout.
+
+There are multiple exercises.
+
+The standard box at the top,
+
+whether you're working in Google Colab or not.
+
+So we're going to load CSV files today.
+
+Pretty bog standard format.
+
+That's the data that I downloaded from the embassy site.
+
+Embassies often have information on meteorological and air quality data.
+
+So I've just loaded in a particular file from Beijing.
+
+2017 to 2018, random selection of years.
+
+Preview the data frame we've loaded in
+
+so we can see the information we have.
+
+The underscore MEO files and meteorological data,
+
+there's an underscore AQ file as well.
+
+They're kept separately.
+
+So that's the whole point of this exercise.
+
+We can interrogate the data types in our columns if we want to.
+
+We can interrogate this shape and size.
+
+We've done that already.
+
+The first exercise is to count the unique entries.
+
+So there's a column called station ID
+
+because I want to get a feel for how many stations there are
+
+making meteorological and air quality measurements.
+
+So remember this value underscore counts.
+
+You did that with the volcanic data set,
+
+which I got from the Smithsonian Institute.
+
+And in here, it tells us there are 18 points in the network.
+
+Not a huge amount, but it's standard for air quality stations
+
+because they're very expensive to run.
+
+We can plot a histogram of variables at a particular site.
+
+So what I'm doing here is I'm chaining together
+
+conditional operations with a histogram.
+
+Because remember with a data frame,
+
+I can specify a condition and only work with the data
+
+when that condition is met.
+
+So if you recognize I'm saying work with this data frame
+
+but only when this is true.
+
+So when the station ID is given by this entry,
+
+then produce the histogram of that data
+
+showing me the variation of temperature at that site.
+
+So in a single line, loaded data in,
+
+get a feel for the temperature variation.
+
+It can get very cold.
+
+It can get very, very warm.
+
+So we can get a feel for the distribution of meteorological parameters.
+
+We'll make these look much nicer next week.
+
+So the Seaborn documentation does have
+
+much more prettier versions of histograms.
+
+We'll use that next week before we do some machine learning.
+
+Just to show you how nicer it is to look at statistical distributions
+
+because these are awful.
+
+They're just block diagrams, aren't they?
+
+We can produce really nice plots and overlay distributions
+
+according to different criteria.
+
+So we can chain together multiple operations.
+
+But then we get onto merging two data frames.
+
+The first thing we need to do is load in this separate data file,
+
+CSV file on air quality.
+
+We preview that.
+
+And again, there's a station ID.
+
+But notice the station ID is named a little bit differently.
+
+So that can be confusing.
+
+It's just the way the data was collected.
+
+But first thing we need to do is tell Pandas
+
+that there's a column in there that has time information.
+
+So the data frames that currently exist,
+
+this, Pandas won't recognize this as time.
+
+It'll only recognize it as text.
+
+So we need to tell Pandas, convert that into information
+
+you will understand.
+
+I.e., when I ask you to give me the hour, minute, second, or month,
+
+it can do that.
+
+So there's a function called to date time.
+
+And that will take, in Pandas, that will take any string
+
+that dates can be written in and store it in a time format.
+
+So underneath the hood, I can then tell Seaborn,
+
+give me all the data on a box plot for all the hours of the day.
+
+We couldn't do that if we didn't do this first.
+
+So the Pandas to date time function creates a column.
+
+We do that on both data frames.
+
+And then I'm going to set the index.
+
+I'm going to actually extract single sites first.
+
+So if I'm not on the entire network.
+
+Then we set the index.
+
+So that's, again, setting the index to the timestamp format.
+
+Once we've done that for both, we can then merge.
+
+Merge them both.
+
+And we're left with a new data frame that combines all the information.
+
+So that same workflow could be repeated.
+
+You could have three data frames, you could have 12.
+
+Yeah, you'd just merge them one by one,
+
+which is a bit of a pain in Pandas.
+
+You can't give it the entire array and do that.
+
+It wants to check every merge operation.
+
+So you just write multiple lines to do that.
+
+And then we get into plotting this diurnal profile.
+
+So we're importing Seaborn as SNS.
+
+And the thing to look at here is Seaborn has a box plot function.
+
+And as with any function, there is an expected set of inputs.
+
+I haven't defined these.
+
+Seaborn will want it to tell us, want us to tell it rather.
+
+What's the name of the data frame you're working with?
+
+What x variables and y variables do you want me to work with?
+
+In this case, because we have an index, which is a date time,
+
+I'm telling it, please use the data frame I'm working with,
+
+with the index hour for the x-axis.
+
+And please use the column PM2.5 to generate this information.
+
+So I could change that to weekday.
+
+Look, if you see here, I change it to month.
+
+And I'm actually specifying only look at data in August.
+
+So I can change together multiple things here,
+
+depending on what questions you're trying to answer.
+
+Follow on from that is doing your own repeat of that on another station ID.
+
+But then we generate some statistical analysis.
+
+A data frame has a core function.
+
+What this means is we can specify all the columns
+
+we want to generate correlation coefficients between.
+
+That produces a matrix as a data frame.
+
+And then Seaborn takes that and can produce a heat map on that same information.
+
+So not much Python code at all.
+
+So it looks like this notebook's quite big,
+
+but actually there aren't many operations.
+
+A lot of it's what you've done already,
+
+loading data in, having a look at the data,
+
+but then learning about new functions available in both Pandas and Seaborn.
+
+And at the end of this notebook,
+
+we do something that's much more complicated.
+
+We'll produce what's called a pair plot from a data frame.
+
+And what a pair plot allows you to do, it's hard to see here,
+
+but look at the relationship between each column and its other partners.
+
+So I between pressure and temperature, for example.
+
+So you can actually look at how values vary.
+
+This can become quite a complex figure to look at,
+
+but it's another option that will showcase how to use.
+
+Okay, so that's really what the notebook is all about.
+
+So I just wanted to talk through the assessment option.
+
+So there's now an assessment folder on Blackboard,
+
+which gives you the information about where to upload the notebook.
+
+So what you'll end up doing,
+
+you'll see here there's an assessment folder,
+
+and there are six different options for you to pick.
+
+And each one of those options relates to,
+
+if we go back to the very beginning, one second,
+
+a particular week, there we go.
+
+Sorry, there are six options.
+
+Yeah, I had the wrong repository then.
+
+So I'll open one here and then we'll look where am I?
+
+Yeah, so there are six options starting from week four up to next week.
+
+Yeah, so you don't have to do more than one.
+
+They all have the same feeling.
+
+The key really is to start looking at what's being asked in the notebook.
+
+In each example, you can use the exact same code in the practical
+
+to drop into your notebook,
+
+but you might need to change the options or change the flow a little bit,
+
+change any for loop, produce an extra set of plots.
+
+So there's one on Conway's Game of Life, differential equations.
+
+There's two on geospatial, one on the content today,
+
+and one on next week, which is cluster analysis.
+
+Let's have a look at what they look like.
+
+So as an example, this is the first option,
+
+which is Conway's Game of Life.
+
+And in all examples, they're a single notebook
+
+where you have text boxes and an area to put your code.
+
+So it's like writing a mini report.
+
+Okay, so let's have a look down here.
+
+So there's abstract intro methodology,
+
+and then there's an area to put your code.
+
+So there's a lot of freedom in here in the sense
+
+that there's no minimum or maximum length
+
+because you've all got your own style,
+
+but the key really is the abstract is to summarize to someone
+
+exactly what this report is showing.
+
+So treat this as if you were coming at this completely cold.
+
+You're not going to be an expert in any of the options you pick.
+
+That's absolutely fine.
+
+But at least introduce the producer,
+
+provide a background on why this area might be relevant.
+
+So you might have to do a little bit of digging around the area,
+
+not too long, but set the scene as to what the area is all about.
+
+The key section is then really around methodology.
+
+So I put two here.
+
+So there's methodology using class templates,
+
+which is required.
+
+So that's really explaining to a user modules and functions
+
+that are used, the workflow that's apparent in the code.
+
+Because what you tend to have in the same way with documentation
+
+is you might be able to look at some code
+
+and get a feel for it with comments,
+
+and you'll also be adding comments in the code.
+
+But also people want to read a narrative,
+
+and that's what this is about.
+
+If you want to do the same task using generative AI code,
+
+absolutely fine.
+
+But put that code in and describe it
+
+because ultimately I've spent so long with this content.
+
+I've seen all the options available.
+
+But if you want to play with that, that's absolutely fine.
+
+What I'd recommend, though, is at least doing this one first
+
+and then getting a feel for what generative AI tools can give you.
+
+We'll open up Blackboard shortly.
+
+There's a rubric on there.
+
+There's guidance, what's expected in each section.
+
+But for the code, as I said, you can either have
+
+an entire one single code block to generate plots
+
+or generate the analysis, or you can break that up.
+
+Because in notebooks, you can create new code blocks.
+
+You can create new cell blocks as well.
+
+If anyone wants to be shown that in the practical,
+
+we can do that.
+
+It's in the options at the top of a notebook.
+
+And then the results section talk about what's happening.
+
+This is similar to what you'd do in any write-up
+
+and any dissertation, but it has a code element to it
+
+because you've either used some numerical simulations
+
+or you've loaded data in to do that.
+
+Get a feel for the type of time you'd spend on this.
+
+We've provided time after Easter.
+
+So there's two practicals where we'll be there to help.
+
+We can't do the work for you, obviously,
+
+but we can give you guidance, refer you to the solutions
+
+from the weekly practicals.
+
+So we don't want to drop you in this
+
+and then just upload a notebook on your own accord.
+
+We're there to help.
+
+It's all about applying Python in this case.
+
+I'd normally always recommend getting the code working first,
+
+generate some outputs, and then start writing around that.
+
+Because that's where the practical sessions,
+
+that's where you can get help in the practical sessions.
+
+Let's just load the Blackboard page.
+
+So I think really you might already have a particular week
+
+where you think probably can work easiest
+
+and enjoy that the most.
+
+Every year, the majority of people
+
+do the Conway's Game of Life option,
+
+but it's normally around 60, 70% do that and the rest.
+
+But it's entirely up to you what you pick.
+
+It's really about making advantage
+
+of the options yourself as well.
+
+Let me just log into here.
+
+So you'll see there's an assessment folder here.
+
+And this explains the process
+
+of how you then upload the file as well.
+
+Because whether or not you're working on the clusters
+
+in your OneDrive or Google Colab,
+
+you can download the Jupyter Notebook file
+
+and that's what you'll upload for me to run.
+
+So no PDFs, no Word documents, the actual notebook file.
+
+You would download that and upload it to turn it in.
+
+It's not the ideal way of doing it.
+
+We'd have a GitHub repository in doing that,
+
+but it's too complicated to do with the university.
+
+You'll see that the deadline is 12th of May.
+
+So there's quite a lot of time left to do that.
+
+I know you've got other deadlines to meet and exams,
+
+but it's before the exam period.
+
+And this explains the process of downloading the code.
+
+But you'll see here as well,
+
+and there's a notebook drop-off link that's turn it in.
+
+You'll see there's guide sheets for the report
+
+and the code as well.
+
+So that gives you a general feel for what I'm looking for.
+
+There's always room for individualism.
+
+It's absolutely fine.
+
+But that should hopefully get a feel
+
+for how much information you need to provide
+
+in these notebooks to get a good mark.
+
+As I said before, the code is there.
+
+You can use the code from the practical sessions.
+
+Not all of it will have comments.
+
+And you'll also need to change
+
+some of the options in that code
+
+to apply to the particular problem defined in the notebook.
+
+So what I'd start doing,
+
+and there's also some FAQs that come up every year.
+
+As I said before, the practical sessions
+
+are really our chance to help you
+
+over that two-hour period, one-to-one where we can.
+
+I'm not interested in what referencing style you use.
+
+Just be consistent.
+
+There's no maximum or minimum length.
+
+But you'll get a feel for how much information
+
+that you provide in the writeup as well.
+
+And there is chat GPT guidance as well.
+
+As I said before, you can use that if you reference it.
+
+Generating code, it might be an interesting exercise to do.
+
+In some examples, it doesn't necessarily
+
+give you the right answer either.
+
+So make sure you test it when you're running it.
+
+So what I do, there's plenty of time before Easter.
+
+We have the notebook to work on tomorrow.
+
+But maybe get a feel for that.
+
+Get a feel for which one if you want to work on.
+
+If you want to talk that through with me tomorrow,
+
+absolutely fine.
+
+If you want to start working on it, it's absolutely fine.
+
+But do give room for the notebook today.
+
+And also next week, I think is probably the one
+
+that's most directly useful
+
+based on the current investment areas of focus
+
+and investment outside of your degree
+
+in terms of AI and data science.
+
+So do run through that.
+
+You might find that that's probably
+
+might be the most interesting one for you
+
+in terms of the assessment option.
+
+So you can repeat that workflow in the assessment notebook.
+
+So I'll leave it there.
+
+We've got next week to talk through this as well.
+
+So I wanted you to get it out there
+
+before we start break for Easter
+
+because then you can spend that time
+
+if you like over Easter and have access to the material.
+
+Any questions, let me know.
+
+Otherwise, I'll see you in the morning.
+
+Oh, hang on, seats.
+
+Oh, there you go.
+
+Ah, okay, so you can, well there are ways of putting comments, I'm actually
+
+hoping people
+
+will put comments, you're expected to put comments on different parts of the
+
+code.
+
+You don't need to reference where the code came from, you can use the code from
+
+the notebook,
+
+that's absolutely fine.
+
+Does that make sense?
+
+Yeah, yeah.
+
+Last week, but...
+
+Oh no.
+
+What's the error message?
+
+Okay, I'll have a look at that.
+
+I'll take a look.
+
+Always fun.
+
+It's like writing a report.
+
+Yeah, the text bit is, yeah.
+
+But there's obviously, there's a code and text element to it.
+
+Yeah, I saw like the code box at the very end.
+
+Yeah, so it's near the results section, but you can introduce your code,
+
+whatever.
+
+It doesn't matter.
+
+Yeah, just to introduce the area, just as if you were telling you about the
+
+area.
+
+So we're not expecting a big essay on that.
+
+So like, are we just, I saw like for introduction and for methodology, you have
+
+some like polyphones
+
+that need us to answer.
+
+Yeah, there's guidance on there, yeah.
+
+Okay, so we just have to like answer those polyphones.
+
+Yeah.
+
+Do we have to like elaborate or something?
+
+No, so if you just read through the guidance and then any questions I can answer
+
+tomorrow.
+
+So start reading through the guidance on Blackboard and see if that makes sense.
+
+There should be enough information.

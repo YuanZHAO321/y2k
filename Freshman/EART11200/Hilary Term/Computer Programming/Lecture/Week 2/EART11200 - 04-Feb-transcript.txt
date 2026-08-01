@@ -1,0 +1,1537 @@
+'EART11200 - 04-Feb', automated transcript
+01/08/2026
+---
+
+Thank you very much for joining us.
+
+Okay. Hi, everyone. Good afternoon. Welcome to the second week of the
+
+programming course.
+
+So again, I'll spend the next 40 minutes or so just going over what we're going
+
+to do
+
+today. A bit of a recap of what we did last week and we'll look at the structure
+
+of the
+
+course moving forward. So I think as I said last week, these first couple of
+
+weeks are
+
+all about the bare bones of the Python programming language and really the bare
+
+bones of any
+
+programming language. And what I mean by that is at the moment it feels hard to
+
+see how
+
+this is applied but we'll get to that specifically from week four where we'll
+
+actually make
+
+something work. But this is all about how you create stores of numbers, stores
+
+of words,
+
+how you can access them, change them. And what we'll move on today are two
+
+specific areas called
+
+for loops and conditional statements, which we'll go over that shortly. And
+
+that's really
+
+starting to add logic into our program because we often, well, more often than
+
+not, we need some
+
+of logic. Even if we're building scientific software. To give you an example, if
+
+you're
+
+running a model of the ocean currents, it might be that depending on the scale
+
+that you're
+
+interested in, there are certain theories that work or don't work. So you can
+
+add some logic
+
+into your simulation code that will change the theory when the scale changes. So
+
+it's very common
+
+to have logic. And we'll talk about nested loops. And what that means is you can
+
+make all of this
+
+as complex as you need it. So we'll see with for loops, we can search through
+
+arrays that we've
+
+created. We then use conditional statements to find when something is true. And
+
+if it's true,
+
+we might act on that. And then we'll have a quick look at practical two. And
+
+there's a specific
+
+example in practical two where I've kind of tried to replicate the challenge
+
+that any stranger
+
+fans in the house. Yeah, maybe I am. Bob Newby did in series two where he had to
+
+crack the code
+
+before he got mauled to death in the scientific facility. But basically that was
+
+a nested for
+
+loop to find a combination of numbers that would then crack a passcode. Yeah,
+
+very naive passcode,
+
+but nonetheless, we'll do that today. So that's bringing everything together at
+
+the end of the
+
+class. But as I said before, it's still not very applied, but we'll get to that
+
+in the next couple
+
+of weeks. Okay. So just to remind ourselves on that. So really this week and the
+
+last week is
+
+what I called vanilla Python last week. That's very much, we're not importing
+
+anything to help us.
+
+This is Python we get out of the box. We're not bringing in any extra modules.
+
+We get to modules
+
+next week. And what we're doing today and what we did last week, we'll write it
+
+in a slightly
+
+different way. And we'll use something called the NumPy or NumPy module,
+
+numerical Python.
+
+The reason we do that is because from that point onwards, everything we bring in
+
+expects us to use
+
+NumPy arrays, numerical Python arrays. And what they are really is very, very
+
+efficient
+
+arrays in Python. Because if you remember last week, I talked about the
+
+difference between
+
+compiled languages and interpreted languages. Python's an interpreted language,
+
+which is great
+
+because we don't have to define everything. We can literally write X equals 2.4,
+
+Y equals 4.8,
+
+and multiply the two. In a compiled language, we would have to tell the compiler
+
+before we wrote
+
+that what to expect. Is it floating point? Is it single? Is it an integer
+
+number? We don't have to
+
+do that in Python. But we can speed it up. And there's something called the
+
+NumPy module,
+
+which is an efficient version of storing arrays. And we'll use that moving
+
+forward.
+
+The great thing about week four is we actually start building something. And we
+
+construct
+
+Conway's game of life. And that's implementing four simple set of rules that a
+
+mathematician
+
+John Conway came up with in the 70s. And from those four simple rules alone, you
+
+can create
+
+chaotic life. And you'll see that on the screen. You'll see simple species
+
+moving around the
+
+screen, interacting with each other. So we'll visualize in Python effectively
+
+what's happening
+
+to a two-dimensional array. And we change the numbers in those array. So that
+
+will bring
+
+together four loops. We'll cycle through that array. We'll use conditional
+
+statements. We'll
+
+change the numbers according to some logic. And then we'll print it to the
+
+screen. So week four
+
+really amalgamates everything we're doing last week, this week, and the week
+
+after. And then in
+
+week five, we'll actually solve some specific problems, which is directly
+
+relevant to what
+
+you're learning with Matthew, where we can write in Python some differential
+
+equations. I think
+
+you started looking at calculating gradients using the laws of differentiation.
+
+What you'll
+
+find later on in that course is most scientific theories are written in terms of
+
+differential
+
+equations, heat transfer, mass transfer. We simulate our climate by solving
+
+hundreds of
+
+equations. These are physical and chemical laws that are written in that form.
+
+But we can't solve
+
+them by hand, even though you'll learn techniques how to do that. We write
+
+numerical programs on a
+
+computer to do that for us. Far too complex. And what we'll do in week five is
+
+write some
+
+differential equations and ask Python, please solve it for me. Here's a starting
+
+condition,
+
+predict how it will get, what will happen in the future. Then in week six, we
+
+start loading data
+
+in. So everything we do up to week six is creating numbers and arrays ourselves,
+
+solving
+
+equations. But in week six, we'll load some data in. We'll load geospatial data
+
+in. That's
+
+specifically data on volcanic eruptions. So we'll plot it on a map. You'll see
+
+how it matches the
+
+plate tectonic boundaries perfectly. Week seven, we'll do some GIS in Python. So
+
+we'll load what's
+
+shape files. We'll talk about that then. Flood risk maps. Bedrock information.
+
+We can map the
+
+UK and we can target certain areas in the UK and calculate distances. And then
+
+eight and nine,
+
+we'll do some stats. So again, what you've learned already in your stats course,
+
+you've learned some
+
+rudimentary stats. We can get Python to do all of that for us. So again, unlike
+
+other programming
+
+languages like Fortran and C, Python has a whole ecosystem of modules and tools
+
+that as a scientist
+
+are really useful for us to use. We can get the language to do that for us. All
+
+right. And then
+
+nine is really is a quick dive into machine learning and AI where we'll apply
+
+what's called
+
+cluster analysis to group observations together. Okay. And then there's no new
+
+content. That's all
+
+about working on your chosen assessment notebook, which I'll go through after
+
+Easter. And you'll pick
+
+one notebook that replicates content from four through nine, depending on your
+
+preference.
+
+Not to worry about that at the moment. Okay. So just as a bit of a recap, Python
+
+is one of
+
+many programming languages. It is a great place to start and stay. The only
+
+reason we move on
+
+typically is speed and being able to squeeze performance out of a computer. That
+
+might be
+
+a global climate model. Okay. But whatever you learn now, you can translate to
+
+other languages.
+
+Okay. So whatever you're learning is you can transfer it. You just write it in a
+
+certain way.
+
+And that's because each language has its own syntax, has its own style in the
+
+same way our
+
+human languages have their own styles and ways of writing. Same with programming
+
+languages.
+
+What we saw last week is that we can create anything we want from scratch. We
+
+don't have
+
+to define it. The first example is we assigned a value to a variable that we
+
+defined. I could
+
+have called that A, B, David, Bridge, whatever. It doesn't matter. What we're
+
+telling the interpreter
+
+is please assign this value to that variable. But we're not having to tell the
+
+interpreter
+
+what the variable is going to expect. That's what you do in a compile language.
+
+We can do multiplications, division, addition. And what you'll start seeing from
+
+today onwards,
+
+we can do that with arrays as well. Next week, we don't even have to use a for
+
+loop.
+
+We can just multiply huge arrays together and it will calculate the elements
+
+multiplied together
+
+for us. We created a list and a tuple. The only reason I gave you an idea of a
+
+tuple last week,
+
+because if you did start looking for Python courses online, you're bound to be
+
+presented with a
+
+tuple. But we will always use lists. And you'll see that the syntax is
+
+different. With a list,
+
+we have square brackets. With a tuple, we have curly brackets. The reason we use
+
+lists is because
+
+we can modify them. We can expand them. We can change them. We can shrink them.
+
+Tuples you can't.
+
+But tuples are very efficient from a memory perspective. We will not run
+
+anything in this
+
+course where you'll have to wait for more than a few minutes for a calculation
+
+to finish.
+
+Once you're getting on to hours, days and weeks, then that becomes an issue.
+
+There's something behind the scenes that makes a tuple more efficient than a
+
+list. You don't have
+
+all the elements next to each other. It's like a row of terraced houses. The
+
+computer knows
+
+exactly which door to go to and that won't change. So it's quite efficient to
+
+pull data from those.
+
+With a list, it can put them across the whole estate. We're not saying put it
+
+all together.
+
+So it's just less efficient. You might have to travel a bit further,
+
+literally, to get the data back, the information back. Python does all that for
+
+us.
+
+Once we've created a list, which we'll refer to as an array as well,
+
+a list is a specific entity in Python, but arrays are general. And you'll know
+
+now that
+
+arrays are a collection of things. It can be one dimension. So a strip. It can
+
+be two dimensions.
+
+Matrix. It can be three, four, five, six, seven dimensions. It doesn't matter.
+
+But the thing with Python is once we want to pull values back from an array or a
+
+matrix list,
+
+we have to give it a certain address. And in Python, the very first entry starts
+
+at zero,
+
+which is a little bit different from some programming languages. So this command
+
+here,
+
+list capital zero, would access the first element, which is London. So no matter
+
+what we do going
+
+forward, whenever we have to pick a specific element from an array or a matrix
+
+or a whole range,
+
+you have to think in terms of zero onwards, which can be a bit confusing. But
+
+we'll just
+
+practice that over and over again. I think I said last week that this isn't a
+
+computational
+
+science course. It doesn't need to be. In fact, you'd argue it really doesn't
+
+need to be anywhere
+
+anymore. I think programming languages and computer hardware is so accessible,
+
+you'd really only
+
+understand this if you were getting into the bare bones of hardware development
+
+and other things.
+
+Just to give you an idea, everything you're doing, the hardware is flicking
+
+switches between
+
+on and off. So when we create that list in the previous slide and we put entries
+
+into that list,
+
+there's a certain amount of data, thus memory required. And in a computer,
+
+historically,
+
+you'll, who's heard of bytes and bits? Yeah. So you'll know how many, how much
+
+memory your
+
+phone's got, right? Typically it's around 64 gigabytes, isn't it? 32, 64 and so
+
+on. So a single
+
+byte is eight bits of information. That's just historically how transistors were
+
+made in the
+
+forties and fifties onwards. So literally what's happening is you can represent
+
+information as a
+
+series of on and offs. So eight bits, you can switch each of those bits on or
+
+off. So the number
+
+one might be represented by this on the right-hand side being on. Number two is
+
+then the next one
+
+being on. Number three is the next one being on. And then depending on the
+
+combination of those,
+
+if you had an eight bit computer, there's a maximum number you could store.
+
+Okay. So we're
+
+talking about information a computer can store now. So typically everything we
+
+run are 64 bit
+
+machines. And what that means is there are 64 of these on and off bits where we
+
+can represent a
+
+number. In our area of science, this accuracy is great. But if you're talking
+
+about astronomy,
+
+astrophysics, the maximum number that can be stored on a computer might be a
+
+limit for you.
+
+Yeah. So it's hugely a lot. It's really, really big numbers. And if you think
+
+about it,
+
+if you go all the way up, you're talking about trillions and trillions and
+
+trillions in terms
+
+of the scale that you can store. 32 bits will have half the capacity. 16 bits
+
+have half, half of that.
+
+So computers have grown to store more and more bits of information. But one of
+
+the other reasons
+
+I mentioned this here is because of course you're all on earth and environmental
+
+science degrees.
+
+And it's now we're talking a lot about energy efficiency and storage
+
+requirements. So globally
+
+data centers account for about 17% of the earth's electricity supply now, which
+
+is ridiculous,
+
+isn't it? That's a huge amount of electricity. We're storing more and more data.
+
+So the more
+
+electrical on and off switches you've got, the more energy you need. So actually
+
+there's research
+
+going into looking at whether or not we need all of this information. Can we run
+
+a climate model
+
+on 32 bit machines? Personal reference of mine, this was a Sega eight bit master
+
+system. I've
+
+still got it in the garage. It was a great gaming system, but gaming that boomed
+
+through the 80s
+
+started with eight bits and then it became 16 bits. So the graphics improved.
+
+That's all that's
+
+happening is you've got more information. Yeah. So you've got more and more
+
+higher and higher
+
+levels of information that you can store in Python. By default, everything we do
+
+is 64 bit. Going
+
+back to that idea of compile languages before you can specify lower precision.
+
+So again, there are
+
+benefits to be had. If you're really interested, you need to, you might be able
+
+to, you might want
+
+to squeeze so much information onto a high performance computing system that you
+
+can't do
+
+it in 64 bit. So you have to shrink it down a bit. So again, it's that more of a
+
+software
+
+engineering side, but we don't have to worry about that. So what we're going to
+
+look at today,
+
+one of the two key elements of for loops and for loops, you can think about
+
+stepping through
+
+elements in the data that you've created or you've collected. And there's a
+
+certain way of writing
+
+that in Python. And this is the style here. You'll have noticed in the Jupiter
+
+notebooks that we're
+
+using, there are certain words that when you write become green. So they are
+
+internal operations.
+
+The notebook is highlighting certain words. We call that syntax highlighting. So
+
+you can actually
+
+use code text editors on your laptop or your desktop, and they will all have
+
+syntax highlighting.
+
+And that will change according to the language you're writing, which is great.
+
+It becomes much
+
+more readable. But take this example. I've created a list here, a very small
+
+list. I've given it a
+
+name of primes, and I've written entries 2, 3, 5, and 7. What this for loop
+
+does, it's basically
+
+saying in English for an element in that array, print that to the screen. So
+
+it's a sequential
+
+thing. The word prime is something I created. What the interpreter is going to
+
+do is pull out
+
+every sequential entry and assign the value to this variable. So I've already
+
+created primes. If
+
+this didn't exist, you'd get an error. The interpreter would say it doesn't
+
+exist. It can't
+
+find it. But it can find it now. It's stored in memory. So it's got an address.
+
+And this command
+
+is going for every element in primes, print it to the screen, and it will go
+
+left to right or from
+
+the start to the finish. So it's a really basic operation. But what we'll find
+
+shortly, and
+
+there's a schematic on the, sorry, there's a GIF on the right-hand side showing
+
+you how the output
+
+will change. And again, this says for value in a list. We've just written value.
+
+It doesn't matter
+
+what that name is. The point being at every iteration, that will change and
+
+print to the
+
+screen. You might argue you don't need that. If we're trying to find a certain
+
+value, you don't
+
+need it if you can see the array. But we'll very quickly start working with
+
+arrays that have
+
+thousands and thousands of elements. So you can't do that visually. So even
+
+though for loop is a
+
+little bit rudimentary, it becomes quite helpful. The more complex your code
+
+becomes. The other
+
+thing to look out for in terms of the syntax, note this semicolon here. And
+
+whenever there's a
+
+semicolon you might have seen last week, Python then demands you have white
+
+space after it.
+
+So typically, we'll see functions we write from week three onwards and for loops
+
+have semicolons
+
+after it. So it's forcing us to write clean code. So that means you can look
+
+through your code then
+
+see where the indents are and see what's that indents associated with. It's just
+
+the style.
+
+So that's a very, very simple example. So in that case, on the left, we have a
+
+predefined list.
+
+I've put the numbers in. But we can also use commands where we can create arrays
+
+on the fly.
+
+So imagine that I have a generic scenario where I want to search through a row
+
+of numbers from one
+
+to ten. I don't want to create the array. I can use a function called range. And
+
+what that's doing
+
+behind the scenes is it's creating an array for me with seven elements. So it's
+
+the same thing.
+
+It's just that in this case, I've explicitly defined and written out my array.
+
+But in this case,
+
+I'm telling the for loop, go through an iteration seven times. Now, Python
+
+starts at zero. So the
+
+entries in this array will go from zero to six. Where is that useful? Well, when
+
+we get to Conway's
+
+Game of Life, what we're effectively going to build is a 2D mesh, which will be
+
+what we call the
+
+universe. And in that mesh, it will look like species that are moving across the
+
+mesh according
+
+to four rules. What that mesh effectively is is a 2D matrix with, say, 50
+
+elements along the top,
+
+50 elements down the side. So we'll search through that array and start
+
+implementing the
+
+four rules of life. We'll use for loops for that. So in that case, it might be
+
+for step in range 100,
+
+keep jumping to the next one, and then the next row, and then the next row. So
+
+we can start to
+
+search through, search for certain numbers, or implement some logic. The
+
+important thing is it
+
+is that if someone has given you or someone else has given you, you'll very
+
+quickly see that
+
+someone's made a choice over a variable name. So that's just a choice I've made.
+
+So when you're
+
+working through the examples, you can change those if you want. Nothing will
+
+happen. Provided the code
+
+works, nothing will happen. It's all personal choice. Excuse me. Okay. So I'll
+
+just go on to
+
+conditional statements now, because there's only so much you can say about for
+
+loops. It's a way of
+
+creating things iteratively. But conditional statements are really the key. It's
+
+very rare
+
+you have a bit of software without logic in it. I often make reference to
+
+climate models, because
+
+I think for our area of science, it's probably the most challenging thing we can
+
+run numerically.
+
+And it's obviously in the media a lot. We use these tools to understand what's
+
+going to happen
+
+potentially in 100 years' time. So they're very, very large bits of software to
+
+run,
+
+typically written in Fortran C and compile languages. But they will all have
+
+logic.
+
+And the example I gave at the beginning was rules can change according to
+
+typically the size range
+
+you're interested in. So if someone is working in molecular science, Newton laws
+
+start to not work
+
+so well. You start to need more molecular dynamical considerations. But if you
+
+want to send a rocket
+
+to the moon, Newton's laws work very well. Going the other way, continuing, if
+
+you're looking
+
+towards very large distances, astronomical distances, you start thinking about
+
+relativistic laws as well.
+
+So there's logic required to switch the physical law we're interested in. And
+
+we're going to
+
+implement that today. And you can think of logic as a series of if statements.
+
+And we'll actually
+
+loop through an array using a for loop, which we'll do. You might want to wait
+
+until a certain
+
+value is passed and then change what you do afterwards. That's the condition.
+
+And if the
+
+condition's true, we can implement the rule on the left. If it's false, we can
+
+keep doing the rule on
+
+the right. And we can chain together however much logic we want. It doesn't have
+
+to be a numerical
+
+model either. When you're extracting cash from an ATM, there's logic running in
+
+the background that's
+
+waiting for your user entry on the keyboard. As soon as an electrical signal is
+
+detected, it will
+
+start doing something. So it's just basic logic. It's waiting for some change.
+
+And we can code that
+
+in Python or any programming language. You'll often find it's rare we have one
+
+level of logic.
+
+You'll often have two, at least three layers. And that's just because the nature
+
+of reality of the
+
+something that you're building. But that's okay. In the same way we can put
+
+however many for loops
+
+together, we can link different bits of logic together. So what this schematic's
+
+showing is
+
+you can have a condition that's false, but a condition, too, that's met. It
+
+really depends
+
+what you need. What we try to do when we're writing software is to make this as
+
+simple as possible.
+
+So there's a general rule of thumb. Make something work, make it right, and then
+
+make it quick,
+
+which we'll see shortly. Because obviously you want to make something work, but
+
+working code isn't
+
+necessarily giving you the right answer. Typically, if you spend hours and hours
+
+writing some code and
+
+it's working, finish. Then come back to it and see why it's working because it
+
+could be giving you
+
+the wrong answer. The reason that for loops and conditional statements aren't
+
+great is because
+
+they introduce what's called an overhead. And when we talk about overheads in
+
+any software
+
+development practices, what we're talking about is the computer has to stop and
+
+check something
+
+and then go back to that. So the more conditions and checks we place, it's not
+
+doing the operation
+
+we want. So again, climate models, when they're being developed, people are
+
+trying to avoid that
+
+as much as possible because we want to get to the answer as quickly as possible.
+
+So conditional
+
+statements do introduce a slowdown, but you won't see that in what you run.
+
+You'd only see that if
+
+you're running something that takes hours and hours to run. So changing the flow
+
+of a program
+
+using basic logic can be very important, and you might sometimes come across
+
+these flow diagrams.
+
+Engineers use these to develop electronic circuits, for example, but software
+
+engineers
+
+use them to develop the flow of their code as well. And this is just to give you
+
+an example
+
+of something you might want to write as code. So we set a variable x to zero,
+
+then we create a loop and we keep adding three to x. And if x is greater or
+
+equal to 30, we stop.
+
+But until that's true, the loop keeps going. So what you can do with a
+
+conditional statement is
+
+you can stop a loop. You can stop something happening. It's really basic logic.
+
+So what
+
+you'll see today is how we write this logic in Python. And this is taken from
+
+the notebook.
+
+So let's look at the top example. So we have a really basic example again where
+
+we have two
+
+variables, x and y. I've set them equal to an integer, so there's no decimal
+
+point. We don't
+
+tell the interpreter that. It figures it out itself. But I have two what's
+
+called if statements.
+
+And it's literally the interpreter will go line by line and then it'll check if
+
+this is true.
+
+If that's true, and you see the semicolon, it will do whatever's written here.
+
+Conversely, if this is true, it will do whatever is written there.
+
+So basically, what we're writing is we're writing a Python version of
+
+mathematical symbols.
+
+And there are certain rules. So you'll see on this table here, we're all
+
+familiar with less than,
+
+greater than, less than or equal to. This is the Python version of writing that.
+
+So that's how we
+
+start implementing these if statements. If something is true, do that. Or if
+
+something else is true,
+
+do this. Notice this double equal sign. Because when we've assigned a value to a
+
+variable,
+
+so that's telling the Python interpreter, I want to create a variable x. Please
+
+give it a value of
+
+three. You'll see one equal sign. If we're checking that something is equal to
+
+something else,
+
+we use two equal signs. So if I wrote x equals equals three here, it would give
+
+you an error.
+
+Because it's checking if that's true. And it might have not been assigned yet.
+
+So again,
+
+you get used to how you write conditional statements in a slightly different
+
+way.
+
+But you can always reflect back on these tables. Obviously, it's provided in the
+
+notebook for you.
+
+So I've talked about for loops. You can put as many for loops as you need, as
+
+many conditional
+
+statements as you need. What you'll find is, even with some basic logic, it's
+
+very easy to get into
+
+problems straight away. This is actually just showing you the little example
+
+you'll see in
+
+the notebook today, just so you get a feel for it. Because it does reflect on
+
+what we did last week
+
+before I talk about the issues with nested loops. So remember last week, we
+
+created an empty list.
+
+So literally, we wrote x is equal to open brackets, square brackets with nothing
+
+in.
+
+So the interpreter knows it's going to get ready to put values into that list,
+
+but none at the moment. The for loop we used now makes sense. Because what I'm
+
+asking this
+
+for loop to do is go over 50 values sequentially. So it'll start at zero, it'll
+
+go one, two, three,
+
+four, five, all the way to 49. It's a little bit confusing, but Python shifted
+
+down by one.
+
+And I append a value to my x list. But what we have here is depending on that
+
+value,
+
+I introduce a conditional statement, I'm going to change the value of another
+
+array y.
+
+So you'll see here I'm trying to implement this logic. So I have two arrays, x
+
+and y.
+
+If x is less than or equal to 20, y is calculated using this formula. Otherwise,
+
+y is calculated using that formula. And then you'll plot that on the screen and
+
+you'll see
+
+a step change in y. It's just showing that we can implement different rules and
+
+do different
+
+calculations. It's abstract, so you don't see why the hell does this matter at
+
+the moment.
+
+But we could switch this to a physical theory in the Earth system. And again, it
+
+can be depending
+
+on the scale you're interested in. As I said, we'll see more and more applied
+
+versions of these as
+
+we get to week four onwards. Because you'll see in Conway's Game of Life, we
+
+search through the
+
+universe and we change the value in a cell according to four rules of life. And
+
+that's
+
+depending on how many neighbors the cell has. It will either live or die
+
+according to how
+
+overpopulated or underpopulated the area is. But what if we have multiple
+
+statements?
+
+So at the moment, we've seen everything that's mutually exclusive. And what I
+
+mean by that is
+
+if something is true, something else is false. So we have a two-way situation.
+
+What if I have
+
+something like this, where now I've got three versions of y rather than two? So
+
+I'm going to
+
+create an x-array that goes between 0 and 100, let's say. And now I want to
+
+calculate
+
+three different versions of y. So y is going to have the same number of entries,
+
+but it's going to have very different values according to the value of x.
+
+So there are three different statements I want to implement. If x is less than
+
+20,
+
+I'm going to perform an action one. I'm going to implement a formula for y. If x
+
+is greater than
+
+or equal to 20 but less than or equal to 60, I'm going to use a second formula.
+
+And if x is greater than 60, I'm going to use a third formula. In Python, I've
+
+come up with this
+
+version here. So let's see what the code's trying to do. We've got an if
+
+statement. If, and this is
+
+in the loop. So remember that this step is a count, a loop counter. If, let's
+
+say the value of step is
+
+two. So it's a third entry. If the third entry of the x-array is less than 20,
+
+it will jump into
+
+this line here. Else, if the third entry of x is greater than or equal to 20, it
+
+will perform
+
+this action here. Do you think that looks right? Because what will happen is,
+
+what the interpreter
+
+will do, if this is always true, it will always perform this action. There's a
+
+certain point
+
+when x step becomes greater than or equal to 20 when this becomes true. It will
+
+no longer jump
+
+here. Can you see my mouse? It will start jumping in here. Now imagine I've got
+
+x values going all
+
+the way to 100. Will it ever leave the middle action after? It won't, will it?
+
+So I'm missing
+
+the answer. Imagine you've got thousands and thousands of lines of code. So
+
+you'll be getting
+
+answers going brilliant. New result, I'm going to publish this. It's changed
+
+everything we know
+
+about the Earth system. Crap, it's wrong. So it's very easy to get something
+
+wrong in a Pythonic
+
+bit of code. In any code really. So it will work but not necessarily give you
+
+the right answer.
+
+What I should have written is this statement on the bottom, using the and. So we
+
+can start
+
+to combine statements together. Now what we have here is else if the third
+
+element of x is greater
+
+than or equal to 20 and that same element is less than 60, perform that action.
+
+And now when x is
+
+greater than or equal to 60, this will be true as well. So you see here, it will
+
+never get to this
+
+because this will always be true first. The middle element will always be true
+
+first.
+
+Yeah, so you'll see today there's an example of implementing that and trying to
+
+get that right.
+
+Okay. So I talked about for loops, but we can nest them as well. What do I mean
+
+by that? Well,
+
+we talked about searching for an array using the for loop. Remember that prime
+
+array that I put in
+
+screen. But imagine we've now got the x and y list we've just created, the x and
+
+y arrays we've
+
+just created. And let's say I want to calculate a third array, z. But I now have
+
+rules for z,
+
+depending on the value of x and y. So we can do what's called nested for loops.
+
+So we can have a
+
+search. And the way I think about this, again, I think about a matrix rather
+
+than an array.
+
+So we've got a number of rows and a number of columns. And we'll see this
+
+definitely in
+
+Conway's Game of Life on the fourth week. And I want the program to search
+
+through every element
+
+of the first row and then every element of the second row. So it's sweeping
+
+through that matrix.
+
+Might be finding a certain value. So the way that you program that is using this
+
+kind of syntax.
+
+So for the first step in an outer loop, we call it an outer loop. Let's say that
+
+the first step
+
+defines the row. The second step could define, so this one here, the column
+
+number. So for row
+
+equals one, for column equals zero to 20. And then for row equals two, column
+
+equals zero to 20.
+
+So that's what we're doing. We're combining the for loops. Another example,
+
+again, we've seen in
+
+Python, you don't just have to do, you don't just have to work with numbers. You
+
+can work with words
+
+as well. We don't use numerical language, natural language requests in this
+
+course. But of course,
+
+really relevant for AI at the moment, because a lot of the large language models
+
+are built on
+
+recognizing patterns in sentences, sequences. So Python can access those as
+
+well. But in this case
+
+here, I've got two lists with different entries. The first list just has the
+
+words hello and goodbye.
+
+List two has some names. Very basic example, but what this is showing is a
+
+nested for loop
+
+to go through the word, word entries in list one and the word in list two. And
+
+when this is true,
+
+print the combination of the two. So I've combined a for loop and a conditional
+
+statement.
+
+So it will only print element entries where Susan appears in list two. Just to
+
+illustrate
+
+what you can do, you can be very selective when you're searching through arrays.
+
+The best thing
+
+you can do is start playing with these things to understand them. And it doesn't
+
+matter how many
+
+nested loops you need. You can go through any number of dimensions. And really
+
+what I'm trying
+
+to illustrate here is these for loops are basically, you can define an outer
+
+one, which will be your
+
+starting index, and then another one and another one and another one. So the
+
+starting one could be
+
+row number. The second one could be the column number. The third one could be
+
+the depth. So we
+
+could look at three dimensional arrays. It really depends on the data you have
+
+access to. But behind
+
+the scenes, what's happening is the computer iterates on the loop first that's
+
+the lowest
+
+here. So it will first go through all of these numbers and then increment the
+
+outer loops at
+
+the same time. So the example given today is I've written in Python what Bob
+
+wrote in
+
+Stranger Things 2, which is actually a programming language called Basic. I
+
+think it's still used
+
+somewhere, probably in ATMs most likely. But you see how similar it looks. It's
+
+a very different
+
+programming language. But look, we have four loops written in a slightly
+
+different way. And we also
+
+have conditional statements, if, do this, end. This go to statement, by the way,
+
+was how many
+
+programming languages were written quite a while ago. So you jump to a certain
+
+line in your code
+
+and implement that line. It became very messy. We now write in functions and
+
+modules so we don't have
+
+to read down to line 150 and implement that code. But you'll have that in
+
+Python. So your challenge
+
+today is to finish the Python version of that. And basically what it's doing is
+
+it's combining
+
+together different values for these integers. And when it matches a password, it
+
+will stop.
+
+And so you crack the password. Very basic example, but hopefully illustrates why
+
+four loops and
+
+conditional statements are very powerful when we combine them together. And what
+
+we do next week is
+
+we use something called NumPy, which is another way of writing numerical arrays,
+
+which makes things
+
+much more quicker. You will still use four loops. You'll still have logic in
+
+your code. We don't
+
+suddenly stop using that. In fact, you'll see it throughout. When we load data
+
+in, what we'll see
+
+in one of the examples of week six, when we load a database of volcanic
+
+eruptions from the Smithsonian
+
+Institute, we plot this on a lovely map. We might only want to plot the
+
+eruptions that have occurred
+
+between 1900 and 1980. There are conditional statements we need. So only give me
+
+the data when
+
+these things are true. You'll see if and and statements there. So it doesn't
+
+matter. It doesn't
+
+just apply for examples like this. So what you learn today, you can transfer to
+
+any programming
+
+challenge that you've got. So what I'll just quickly do now, before you can go
+
+up to the practical,
+
+just to give you a flavor of what this will look like today. So again, a bit
+
+dry. It's a bit abstract,
+
+but it's that step towards being able to apply what we've learned to specific
+
+problems. So it
+
+starts making more sense. You'll see that there's a same format as last week.
+
+There's a number of
+
+areas in the notebook to read. There are exercises. This initial code block just
+
+checks if you're in
+
+Google Colab or not. If it is, it will mount your Google Drive. Hopefully you've
+
+all got a version
+
+set up now. On the cluster machines, remember you'll have to link your OneDrive
+
+again because
+
+you stored the repository of the notebooks on your OneDrive. So there are
+
+examples. There are
+
+instructions again on the PDF, but we can help you do that. But once you've
+
+linked the OneDrive,
+
+you don't have to install Python again or the environment. So the first example
+
+is continuing
+
+with for loops. You'll be asked to complete the exercise by implementing a
+
+formula. But then we
+
+go straight into if, elif, and else statements. So again, that's either looking
+
+at mutually
+
+exclusive conditions or combining conditions together, which is more realistic
+
+than realistic
+
+typically in any programming language. You'll see that there's a table with the
+
+Python version of
+
+symbols. So you'll practice implementing them today. There's an example where
+
+there are two
+
+formulae to apply. And as I said before, you'll get code that works but is wrong
+
+and code that
+
+works and is right. So typically the three stages of writing software, make it
+
+work, make it right,
+
+make it quick. Make it quick being the last thing you do because if you try and
+
+make something quick
+
+first, you'll create lots of issues typically. So you'll see an illustration
+
+here of the kind
+
+behavior you were expecting version two versus a code that's wrong. So the
+
+impacts could be massive
+
+here. There's no context again. And then there are nested loops and at the end
+
+you'll see there's
+
+an example to finish Bob Newby's code breaking loop at the end. So hopefully
+
+what you'll find
+
+today is it consolidates the start of last week and we'll start turning it into
+
+something useful,
+
+more useful next week. Any questions? Let us know in the practical, but we'll
+
+see you up there.
+
+Oh, sorry, QR code, yeah. I keep forgetting about these now.

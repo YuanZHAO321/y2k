@@ -1,0 +1,1617 @@
+'EART11200 - 17-Mar', automated transcript
+01/08/2026
+---
+
+Right, okay everyone, shall we make a start? So before we kind of properly dig
+
+into the
+
+material I just wanted to kind of let you know what the next couple of weeks are
+
+going
+
+to look like. So as you can see Easter is fast approaching, probably you guys
+
+are very
+
+excited to have a little bit of a break. But so this week we're going to cover
+
+integration
+
+by substitution and then next week I won't be here but you will be left in the
+
+very capable
+
+hands of Professor David Topping who will be teaching you how to integrate
+
+second-order
+
+differential equations. So please make sure you come along to that. There's some
+
+really
+
+interesting techniques that Dave will be able to show you about how to integrate
+
+second-order
+
+differential equations. So make sure you come next week. Then the week after
+
+that please
+
+remember that the week of the 31st we move to a Friday, we move to Friday at
+
+12pm. So
+
+please remember that we won't have a Monday lecture the week of the 31st, we
+
+will have
+
+one on Friday the 4th. It will be over in the Samuel Alexander building which is
+
+quite
+
+So please make sure that you notice the shift and please you're going to want to
+
+come along
+
+to that one because we'll be A, first of all we'll be wrapping up the module by
+
+talking
+
+about vectors and partial differentiation but also I will talk you through what
+
+the
+
+expectations of the exam will be. I will also have a quick Q&A session you can
+
+ask me about
+
+the exam. I may give a few hints about the exam. I will make sure the microphone
+
+is off
+
+so that those hints aren't recorded. So you may want to come along and ask me
+
+any questions
+
+about the exam and what I'll do is after we've talked through the exam in that
+
+final
+
+week I will release last year's past paper so that you have 3 weeks to do that
+
+over Easter.
+
+So the last year's past paper you'll know from me what to expect. I'll set up
+
+the past
+
+paper so that when it comes to the revision lectures which will be after Easter
+
+you will
+
+have a very good idea about what to expect the exam. I signed off your exam this
+
+morning,
+
+it's set in stone now. It will be very similar in principle to the one I set
+
+last year so
+
+you may want to come along to that lecture and take some hints and tips and do
+
+that last
+
+year's exam over the Easter period because we'll have 2 weeks then after that
+
+which will
+
+cover differentiation, integration, revision sessions and then straight after
+
+that will
+
+be the exam period. I don't know when the exam date will be, that's the only
+
+question
+
+I can't answer right now is I don't know when the date of your exam will be. I
+
+may not even
+
+know by the time we get to the actual final lecture before Easter but please
+
+make sure
+
+you come along and ask any questions along those. So is everyone clear about the
+
+rest
+
+of the term now? Remember we do switch to Fridays as of the week of the 31st and
+
+please
+
+come along to that one because I'll cover what to expect in the exam.
+
+So what have we done so far in terms of integration? So 2 weeks ago we looked at
+
+looking at how
+
+to reverse common derivatives. We looked at very simple rules similar to common
+
+laws which
+
+is kind of what we did with differentiation about how to integrate certain
+
+things and
+
+we were interested in integration because we could find out things like areas
+
+under
+
+the curve which will tell us about a system. So for example if I give you a
+
+differential
+
+equation which is dy by dx and I tell you this is the rate of change relating to
+
+water
+
+in a tank, if you integrate that that will tell you how much total volume of the
+
+tank
+
+has changed in that time. So we derived all of these laws and said most of these
+
+laws
+
+will be on your exam paper, they will be given to you but it's always
+
+recommended that you
+
+keep applying them over and over and over again and using the examples that I've
+
+given
+
+you so that you are able to apply them in the exam and just double check that
+
+you're
+
+correct using the equation table. The equation table in the exam is also in the
+
+handbook
+
+that I gave you, it's right at the end so have a look at that to see exactly
+
+what you
+
+will be given during the exam. So last week we kind of thought about well okay
+
+well let's
+
+go beyond slightly beyond the kind of basic laws and think about how we can
+
+apply these
+
+to different physical examples and in particular we looked at Newton's second
+
+law which is
+
+how we can derive our own differential equations based on a system based on
+
+different kinds
+
+acting on a system. Remember we had four different, three different, four
+
+different formulations
+
+of it which is the force equals times the mass times acceleration, then we had
+
+force
+
+equals mass times dv by dt, we had force times force times m multiplied by d
+
+squared x divided
+
+by dt squared and then we had f the force is equal to mass times velocity times
+
+dv by
+
+dx. So what we're able to do is look at the forces that are acting on a
+
+particular object
+
+and build different types of differential equations. So for example if we wanted
+
+to
+
+relate forces with acceleration we would use the first formulation, if we were
+
+interested
+
+in relating in terms of we look at a velocity and time we would use the dv by dt
+
+one, if
+
+we were looking at how to build differential equations around the relationship
+
+of distance
+
+and time we would use this one d squared x by dt squared and then the final one
+
+is
+
+if we wanted to relate velocity and distance together. So what we're able to do
+
+is build
+
+up many different types of differential equations and then use integration to
+
+solve them to
+
+tell us something about things like you know for example an object falling in
+
+the sky in
+
+a vacuum or you may want to rest things on an incline and there was a particular
+
+example
+
+in the handbook last week which is about how to put if you pushed a ball across
+
+a horizontal
+
+surface how much of the force is acting on that and you can work out the
+
+velocity and
+
+time from that. So hopefully now we're starting to get the idea that why
+
+integration is important
+
+as well as differentiation. We can look at a rate of change using
+
+differentiation but
+
+we can look at a function or a process and get the rate of change but also we
+
+can reverse
+
+that we can get a rate of change or we can build something about rates of change
+
+and
+
+now go back up to tell us something about the process right. So we're just
+
+looking
+
+at differentiation and integration as opposites of each other. So as I said what
+
+we were able
+
+to do is look at last week we looked at two examples which was to ball an object
+
+falling
+
+in a vacuum and an object sliding down an incline and we were able to derive two
+
+examples
+
+of this which is kind of looking at force equals mass times acceleration but
+
+replacing
+
+with differential equations and all of the forces acting on the object and we
+
+were able
+
+to use the basic laws of different integration to tell us something about those
+
+forces. Okay
+
+things like you know we looked at the dv by dt as an example of how velocity is
+
+changing
+
+over time but again you don't have to use velocity over time we can look at
+
+distance
+
+over time we can look at velocity in terms of distance for example right. We
+
+could just
+
+look at differential equations and look at how these things are reacting in
+
+space and
+
+time. So now we kind of move on from Newton's laws into something we're going to
+
+start looking
+
+at integration what happens when integration or the functions we get to
+
+integrate is slightly
+
+more difficult right and this is when you need to start thinking about something
+
+called
+
+integration by substitution. Now we will have seen something similar in
+
+differentiation
+
+but what we're going to do is now reverse the process and do it for integration.
+
+So this week
+
+what we're going to be able to do is you're going to be able to explain the
+
+concept of integration
+
+by substitution and how it relates to things like I'm trying not to move so I'll
+
+get feedback about
+
+its relationship to the chain rule in differentiation and what we're going to
+
+then do is try to use
+
+integration by substitution to look at both indefinite and definite integrals to
+
+solve theoretical
+
+and real-world problems. So as I said in week 6 we looked at introducing rules
+
+that allowed us
+
+to integrate certain functions this is where led us onto something called
+
+separation of variables
+
+where you just split up the differential equation the dv by dt you split them up
+
+and you perform
+
+some integration on it right you know and like differentiation we learnt that
+
+the integral of
+
+sum is equal to the sum of the integrals right so this is all very easy in the
+
+sense that you know
+
+when we looked at differentiation we could just if they were all added on to
+
+each other we could
+
+differentiate them in turn it's the same thing for integration right and this is
+
+all the examples
+
+that you will have seen so far what we're able to do is integrate by integrate
+
+things as we move
+
+through the sum. However functions are not always as simple you know we in
+
+differentiation we
+
+looked at multiple different types of functions right we looked at composite
+
+functions which is
+
+the problem we're going to face here today right so what happens when we get
+
+functions of functions
+
+okay so imagine I asked you to integrate this differential equation I was giving
+
+you this
+
+differential equation and I asked you to integrate that right this becomes a
+
+much more difficult
+
+problem because this is something you haven't seen before yes of course you
+
+could just expand
+
+that quartic out and then do it in turn but why would you want to add in this
+
+unnecessary
+
+complication right so imagine if I asked you to integrate this composite
+
+function right and when
+
+we looked at when we looked at differentiation we actually came up with a new
+
+rule for this the
+
+chain rule right we say we didn't have to expand things out necessarily we could
+
+just try and look
+
+at functions of functions we can see that there's a function inside the brackets
+
+the
+
+original function would be to the power 4 but there's a function inside that
+
+power of 4 okay
+
+we have 3x plus 2 so there's a function within a function now you can't just use
+
+anything on the
+
+right hand side to tell you how to integrate that anymore right so we now need
+
+to come up with a
+
+new rule to be able to do this right this is where integration by substitution
+
+comes in so
+
+remember when we did differentiation and I gave you a function of functions you
+
+use the chain
+
+rule to differentiate that okay so essentially integration by substitution is
+
+the is the
+
+integrations version of the chain rule in differentiation okay so what we're
+
+going to
+
+do is come up with a sub and generally what we're going to do is come up with a
+
+substitution to
+
+kind of make this integration easier right and I'll show you what I mean in a
+
+second right so
+
+let's remind ourselves of what integration by the chain rule did right so when
+
+we give the chain
+
+rule you know for example the sine 3x plus 1 well we saw that there was a
+
+function within that
+
+function right the original function sine but there was a function inside the
+
+sine which is 3x
+
+plus 1 so what we did was to split the function right I came up with a
+
+substitution I came up
+
+with a substitution G which was 3x plus 1 and I split the function up right so I
+
+came up with a
+
+function F of G where G was a substitution and then I had an extra and then a
+
+second function G
+
+which was the inside the function inside that sign right so split the function
+
+up and then I
+
+differentiated them each in turn right so I differentiated F in terms of G now
+
+because we
+
+had a substitution G and then I differentiate G in terms of X and what we were
+
+able to do is use
+
+that little rule up there dF by dx is equal to dF by dG multiplied by dG by dx
+
+we were able to put
+
+this function back together again put the substitution back in and get something
+
+the
+
+differential of that of the derivative of that function okay so I hope you see
+
+where I'm starting
+
+to go with this in the sense we're going to follow a similar process here of
+
+coming up with a
+
+substitution integrating and then put the substitution back in because and
+
+hopefully
+
+that substitution will make things easier for us okay so let's return back to
+
+this example right
+
+so we have y equals the integral of 3x plus 2 all to the power 4 okay well okay
+
+so let's
+
+we come let's come in with this idea of substitution right so we can look at
+
+this and think right okay
+
+well this resembles of a different a derivative of a different function so we
+
+can integrate
+
+directly but let's make it easier for ourselves rather than kind of forcing the
+
+rules around us
+
+the integration rules that we have let's try to make it easier for us so what if
+
+I just said
+
+right let's carry on this idea of using a substitution and I actually said let u
+
+equals
+
+3x plus 2 3x plus 2 okay and replace that with and replace that and you and use
+
+that and integrate
+
+that instead okay that makes it easier for us right because we can just
+
+integrate for u to the
+
+power 4 fairly easily okay this this that's just something you can use your
+
+table for and you don't
+
+necessarily need to worry about 3x plus 2 right but is there any is there a
+
+problem does anyone
+
+see a problem with this interval yeah yes exactly so the problem we start so
+
+obviously no we made
+
+it easier for ourselves by replacing 3x plus 2 with u then we can use our
+
+integration rules but
+
+the problem is this integral is now we're asking you to integrate u to the power
+
+4 with respect
+
+to x so there's a little bit extra we need to do when we come to integration by
+
+substitution okay
+
+and so what we're going to do is we're going to show I'm going to show you a
+
+process of how to
+
+change this integral that makes it very very easy for you to do the integration
+
+later you can just
+
+the rules of integration from the tables okay so we can we can change the we can
+
+change 3x plus
+
+2 into u very easily but now we're just going to make sure that the integral is
+
+totally in
+
+terms of u and not just dx okay so let's see how this works so when we're
+
+integrating we need to
+
+make sure we're integrating generally within the same variable so if we're going
+
+to change to a
+
+integral so since we've seen that dx relates to x we now need to find a new
+
+expression for dx and
+
+use so well we need to confine the substitute for u and x we also now need a
+
+substitute for dx this
+
+in terms of u okay and this will be much easier than it seems when we start
+
+doing it when we start
+
+doing an example and then what we will do is we'll make sure this the integral
+
+is then changed fully
+
+in terms of this new variable because if it's changing this fundamental if we've
+
+changed the
+
+integral to be completely in a completely new variable the integration therefore
+
+will be much
+
+easier for us we can use the common laws and then we don't have to worry until
+
+and we don't have to
+
+worry until we have to put the substitution back in at the end okay so we're
+
+following so far yes
+
+no maybe an example will help in a sec so generally you know what we're going to
+
+ask you to do is most
+
+cases we'll have an integral where you have a function the function inside the
+
+function is ax
+
+plus b okay so generally as a rule when you have something that says ax plus b
+
+in general in general
+
+inside a function you will use that as the substitution okay so this may be a
+
+hint for the
+
+exam for example but if you got say sine ax plus b you would use ax plus b as
+
+this as a substitution
+
+don't overcomplicate it for yourself right you can take the function inside the
+
+function and it
+
+often simplifies the problem and brings it borrows it down to something really
+
+easy that you can use
+
+the common laws for okay so let's see how this works in principle so let's let's
+
+build this up
+
+right so the first thing we're going to go through a step-by-step and then
+
+hopefully you
+
+start doing this over and over and over again right so imagine I give you I give
+
+you an integral
+
+and first of all I would ask you to make sure you see it's simplified down to
+
+its simplest form but
+
+generally this is in its simplest form we don't have to do anything for it so
+
+what I'm going to
+
+do is say right okay y y equals integral of 3x plus 2 dx right so we've got this
+
+we've got an
+
+integral now in its more simplest form right that's step one so the second the
+
+second thing
+
+you need to do is change is define a new variable u in terms of the old variable
+
+x okay and what
+
+we're going to do here is as I said in the last slide is we'll make sure that
+
+it's a simple it's
+
+if we do u is equal to 3x plus 2 okay and then this means that we now adopt all
+
+the down to
+
+u to the power 4 dx right so I've come up with a new substitution and I replace
+
+that in the
+
+integral so now we're left with the integral of u to the power 4 dx right and as
+
+I said if
+
+the only problem that now means is the integral is still within respect to x
+
+when integrating
+
+with respect to x we're not integrating now with u so what we need to do now is
+
+come up with a new
+
+way we need to find a way you find a new variable we need to find a substitution
+
+for dx as well as
+
+3x plus 2 so what we're going to do is the first thing we must do is now
+
+rearrange u with to get
+
+an expression for x so you can see that let me do a different color you can see
+
+that 3x is equal
+
+to u minus 2 and then that means x is equal to 1 over 3 u minus 2 okay so we've
+
+defined our
+
+variable u and then we're going to rearrange that to get a new variable x
+
+because what I'm
+
+you can see is that if we differentiate this we can get an expression for dx
+
+right so we've got
+
+we defined what our u was and now we can we're going to rearrange that to get
+
+what x is and then
+
+the next thing you want to do is differentiate with respect to u okay so now
+
+what we're going
+
+to do is du by dx and as you can see we've only got a sorry wrong way around dx
+
+by du which then
+
+is just going to be a third because we have a third u minus two-thirds the two
+
+-thirds
+
+differentiates to zero because it's just a constant and u over three is linear
+
+and when
+
+we differentiate linear things we get constants so we've got step one get it
+
+done to its simplest
+
+form step two define an integral define a substitution three rearrange that
+
+substitution
+
+and four differentiate that substitution okay so hopefully now this is a much
+
+more
+
+evolved process than the chain rule but it does simplify the integration problem
+
+down for us
+
+pretty pretty well okay so what we now want to do is come up with the substitute
+
+and come up with
+
+an expression for dx because as I said we've changed the integral so far let me
+
+bring this
+
+so so far we've got a new substitution which says okay I've changed the u but we
+
+need to change
+
+that dx right so let's now come up with a new substitution for dx okay so what
+
+we're going to
+
+do is just rearrange this to say right okay well dx is equal to one third du
+
+okay and then this
+
+becomes y equals the integral of u to the power four du du I'll put a third
+
+outside the integral
+
+so what we're going to do now is with the final one of the extra steps we've got
+
+to do now when
+
+you do a substitution in integral is come up with an expression for change the
+
+change of variable
+
+so what you then need to do to do is three in three steps after you've defined
+
+your substitution
+
+you rearrange to get in terms of x you differentiate it and then rearrange again
+
+okay so then what you're
+
+able to do is have x we're able to substitute u substitute 3x plus 2 to get u to
+
+the power 4
+
+and then also then substitute the dx for a new du so this has now simplified our
+
+problem massively
+
+okay because now we just can integrate with a now respective because we've done
+
+the substitution
+
+of both 3x plus 2 and dx we're now left with a much simpler integral for us to
+
+do okay we've
+
+changed that integral of y equals integral of 3x plus 2 to the power 4 dx we've
+
+gone from an
+
+integral of 3x plus 2 to the power 4 dx all the way by doing a couple of
+
+substitutions to get us
+
+down to y equals one third u to the power 4 du because now with our final
+
+expression we have we
+
+can use the tables our integration tables to do this for us right so after we've
+
+done all of this
+
+jiggery-porkery we're going to go for we're just going to start going from
+
+making the substitution
+
+and end up with we're going to it's that we're going to do then is into as I
+
+said substitution
+
+for both 3x plus 2 and a substitution for dx and ultimately what we're going to
+
+be left with is a
+
+much simpler integral for us to integrate then once you've done this the
+
+question then is just
+
+to integrate as usual so then we're going to do seven which is to integrate as
+
+usual so we're
+
+going to have y is equal to one third integral of u to the power 4 du well we
+
+know how to integrate
+
+this so this is one over three multiplied by and the last slide on the on the
+
+table of integrals
+
+when we integrate something we integrate a polynomial we raise the power and
+
+divide and
+
+multiply by divide by the new power right so we're going to get u to the power 4
+
+integrates to u to
+
+the power 5 divided by 5 and then what we're left with is 1 over 15 u to the
+
+power 5 and then what
+
+we're going to do is add in a constant at the end like we always do when we do
+
+indefinite
+
+integration there are no limits here so what we're going to do is we're just
+
+going to add in a
+
+substitution plainly wrong with the integral gives you something much easier to
+
+integrate and then
+
+when we come to the end the last step in this is to just say that okay we're
+
+going to add in the
+
+substitution back in so this is 1 over 15 3x plus 2 to the power 5 plus d okay
+
+so the final step
+
+after you've done the integration is to substitute the original expression back
+
+in okay are there any
+
+questions on this you all followed how to do this it's much it's a very
+
+formulaic methodological
+
+thing you just do one thing you just kind of hand crank it where you come up
+
+with a
+
+solution a substitution you replace everything in the integral and then just do
+
+everything as
+
+normal right and generally when you do these things when you have something that
+
+says ax
+
+plus b that will be your substitution as a hint generally in all the questions
+
+you will see ax
+
+plus b will be your substitution in this okay so let's do another example but
+
+let's actually do
+
+this a little bit faster rather than rather than rather than you do it kind of
+
+step like individual
+
+step by step right so this time you have cause the integral first one is y
+
+equals the integral
+
+of cause 3x plus 4 dx right again it's a function of function the first function
+
+is cause and
+
+the function inside cause is 3x plus 4 right so we're going to try and simplify
+
+this down to be
+
+a much easier problem right so what we're going to do is we're going to come up
+
+with a substitution
+
+and i'm going to use the the function inside the function where we do u is equal
+
+to 3x plus 4
+
+okay simple enough just use the whatever inside that function right the next one
+
+we're going to
+
+do is we're going to rearrange this in terms of x so that should be u minus 4
+
+you bring the 4 over
+
+to get u minus 4 is 3x and then you divide by 3 so it should be 1 over 3 u minus
+
+4 the next thing
+
+we're going to do is we're going to differentiate with respect to u and that
+
+will be one third so
+
+you can see that we'll have one third x one third u minus four over three well
+
+the four over three
+
+differentiates to zero u multiplied by a third is a linear so it just
+
+differentiates to a third
+
+and then what I'm going to do is just rearrange this slightly to say the dx is
+
+one third du okay
+
+again you just give me able to do the normal we do this the quicker and easier
+
+it will get for you
+
+okay so what we're going to do now is we're going to go back to the original
+
+integral and say okay
+
+so we had the integral of cos 3x plus 4 3x plus 4 and then we had dx right and
+
+what we're going
+
+to do now is we're going to change this change this around with our new
+
+substitutions and say
+
+this is now the integral of cos u with the du over three so we're just going to
+
+make those
+
+substitutions really easily and then we're going to simplify this out a little
+
+bit so that becomes
+
+one third integral of cos u du okay so make your substitutions get all of the
+
+substitutions that
+
+you need make the substitutions in the integral and now that we have it in its
+
+simplest form this
+
+just becomes a really easy problem for us because it just means integrating cos
+
+and then what we
+
+could do is just integrate that normally which means that that is one third and
+
+cos integrates
+
+to minus cos integrates to sine so that now just becomes my one third sine u and
+
+again remember
+
+to add in a constant at the end so this just integrates to one sine u plus d and
+
+then we're
+
+at the end we're going to say we're going to and then at the end we're going to
+
+make the
+
+substitution back in so then this becomes y is equal to one third sine 3x plus 4
+
+see what everyone
+
+it is so I'm hoping now you can see that this actually makes things a lot easier
+
+for us right
+
+we can just do the kind of hand cranking of making a substitution it's a little
+
+bit more
+
+involved than the chain rule in differentiation but integration is always a
+
+little bit more hand
+
+and more involved in differentiation in general but hopefully now you can see
+
+that you make a
+
+substitution replace everything in the integral and it will make all of your
+
+lives easier when
+
+it comes to integrating things okay and actually you can use the chain rule to
+
+verify that this
+
+works okay and hopefully you will be able to see that all works very very nicely
+
+but one of the
+
+questions is now is well okay I've just shown you how to do integration by
+
+substitution for
+
+indefinite integrals right because all of the ones I've shown you had an
+
+absolutely no limits
+
+in the integral so all we had to do was change the function with this
+
+substitution and change
+
+the dx with a new new version of dx in terms of the new variable okay well then
+
+we don't ask
+
+ourselves what does happen what if we wanted to calculate the area under the
+
+curve of a more
+
+difficult function right so what happens if I wanted to evaluate 3x plus 2 to
+
+the power 4 between
+
+minus 1 and 1 what if I told you I want the area under the curve well that
+
+becomes slightly you
+
+have to do something extra because not only do you have to make a substitution
+
+for the 3x plus
+
+2 and the dx you now have to substitute in new limits into the integral okay so
+
+again that might
+
+sound more complicated than it actually is so what we're going to do now is
+
+think about what
+
+happens in this in this case right so all you need to do now is think about
+
+integration by
+
+substitution in terms of definite integrals and there's only one extra step
+
+that's involved and
+
+that means just changing the limits in the integral right it once you once you
+
+realize how these
+
+things work it becomes a much easier kind of process to do so so what we're
+
+going to do now
+
+is we're going to calculate the integral and we're going to what we're going to
+
+do now is
+
+going to substitute 3x plus 2 we're going to substitute dx we're also going to
+
+do now is
+
+change the limits of the integral to be under the new variable again and then
+
+you can just
+
+evaluate everything under the new integral there'll be no need to substitute
+
+things back in right so
+
+the last two steps generally are the ones that change in this in this in this
+
+kind of way of
+
+doing it so let's see how this works right so let's take this example again
+
+right so what we're
+
+going to do is step one we're going to write out the integral in its more simple
+
+form so we're
+
+going to take y equals minus 1 to 1 3x plus 4 to the 3x plus 2 plus 2 to the
+
+power 4 dx right again
+
+just make sure that everything is simple you know understand how we can be ready
+
+to understand which
+
+substitution you need to be made okay so we're going to do now is find a new
+
+variable so we're
+
+going to define that as you and again we're just going to take what's inside
+
+that power 4 so what
+
+we're going to do is step two which is to define a new variable okay so again
+
+this is all about the
+
+first few steps and this is very very similar the exact same before what we're
+
+going to do then is
+
+rearrange this to get in terms of x now that is equal to one third u minus 2
+
+again just bring the
+
+two over divide by three so this is the exact same example as before then step
+
+four those we're
+
+going to get differentiate by du so that's just one third then finally then just
+
+to kind of tear
+
+this off we've got to get our substitution in for du for dx so this is exactly
+
+everything you will
+
+have seen in the last step so everything up to this point is exactly the same as
+
+before you look
+
+at this integral you find a substitution for what's inside the function you find
+
+the substitution for
+
+dx the next step that we've got to ask ourselves to do is find the substitution
+
+for the limits okay
+
+so the limits we have here are x equals minus one and x equals one right those
+
+are the two limits on
+
+the integral right so what we need to do now is think about what the new limits
+
+are under this new
+
+variable and that just means what is u when x is evaluated at the limits okay so
+
+we have the u is
+
+equal to 3x plus 4 so when x is equal to minus 1 u is equal to 3 multiplied by
+
+minus 1 plus 4 2 is 2
+
+so 3 multiplied by minus 1 that's minus 3 plus 2 is equal to minus 1 okay and
+
+then when x is equal
+
+to 1 u is equal to 3 multiplied by 1 plus 2 which is equal to 5 okay so what
+
+we're going to do now
+
+is the new step in this is just finding an extra substitution so the third
+
+substitution which
+
+replaces the limits in your integral and what that just involves is saying well
+
+what is u when
+
+x is at a certain value right so we know the limits that we're going to when
+
+we're evaluating
+
+when x is between minus 1 and 1 well if we change over to u which is 3x plus 2
+
+then that means when
+
+when x is between minus 1 and 1 well u is between minus 1 and 5 under the new
+
+variable okay and then
+
+we're going to do is we want to say the integral of minus 1 to 1 of to the power
+
+4 3x plus 2 dx so
+
+what we're going to do now is take the original integral y and now we're going
+
+to replace the
+
+three things that we've done the calculation for so we're going to replace the
+
+limits so remember
+
+that when we integrate between minus 1 and 1 on in terms of x we're integrating
+
+between minus 1 and
+
+5 right then we have we're going to integrate we're going to substitute in our u
+
+which is 3x plus 2
+
+and then we're going to do that to the power 4 and then we have and then we have
+
+the replacement
+
+for dx which is du divided by 3 so we've replaced three things that we've done
+
+in our integral
+
+let's tidy this up a little bit and then write out rewrite our integral so
+
+that's the integral
+
+between minus 1 and 5 u to the power 4 so we have one third integral between
+
+minus 1 and 5 of u to
+
+the power 4 du okay so this part isn't very similar to as before it's just you
+
+know you need
+
+to do when you have a limit on the integral you have to do the you have to
+
+change the new
+
+substitutions for the limits and hopefully we can see that actually this makes
+
+it much easier
+
+because we can calculate because this is a number we can just calculate this we
+
+don't have to go
+
+back and substitute something back in don't have to add any constants at the end
+
+we just evaluate
+
+so we can see that's one third minus multiplied by one fifth u to the power 5
+
+minus 1 to 5 so
+
+then this equals 1 over 15 5 to the power 5 minus minus 1 to the power 5 and
+
+then I think if you do
+
+that calculation you end up with 3124 divided by 15 okay so integrating is usual
+
+just means
+
+evaluating between two limits so you don't generally have to add in a constant
+
+at the
+
+end of this you don't need to add in put the substitution back in it just made
+
+all you have
+
+to do is just substitute do all of your substitutions to make your life very
+
+simple and then perform the
+
+integration as you would as usual so as everyone follows that makes sense any
+
+questions on this
+
+no okay so let's think about an example that's again let's think of an example
+
+that you know
+
+doesn't necessarily take doesn't take I won't go necessarily as slowly through
+
+so imagine that
+
+we have the integral y is equal to minus 9 to 1 1 over x plus 10 to dx so
+
+because this is now
+
+a definite integral what we're going to be able what we're going to do now is to
+
+have to come up
+
+with three substitutions right so the first one we're going to do is we're going
+
+to say u is equal
+
+to x plus 10 well that then means that the x is equal to u minus 10 and then if
+
+we differentiate
+
+that dx by du is equal to 1 because minus 10 differentiates 0 u differentiates
+
+to 1 then we
+
+have the dx is equal to du right that makes our life easier really because this
+
+just means this
+
+1 over u du right don't have to have any fractions in there but now what we're
+
+also going to do is
+
+integrate we're going to change the limits so when x is equal to minus 9 u is
+
+equal to minus 9 plus
+
+10 which is equal to 1 and when x is equal to 1 u is equal to 1 plus 10 which is
+
+equal to 11 okay
+
+so we now have a substitution for the denominator we have a substitution for the
+
+dx and we also have
+
+the substitution for the integral so what we're going to do is so we have the
+
+integral between
+
+minus 9 and 1 for 1 over x plus 10 dx then this becomes the integral between 1
+
+and 11 for 1 over
+
+u du so let's tidy this up a little bit and just say integral between 1 and 11 1
+
+over u du now this
+
+again everything just really now has boiled down to so we change our change find
+
+out all their
+
+changing variables making substitution we've gone for something that looks
+
+fairly difficult to know
+
+this looks something that looks fairly easy right we can do something easy in
+
+the sense that we can
+
+use our table of common integrals so what we're going to do is say right okay
+
+well 1 over u du
+
+integrates to LNX so what we're going to say there is LNX LNU evaluated between
+
+1 and 11 then
+
+that just becomes something really simple as LN11 minus LN1 well that LN1 is
+
+equal to 0 so that's
+
+LN11 which comes out to being 2.398 so we now have evaluated the integral and
+
+again now because
+
+we've got limits it makes the life a little bit easier you don't have to
+
+substitute things back
+
+in at the end you don't have to add in a constant because we're not going to
+
+function at the end
+
+of it and what we're able to do now is turn something fairly complicated into
+
+something
+
+much simpler and get something out at the end so so just now today we've covered
+
+the integration
+
+by substitution now this can be really really useful for us because things will
+
+start to get
+
+more and more complicated right because we can't just rely on simple functions
+
+but now we have a
+
+rule like chain rule which says that if we have functions of functions we can
+
+make a substitution
+
+and make things easier for ourselves okay so and you and hopefully you can
+
+design that substitution
+
+like I've said ax plus b generally you'd so that you can make your life easier
+
+so when you've made
+
+a substitution you can just use the basic laws of differentiation that we have
+
+the different basic
+
+laws of integration that we have the table that I gave you but why does this
+
+matter right well
+
+when when a function is quite complicated an integral gets quite complicated by
+
+using a
+
+substitution things can get much easier can be made much much easier for us now
+
+there's one example
+
+of this that you're going to be able to see later on today which I'll start off
+
+for you in a second
+
+which is the hydrostatic equation okay so the formulation you will have seen so
+
+far is the dp
+
+by dz which is the pressure atmospheric pressure depends on z which is the
+
+altitude generally
+
+what you will have seen before is that that is just gravity minus divided
+
+divided by the temperature
+
+and p well actually this formulation well you will have seen so far and in the
+
+earlier slides
+
+we reference this that temperature doesn't just stay constant as you move
+
+through the atmosphere
+
+okay so what we'll end up doing is thinking well okay well what happens if we
+
+replace this
+
+temperature with a new con with a new formulation which says minus gravity all
+
+over and we do t
+
+minus zero point zero one z and multiply that by p okay so what so what we can
+
+see here is actually
+
+what we're going to do is now replace temperature with something that's more
+
+realistic which says
+
+the temperature decreases as you move up the atmosphere and automatically by
+
+redoing separation
+
+of variables because if we do separation of variables we can rearrange this
+
+right so we say
+
+one over p dp is equal to minus g over r alpha multiplied by one over t minus
+
+zero point zero
+
+one z by dz and if you add in the integrals to that automatically by relaxing
+
+one assumption which
+
+is to say that temperature doesn't isn't constant in this hydrostatic equation
+
+it becomes a much
+
+more complicated thing to integrate okay so what you will see if you are later
+
+on in your courses
+
+when you start looking at differential equations when you start relaxing certain
+
+assumptions these
+
+differential equations can be much much more difficult to integrate and actually
+
+they may
+
+become so complicated that you need to do some numerical approximations which is
+
+probably what
+
+you will have seen with David Topping in your computer programming class and it
+
+becomes a much
+
+these become much more difficult problems and in this case you will need
+
+integration by substitution
+
+to be able to do this that particular one okay so why do we need it it's because
+
+when we start
+
+looking at ordinary differential equations and we start relaxing certain
+
+assumptions you're
+
+going to start coming up with much harder functions that you need to integrate
+
+okay so I think that's
+
+everything I had to say let me just double check yes that's everything I had to
+
+say on this so
+
+we're just going to kind of pack up there we're going to head over to Nancy
+
+Rothwell now for the
+
+practical so please come along to have a go at that and multiple loads of
+
+different exercises
+
+that we have I'll put up the seats code in a second but if you have any
+
+questions in the lab
+
+and I'll see you in ten minutes
+
+do you want to just chat over in the practical yeah the link wasn't working I
+
+was okay so
+
+if we if you go over there we'll have a quick chat and then you don't have to
+
+worry about
+
+booking another apartment okay all right yeah if we go and if you head over
+
+there
+
+now we'll have a chat over there

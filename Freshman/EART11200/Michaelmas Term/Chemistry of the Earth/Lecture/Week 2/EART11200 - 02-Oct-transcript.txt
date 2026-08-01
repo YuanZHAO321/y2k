@@ -1,0 +1,1795 @@
+'EART11200 - 02-Oct', automated transcript
+01/08/2026
+---
+
+OK, good morning, everybody.
+
+Nice to see you all again.
+
+Hope things are going well.
+
+I hope you're ready for another session of chemistry
+
+this morning.
+
+The first thing I want to do is just review
+
+a couple of the main points from last week's lecture
+
+in practical.
+
+Hopefully, you worked your way through the practical
+
+on your own, and then you looked at the feedback
+
+just to reinforce, make sure that you've got things right,
+
+and also to read the explanations
+
+of the different things that we investigated.
+
+So just to recap, we looked last week at nucleosynthesis
+
+and where chemical elements come from,
+
+and we looked at this figure in particular,
+
+which summarizes the different processes
+
+that have produced the different elements
+
+as we go up in increasing atomic number.
+
+Remember that increasing atomic number
+
+is increasing the number of protons in the nucleus.
+
+So we talked about how hydrogen and helium
+
+were formed in the Big Bang, and then subsequently,
+
+the first stars to form only had hydrogen and helium,
+
+basically, so all the other elements
+
+had to be produced in stars.
+
+Lithium, beryllium, and boron are actually destroyed in stars,
+
+so they're very low in abundance.
+
+And remember, this is a plot of the chemical composition
+
+of the sun and the solar system, both.
+
+They both are exactly the same, basically.
+
+So the lighter elements are produced by fusion reactions,
+
+nuclear fusion reactions,
+
+which we also call burning reactions,
+
+and that takes place in stars.
+
+So the first reactions produced carbon,
+
+oxygen, neon, magnesium, and so on,
+
+and then if we form these elements
+
+and then we spit them out into space,
+
+scoop them all up into a new star that's forming,
+
+then that star already has those heavier elements
+
+so it can build on them.
+
+And so we have the nuclear synthesis fusion reactions
+
+taking place for lighter elements,
+
+but then above iron, which is the limit
+
+of nuclear fusion reactions,
+
+the elements above iron are produced by neutron capture,
+
+where we have a flux of neutrons.
+
+That could either be a slow process within a star
+
+that's in its main phase,
+
+or it could be during a supernova
+
+where we have a flood of neutrons
+
+just swamping the atoms that are already present.
+
+So that sort of sets up this pattern
+
+of the higher the atomic number, the lower the abundance,
+
+because it takes longer to get there.
+
+We've got to add neutrons step by step after this first group
+
+to increase the atomic number.
+
+And then, of course, we've got this zigzag pattern
+
+superimposed on the whole thing,
+
+which is odd and even atomic numbers.
+
+Sorry, even is the top, odd is the bottom,
+
+and that's because a nucleus
+
+with an even number of protons is more stable
+
+than the adjacent nucleus with an odd number of protons.
+
+Okay, so then the other thing we looked at
+
+was the composition of the earth.
+
+And this is not exactly the same plot
+
+as what you produced in the practical,
+
+but what you should have found
+
+is that the most volatile elements,
+
+the ones that prefer to be in the gas phase,
+
+are actually lower in abundance in the earth
+
+compared with the whole solar system.
+
+So this is a similar plot.
+
+This is taken from one of the textbooks,
+
+and it shows that if we're looking at elements
+
+that condense or they precipitate from the gas
+
+into a solid phase at very high temperatures,
+
+then we've got most of those elements.
+
+We've got them all just fine in the earth.
+
+But when we talk about volatile elements,
+
+which includes things like sodium, potassium,
+
+gallium, tin, zinc, sulfur,
+
+there's less of them in the earth
+
+than what we would predict
+
+if we were looking at the whole solar system.
+
+So the way we think about that
+
+is when the solar system was forming,
+
+we had a picture that looked like this
+
+where this is the sun and the orange disk here
+
+is just a cross-section of the disk
+
+spreading out from the sun.
+
+Of course, that disk is rotating around the sun
+
+like a flat pancake, and it's hotter closer to the sun.
+
+So things like volatile elements,
+
+that if you begin to heat them up, they boil off,
+
+they go into the gas phase.
+
+Then if we're close to the sun, we lose those elements
+
+and we don't find them in the solid material.
+
+So when we look at the compositions of the planets,
+
+then the terrestrial planets, the rocky planets,
+
+are closer to the sun, and earth is here.
+
+And that's because the reason that we have
+
+this depletion of volatile elements
+
+is because the earth formed from material
+
+closer to the sun where it was hotter.
+
+And so volatile elements were partly in the gas phase
+
+and they didn't all condense into the solids
+
+that formed the earth.
+
+Whereas further out, the gas and ice giants,
+
+they contain all those elements.
+
+They also have lots of ice and gases and Jupiter and Saturn.
+
+So it was colder there and all those volatile elements
+
+were in the solid phase and they accreted into the planets.
+
+So that's basically the picture from last week.
+
+Okay, and if you have questions about that,
+
+we can look at them in today's practical.
+
+So just for people who have just come in a little later,
+
+the attendance thing,
+
+I'm just going to read out this number, 002455.
+
+So just make a note of that, we'll get it quickly.
+
+And I'll bring that up again near the end of the session.
+
+Right, so today we're going to focus on the periodic table
+
+and we're going to talk about what I describe
+
+as a geochemist's periodic table.
+
+We're going to look at the periodic table
+
+from the view of earth and environmental sciences.
+
+So we're going to start off with just talking
+
+about the structure of the periodic table.
+
+So throughout this week's lecture in practical,
+
+we're going to look at the groups and periods
+
+in the periodic table.
+
+We're going to look at electron configurations.
+
+So we're going to focus on the electrons this week
+
+rather than the nucleus of the atom
+
+and think about why that's important.
+
+We're going to understand why groups of elements
+
+behave in similar ways.
+
+Look at bonding in different minerals
+
+and the way different atoms stick together.
+
+And basically this is all an introduction
+
+to how we think of the periodic table as a geochemist.
+
+So here's some reading for this week.
+
+Definitely read the basic reading.
+
+I really strongly recommend looking at this chapter two
+
+in McSweenan-Richardson.
+
+If you've done A-level chemistry,
+
+you might think this is very basic stuff,
+
+but what I want you to appreciate
+
+is we're going to be talking about
+
+how elements behave in geochemical systems
+
+and that's slightly different.
+
+And it's good to just get into the mindset of a geochemist.
+
+So the periodic table is arranged
+
+in what we call groups and periods.
+
+Periods go across the table and groups go down.
+
+That's the basic definition.
+
+So if we look at the periods,
+
+then we call them, we just number them as we go down.
+
+The first period is the first row.
+
+It's only got hydrogen and helium in it.
+
+Then we have the second period going all the way across here,
+
+right across to neon.
+
+The third period, sodium to argon.
+
+Fourth, potassium to krypton.
+
+The fifth and the sixth.
+
+So that's our basic structure.
+
+And we're reading from left to right,
+
+we're increasing the atomic number.
+
+So you'll see it goes atomic number one,
+
+two for helium, three, four,
+
+and then we jump over here, five, six, seven, eight,
+
+and so on.
+
+10 and then back over here for 11, 12.
+
+When we get down to the sixth period,
+
+then we've got cesium is 55, barium 56.
+
+And then this brown box is the lanthanide series
+
+or the rare earth elements.
+
+And you'll see that those are elements 57 to 71.
+
+And then we go back to hafnium 72.
+
+So all of these lanthanide elements
+
+are actually in the sixth period.
+
+It's just an expansion,
+
+like a concertina expansion of this box here.
+
+And the same for the actinides.
+
+They're elements 89 to 103.
+
+Okay, so that's how the periods work.
+
+The groups are the vertical columns in the table.
+
+And the important thing about this
+
+is that elements in a certain group
+
+behave in a very similar way.
+
+And what we'll look at is that that's because
+
+the electron configuration is the same in all elements
+
+as we go down the group.
+
+So we've got these different groups.
+
+We've got the pink group here is called alkaline metals.
+
+You can see at the bottom.
+
+The orange group is the alkaline earths.
+
+We've got the halogens over here in the pale violet color.
+
+And the noble gases are over on the right-hand side.
+
+Those are just examples of groups of chemical elements.
+
+And they're groups that are important
+
+in geochemical systems.
+
+So the important thing we need to really get solid today
+
+is talking about electron configuration.
+
+And that's because the chemical properties of an element
+
+depend on basically on the electron configuration,
+
+which is the way electrons are arranged around the atom.
+
+So we talked last week about how if we've got a neutral atom,
+
+then the number of electrons must equal the number of protons
+
+because protons have a positive charge,
+
+electrons have a negative charge.
+
+And you're probably used to the idea of seeing an atom
+
+where it's got shells of electrons around it.
+
+But that is a very simplistic picture,
+
+which is what we're going to look at.
+
+First of all, I'm just going to show you this table
+
+that explains that electrons are arranged in shells.
+
+And that's probably what you're familiar with.
+
+But then within each shell, there are subshells.
+
+And within the subshell, there are orbitals.
+
+And within each orbital, there's either one or two electrons.
+
+So let's have a look at this table
+
+and look at some of the trends that we can pick out.
+
+The shell, the subshell, the number of orbitals,
+
+the number of electrons and the total electrons in the shell.
+
+So what you'll see, first of all, is the shells,
+
+there are four of them, one, two, three, four.
+
+They're also called K, L, M and N,
+
+which you might come across in physics.
+
+But we're not going to use that notation.
+
+The subshells, you'll see that these are called S, P, D and F.
+
+You'll see a variety of either S, P, D or F
+
+in these subshells.
+
+And what you'll see is that the first shell has one subshell,
+
+the second shell has two subshells,
+
+the third has three, the fourth has four.
+
+So that's pretty straightforward.
+
+And it goes S, S, P, S, P, D, S, P, D, F.
+
+So it's just a very sort of predictable pattern, basically.
+
+Where we have S shells,
+
+then there's one orbital in the subshell.
+
+And you'll see that's true for one S, two S, three S and four S.
+
+Where we have P shells, we have three orbitals
+
+in the subshell.
+
+You'll see that's the same for two P, three P and four P.
+
+And then D shells have five orbitals
+
+and F has seven orbitals.
+
+So that just is a simple pattern, one, three, five, seven.
+
+So again, it's a very predictable pattern
+
+that builds this up.
+
+So within each of these orbitals,
+
+we can have a maximum of two electrons.
+
+So for the first shell, which only has one orbital,
+
+then the maximum electrons in that shell is two.
+
+For the second shell, we've got four orbitals in total,
+
+one S orbital and three P orbitals.
+
+That gives us two plus six maximum number of electrons.
+
+So the total electrons possible in that shell is eight.
+
+The third shell, the maximum is 18.
+
+The fourth shell, the maximum is 32.
+
+So that's the pattern.
+
+And I wanted to introduce you to that
+
+so that you might have to go back to it
+
+because it's a lot to take in all at once,
+
+but that's just the structure of this,
+
+what we're going to talk about.
+
+So like I said, you're probably familiar with this concept
+
+of we represent an atom as having the nucleus
+
+with protons and neutrons in the nucleus,
+
+and then these shells of electrons around it.
+
+So for lithium, which has atomic number three,
+
+then we have three electrons.
+
+We put two of them in the first shell
+
+because only two electrons are allowed in the first shell
+
+and one in the second shell.
+
+For carbon, atomic number six,
+
+we put two electrons in the first shell
+
+and that means there are four electrons in the second shell.
+
+So it's simple and it works.
+
+It works fine if we're only talking about atoms
+
+with low atomic numbers.
+
+But when we talk about higher atomic numbers,
+
+we have to understand this concept of orbitals.
+
+So I talked about the orbitals, SPD and F orbitals,
+
+and we have to think of them,
+
+not as like a bullet of an electron that's a little bead
+
+that's spinning around in a sphere.
+
+We have to think of it more as a cloud
+
+where the negative charge is somewhere in that cloud
+
+and it's moving around in that cloud.
+
+So when we say we've got an electron in the S orbitals,
+
+what we mean is that there's a spherical region
+
+where there's a negative charge.
+
+When we talk about P orbitals, they have funny shapes.
+
+They're like bunny ears.
+
+They're two lobes basically, each one.
+
+And if we think about coordinates, X, Y, Z coordinates,
+
+which are at right angles to each other,
+
+then one P orbital lies along the X axis,
+
+one along the Y axis and one along the Z axis.
+
+So that's pretty straightforward.
+
+When we talk about the D orbitals,
+
+it's a bit more complicated.
+
+There are five of them, so it's hard to think
+
+about how to arrange those around the nucleus.
+
+So the D orbitals, if we look at the X, Y, and Z axis,
+
+which they're labeled on this first figure here,
+
+X is coming out of the page to the left,
+
+Y is coming out of the page to the right,
+
+Z is going straight up and down the page.
+
+So the D orbitals are arranged.
+
+If we look at these ones on the right first,
+
+this is called D, Y, Z.
+
+And it's basically four lobes, yeah, four lobes
+
+that are arranged in the plane of the Y, Z axis.
+
+D, Z, X, similar to this one above,
+
+but those are arranged in the plane of the Z, X axis.
+
+And X, Y, of course, is the same thing.
+
+They're arranged in the plane of the X, Y axis.
+
+Then there's one where those orbitals lie exactly
+
+on the X and Y axes, and that's X squared minus Y squared
+
+is the denomination for that.
+
+And then there's this weird looking one, Z squared,
+
+which is two parts of the lobes are on the Z axis,
+
+but then the rest of it is like this doughnut thing
+
+around the middle, a weird shape.
+
+You don't need to know those shapes,
+
+but it's just important to have some sort of concept
+
+of this fact that the electrons are not just spinning round
+
+like little beads on a wire, on a circle or on a sphere.
+
+The F orbitals are even more complicated.
+
+I'm not going to describe them in detail.
+
+This figure shows the S, the P, the D, and the F orbitals.
+
+Okay, so now we've got an introduction to orbitals.
+
+What we have to realize is that electrons are going
+
+to go into these orbitals, but they're going to go
+
+into them in a bit of a strange sequence.
+
+We're not just going to fill the orbitals
+
+of the first shell and then the second shell
+
+and then the third shell.
+
+It's a little bit more complicated than that.
+
+And if you don't understand this, you don't understand
+
+why the periodic table looks like it does.
+
+But once you understand this, you really begin to see
+
+why the clever things about the periodic table.
+
+So this diagram here shows all these orbitals,
+
+one S, two S, two P, three S, three P, et cetera,
+
+all the way up to four F, six P.
+
+And this is showing increasing energy.
+
+So what you have to think of is that the nucleus
+
+has a positive charge on it
+
+and the electrons have a negative charge.
+
+So you would think that the electrons would be pulled
+
+towards the nucleus and just sort of fall into the nucleus
+
+because you've got a positive and a negative charge.
+
+But in fact, the electron has enough energy
+
+to be able to move away from the nucleus.
+
+And if you think about it, if you want to push yourself
+
+further and further away from that positive charge,
+
+you need more energy.
+
+So the electrons that are close to the nucleus
+
+have lower energy than the ones that are further away.
+
+So when we start building up our atoms,
+
+we want to put electrons into these orbitals,
+
+but we do them in order of increasing energy.
+
+So let's look at hydrogen, which has atomic number one,
+
+one proton, therefore one electron.
+
+So we put that in the first orbital, the one S orbital,
+
+and we denote that with a little arrow in the bubble.
+
+Helium has two electrons.
+
+Each orbital can take two electrons,
+
+so we put both the electrons in the bubble.
+
+Notice that we've got one up arrow and one down arrow.
+
+You can also write that as a half arrow,
+
+which we can show you in the practical.
+
+That's because electrons have something called spin
+
+and they pair up and that's up and down basically.
+
+So then lithium, atomic number three,
+
+we've filled up the one S orbital,
+
+so now we can put one into the two S orbital, all fine.
+
+Oxygen, atomic number eight, one two in the one S orbital,
+
+two in the two S orbital,
+
+and then we start to fill the two P orbital.
+
+Notice that we go one, two, three in individual orbitals
+
+before we put the fourth one as a pair in the first one.
+
+So we've got four to go into the two P orbitals.
+
+We don't put two and two.
+
+We put one, one, one, and then add the fourth one.
+
+Start again to add the fourth one.
+
+This is fine, but then when we get to bigger atoms,
+
+then things get a little bit more complicated
+
+because the orbitals, the energy of the orbitals
+
+doesn't go in sequence.
+
+And you'll see here that if we look at the energy
+
+of the four S orbital,
+
+it's slightly lower than the energy of the three D orbital.
+
+So when we look at potassium, atomic number 19,
+
+then if we're going to fill these orbitals,
+
+what are we going to do?
+
+Can you have a bit of a think about that?
+
+Where are you going to put those electrons?
+
+So we go one, two, down here, three, four, five, six, seven,
+
+eight, nine, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+
+and then 19 is going to go into this one, four S.
+
+It's not going to go into three D
+
+because four S has a lower energy.
+
+So that's what it'll look like.
+
+So the shells, even though the third shell
+
+can take a maximum of 18 electrons,
+
+the configuration is not two eight nine.
+
+It's two eight eight one in this case.
+
+And understanding that is the fundamental underpinning
+
+of understanding the periodic table.
+
+When we look at the periodic table,
+
+if we think about it in terms of the electron configurations,
+
+then in the first period, we're filling the one S shell.
+
+And then we fill the two S shell, the two P,
+
+the three S, the three P,
+
+but the next electron for potassium
+
+goes into the four S shell.
+
+So we don't start filling the three D orbitals
+
+until we've filled the four S orbital.
+
+So that's why the periodic table makes sense
+
+because we fill the four S and then, oops,
+
+and then we fill the three D and then we fill the four P.
+
+And then when we get down here to the lanthanides,
+
+then we fill the six S followed by one five D orbital
+
+and then the four Fs and then the rest of the five Ds
+
+and then the six Ps.
+
+So it gets, they all begin to overlap
+
+as we get to higher atomic numbers.
+
+I just want to point out at this point,
+
+there's several textbooks that you have available
+
+for all these references that I'm giving you.
+
+The book by White called Geochemistry
+
+is a very good book in many respects,
+
+but there are quite a few errors in it.
+
+And if you spot something that you think is an error,
+
+it probably is an error.
+
+So if you looked at this table in White,
+
+you might think, wait, Boron is not four S two, two P one.
+
+It can't possibly be four S
+
+because it's only got five electrons.
+
+So those five electrons have to go into one S two,
+
+two S two, two P one.
+
+So this is wrong and this is wrong
+
+and it wasn't proofread carefully.
+
+Another problem is that this is shown as K.
+
+K is potassium.
+
+This is correct, potassium is correct here,
+
+but this should be Krypton.
+
+So just to warn you that there are errors in this book.
+
+There's a lot of good stuff in that book.
+
+It's very helpful, but just be aware that it's not all,
+
+everything that imprints is not always correct.
+
+Right, so now we've got the hang of electron configurations.
+
+We're going to talk about how that controls the chemistry.
+
+So when we're talking about chemical reactions,
+
+we're only going to be interested in the electrons
+
+that are in the outer shell of the atom,
+
+the outermost orbitals, basically,
+
+not just the shell, but the outermost orbitals.
+
+And those are the ones that participate in bonding.
+
+So if an element has the same pattern in its outer shell,
+
+its outer orbitals,
+
+then it will behave very similar to another one.
+
+And that's why when we look at the groups
+
+of the periodic table,
+
+they're arranged going down in a group,
+
+and all those elements in the group
+
+have the same electron configuration
+
+in the outer orbitals.
+
+So let's have a look at what that means.
+
+One thing is that the general rule
+
+is that the outer P shells are the most stable.
+
+So the most stable electron configuration
+
+is the configuration equal to a noble gas.
+
+We'll see what that means later.
+
+So helium is 1s2.
+
+It can't have any P orbitals.
+
+Neon, 2s2, 2p6.
+
+Argon, 3s2, 3p6.
+
+Krypton, 4s2, 4p6.
+
+Xenon, 5s2, 5p6.
+
+Radon, 6s2, 6p6.
+
+They all end with s2p6,
+
+and that's why they all behave exactly the same.
+
+And because this is the most stable configuration,
+
+noble gases are very, very happy.
+
+They don't need to participate in chemical reactions.
+
+They exist as atoms.
+
+There's argon in the air around us,
+
+and argon is just,
+
+when we think about the air,
+
+we've got nitrogen molecules,
+
+we've got oxygen molecules,
+
+we've got water molecules,
+
+CO2 molecules,
+
+but argon is just atoms.
+
+Just single atoms of argon
+
+are floating around in this room,
+
+and we're breathing them in every time we take a breath.
+
+So the noble gases are,
+
+they don't participate in reactions.
+
+But let's have a look just slightly to the left,
+
+and this is the halogens.
+
+So these, if we look at the electron configuration,
+
+we'll see that they all have s2 and p5,
+
+2s2, 2p5, 3s2, 3p5, and so on.
+
+They all have very similar behavior,
+
+and that's because if we look at the configuration like this,
+
+then if we just can stick one more electron in there,
+
+then it will have the same configuration as a noble gas.
+
+So in the previous slide, we had neon,
+
+which had its p orbitals filled with six electrons.
+
+In this one, we've got fluorine.
+
+It's just missing one electron.
+
+So it very, very strongly wants to attract one more electron.
+
+If we add another electron,
+
+we overall have an excess charge of one minus.
+
+So these halogen elements go around
+
+making a one minus charged ion.
+
+Over on the other side of the periodic table,
+
+we've got the alkali elements, the red ones here.
+
+And these, if we look at the electron configuration,
+
+they all have one s electron.
+
+So they all want to do the same thing.
+
+They actually want to lose that electron,
+
+because if they lose that electron,
+
+they will have the electron configuration of a noble gas.
+
+And that means that there's an overall positive charge
+
+on the atom because it's lost one electron,
+
+and there's one positive extra charge.
+
+So that forms an ion with a positive charge,
+
+for example, sodium plus, if we lose that three s electron.
+
+So as we go down the group,
+
+we've got the same electron configuration in each atom,
+
+but the atoms are getting bigger.
+
+We're looking at the two p orbitals
+
+and then the three p orbitals
+
+and then the four p orbitals and so on.
+
+It's growing each time.
+
+So it's no surprise that atoms grow
+
+as we go down the group.
+
+So this is group one, lithium, sodium, potassium, rubidium.
+
+Group two, beryllium, magnesium, calcium, strontium.
+
+So in this case, the atom is shown as the gray ball,
+
+and the ion, which is lithium,
+
+the group one elements are one plus
+
+and the group two elements are two plus
+
+because they're going to lose two electrons.
+
+So the gray neutral atoms are increasing in size.
+
+The green ions are increasing in size.
+
+And these positively charged ions are smaller than the atom
+
+because we've lost an electron
+
+and therefore the charge on the nucleus is greater
+
+than the charge on the electron cloud
+
+and it pulls the electron cloud a little bit closer.
+
+So the ion in each case is smaller than the neutral atom
+
+but we still have an increase over the group,
+
+through the group.
+
+But if we look at the other side of the periodic table,
+
+these are, this is the group of oxygen
+
+and sulfur, fluorine and chlorine,
+
+then the size of the atom is increasing, that's the gray,
+
+the size of the atom is increasing
+
+as we go down the group.
+
+But look at how the size of the ion is so much bigger
+
+compared with the size of the atom.
+
+That's because we've added an electron
+
+and we've got more negative charge than positive charge.
+
+So the, and we're also creating tension
+
+in that electron cloud which is sort of pushing it out
+
+and further apart.
+
+So these ions are bigger than the neutral atoms.
+
+But again, the ions increase in size as we go down the group.
+
+So these are fundamental concepts
+
+because when we look at solids in the earth, in minerals,
+
+and it's the same in mineral melts and in fluids,
+
+the same principles apply.
+
+But in solids in particular, in minerals,
+
+if we have a mineral that will take up calcium,
+
+then if we want to substitute one of those ions for calcium
+
+for something else, let's say magnesium,
+
+then magnesium, it has the right charge
+
+but it's slightly smaller and it might rattle around
+
+in the crystal lattice.
+
+Strontium might be too big to fit in that space
+
+in the crystal lattice.
+
+So what we're doing always
+
+when we're talking about the composition of a mineral
+
+is we're thinking about the size and charge
+
+on the ions that are in those minerals.
+
+So let's carry on with part two
+
+where we're just going to look at bonding in minerals.
+
+This is basically chemical bonding in any situation
+
+but we're specifically going to look at minerals
+
+because that illustrates the principles
+
+that we're talking about.
+
+So why do we care about electron configuration?
+
+Hopefully what I just was talking about is it's important
+
+because when we talk about mineral structures,
+
+mineral lattices, then the electron configuration
+
+of the individual elements
+
+controls the structure of that lattice.
+
+It controls the bonding type
+
+and bonding controls properties
+
+such as the hardness of a mineral.
+
+I'll give you an example of that in a minute.
+
+Mineral compositions and trace element substitutions
+
+are all to do with what elements will fit
+
+in that particular space in the lattice.
+
+But also these electron configurations
+
+control the behavior of elements in melts,
+
+in fluids, waters, gases, in living organisms,
+
+basically everything.
+
+So this fundamental chemistry controls the whole structure
+
+of the universe, of our planet, of everything inside it.
+
+So chemical bonding, we've got basically three different types
+
+of chemical bonding that we want to talk about.
+
+First of all, ionic bonding
+
+and this is where elements form ions
+
+and ions are formed when we either lose or gain electrons.
+
+So there's a mineral called halite which we eat every day.
+
+It's also salt, NaCl, but the mineral name is halite.
+
+So the chemical formula is just simple NaCl
+
+and the structure of it is just that we have
+
+alternating atoms of sodium and chlorine
+
+in a closely packed lattice.
+
+So what's happening is sodium has atomic number 11
+
+and we already looked at that.
+
+It has one S-electron, which is this one,
+
+lonely little S-electron in the third shell
+
+and it wants to get rid of that.
+
+Chlorine, meanwhile, has five P-electrons
+
+and it would love to grab another one
+
+and fill up that P subshell.
+
+So sodium gives up its electron, chlorine grabs it,
+
+there's chlorine, grabbed it.
+
+Chlorine, therefore, has an extra negative charge,
+
+chlorine minus and sodium has lost an electron
+
+so it becomes sodium plus.
+
+So think about the fact that sodium has shrunk
+
+because it's a positive ion and chlorine has expanded
+
+because it's a negative ion.
+
+So that's why this structure is big chlorine ions
+
+and small sodium ions.
+
+So if we look at the whole periodic table,
+
+then we have electron configuration of S1 over in the,
+
+on the left in the alkali elements
+
+so we easily form a one plus ion.
+
+We have S2 in the second group
+
+and that easily forms a two plus ion.
+
+Over on this side, we looked at the halogens
+
+that easily form a one minus ion
+
+and also this group oxygen and sulfur in particular
+
+are very important elements in the earth
+
+that they can easily add two electrons
+
+and form a two minus ion.
+
+So that's the basic, that's what's happening
+
+when we form ionic bonds.
+
+So some terminology related to ions,
+
+cation is an ion with a positive charge,
+
+anion is an ion with a negative charge
+
+and this term valence, it refers to the number of electrons
+
+that have been added or removed.
+
+So we can have either, we can have monovalent,
+
+in other words, something with one charge
+
+which can be either positive or negative.
+
+So this would be a monovalent cation
+
+and this would be a monovalent anion and so on.
+
+So the next type of bonding is covalent bonding
+
+and this is where atoms share electrons.
+
+So there's no charge balance involved at all.
+
+So an example is methane.
+
+So here's carbon, it has four electrons in its second shell.
+
+So here, we're only showing the electrons
+
+that are participating in the bonding.
+
+Don't forget it also has atoms inside that.
+
+It's very hard to lose four electrons,
+
+it's also very hard to gain four electrons
+
+and that's why carbon is very happy to share electrons
+
+in covalent bonding.
+
+So hydrogen, same thing, it likes to participate
+
+in a covalent bond.
+
+Sorry, excuse me, could you just stop the chatter, please?
+
+It's distracting, thank you.
+
+So what we do is each four hydrogen atoms come along
+
+and each one of them shares its electron with carbon.
+
+So then hydrogen's happy because it's got two electrons
+
+in its 1s shell.
+
+Carbon's happy because it's got eight electrons
+
+in its 2p shell.
+
+And the same thing for water.
+
+Oxygen has six electrons in its outer shell.
+
+Hydrogen comes along and shares its electrons.
+
+So we end up with hydrogen having two electrons
+
+and oxygen having eight electrons.
+
+In the outer shells.
+
+So that's what covalent bonding is like.
+
+Covalent bonds are extremely strong
+
+and we can see that when we look at diamond.
+
+Diamond is a three dimensional structure
+
+where each carbon atom is sharing its electrons
+
+with the next carbon atom.
+
+So covalent bonds are carbon to carbon covalent bonds.
+
+It's incredibly strong and that gives diamond its hardness.
+
+That's why diamond is extremely difficult to cut.
+
+It scratches everything because it's made of covalent bonds.
+
+Just think about the bonding when you think about that.
+
+On the other hand, graphite has a structure
+
+where it has sheets of hexagons of carbon atoms
+
+attached to each other
+
+and they're attached by covalent bonds.
+
+But the arrangement is such that these sheets
+
+are not attached very strongly in three dimensions.
+
+They're attached by something called a van der Waals bond,
+
+a very weak bond.
+
+And so the sheets slide over each other
+
+and that's why graphite is very, very soft.
+
+It's what pencil is made of.
+
+So we take advantage of that.
+
+So the thing is though, that within each sheet
+
+that material is bound together with covalent bonds
+
+and that's why we've got now graphene
+
+and why graphene is so important
+
+because graphene separates just an individual sheet
+
+of this structure.
+
+And within that sheet, the bonds are incredibly tight
+
+and incredibly strong.
+
+So graphite, even though it's soft,
+
+it's only soft in one dimension, in that third dimension.
+
+The individual sheets are very, very tightly bound.
+
+So where do we find covalent bonds
+
+in the periodic table?
+
+Well, they're all in this sort of middle part
+
+over on the right-hand side.
+
+So particularly carbon, nitrogen, oxygen,
+
+phosphorus, sulfur, these are some important
+
+and silicon as well actually, very important elements
+
+that participate in covalent bonding.
+
+And you'll see that they're labeled as semi-metal
+
+and non-metal in this color scheme, in this periodic table.
+
+So the final type of bonding is metallic bonding.
+
+And this is where we have the individual atoms
+
+stacked together just in a very closely packed arrangement.
+
+So these are the individual atoms,
+
+but then the outer electrons just sort of float around.
+
+They're not very tightly bound to any particular atom.
+
+And this happens when we have unfilled d orbitals.
+
+So when we have lots of d orbital electrons
+
+that have these, those orbitals have these weird,
+
+diffuse shapes and they're quite a long way
+
+from the nucleus.
+
+So those electrons are quite sort of mobile.
+
+So in terms of minerals, we have minerals
+
+that are called native metals.
+
+And that's the term for an element that occurs
+
+in its metallic form in nature.
+
+So copper and gold are examples of native metals
+
+that are, those are the names of minerals actually.
+
+And we find metallic bonding.
+
+As I said, the large number of d electrons
+
+are characteristic of where we find metals.
+
+Iron, nickel, copper, zinc, you're familiar with,
+
+silver, palladium, platinum, gold, mercury,
+
+those are all in this region of the periodic table.
+
+We also find them over here, aluminium,
+
+you use that in the kitchen, tin, lead,
+
+you're familiar with those as metals.
+
+And so these are described as transition metals
+
+and basic metals in this color scheme.
+
+We've got a few minutes, so I'm just going to continue
+
+with the final topic,
+
+which is something called complex ions.
+
+And these are really important in geochemical systems.
+
+So we'll start off with the silicate ion.
+
+And this is something called an SiO4 tetrahedron.
+
+And it's basically the building block of silicate minerals.
+
+Silicate minerals are the dominant rock forming minerals.
+
+So whenever we walk around on the surface of the earth,
+
+we're walking on silicate minerals.
+
+If it wasn't for the bonding, it would be very, very different.
+
+So let's have a look at that.
+
+So silicon is atomic number 14.
+
+And if we fill up our orbitals, we get to this
+
+where we have two 3s electrons and two 3p electrons.
+
+So silicon basically needs four electrons
+
+to complete its outer shell, the third shell.
+
+So what happens, and this is a really important concept,
+
+is that these orbitals, the s orbital, the 3s orbital,
+
+and the 3p orbitals, they get together
+
+and they form four equivalent orbitals
+
+that are all basically identical.
+
+We're not distinguishing s and p anymore.
+
+So we call these sp3 orbitals.
+
+So now we're saying we've got four sp3 orbitals.
+
+Sorry, I could ask you again to stop chattering.
+
+Thank you.
+
+So that these four sp3 orbitals, because they're equivalent,
+
+they're arranged around the nucleus symmetrically.
+
+And that means that they form the axes of a tetrahedron.
+
+So this is a really, really important concept.
+
+We have this tetrahedral geometry
+
+around the central silicon nucleus.
+
+So this is how we represent it,
+
+silicon with oxygen at four corners of a tetrahedron.
+
+And oxygen, if we look at oxygen,
+
+it needs two electrons to complete its shell,
+
+its 2p shell.
+
+So if we make covalent bonds between silicon and oxygen,
+
+then this is a covalent bond, this is a covalent bond,
+
+here's a covalent bond, here's a covalent bond.
+
+And you can count up that now oxygen,
+
+sorry, that's first of all to silicon
+
+has eight electrons in its outer shell
+
+because it's shared one with each oxygen.
+
+But then if we look at the oxygen atom,
+
+it's only got seven electrons in its outer shell
+
+because it's only sharing one and it needs two.
+
+So what it's going to do is add an electron
+
+from somewhere else, maybe a sodium atom,
+
+maybe a magnesium atom that's trying
+
+to give away its electrons.
+
+So oxygen will grab those electrons
+
+and then it will have a filled p orbital.
+
+So the whole thing overall
+
+consists of one silicon atom in the middle,
+
+four oxygen atoms covalently bonded to the silicon
+
+which points towards the corners of a tetrahedron
+
+around the silicon atom.
+
+And then it has an overall charge of four minus
+
+because each oxygen atom has grabbed an additional electron.
+
+So we think of this as a unit, we call it SiO4 four minus.
+
+And that is the fundamental structure of silicate minerals.
+
+So last week we looked at peridotite,
+
+this rock type that has been brought up from the mantle,
+
+carried along by basalt and this rock
+
+is basically made up of silicate minerals.
+
+The green mineral in here is olivine.
+
+And if we look at the formula for olivine,
+
+it's Mg2SiO4.
+
+So we can think of that as two magnesium ions
+
+which have a two plus charge
+
+and one SiO4 unit, tetrahedral unit,
+
+which has a four minus charge.
+
+So the charge is balanced.
+
+And these tetrahedra can be linked
+
+in many, many different ways
+
+and that's what gives us the different minerals.
+
+So olivine, the tetrahedra are just isolated,
+
+they're not touching each other.
+
+In pyroxene, the tetrahedra share corners and form a chain.
+
+In amphiboles, they form a double chain.
+
+In micas and clays, they form sheets
+
+with rings of silicate tetrahedra.
+
+And in things like quartz and feldspars,
+
+they form a complete three dimensional network
+
+where in each silica tetrahedron
+
+is attached to four other silica tetrahedra
+
+and that extends in three dimensions.
+
+So I'm going to just finish the lecture here
+
+because I'll just say a few more things
+
+but I'll say them at the beginning of the practical.
+
+But think about the fact that what we've done
+
+is we've talked about how electrons are built up
+
+into these orbitals around atoms.
+
+Those orbitals control,
+
+that's what the electron configuration is.
+
+That controls the chemistry
+
+and the chemistry controls the bonding.
+
+The bonding controls the minerals.
+
+So it's like, it all builds up.
+
+But we can't just jump in and talk about minerals
+
+unless we understand the electron configuration
+
+and the bonding.
+
+So that's what we'll do more of in the practical.
+
+So I'll see you over there.
+
+And those of you who didn't catch this,
+
+I'll put that up again while you're leaving.
+
+It was about the electronic configuration
+
+like the 3D, because this.
+
+Of course, I just would like to ask you,
+
+that's what the practical is for, to discuss it.
+
+That's okay, thank you for apologizing.
+
+I'll have a look.
+
+But I didn't realize it wasn't available.
+
+It should be available.
+
+Yeah, okay, I'll check on that.
+
+If you look in the lecture zero,
+
+it has all the different names.
+
+It should be in the library.
+
+But I will, I'll check on that.
+
+Just at the door, I thought, ah, she's still lecturing.

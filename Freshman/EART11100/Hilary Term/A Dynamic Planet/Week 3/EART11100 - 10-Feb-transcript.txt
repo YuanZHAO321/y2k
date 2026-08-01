@@ -1,0 +1,2283 @@
+'EART11100 - 10-Feb', automated transcript
+01/08/2026
+---
+
+So the overall purpose of this lecture is that we're going to look at igneous
+
+rocks and igneous processes.
+
+So for those of you that aren't familiar, this is the process of making rocks by
+
+melting them
+
+and then them recrystallizing to form a kind of crystalline rock called an
+
+igneous rock.
+
+So we're going to begin a little bit by looking at how we actually can melt a
+
+rock
+
+because melting rocks is a lot harder than many of you probably imagine.
+
+There isn't some kind of pool of molten rock beneath our feet, that's just not
+
+true.
+
+So we've got to establish a series of specific circumstances in order to melt a
+
+rock
+
+and then as you'll see because of its positive buoyancy, that material will
+
+travel upwards
+
+and then sometimes it will be recrystallized within the crust, we call those
+
+intrusive or plutonic igneous rocks.
+
+And the latter part of the lecture, which is usually a little bit more
+
+demonstrably fun,
+
+is we're going to look at what happens when that molten material is actually
+
+erupted at the surface
+
+in the form of volcanic processes.
+
+So we're going to look at a variety of different kinds of volcanic types
+
+and hopefully by the end of this lecture you'll be able to recognize a volcano,
+
+for example,
+
+but also look at any volcano in the world and probably have a good guess as to
+
+why it's there and how it forms
+
+and the different kinds of volcanoes that happen in different places.
+
+So that's my kind of overarching aim to be able to get you guys to do that by
+
+the end of this lecture.
+
+So I've broken up this lecture then into a series of smaller lectures
+
+and so we're going to begin by looking at how and where do we melt rock.
+
+So by the end of this little session you should be able to explain the main
+
+mechanisms for melting in the crust
+
+and in the upper mantle. These are the two places where melting tends to happen.
+
+And then integrate this information with plate tectonics.
+
+We kind of did a recap of plate tectonics two weeks ago in the introductory
+
+lecture
+
+to make predictions about where these different kinds of melting actually
+
+happen.
+
+So those are the little mini aims for this first part of the lecture.
+
+So all igneous rocks are crystallized from magma, and magma is molten rock in
+
+the subsurface.
+
+So it's lava at the surface and it's magma in the subsurface.
+
+And magma typically consists of a liquid of molten minerals, which it typically
+
+silicates,
+
+plus also within the magma you'll tend to get crystals, most of the time, and
+
+also bubbles.
+
+So it's not homogenous material, it's heterogeneous, and as well as the molten
+
+mineral material
+
+you tend to get crystals and bubbles in there.
+
+The relevance of the crystals and the bubbles will become more manifest to you a
+
+little bit later.
+
+So they form because there's heat.
+
+And the reason that the Earth has got heat is because of some residual heat
+
+that's left over
+
+from the kinetic forces that were occurring during the actual accretion of
+
+planet Earth as it formed.
+
+So see your lectures from last semester with Marion and Ray.
+
+But also the gravitational effects of the differentiation of the planet,
+
+the formation of the core, the sinking of the highly centrifugal material into
+
+the center of the core,
+
+generated a large amount of heat.
+
+And of course we have large amounts, or we have modest amounts of radioactive
+
+decay
+
+of various elements happening inside the Earth.
+
+One of the byproducts of that breakdown of those materials is heat as well.
+
+So the Earth is hot, and it loses its heat through magnetism.
+
+So that's the main means that the Earth actually loses its heat.
+
+It's through actually the inkiness of these magnetism.
+
+So hopefully this is a recap, but I'll go through the slide fully anyway
+
+just so that you're fully familiar with this and because it's relevant for what
+
+comes up.
+
+You'll remember that we've got a relatively buoyant lithosphere,
+
+which is continental, which is thick, which is what we're sat on right now.
+
+It's thick and it's buoyant. It's got a density of about 2.7 grams per
+
+centimeter cubed.
+
+We've got oceanic crust, which is thin and a little bit denser,
+
+with a density of about 2.9 grams per centimeter cubed.
+
+And then all of this is sitting on a mantle, a composition,
+
+which is peridotite, with a density of about 2 to 3.4 grams per centimeter
+
+cubed.
+
+Now the average density of the continental crust is what we refer to as
+
+intermediate.
+
+So let's not necessarily worry too much about why we use the word intermediate,
+
+or the term often used as well as andesitic, they've got the yandis magnetism.
+
+And so it's made of about 50 to 60 percent silica.
+
+The ocean crust is basic, or basaltic, and it's got about 40 to 50 percent
+
+silica.
+
+And mantle has got about less than 45 percent silica.
+
+So those are quite important because the amount of silica present controls quite
+
+strongly
+
+the viscosity of the melt that is generated when you melt these three broad
+
+areas,
+
+which themselves are, as you'll remember, predominantly solid most of the time.
+
+So the upper mantle, which is ultra-basic, with less than 45 percent silica,
+
+and below the continental crust, so this is the continental crust,
+
+you can see here this lower part of the continental crust,
+
+they are the two places where melting basically happens.
+
+So you can kind of, for the purposes at this level in first year,
+
+as far as you're concerned, the only real places where melting actually happens
+
+is in the mantle and in the lower crust.
+
+And we're going to see why that is by the end of this lecture.
+
+But as we've seen, the mantle has one kind of composition, ultra-basic, less
+
+than 45 percent silica,
+
+and the lower continental crust has an intermediate composition, about 50 to 60
+
+percent silica.
+
+And so if we've got two fundamental sources for our molten material,
+
+then our molten material, the magma that we generate,
+
+is fundamentally going to have two different compositions.
+
+So it's relatively bimodal.
+
+You tend to get two main types of magma produced in terms of its composition.
+
+So, anybody been lucky enough to actually see a volcano with their own eyes?
+
+They exist, nice.
+
+We know that they exist, and so we know that there's molten rock at depth.
+
+But we also know that, from a variety of psychological studies,
+
+that the Earth's interior is solid to the bottom of the mantle.
+
+So, if on the one hand everything is solid all the way to the bottom of the
+
+mantle,
+
+then how is it that we do occasionally appear to be able to get molten material?
+
+Well, it means that the production of magma must be very, very localized,
+
+and it is extremely localized.
+
+There's absolutely not a puddle of molten material beneath our feet.
+
+There's absolutely not the case.
+
+And therefore it requires very special conditions to very locally melt the rock
+
+that is beneath our feet.
+
+So, this diagram is possibly a little bit complicated, but not too much.
+
+But what we have here on the vertical axis is depth, so the Earth's surface is
+
+at the top,
+
+and we have the depth downwards to about 200 kilometers, shown on this.
+
+And then here we've got a kind of slightly less obvious axis, which is
+
+temperature.
+
+And you can see how, so we've got this solid dark line, which is here, which is
+
+called the anhydrous solidus.
+
+So, the solidus is the temperature at which rock will melt.
+
+And you can see that, from the Earth's surface, melting temperatures start at
+
+about 1100 degrees Celsius,
+
+and as you go downwards with depth, that increases to closer to 2000 degrees
+
+Celsius.
+
+So, whatever you need to do, by and large, you need to increase the temperature
+
+of your rock
+
+above this black line in order for the material to begin to melt.
+
+The dark line here, which is the anhydrous solidus, is the temperature above
+
+which the rock begins to melt.
+
+This line here, which says total melting, is the line above which the rock will
+
+be completely molten.
+
+And so there's a phase here in between where the rock is a little bit molten,
+
+but not fully.
+
+We've got a mixture of both solid and liquid phases.
+
+If we look at this line that I've just added to you, which is the geotherm,
+
+is anybody able to define what the geotherm is?
+
+The geotherm is the temperature profile inside the Earth downwards with depth.
+
+You can see it's quite close, it's not zero. Well, it's about zero outside
+
+today.
+
+But it starts there, and then it gradually increases with depth, so it gets
+
+hotter with depth.
+
+But does this line actually cross this dark line, the temperature at which the
+
+rock will melt?
+
+It doesn't.
+
+So under normal conditions, the temperature in the subsurface is way too low for
+
+the rock to actually exist in a molten state.
+
+It is not molten.
+
+So what we need to do somehow is we need to increase the temperature gradient
+
+somehow beneath the Earth's surface
+
+to the point at which it crosses this line and material can begin to melt.
+
+So this is a diagram actually that basically says exactly the same thing,
+
+which is here the geothermal gradient in blue and the temperature at which the
+
+rock melts in red.
+
+So the easiest way of melting material is to add heat.
+
+And one of these places where heat can be added is where we have upwelling of
+
+material,
+
+of hot material from depth through convection up towards the surface.
+
+Does anybody know what these areas are called where we have upwelling of hot
+
+material towards the Earth's surface?
+
+Yeah, hot spots. Has anybody heard that term before?
+
+So this is a hot spot.
+
+And so what you do there, you can see this is the normal geothermal gradient and
+
+we've added heat.
+
+And so by adding heat, we can get that geothermal gradient locally at what depth
+
+to cross the solidus approximately.
+
+Yeah, let's say about 80 kilometres depth.
+
+So at mantle hot spots, the areas where the mantle is upwelling and bringing
+
+much warmer material closer to the surface,
+
+at about 80 kilometres depth you start to melt the material.
+
+And we've got molten material sitting in a kind of solid phase.
+
+What's the density of the molten material relative to the solid material around
+
+it?
+
+More or less dense.
+
+So what does something that's less dense do?
+
+So this is how ocean islands are called.
+
+People also call it intraplate igneous activity or intraplate volcanic activity.
+
+This is a map of the world.
+
+This is both a topographic and bathymetric map of the world.
+
+And you can see this chain of volcanoes which are Hawaiian islands.
+
+Right in the middle of the Pacific plate, beneath the Pacific oceanic crust,
+
+there's a hot spot that is bringing up this material.
+
+We've been able to get the geothermal gradient across the solidus and to melt
+
+material which then comes up to the surface
+
+and is erupted to form these, initially submarine volcanoes, but then ultimately
+
+they're built up to form island volcanoes in the middle of the ocean.
+
+So here we've got the Hawaiian chain.
+
+If you look at the track of the Hawaiian, if you look at the sort of shape here
+
+of these islands, of these island volcanoes,
+
+do they form one discrete sort of volcano or does that look like it forms a kind
+
+of like a chain of them?
+
+Does anybody have any idea about why that chain like that exists?
+
+What does it tell you?
+
+Yeah, so in principle you could interpret it in one of two ways.
+
+One is that the position of the hot spot has moved, okay?
+
+But actually what it is is that the hot spot has remained stationary, but the
+
+plate has moved over the hot spot in that direction.
+
+So Mauna Kea, which by certain definitions is the largest mountain on earth, is
+
+an ocean island volcano that is over the top of a hot spot.
+
+In practice, that is actually by far and away not the most common way of
+
+actually melting hot.
+
+The most common way is through a process which is called decompression melting.
+
+So where we have extension, so if you remember we've got plates that are
+
+diverging from one another,
+
+and where you have extension of the Earth's crust, where we're pulling the
+
+Earth's crust apart, what you start to do, if you imagine,
+
+if you take chewing gum and you stretch it, it gets really really thin, you do
+
+that also to the Earth's crust.
+
+And so what you do is that you thin the Earth's crust.
+
+And do you see this inflection point in the geothermal gradient here?
+
+That inflection point reflects the transition from the crust into the mantle
+
+below.
+
+And so here what we do is we effectively thin the crust so much that the mantle
+
+is effectively exposed at the surface.
+
+So this is not so thin that the mantle is effectively exposed at the surface.
+
+So at these mid-ocean-rich, extensional ridges, we call them mid-ocean ridges,
+
+the mantle effectively comes all the way up to the crust.
+
+And so this inflection point here, all of this area of geothermal gradient is
+
+removed.
+
+And we shut the geothermal gradient all the way upwards, we bring the mantle up
+
+to the surface.
+
+And so here you can see that under these circumstances, the geothermal gradient
+
+intersects the solidus very very close to the surface.
+
+So here, in these circumstances, when you get decompression melting, you get
+
+melting very very very high up.
+
+So basically very close to our feet, in the upper 10, more or less 10
+
+kilometres.
+
+What's funny here is that we're not actually introducing any heat.
+
+And so what you do is you partially melt the peridotect mantle and again it's
+
+less dense,
+
+so that final little journey involves the movement upwards of the smoke material
+
+to the surface where it's extruded at the surface.
+
+And this is the process by which oceanic crust is actually produced.
+
+So there's where your melting happens, and you can see on this map here, this is
+
+the Atlantic, this is the Americas,
+
+this is an American-centric map you can see.
+
+So you can see here Europe and North Africa, and you can see right the way
+
+running through the middle of the Atlantic there,
+
+that's the mid-Atlantic ridge, that's where the plates are extending and
+
+material is being extruded onto the sea floor.
+
+Because we've got partial melting of the upper mantle very very very close to
+
+the surface because of this decompression melting.
+
+Oceanic crust covers about 70% of the earth's surface, this is the process by
+
+which you actually make ocean crust,
+
+is by partially melting the mantle and extruding it to the surface.
+
+About 18 km3 is erupted annually compared to about 4 km3 at Ocean Islands, the
+
+previous example that I showed you.
+
+So this is by far and away much more common but not very visible means of
+
+melting and extruding molten material onto the earth's surface.
+
+OK, so if you look at this diagram, there's this kind of other line that I
+
+didn't discuss, which is this thing which is called the water-saturated solidus.
+
+And so for me when I was a student I kind of found this quite counter-intuitive,
+
+but basically if you add water to the rock, that lowers the melting point.
+
+So by adding water to the crust, we lower the melting point to the point at
+
+which it crosses the geothermal gradient.
+
+So my question to you is, how can we add water to the rock? What's the process
+
+by which you can add water to the rock?
+
+Subduction?
+
+Yes, correct, exactly, so it's subduction zones.
+
+So, via subduction, well done, exactly the correct answer.
+
+So what happens here is at subduction zones, you have crust that's basically
+
+been sitting underneath water.
+
+And that water enters, infiltrates downwards into the crust and it actually
+
+undergoes a series of reactions that form new minerals.
+
+So that's what we mean by hydrated rocks, where water is effectively able to
+
+enter the molecular structure of the crystals to form slightly new minerals.
+
+And those minerals by and large have quite low melting temperatures.
+
+And so that means that this material that's been subducted has got relatively
+
+low melting temperatures.
+
+And as it's brought downwards, then you will find that it crosses into what we
+
+refer to as the water saturated solidus.
+
+It crosses the water saturated solidus and melting is able to occur in the lower
+
+crust here.
+
+And obviously, once again, the molecular material is less dense.
+
+So in this case, the position of the solidus has shifted to intersect the
+
+natural geothermal gradient.
+
+And here, you tend to get quite complex rocks actually generated in these
+
+circumstances.
+
+In this case, melting tends to happen relatively deep down.
+
+Again, below about 80 kilometers.
+
+So examples of where this is going on at the moment are Japan is probably the
+
+best example of the world right now.
+
+So here, what we have is the Pacific plate is subducting beneath the Eurasian
+
+plate.
+
+And the Pacific plate, which is oceanic, is wet and as it subducts towards the
+
+west beneath the Eurasian plate,
+
+we're getting lots and lots of melting subsurface and the formation of an island
+
+arc network.
+
+So the rule of the Japanese chain are volcanoes that initially started off
+
+beneath the sea,
+
+but once again have grown up to become sub-aerial, to become exposed at the
+
+surface.
+
+Another place where this is going on is the Andean arc.
+
+So here, the Pacific plate is subducting towards the east beneath South America.
+
+And in this case here, that subduction there is generating lots of melting
+
+beneath the surface.
+
+Beneath what you can see here is the Andean chain.
+
+So the Andean chain is pretty volcanic as well.
+
+And then there's the least common and the least interesting way that melting
+
+happens, which is in orogenic belts.
+
+So orogenic belts, as you may hopefully remember, is where we have two
+
+continental plates,
+
+two blocks of continental crust that have come together.
+
+And that process of them coming together thickens the continental crust.
+
+And what happens is that effectively this kind of big thickness of crust is
+
+really, really, really a very poor conductor of heat.
+
+So it's a bit like, have you ever noticed that your pillow stays warm for ages?
+
+Sometimes you come back two hours later and you notice that your pillow is still
+
+warm.
+
+Rock is like that. It stays warm for crazily long amounts of time. It's really,
+
+really, really important after a heat.
+
+And so as that kind of underwriting cold slab is warmed up, and you get this
+
+giant thickness of crust,
+
+it's unable to lose its heat. And so you get very, very, very local melting that
+
+goes on in the subsurface in orogenic belts.
+
+But that material is so little that it very, very rarely ever actually makes it
+
+to the surface.
+
+It never ends up erupting as volcanoes. It tends to just melt locally and then
+
+recrystallize in the subsurface.
+
+So in orogenic belts, you tend to get some melting that very rarely actually
+
+ever results in any kind of volcanism.
+
+But it leads to the formation of intrusivity in these rocks, crystalline rocks
+
+in the subsurface.
+
+Here's a classic view of Everest. And down here you can see, this diagram kind
+
+of probably shows it better,
+
+you've got this area of molten now actually crystalline rock in the subsurface.
+
+And they are here in this. So this is kind of a big pluton, like a blob of what
+
+was formerly molten material that is crystalline in the core of the Himalayan
+
+chain.
+
+OK, so I've put together this slide as a kind of summary, which is important to
+
+remember that this is the normal situation.
+
+The normal situation is the solidus is here, the geothermal gradient is there,
+
+rocks are way below the melting temperature.
+
+That is the case in 99.9% of the Earth's crust time.
+
+But what we can do is that at mantle hotspots, is that you can add heat and
+
+shift the geothermal gradient to intersect the solidus.
+
+Where you have extension of the crust, you can actually thin the crust so
+
+totally that it effectively doesn't exist anymore.
+
+And you have a mantle at the surface. So here the mantle is brought up to the
+
+surface and you have melting very close to the surface.
+
+And in subduction zones, you shift the position of the solidus of the rock to
+
+intersect the geothermal gradient and so you tend to get melting at depth over
+
+here.
+
+OK, any questions? OK, so we're going to talk a little bit now.
+
+I'm not going to kind of labour this point too much, but we're going to think
+
+about the composition of molten rock.
+
+OK, so here in this little kind of mini subcession, you should be able to
+
+explain why molten rock is typically either acidic or basic in composition.
+
+So, if you remember, I'll go back to this slide, melting either happens, in this
+
+case here at Mudoshin Ridges, in the mantle itself.
+
+You can see here melting is happening in the mantle or it happens in the upper
+
+continental crust in subduction zones.
+
+And also in orogenic belts, continental crust.
+
+So we've got these two fundamental sources of molten material.
+
+We've got a source in the mantle which is ultra basic, which means that it's
+
+made up predominantly, so on this diagram here, the vertical axis is a variety
+
+of different minerals.
+
+And you can see from this diagram that the mantle is predominantly made up of
+
+these two minerals.
+
+One is a really pretty one that's about this kind of colour here.
+
+It's kind of green, which is olivey, and another one which is pyroxy.
+
+It is dominated by these two minerals.
+
+And then you can see that the other source of where melting happens,
+
+particularly in these subduction zones, is in the lower continental crust, which
+
+is an intermediate composition, as we discussed earlier on.
+
+So here this is a bit more complicated, but basically it's got feldspar, it's
+
+got quartz, and it's got micas and amphibos in it.
+
+So these are our two, like if you think of this as a recipe, these are the
+
+starting ingredients for our two different recipes of molten material.
+
+So if you imagine that we melted all of our mantle, then the melt that was
+
+generated by that would have the same composition as the mantle, it would be
+
+ultra basic.
+
+And if you fully melted your continental crust, then you'd end up with a magma
+
+with molten material with the same composition as the continental crust.
+
+But you can see, I drew attention to this earlier on, you have this thing which
+
+is the anhydrous solidus, and then the line of total melting.
+
+And in those slides that I showed you earlier on, how often did you actually see
+
+the geothermal grader cross this line and this line?
+
+How often did it cross this line here? It doesn't cross it at all.
+
+So I'll just jump back to that. Here we go.
+
+Oh, maybe I don't show it. No wonder you didn't know, because I didn't show it,
+
+so that's alright.
+
+So basically, most of the time, when this is shifted across, it crosses into
+
+this field here, but it rarely crosses into the line of total melting.
+
+And in fact, the melting will begin, in any case, the moment it begins to cross
+
+this line here.
+
+So, what is it that I'm telling you?
+
+Basically, the rock never totally melts.
+
+So it undergoes what's referred to as partial melting.
+
+And that massively changes the composition of the molten material it's generated
+
+from.
+
+So if you imagine here, we've got, in this diagram here of the blue frame, we've
+
+got a variety of minerals.
+
+We've got white, green, black and pink.
+
+They will have, many of these minerals, will actually have different melting
+
+temperatures.
+
+So all of you here has got a relatively high melting temperature.
+
+And then these minerals, as we go down to here, they have relatively low melting
+
+temperatures.
+
+Which means that it's easier to melt these minerals than these ones.
+
+And so, as the rock begins to melt, you begin to melt these lower temperature
+
+minerals.
+
+But these ones, they stay in the solid phase.
+
+And what will happen to the molten material if it's sitting in a network of a
+
+more dense residue of still solid material?
+
+What happens to the molten material?
+
+It's less dense and it's molten and it's in a network, in a kind of residue of
+
+denser solid stuff.
+
+And so what happens is that the low temperature minerals melt and rise and leave
+
+behind the residue of a molten material.
+
+And so we refer to that as partial melting.
+
+And so you can see here in that diagram that in this case the green and the
+
+black and the white minerals are left behind in the solid phase.
+
+But the low temperature minerals, they melt and they leave and they rise
+
+upwards.
+
+And that means that you get magmatic differentiation during partial melting.
+
+And the effect of that is typically that the melt that is generated from the
+
+original pair of rock is more felsic, is more acidic than the original pair of
+
+rock.
+
+So this is your starting, these are your two starting compositions.
+
+And your new composition, when you melt the ultra-basic mantle, is to generate
+
+material with this composition inside this field.
+
+If you melt the lower continental cluster, the andesitic composition, it
+
+generates material with this composition, which is overall granitic.
+
+And so melting of the mantle generates basaltic magmas and melting of the
+
+andesitic, lower continental crust generates granitic.
+
+And in fact this is the process by which the earth's crust formed, it's through
+
+this differentiation, it's through these low temperature minerals which are less
+
+dense coming up to the surface.
+
+And so consequently, with quite important ramifications for the style of
+
+volcanoes that form, as we'll see a little bit later,
+
+you tend to get two fundamental types of erupted molten material, stuff with a
+
+basaltic composition and stuff with a granitic or erratic composition.
+
+Melting starts in two places and forms two different kinds of magma, which are
+
+not the same composition as the material that originally melted.
+
+Hope I'm not laboring the point too much.
+
+So melting usually happens in the asthenosphere at hot spots and through
+
+decompression or in the lower continental crust at subduction zones and orogenic
+
+belts.
+
+The asthenosphere is ultra-basic in composition and the continental crust is
+
+intermediate in composition, but neither of them fully melt.
+
+So a residue of high temperature minerals is left behind and low temperature
+
+minerals melt and rise to form and melt.
+
+And these melts are basic and felsic respectively.
+
+So if you take nothing from what I've said, just remember that you get these two
+
+compositions of basic and felsic melt.
+
+Any questions?
+
+Online I've put a video for you to look at before I see you guys next time,
+
+which is on intrusive igneous rock.
+
+So intrusive igneous rocks are those that once that process of mathematic
+
+differentiation has happened and they've risen to the surface, they actually
+
+recrystallize, they cool and recrystallize inside the Earth's crust.
+
+So they never make it to the surface.
+
+So those are called intrusive igneous rocks and I've generated a little video
+
+for you guys to look at on that topic.
+
+All the video material that I ask you to look at is something that you could be
+
+asked.
+
+And more importantly, it's just good to know about because that's what you've
+
+chosen to learn about.
+
+Okay, so based on what we've just learnt, we're going to start to explore a bit
+
+more now about where volcanoes.
+
+This picture here is, has anybody heard of Turner? He's a quite famous artist.
+
+Anybody hear of Turner?
+
+So this picture here, which is the eruption that's been created by G.W.M.
+
+Turner, was missing, completely gone and went missing, but there were quite a
+
+lot of records of it.
+
+And when I was an undergraduate, sorry, when I was a PhD student at Liverpool
+
+University, there was a copy of it hanging in the department.
+
+And it turned out that it wasn't a copy, it was the original that had been lost
+
+and it was just hanging on the staircase of the department.
+
+Okay, and then it was definitely taken away and put in a museum because it's
+
+worth a lot.
+
+The suspicion is that it was actually stolen by students.
+
+Right, so in this video here, in this talk here, you should be able to define a
+
+volcano and explain where volcanoes form.
+
+Okay, so having understood a little bit about where melting happens, we just
+
+extrapolate upwards to the Earth's surface and that basically is where volcanoes
+
+form.
+
+So a volcano is a rupture in the planet's surface through which molten rock and
+
+or ash and or gases escape from an underlying magma chamber.
+
+So my question to you for the show of hands is, is a volcano a mountain?
+
+Hands up if you say yes and hands up if you say no.
+
+And then everybody who didn't put their hands up, put your hand up.
+
+You need to give the initiative a little bit more.
+
+You need to just decide whether you're right or wrong.
+
+So we've got these different examples here of volcanoes.
+
+We've got Vesuvius in Italy.
+
+We've got Olympus Mons, now an extinct volcano, on Mars.
+
+But it formed on Mars as a volcano initially.
+
+Any idea why volcanic activity has stopped on Mars?
+
+Why it's no longer...
+
+Yeah, Mars is quite a lot smaller than Earth and it's cooled down.
+
+That's our future, guys.
+
+And here in that example there, we've got a submarine eruption in Iceland.
+
+So I think for most conventional definitions of a volcano, most people imagine
+
+that they have to be a mountain.
+
+But the majority of volcanic activity, the place where the most amount of
+
+material is actually erupted onto the Earth's surface, happens at mid-ocean
+
+ridges, which I suppose are not mountains.
+
+But anyway, it's a little bit of a philosophical question for you guys there.
+
+So they've got a variety of shapes and sizes depending on key geological
+
+controls, which we're now going to discuss for the remainder.
+
+They're quite important to understand and to learn about, in my view.
+
+And I'm not a volcanologist.
+
+They're an important interface between internal Earth and Earth's surface
+
+processes.
+
+So they're where things going on inside the Earth and things going on at the
+
+Earth's surface intersect.
+
+And they're a major hazard to the environment, the infrastructure and also to
+
+the civilization.
+
+But volcanic material is really fertile, and consequently, areas of volcanic
+
+activity are naturally areas that humans have congregated towards.
+
+Because they make some of the best soils, the best agricultural land there is.
+
+They release gases and dust, which also can have major impact on the Earth's
+
+climate system as well.
+
+So there's a bunch of really good reasons why volcanoes are kind of important to
+
+sort of understand.
+
+So this is a sort of, it's actually the same diagram we've seen a few times, but
+
+just made it a little bit more complicated.
+
+So I introduced this idea that you can generate melting very, very close to the
+
+surface by effectively removing the mantle lid.
+
+By thinning the crust so totally as that the asthenosphere can come up to the
+
+Earth's surface.
+
+And that often happens at mid-ocean ridges, but it can actually happen in
+
+continental settings as well.
+
+So that's where you rapidly extend the Earth's crust above continental, beneath
+
+continental crust.
+
+And the continental crust is actually thinned, and you get decompression melting
+
+happening in continental settings as well.
+
+So these are areas where volcanoes can fall.
+
+A nice example of this would be in the East African industry.
+
+The example that I used for hotspots, where we add large amounts of heat to the
+
+geothermal grating off towards the right.
+
+The example that I used was a place where a hotspot comes up beneath oceanic
+
+crust, Hawaii.
+
+But also, hotspots can occur beneath continental crust as well.
+
+Does anybody have any idea where that is currently happening in the world right
+
+now?
+
+Yellowstone is a really good example.
+
+And then at subduction zones.
+
+So you can get subduction zones beneath ocean crust, where oceanic ocean crust
+
+is subducting beneath another one.
+
+And you can also get ocean crust, so this is actually Japan, and you can get
+
+ocean crust subducting beneath continental crust as well.
+
+So this example would be the Andean chain.
+
+These are all places where volcanoes happen, but you now know what the process
+
+is that means that the volcanoes are there in all of these sectors.
+
+There is that example that I did tell you about where in orogenic belts, where
+
+you can get small amounts of melting, they do not generate volcanoes.
+
+So from now on you can just cross through that and forget about those settings.
+
+So this is a map of all of the volcanoes in the world.
+
+So what we are going to do is we are going to look at different volcanoes in
+
+different parts of the world.
+
+If this was done as a convo, then all of you would be able to enter your answers
+
+and then see how you have done.
+
+But here we are going to have to slightly improvise, depending on whether you
+
+are the kind of people who like to engage with me or not.
+
+So we are going to look at these different volcanoes, and then you are going to
+
+tell me what the overall tectonic setting of the volcano is,
+
+and therefore what the main cause of melting of that volcano is.
+
+And I am going to do it as a slightly talk thing.
+
+So here we go. We are going to start off with Chimborazo.
+
+Chimborazo is the furthest point from the Earth's centre. Can anybody explain to
+
+me why that is by the way?
+
+It's near the equator. That's right, the Earth is an obvious spheroid.
+
+The Earth is not actually fully spherical, it's kind of a bit more like that.
+
+Therefore this volcano happens to be the furthest point from the Earth's centre.
+
+Alright, so what tectonic setting is this volcano in?
+
+So what's the overall tectonic setting of this volcano? We've looked at this
+
+part of the world a little bit.
+
+What's going on here on the East Mountain of South America?
+
+Subduction. And what kind of a pit is subducting between other kinds of plates?
+
+Very good. So therefore what is the cause of the melting that is leading to this
+
+volcano?
+
+Addition of water. And where is the melting happening?
+
+Is it happening in the mantle or in the crust?
+
+And therefore what composition is the material that is being erupted out of it?
+
+Felsic. You can't talk anymore.
+
+You guys can do this based on what we just said. You can begin to predict what's
+
+going on here.
+
+Ocean continental subduction. Perfect.
+
+Mauna Kea. We've covered this one.
+
+What's the tectonic setting of this particular volcano?
+
+Is it at a plate boundary to start with? No.
+
+So what's the probable source or cause of the melting?
+
+Upwelling. Addition of heat. Shifting the geothermal gradient off to the right.
+
+At what depth is the melting happening?
+
+About 800 metres. And what's the composition of that melt?
+
+It's basic because it's the mantle that's melting.
+
+Do you see what we're doing here?
+
+So we've got a mantle plume hotspot here.
+
+Kilimanjaro, which is the tallest mountain in Africa. This is a bit hard getting
+
+out of it now.
+
+Orogenic melting never generates volcanoes.
+
+The continental crust.
+
+Yeah, exactly. And so what kind of melting is happening here?
+
+Decompression melting. We're taking off the lid from the mantle.
+
+It's like a wound on the Earth's surface where the mantle is basically close to
+
+the surface here.
+
+A bit more complicated the composition of those ones.
+
+What about Fuji in Japan?
+
+The most picturesque mountain in the world.
+
+I see quite a few people actually whispering to themselves,
+
+that you basically have the confidence to be wrong and that I don't care.
+
+So we've got subduction of the Pacific plate beneath the Eurasian plate.
+
+So here we've got ocean. We've actually got a fragment of ocean crust on the
+
+edge there of the Eurasian plate.
+
+So it's actually ocean subduction that's going on there.
+
+So adding water to the crust.
+
+Moving, shifting the solipus so that it intersects with the geothermal gradient.
+
+Melting at depth, about 800 to 1000 kilometers depth.
+
+Yellowstone. What's going on at this volcano?
+
+We've got discussed already.
+
+We've got a hot spot beneath continental crust.
+
+Hekla in Iceland. What's going on here?
+
+There's two correct answers.
+
+So did somebody say hot spot?
+
+And there's something else going on in this part of the world as well.
+
+We've got ocean ridge spreading.
+
+So we've got the coincidence of both the hot spot and also mid ocean ridge
+
+spreading going on at this location.
+
+One of the most actively volcanic parts of the world.
+
+And then by far and away the most common eruptions are submarine.
+
+So what I was hoping might happen here, and I think it kind of maybe did,
+
+but I'm sure you're having this conversation with yourself rather than openly,
+
+is that you can look at a tectonic map of the world, you can look at the
+
+distribution of the volcanoes,
+
+and you can have a guess at why that volcano is there.
+
+And you can start being really smart and say, I can probably guess what depth
+
+the melting is happening at.
+
+I can probably guess what the composition of the material that's being erupted
+
+is.
+
+Yeah, that's quite powerful.
+
+Right, so we're going to look at eruption products now.
+
+So when material has begun to rise all the way to the surface and actually made
+
+it to the earth's surface and is now erupted.
+
+So in this little mini session here, you should be able to describe the main
+
+controls on eruption style.
+
+So now we're going to look at different volcanoes and the styles that they erupt
+
+at.
+
+I've described the main eruptive products from submarine and also sub-aerial
+
+volcanoes.
+
+Sub-marine means underneath the sea and sub-aerial means above on land.
+
+So eruptive style is controlled by firstly the viscosity of the magma and the
+
+lava and secondly by the environment of emplacement.
+
+So we'll begin by looking at number one and then we'll begin and then we'll move
+
+on to look at number two.
+
+So viscosity is a measure of any fluid for it to flow.
+
+So it's not just applicable to larvas and magmas, it also applies to any fluid.
+
+So for example, honey is more viscous than water, less able to flow than water.
+
+And so the main controls on the viscosity of the material as it is being erupted
+
+is temperature.
+
+So viscosity decreases with temperature, things become more runny with
+
+increasing temperature.
+
+And also the composition.
+
+So really important, the more silica there is, the more molten quartz let's say,
+
+the more viscous it is.
+
+Because in the molten phase, silica basically forms a long thin polymer which
+
+makes the material really viscous.
+
+And if you remember these two broad compositions of molten material they've
+
+generated, one is mafic and the other one is felsic.
+
+The felsic one's got way more silica in it.
+
+The felsic molten material is always way more sticky, more viscous than the
+
+mafic one because it's got a lot more of these long chain powders of silica in
+
+it.
+
+And also water content.
+
+So melts that have got large amounts of water in them are always tend to be less
+
+viscous.
+
+We've also had a conversation about where water in tectonic settings we're
+
+expecting to find plenty of water in them as well.
+
+So basically as this molten material because of its positive buoyancy is rising,
+
+a series of processes occur, happen to that molten material.
+
+So basically as it moves upwards it cools.
+
+Also as you decrease the pressure on it, as it comes up towards the surface, the
+
+solubility of water decreases, so water comes out of solution.
+
+So what did we say about the impact of water on the viscosity in the last slide?
+
+Water and high dissolved water are always less viscous and way more runny.
+
+So that means that as water solubility decreases then it becomes more viscous
+
+upwards.
+
+As it cools it becomes more viscous upwards.
+
+And also as it cools it starts to crystallise and you start to get more and more
+
+and more crystals.
+
+And that density of crystals in the material upwards causes viscosity to
+
+increase.
+
+So for those three reasons as the material is rising it goes from runnier to
+
+thicker and thicker as it's attempting to come to the surface.
+
+So viscosity is pretty low down here and it increases upwards.
+
+Explosive eruptions, really explosive eruptions, are likely when you've got lots
+
+of silica in it.
+
+So you've got a felsic melt because you've got lots of polymers in there with
+
+high viscosity.
+
+When there's lots of water present because what happens is that it starts off
+
+really fluid and so it can move quite fast initially.
+
+And then as it moves upwards the bubbles start to come out.
+
+So you're losing that solid but you're increasing the amount that bubbles start
+
+to come out of solution upwards.
+
+Now if you imagine that you've got this material and it's moving upwards gently.
+
+And these bubbles are starting to form as the water is coming out of solution.
+
+What will happen to those bubbles? What is their density relative to the molten
+
+material?
+
+It's quite low so they'll rise and they'll leave the magma.
+
+However if the material is being erupted really really really fast then the
+
+bubbles are coming out of solution.
+
+But they themselves are unable to leave the magma fast enough because the
+
+material is moving up quickly.
+
+And basically the bubbles are unable to escape the magma, rising up with the
+
+magma.
+
+And these bubbles start to form and a gas occupies more volume than a liquid and
+
+they start to increase the pressure basically.
+
+So if you've got initially lots of water it's typically very liquid but also as
+
+it rises upwards all that water is trying to get out.
+
+And particularly if your eruption rate is very very fast then that water can't
+
+get out, it forms gases, it increases the pressure.
+
+And then you get this process which is called fragmentation.
+
+And fragmentation is where the volume of bubbles, the volume of gas is actually
+
+greater than the volume of liquids and solids.
+
+And that's the point at which an eruption will go bang and explode out of the
+
+volcano.
+
+It can sometimes explode out of the top of the volcano but in some cases that
+
+bubble pressure is so high that it just causes the volcano to just explode
+
+outwards in every direction.
+
+As anybody can think of a relatively modern example where that total blowing up
+
+of the volcano is St. Helens.
+
+By contrast if you've got very low eruptive rate and very low amounts of silica
+
+then it's really relatively liquid.
+
+And if it's erupting quite slowly and gently any gases there are they just form
+
+bubbles and they just escape as the stuff is rising upwards.
+
+So you don't increase the bubble pressure and by the time the material reaches
+
+the surface it just dribbles out.
+
+And there's a variety of cases where as we'll see where that happens.
+
+So the style of the eruption is dependent as we've seen on the composition.
+
+But it's also the style of the eruption is dependent on the tectonic setting and
+
+the actual physical setting, geographic setting of the volcano.
+
+So we're initially actually going to look at volcanoes and what happens when
+
+they erupt beneath the sea because it's actually the most common form of
+
+eruption that happens.
+
+So by and large what we understand about submarine eruptions comes from where
+
+these kinds of rocks have been lifted up through tectonism and they're exposed
+
+on the earth's surface.
+
+So classic geology basically we're going to look at rocks and to understand how
+
+they were formed.
+
+And from that extrapolate what must have been going on at depth beneath the sea.
+
+It's only relatively recently that we've been able to physically explore what's
+
+going on deep beneath the sea using UAVs and other forms of remote sensing data.
+
+So initially material that is erupted beneath the sea, it tends to occur at mid
+
+-ocean ridges.
+
+That's by far and away the most common place where material being erupted
+
+beneath the sea happens.
+
+And what's the composition of the material that's being erupted at mid-ocean
+
+ridges?
+
+Is it felsic or is it basic?
+
+It's basic because it's formed from melting of the mantle.
+
+Don't worry if you're not feeling you're on top of it all the time, obviously
+
+that's what we're looking at.
+
+So it tends to be low in silica, it tends to be very very liquid, it tends to be
+
+very very runny.
+
+And initially what happens is that it erupts often several kilometres beneath
+
+the surface.
+
+At depth, the symmetries of several kilometres.
+
+And consequently with many hundreds of thousands of metres of water on top of
+
+the material as it's erupting,
+
+that basically keeps the pressure on and it prevents any bubbles from forming.
+
+So it tends not to be very bubbly, the bubbles stay in solution because of the
+
+water pressure on top.
+
+And so I'm going to show you a video here.
+
+So this is some video footage of this really viscous material that's being
+
+erupted onto the sea floor.
+
+And so what tends to happen as it erupts onto the sea floor is that as the
+
+contact with water immediately cools,
+
+solidifies, but you're still pumping liquid in to these things which they call
+
+pillows.
+
+So it kind of forms a kind of rind which like a balloon sort of blows up until
+
+it bursts and then more fluid,
+
+more lava makes it out through the end of the pillow and it forms a new one.
+
+So it's like a series of like balloons forming, you kind of form this rind, this
+
+solid rind on the outside,
+
+you pump it full of lava, it bursts and then it starts to form a new one of
+
+these features.
+
+Now does anybody have any idea what those things are called? Anybody have any
+
+idea what they're called?
+
+They're called pillows or pillow lavas.
+
+And people knew that these must have been forming way, way longer than they ever
+
+observed them.
+
+Because people saw things like these, can you see these pillows? These are on
+
+Anglesey.
+
+These are about 600 million years old. And for about a century and a half people
+
+looked at these,
+
+worked out how they formed and said this must be what's going on beneath the
+
+sea.
+
+And then eventually by about 20 years ago people actually went and saw them
+
+forming.
+
+The power of geologists, the power of geology for understanding things that are
+
+going on.
+
+So initially when material starts to erupt at the Earth's crust in these
+
+submarine settings,
+
+it starts to form these kind of pillows, called pillow lavas.
+
+And obviously what happens is that as you start to form this layer of pillow
+
+lavas,
+
+your material that's trying to reach the surface has to now break through your
+
+new pillow lavas
+
+and then form a new layer of pillow lavas. And it breaks through those and forms
+
+a new layer of pillow lavas.
+
+And then gradually what happens is that the seafloor builds upwards through
+
+these layers of pillow lavas
+
+that are forming upwards from the fissure, from the point of the fissure,
+
+where the material is making it onto the Earth's surface.
+
+Of course, if you start to build up a feature like this from the seafloor,
+
+what would you call a feature like that that's building upwards from the
+
+seafloor,
+
+something like a conical feature, what would you call that?
+
+If there was no water there, what would you call it? A mountain, right?
+
+So they basically form submarine mountains of pillow lavas.
+
+And so this material actually can become quite steep and material can start to
+
+sort of tumble down off the side,
+
+and so it can kind of grow laterally as material sort of tumbles down from the
+
+edge of this kind of volcano,
+
+this submarine volcano that's growing upwards.
+
+As I say, initially there's nothing spectacular about these because at these
+
+great water depths,
+
+you're keeping the bubble, you're keeping any water that's in the mouth from
+
+bubbling out.
+
+The water pressure is too high.
+
+Nice examples of pillow lavas.
+
+Here you can see where material has had to break through the pillow lavas to get
+
+to the surface to form new pillow lavas.
+
+However, if this feature continues to grow upwards towards the surface,
+
+what happens to the water depth above the point of eruption as it grows upwards,
+
+shallower and shallower and shallower?
+
+So what's happening to that water pressure as it grows upwards? It decreases.
+
+And so that decreasing water pressure means the bubbles can start to form, to
+
+exalt out of the mouth.
+
+And so what happens as you start to generate more and more bubbles as it's
+
+rising through the surface?
+
+Those bubbles just start to increase the pressure,
+
+and so the eruptions start, as you get closer and closer to the surface, start
+
+to become explosive.
+
+So instead of forming these nice pillows, you start to get explosive eruptions.
+
+So this is an example of Iceland, of a new island that was formed a few years
+
+ago.
+
+I hope this is not going to make us watch a... yes it is.
+
+Pan 10 guys. It's a good project.
+
+Okay, so here, this is what happens as this volcano now,
+
+this is literally, they were able to observe the volcano finally breach the sea
+
+level and begin to form a new one.
+
+So here you can see this is clearly not gentle trickling out and forming these
+
+nice pillows,
+
+this is really starting to get to be explosive at this stage.
+
+This style of eruption, they refer to it as Surtsey and after the island of
+
+Surtsey, which is a new island that formed off Iceland.
+
+Right, so now we're going to look at what happens when volcanoes erupt on land.
+
+Okay, so these are pretty common where you have hot spots beneath continental
+
+crust,
+
+they're pretty common where you have subduction zones that have formed an island
+
+arc
+
+or where you have subduction zones beneath some kind of continental crust.
+
+So those are the commonest settings for the volcanoes that we see on land.
+
+Okay, so on land, material is either erupted as lava flows or as something that
+
+they refer to as pyroplastics.
+
+So pyro, same as this in pyrotechnics, meaning fire.
+
+So pyroplastics mean rock fragments.
+
+So material can be erupted either as something like this or as bits of rock,
+
+solid rock out of a volcano.
+
+So lava flows are where you have molten rock that are flowing on the land
+
+surface.
+
+Okay, and so these are really, really common when you have a basic or sometimes
+
+when you have kind of intermediate composition,
+
+okay, but basically these basic lavas are really, really abusive, they're
+
+liquid, they sort of flow on the surface out of the fissure.
+
+And you have two main types, you have pahoehoe, these are two Hawaiian names,
+
+they're words from the Hawaiian language, a Polynesian language that is rapidly
+
+becoming extinct on the island of Hawaii, unfortunately.
+
+And the pahoehoe is where you have this kind of quite a smooth surface with a
+
+kind of ropey texture, like a kind of texture of ropes.
+
+And it tends to have, it tends to be associated with relatively fast flow rates,
+
+very, very viscous lavas.
+
+The lava flows because it's quite, because it's, sorry, flows that lack viscous,
+
+because the flows are very runny,
+
+they tend to form lava flows that are quite thin and quite extensive.
+
+And then you have these aa's, okay, where the lava is already in a kind of
+
+fairly becoming semi-solid, really, really, really sticky state,
+
+with often these kind of clinkers on the surface.
+
+So you're going to have this rough and rubbly fragmented surface, and it's
+
+associated with much slower flow rates, these things kind of move really slowly,
+
+like I'm kind of giving an impression of it.
+
+The flows are much thicker, so they can be up to about 20 metres thick, but they
+
+don't travel very far.
+
+Lava flows are really disruptive, because they can destroy infrastructure and
+
+crops, for example, but they're pretty rarely dangerous.
+
+Even the fastest flowing winds don't flow fast enough that you can't run away.
+
+That would be pretty stupid to get killed by a lava flow.
+
+In terms of their internal structure, once they've solidified, they tend to form
+
+a distinct feature, which I refer to, guys, please.
+
+They tend to form a distinctive feature, which are these vertical cooling
+
+joints,
+
+and the orientation of the cooling joint is perpendicular to the top and bottom
+
+of the flow.
+
+So if the flow has flowed this way across the surface, the cooling joints are
+
+perpendicular.
+
+And so you can recognise these, you can tell that these rocks here, they've not
+
+been moved around,
+
+because the cooling joints are perpendicular to the cooling surfaces, the base
+
+and the top of the flow.
+
+The top of the flow would be the free surface against the air.
+
+But the immediate zone at the top, which is in contact with the air, cools
+
+faster,
+
+and it tends to form a much more irregular surface, like you can see there.
+
+But where it cools more slowly inside the lava flow, after it's been emplaced,
+
+it tends to form these really, really regular cooling joints that we refer to as
+
+columnar jointing.
+
+Really spectacular examples of them in the UK, actually.
+
+So here, Giant's Causeway, is there any feature in Giant's Causeway?
+
+And then a little bit harder to get to is the Stafford, really, really
+
+spectacular.
+
+And you can see, again, in this example, where the top of the lava flow was,
+
+because of that kind of rubbly texture you can get where you have the free
+
+surface of the air at the top.
+
+Pyroclastics are fragments of rock that are erupted solid from the volcanic
+
+vent.
+
+So you remember, when the gas pressure starts to get really, really high,
+
+and the total amount of gas exceeds the volume of molten material,
+
+very often then what you get is particles of molten material suspended in gas
+
+before it explodes outwards.
+
+And those typically will cool really quickly from one eruption and form
+
+fragments.
+
+So these are these rock fragments, so pyroclastics are the fire pieces.
+
+These are much more common where we've got these felsic rocks, these felsic
+
+lava,
+
+which are really sticky and full of silica and silica polymers formed with the
+
+addition of water.
+
+So you get two fundamental forms of pyroclastics erupted.
+
+You get what we refer to as fels, so the material is erupted upwards and then it
+
+just falls.
+
+And then you get these surge and flow deposits.
+
+And these are much more complex and these are really, really dangerous.
+
+So here, the material, as it's erupted, forms a mixture of gas and rock
+
+fragments,
+
+and that mixture behaves as an independent fluid.
+
+And that mixture of rock and air fragments is denser than air,
+
+and therefore that mixture, that independent fluid, collapses under its own
+
+gravity.
+
+And that material then collapses under its own gravity,
+
+and is able to flow away from the eruptive vent through gravity under its own
+
+excess buoyancy,
+
+excess density, excuse me, compared to the ambient air.
+
+So fall deposits, so this is an example of several fall deposits.
+
+This is from Ecuador.
+
+You can see here we've got some of these old ones.
+
+And then more recently, these layers that are incredibly even in their
+
+thicknesses.
+
+They're basically what you would call beds, right?
+
+And these are just layers that formed from material that was falling out of
+
+suspension
+
+from the material that was erupted into the air.
+
+So these are classic sort of fall deposits.
+
+Material of different grain sizes is ejected into the air.
+
+Ash particles are less than two millimeters.
+
+Things that are two millimeters to 64 millimeters are referred to as lapilli.
+
+And then bombs and blocks are anything that's more than 64 millimeters.
+
+If you're anywhere near material that's being erupted that's that size,
+
+you're probably in extreme danger actually.
+
+So here, these are formed simply by the material just settling out as an ash
+
+fall.
+
+However, the surge and flow, these are more complex.
+
+Here again, just to re-explain, the eruption material and gas form a mixture.
+
+And this mixture is dense and it surges, it flows into its own gravity.
+
+So it helps the floor.
+
+Instead of doing this, it follows the floor.
+
+And typically what happens is that the flow wanes as you start to mix ambient
+
+air into the flow.
+
+So initially it starts to flow, but there's lots of turbulence going on.
+
+And this turbulence, it introduces the ambient air into the flow,
+
+and that dilutes the flow so that the density contrast gradually begins to
+
+decrease.
+
+And then it loses its excess density and it ceases to air.
+
+And so as it loses its density and settles,
+
+the coarsest material settles out first and the finer material settles out
+
+afterwards.
+
+And it tends to form these things that we refer to as graded deposits.
+
+Pyroclastic gravity flows are extremely dangerous.
+
+The cities of Pompeii and Herculaneum in AD 79 were totally destroyed by the
+
+eruption of Vesuvius.
+
+13,000 people were killed, which 2,000 years ago is an extremely substantial
+
+number of people.
+
+Funny enough, actually, if you've been keeping an eye on the news,
+
+there's loads of artifacts coming out of there right now.
+
+So they found some scrolls and they've used a variety of techniques to digitally
+
+unscroll them
+
+and read interesting things that Romans were getting up to in those days.
+
+There's a relatively recent article which is actually pretty nice to read.
+
+It's not technical or complicated, and I recommend that you have a go at reading
+
+it.
+
+So, one last YouTube clip.
+
+Ooh, I'm slightly running out of time.
+
+All right, so this is a pyroclastic surge and flow deposit,
+
+and you can see that the material, some of it is going upwards, that stuff is
+
+going to fall,
+
+but hopefully you saw that, here we go then,
+
+this stuff here is coming down the sides of the volcano rather than going
+
+upwards.
+
+So these are these surge and flow, there's another one.
+
+Oops, there we go.
+
+All right, this is the main one that I wanted to show you.
+
+So this is the excess density that's causing the material to surge down the
+
+volcano.
+
+If you just YouTube videos of these, you'll find loads of videos.
+
+Some of them are kind of a bit more troubling than others.
+
+Actually, my algorithms thought that I liked disaster videos
+
+because I was trying to find these for the lectures,
+
+and now I'm just getting fed landslides and houses being taken out and stuff.
+
+Okay, so based on everything that we've just learned,
+
+I'm going to explain to you that there are four fundamental types of volcano.
+
+So here you should be able to describe the four main types of volcano,
+
+explain the processes that form them and where they're most likely to form.
+
+So this is going to make the last ten minutes of this long lecture.
+
+We know that the variability in the composition of the lava
+
+and how quickly it erupted results in different kinds of styles of eruption.
+
+We also saw clearly that if you erupt it into the sea, this is on land,
+
+but it also tends to form two slightly different styles of eruption as well.
+
+Basically, if it's from this kind of group of basic intermediate composition,
+
+which is derived from melting of the mantle,
+
+they tend to have very low explosivity, they tend to be dominated by lava flows,
+
+and you tend to get very low volumes of pyroclastics.
+
+And the eruptions tend to be really regular.
+
+Conversely, the volcanoes that are derived from melting of the continental
+
+crust,
+
+they tend to have this kind of intermediate acidic composition, a felsic.
+
+I've used the words basic and mafic and felsic and acidic interchangeably.
+
+I'll make a note to write something about.
+
+These tend to be very exclusive, they've got lots of silica in them,
+
+fundamentally.
+
+They are dominated by pyroclastics, and you tend to get very low volumes of lava
+
+flows.
+
+And you get irregular eruptions that are interspaced by quiescence.
+
+So the volcanoes do nothing for ages, and then boom, it goes off, in contrast to
+
+those ones.
+
+There's a form of classification which you may encounter,
+
+which you don't need to learn, but it's just for your information,
+
+which is based on the height of the eruption column.
+
+So one of the classifications for volcanoes is based on,
+
+it's not so much the classification of the volcano,
+
+but it's the classification of the eruption itself,
+
+based on the height of the column that is generated by the eruption.
+
+And there is also, so in this table here, excuse me,
+
+you can see from 0 to 8, there's a different classification of volcanoes,
+
+which are classified 0 to 8, in terms of, again, the eruption style,
+
+but here they use not so much the height of the column,
+
+but also a variety of other indices to describe them.
+
+And I don't want you to learn it like that. You don't need to learn that.
+
+But when you're hearing volcanologists talk about an eruption,
+
+they'll often use these terms, or these terms.
+
+And just be aware that they're just two different classifications.
+
+But I think that you understand the fundamental principles at this point,
+
+that the larger, bigger eruptions happen less regularly,
+
+and they're more associated with these acidic, felsic melts,
+
+whereas the smaller, more continuous eruptions are associated with these mafic
+
+or phasic melts.
+
+And they tend to always be associated with the lava flows.
+
+They're very different from pyroclastics.
+
+So in the end, this basically means that you get four basic types of volcano.
+
+You get shield volcanoes, which are made entirely of lava flows.
+
+You get lava domes, that are also entirely made of lava flows.
+
+You get these things which are called strata volcanoes, also called composite
+
+cone volcanoes.
+
+These are made up of a mix of lava flows and pyroclastics.
+
+And then you get cinder cones, which are made entirely of pyroclastics.
+
+And they've got different sizes, so be really, really aware that they're all
+
+shown as the same size.
+
+But this is kind of a little bit closer to the...
+
+In fact, it's not even. You can see the size here is shown at five kilometres.
+
+And these ones here, these are often only perhaps a few tens of metres across.
+
+So just be very, very aware of the different scales of these four fundamental
+
+types of volcano.
+
+So shield volcanoes are basic in composition.
+
+They've got very low explosivity. They're not explosively tall.
+
+Very low viscosity lavas, which flow long distances.
+
+No pyroclastics. And they're made up basically entirely of lava flows.
+
+And these are the largest volcanoes on Earth.
+
+And in the solar system, because the Olympus Mons on Mars is also a composite
+
+cone.
+
+The other kind of big-scale volcano are the strata volcanoes.
+
+So for example, Fiji, Vesugas.
+
+So here, these are dominated by more acidic melts.
+
+And you get moderate to high explosivity.
+
+And you get moderate to high viscosity, quite treaky, thick lavas.
+
+And also lots of pyroclastics.
+
+And the volcano is built up.
+
+And you can see it's much steeper because the material is not so liquid.
+
+It doesn't flow very far away from the volcano.
+
+So it's built up to form a much steeper conical volcano.
+
+The classic eponymous volcano that you probably all imagine in your head.
+
+And the structure of a volcano itself is just made up of lavas and pyroclastics.
+
+Lavas and pyroclastics, lava and pyroclastics.
+
+And those lavas, they tend to be really, really, you know, those kind of RRs
+
+that are really thick.
+
+Then you have lava domes.
+
+So these tend to form subsidiary volcanoes.
+
+So like flank, what we call kind of like flank volcano.
+
+So you've got a main volcano and then you've got these like pimples on the
+
+sides.
+
+And so lava domes tend to be these little volcanoes that form the pimples on the
+
+sides.
+
+And these are made up also entirely of lava.
+
+These are made up of lava that's really, really thick.
+
+Like just RRs.
+
+That kind of comes out of the surface and just like slightly moves away.
+
+And then consequently it sort of forms a relatively steep dome known as a lava
+
+dome.
+
+So modular to high viscosity lavas.
+
+Little amount of pyroclastics.
+
+Made up of interchopper lavas and then blocks of lava.
+
+And then finally the other kind of subsidiary of sort of flanking volcano are
+
+these things that are called cinder cones.
+
+So these are dominated by these acidic, pulsate lavas.
+
+And these basically, the lavas form a fountain upwards.
+
+And that fountain, the material crystallizes, forms a rock.
+
+Which lands as a kind of almost like a kind of popcorn of material around the
+
+outside of the volcano.
+
+So the material fountain solidifies in the air and forms like these Lepilicite
+
+fragments which more or less fall in place.
+
+And these cinder cones are made up almost exclusively just of this material.
+
+And again they form sort of small and subsidiary sort of pimples on the side of
+
+larger shields or strata volcanoes.
+
+Very often these are the product of a single eruption.
+
+And anything that goes on the Sicily trip, let's do plenty of these.
+
+This example here is from Sicily.
+
+Okay, so that's it basically.

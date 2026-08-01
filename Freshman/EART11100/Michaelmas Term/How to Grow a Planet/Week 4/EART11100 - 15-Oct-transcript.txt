@@ -1,0 +1,3195 @@
+'EART11100 - 15-Oct', automated transcript
+01/08/2026
+---
+
+Okay, good morning everybody.
+
+The thing that Rob Townsend explained to you that this week we're going to be
+
+going back to what he would have been doing week two had Duncan Cameron not been
+
+ill.
+
+Unfortunately Duncan Cameron continues to be ill.
+
+Unfortunately Duncan Cameron continues to be ill.
+
+So I'm going to be standing in for him this week and possibly a little bit in
+
+the next couple of weeks depending on how his health improves.
+
+So I am the substitute Duncan Cameron. I don't even got the tattoos.
+
+Just a little background information, my name is Giles Duncan. I am also the
+
+Programme Director of the Environmental Sciences degree.
+
+So if you are on that degree you'll meet me in subsequent years in that role.
+
+Okay, so because we were not really sure what the situation was going to be we
+
+were quite late releasing, we did release some videos for you to look at.
+
+But I realized I was quite late. Did anybody watch the videos?
+
+Okay, maybe half the class. How many people did watch the videos? About half the
+
+class.
+
+Okay, because the idea is we release the videos in advance. Normally you'd be
+
+able to get a full week's notice and I wouldn't go through systematically
+
+through every single slide.
+
+We would do the first half of the lecture in a more kind of discussion way, the
+
+way I can probably be doing it.
+
+And the second half would be more traditional.
+
+I will go through it. I'll go through it quite fast. If I'm going too fast or if
+
+things are not clear, slow me down, stick your hands up in the air.
+
+Can you all stick your hands up in the air? Properly up in the air. Really,
+
+really up in the air, right? Proper.
+
+Okay, that's what a lookie sticking your hand up in the air looks like. If you
+
+want me to slow down, if you have any questions, if things are not clear, stick
+
+your hand up in the air.
+
+I will make it. You can sort of just do it like that. I might not spot you, but
+
+if you stick it right up in the air, I will spot you.
+
+Has everybody scanned the QR code or typed in 543359? Yeah? Okay.
+
+Word of explanation, the music I was playing when you were coming in or when
+
+some of you were coming in was a song by Willie Mason called Oxygen.
+
+I actually, because he personally originally wrote half of the lectures on this
+
+course, so all the lectures essentially about microbes and plants were written
+
+originally by me.
+
+They'd been taken over by Duncan from last year and he adapted them somewhat.
+
+The strange names that some of them have reflects the fact that they were
+
+originally seen around music, so every lecture had a musical theme tune.
+
+So, Willie Mason's Oxygen was his theme tune.
+
+Okay, take you back to week one. So, Duncan talked to you about the origins of
+
+life, I gather. Yeah?
+
+He may have made some changes, which I'm not quite aware of. I didn't go that
+
+closely at what he's actually delivered, but I think he talked to you about the
+
+origins of life and the concept of life and energy.
+
+Does that all sound familiar to you? Yeah, I think you know what's good.
+
+Okay, and at the beginning, if you remember, life was basically just chemistry.
+
+So, it was relying on the fact that the earth, when it first formed, was a sort
+
+of boiling mass of energy.
+
+Right, so there were all sorts of chemical reactions going on, lots of chemical
+
+disequilibration, so there were things around that wanted to do chemistry.
+
+They wanted to react with each other. It was a very unstable system, and it was
+
+cooling and condensing out of space.
+
+As things calmed down, the availability of chemical energy became less and less.
+
+And so, organisms, in order to thrive, and in order to exploit physical spaces
+
+beyond the bits that still have chemical energy, so you still have, even today,
+
+you still have kind of volcanic springs, hot springs, deep vents in the bottom
+
+of the oceans,
+
+where you have got a lot of chemistry going on, a lot of chemical energy which
+
+can be captured by life.
+
+But, in order to go beyond those sort of little niches, those sort of small
+
+areas where there is still that energy available, you have organisms have to
+
+evolve other ways of capturing energy.
+
+And the primary one which drives most of energy, most of life on earth today, is
+
+of course photosynthesis.
+
+And I think Doug would have talked about two different types of organisms and
+
+two different types of reactions that capture life energy and use it to drive
+
+life.
+
+Can anybody remember what they are?
+
+Can anybody remember the two major super kingdoms of the prokaryotes of the
+
+simple-celled organisms?
+
+I heard something there. Archaea and bacteria. Archaea and bacteria.
+
+Can anybody remember how Archaea are able to capture life?
+
+They use a kind of protein, but that applies to bacteria as well. They are both
+
+using thing-bound proteins, but they have a particular pigment, not related in
+
+evolutionary terms, but related in chemical terms, to how you see.
+
+Can anybody remember the name of the molecule you used to see?
+
+Radoxin. Radoxin is one in our eyes, so what do you call the one in Archaea?
+
+It should be Archaea radoxin. It is actually Bacteria radoxin. So does that ring
+
+any bells or did Duncan rewrite that lecture?
+
+No? No? Okay. Never mind.
+
+I think you talked about photosynthesis and the idea that photosynthesis evolved
+
+and enabled organisms to capture life energy. So Bacteria specifically evolved
+
+the ability to capture life.
+
+So they have chlorophyll molecules which absorb life energy and can then
+
+generate an electrical current. So chlorophyll absorbs life energy. When it
+
+absorbs life energy, it is able to give an electron to another molecule.
+
+In other words, it creates an electrical current, and that electrical current
+
+can be used to do work, and specifically, it can be used to make ATP.
+
+Have you probably talked about chemoethanogenetic hypothesis? Yeah, good. At
+
+least you have to remember some things about it.
+
+Okay, so I'm going to continue that story then. I'm going to talk in the first
+
+half of today, I'm going to talk about how those photosynthesis systems evolved
+
+a little bit, and particularly how that changed the world.
+
+So how the planet, the nature, the physical nature or the chemical nature rather
+
+of the planet was completely changed by life, the chemical and physical nature
+
+ultimately.
+
+Okay, so this is my basic cartoon of a bacterial reaction center. So this is the
+
+core part of the photosynthesis.
+
+So you have two proteins intertwined, sometimes called the copulating
+
+caterpillar model. You have these two strands of protein curled around each
+
+other.
+
+And in the middle of it, we have these two chlorophyll molecules. So in
+
+bacteria, they would be called bacterial chlorophyll, but they're essentially
+
+the same as you get in plants.
+
+So minor chemical structures are the same as you get in plants. When they absorb
+
+life energy, they give an electron to an electron acceptor on the other side of
+
+the membrane.
+
+So that's creating charge separation. So it's like creating, if you like, a
+
+battery. So you have a distance, a spatial separation, and that causes this
+
+driving of a current diverging electron transport.
+
+And originally, these two molecules, these two proteins here, started out being
+
+two proteins that were exactly the same.
+
+And they diverged into two classes. So they diverged into what we call type 1
+
+reaction centers and type 2 reaction centers.
+
+But we can say that these evolved in one organism, and these evolved in a
+
+separate organism. So type 1 evolved in one type of cell, one type of species of
+
+bacteria, and type 2 evolved in a separate species of bacteria.
+
+So you've got, early on, you've got the subversions into these two types. And
+
+I've drawn in cartoon form, a key difference.
+
+I don't need you to understand the details of the chemistry of these. There's
+
+only going to be one reaction I really need you to know.
+
+But basically, these ones take electrons that are coming in here, and they pass
+
+out to this protein which is special on, shall we call it, the outside of the
+
+protein. It's actually the inside of the protein.
+
+It's, yeah, it's actually the inside. I'm not going to confuse it. It's stuck on
+
+the inside, so it's inside the cell.
+
+So it has an electron acceptor that's stuck on the inside space of the protein.
+
+That's then able to give electrons the things out in the medium, so out in the
+
+solution, that passes these electrons on.
+
+This one, type 2, doesn't have anything on this side of the membrane, and it's
+
+actually giving the electrons into the membrane, but it has something sticking
+
+out on this side of the membrane.
+
+So you've got one that sticks out on the outside, type 2 sticks out of the cell
+
+on the outside, type 1 on the inside.
+
+This is able to take electrons from elsewhere. This one is giving electrons into
+
+the cell.
+
+So they're both doing the same basic job, but they're doing it in a subtly
+
+different way, and they evolve into separate cells, and they code separately.
+
+Typically, these proteins will contain iron and sulfur. They're all called iron
+
+-sulfur proteins.
+
+And these will, they vary, but in the earliest ones, they were more called
+
+cytopomes, so they contained iron.
+
+There are some of them, though, which were able to take hydrogen sulfide from
+
+the environment.
+
+They were able to take electrons from hydrogen sulfide and feed them into the
+
+electron transport chain through here.
+
+Are we okay with that so far?
+
+But like I say, don't worry too much about the detailed chemistry of what these
+
+are doing. It's just this idea that they're different and you need to get your
+
+heads.
+
+And one is taking electrons from the outside, one is giving electrons to the
+
+inside of the cell.
+
+And as I said, we start off with the very first bacteria that evolved the
+
+ability to do photosynthesis would have had a primitive reaction center,
+
+but then separated into these two types, and then they diverged into different
+
+organisms.
+
+So we've got two distinct separate regions.
+
+And if you can give me some examples, don't worry about the names. I won't,
+
+well, I won't be setting you down, actually, but I hope.
+
+But you won't be expected to learn all the names of these.
+
+But type one reaction centers you find in things like re-sulfur bacteria.
+
+So these are organisms which can oxidize sulfur, but they oxidize sulfur using a
+
+type one reaction center.
+
+And then you have, for example, purple sulfur bacteria, which take electrons
+
+from hydrogen sulfide.
+
+So you've got two of which are using sulfur as electron carriers, but they're in
+
+these separate lineages.
+
+They're doing it in slightly different ways.
+
+You also get helibacteria and green non-sulfur bacteria.
+
+These color schemes are supposed to roughly represent what the color these are,
+
+but they're slightly different color.
+
+So purple bacteria are purple. Green bacteria are green, kind of included in the
+
+name.
+
+These two separate lineages.
+
+So early on in evolution, we're talking about probably three and a half billion
+
+years ago.
+
+By three and a half billion years ago, you would have had these two separate
+
+groups of bacteria
+
+swimming around in the oceans or in water bodies, doing their thing, doing their
+
+photosynthesis,
+
+completely separate, doing it in their own way.
+
+They had a common ancestor.
+
+Obviously, they all had a common ancestor, because that was Luca, the last
+
+universal common ancestor.
+
+But they had a common photosynthetic bacteria as their ancestor.
+
+They both, they separated these two lineages, and they're going off and doing
+
+their stuff.
+
+They're doing it in a slightly different way, adapting to a slightly different
+
+environment.
+
+So they're using different electron receptors, different electron donors.
+
+They're growing in slightly different environments, in a slightly different way.
+
+And you still find them doing that today.
+
+So the descendants of those early bacteria are still swimming around today,
+
+doing these different forms of photosynthesis.
+
+And I could run an entire course on that, because I find it fascinating the
+
+number of different ways you can do photosynthesis.
+
+So if you did biology at school, and you learnt about photosynthesis and how it
+
+looks in plants,
+
+there is a huge variety of different ways you can contact with it.
+
+So, complete separation of these lineages.
+
+And then these guys turn up.
+
+Has anybody heard of cyanobacteria?
+
+Also known as blue-green algae.
+
+Do you know anything special about them?
+
+They contain both type 1 and type 2.
+
+They contain both type 1 and type 2.
+
+So they're also called blue-green algae.
+
+You might be familiar with them if you've heard about poisonous algal blooms
+
+that you sometimes get in lakes.
+
+Does that sound familiar to anyone?
+
+Yeah, so if you get too many nutrients released into a lake,
+
+you'll get this sort of explosion in the population of cyanobacteria,
+
+and they'll completely take over the lake, they produce toxins,
+
+and there are stories about people who take their big dogs walking by a lake,
+
+which happy algal blooms and the dog goes into the lake to swim, the dog dies.
+
+Very, very toxic.
+
+So, very, very common bacteria, very important bacteria.
+
+But they have this strange feature that they have both type 1 and type 2
+
+reaction sensors.
+
+Type 1 evolved in one group of organisms, type 2 evolved in another.
+
+So how could it be that you get both reaction sensors in the same organism?
+
+The answer is something called lateral gene transfer.
+
+This is what's really funky about bacteria.
+
+They're doing it now, as you see, in your stomach, for example.
+
+So you might be familiar with the idea of antibiotic resistance, for example.
+
+You know that the antibiotics we use to cure diseases are becoming less and less
+
+effective
+
+because bacteria are evolving the ability to become resistant.
+
+An interesting thing about that, or an alarming thing about that, is it's
+
+evolved in a few organisms.
+
+The genes which are responsible for that trait have been shown to transfer
+
+between bacteria,
+
+so they can move from one bacteria to another.
+
+Now here, I've drawn it as three proteins in each of these complexes.
+
+In reality, by then, they would have been maybe somewhere between half a dozen,
+
+between six and twelve,
+
+which would be, say, that sort of order of magnitude of genes, which have to
+
+move from one organism to another.
+
+So it wasn't just one gene, it was a whole clump of genes.
+
+So how could they get from one gene to another?
+
+And the answer is that bacteria are really not fussy about DNA.
+
+They sort of chuck it around.
+
+So it might be that a cell gets damaged and broken open, and DNA gets released
+
+into the environment.
+
+It might then get engulfed by another cell.
+
+Or there might be more active transport mechanisms.
+
+They're making viruses which transfer DNA across.
+
+So we have things called bacteriophages, which are like little spaceports that
+
+land on the surface of bacteria
+
+and inject DNA in, or RNA in.
+
+They basically play, move things free.
+
+They chuck DNA around like there's no tomorrow.
+
+And another feature about bacteria is that genes tend to come in streams.
+
+So rather than being, if you've got like twelve genes for this reaction center,
+
+rather than being dotted around in the genome, they will all be together.
+
+So they're all together in one location in the genome.
+
+Which means you're not having to coincidentally move lots of bits of DNA.
+
+If you get that whole chunk with twelve genes in it once,
+
+that piece of DNA can move from one cell to another and get incorporated into
+
+the genome of another.
+
+It's a rare event. It's unlikely to happen.
+
+It's a very low probability event, but it only had to happen once.
+
+And once it happened, you've got these two bacteria.
+
+So these two reaction centers sitting inside the same bacterium.
+
+And maybe we could do different types of chemistry.
+
+Think about what these reaction centers are doing.
+
+I've sort of repeated it in an analogy, but they're a bit like a battery.
+
+So they generate a charge difference.
+
+So they generate a positive charge on one side of the membrane and a negative
+
+charge on the other side of the membrane.
+
+People don't use little AA, AAA batteries as much as they used to,
+
+but I'm sure you've all got devices which have little AAA batteries that you
+
+have to slot into them.
+
+What happens if you put one, I don't know, what would you, I don't know what
+
+you'd use it for.
+
+You could use it for headphones, for example, and MP3 players and things like
+
+that.
+
+And you'd have a room.
+
+If you put one battery into an electronic device, what happens?
+
+It will not be enough to run your device.
+
+So if you've got a device which needs, shall we say it needs three volts,
+
+and you put in one, one and a half volt battery, that's not enough energy to run
+
+the device.
+
+You have to put two in series, and if you put two, one and a half volt batteries
+
+in series, you get three volts,
+
+and that will be enough to make your device work.
+
+And essentially the same thing is happening here.
+
+So you've got the type two reaction center, which in the case of the one you
+
+find inside of bacteria,
+
+where this does charge separation, it generates about a volt of energy.
+
+So the energy difference between positive and negative charge is about one volt.
+
+The type one reaction center does not quite as much, but it does maybe 0.7 or 0
+
+.8 volts, something like that.
+
+Add them together, you then get 1.8 volts.
+
+So you're going from having relatively little energy to having a lot more
+
+energy.
+
+And what that means is you can now do things that you couldn't do with just the
+
+one battery.
+
+So with one reaction center, you have less energy than you get from two reaction
+
+centers running in series.
+
+And you can start to do things that you couldn't do before.
+
+Specifically, the things that the type of bacteria evolved to do.
+
+And obviously this wouldn't be an overnight step.
+
+First all the reaction centers had to come together, and then they had to evolve
+
+to do new things.
+
+So we're probably talking about a few hundred million years it took for this to
+
+evolve.
+
+When these reaction centers first came together, probably they were just sitting
+
+there in the same cell doing what it was they did before, but not working
+
+together.
+
+But gradually, through evolution, you start acquiring ways of linking these
+
+together.
+
+So you've got electron carriers in between, which take electrons from one to the
+
+other.
+
+That happens, you've got more energy, you're producing higher energy difference
+
+between the two ends of the pathway.
+
+You can do more chemistry.
+
+And specifically, what this meant was that the cells were able to do chemically
+
+very difficult reactions.
+
+And the complex that does it is what we call the oxygen evolving complex.
+
+And this is the reaction. It's able to oxidize water.
+
+So previously, photosynthesis relied on relatively easy to react with molecules.
+
+So it resulted on metals, or hydrogen sulfide, or a few other things.
+
+Hydrogen sulfide is chemically quite similar to hydrogen oxide, that's to say
+
+water.
+
+It's chemically quite similar to water.
+
+But hydrogen sulfide is much easier to oxidize.
+
+Water is really difficult to oxidize. It's a very stable molecule.
+
+It doesn't want to be oxidized. So you need a lot of energy in there.
+
+So if you just have one reaction center turned, that wouldn't really work.
+
+But because you've got two photosystems, two batteries in series, so two
+
+reaction centers in series, you're able to oxidize water.
+
+You take the oxidation. We all know what you've learned about oxidation in
+
+chemistry.
+
+Have you talked about it in chemistry yet?
+
+You've learned about it, but it's probably going to be something about
+
+thermochemistry at school or whatever.
+
+What is oxidation? Loss of electrons.
+
+Yeah, so it's sometimes thought of as an addition of oxygen, but usually we
+
+think about it for loss of electrons.
+
+So if you take water and you remove electrons from it, you're also at the same
+
+time going to lose hydrogen ions.
+
+In other words, you're taking the hydrogen off it.
+
+You're left with atomic oxygen, but atomic oxygen is unstable, so it will react
+
+with itself.
+
+So if you take two molecules of water, you remove four electrons from it.
+
+You also lose two hydrogen ions. You're then left with oxygen.
+
+The two oxygen atoms will react with each other, and they produce this in here,
+
+molecular oxygen.
+
+That was, in evolutionary terms, one of the most planet-changing things that
+
+life has ever done.
+
+This chemical reaction has totally changed the nature of the planet we live on.
+
+It's changed it from being, shall we say, a reduced planet into being an
+
+oxidized planet.
+
+It's changed the nature of our atmosphere.
+
+So the atmosphere has gone from being an oxidized atmosphere with high
+
+concentrations of oxygen in,
+
+and that has been massively important not only for the chemical nature of the
+
+Earth, but also for the evolution of life.
+
+This is one of the most fundamentally important events in the evolution of life
+
+on Earth.
+
+We can sort of work out where it comes from, so we can see there are these
+
+structures.
+
+There's a bit of geology for you.
+
+These structures you find, these geological structures, which are called
+
+stromatolites,
+
+which have actually evolved from masses of...
+
+They've grown from masses of cyanobacteria growing together and accumulating
+
+mineral deposits,
+
+and then sort of coagulating together to form a sort of rocky structure.
+
+You have to talk a little bit more to your geologist lecturers about exactly how
+
+they're formed.
+
+But you see they've got these sort of...
+
+These are the earliest fossil evidence of some of the earliest fossil evidence
+
+of life,
+
+and they're the earliest fossil evidence of the appearance of cyanobacteria.
+
+So we know that somewhere around three billion years ago,
+
+we get the appearance of cyanobacteria and the appearance of oxygen starting to
+
+be evolved in the atmosphere.
+
+I've been talking too much. I'm going to have a quick break.
+
+This barren salt pan in southern Canada is as close as you can get in the modern
+
+day Earth to that ancient world,
+
+three billion years ago.
+
+But the one crucial difference between the planet then and the planet now is
+
+that back then,
+
+I'd have been bumped across.
+
+That's because the primitive atmosphere couldn't screen out the sun's powerful
+
+ultraviolet rays.
+
+Back then, these UV rays were hundreds of pounds stronger than they are now.
+
+Nothing could survive on land.
+
+Yet all this was about to change.
+
+A momentous event that would create the planet's first life-supporting
+
+atmosphere.
+
+This event, between three and two and a half billion years ago,
+
+was the single greatest turning point in the history of life on Earth.
+
+And it was all brought about by the earliest ancestors of plants.
+
+Here at the Cishan Iron Mine in South Africa,
+
+evidence of that epic event can still be unearthed today.
+
+But to get to it, you need a bit of help.
+
+That is 200,000 tonnes of iron ore just being blasted apart.
+
+These explosions open a cross-section back in time
+
+from the distant origins of the plant kingdom.
+
+This is iron ore. It's so heavy.
+
+The pure iron's got this metallic glint. It's shiny, but you can see the best.
+
+It's got loads of red in it. And it's red for a really simple reason.
+
+It's rusty. It's rusty because it's come into contact with oxygen.
+
+Oxygen produced by the very first burst of life.
+
+The miners want the ore for its iron content.
+
+But I'm going to use this iron oxide for a very different reason.
+
+Something I don't think's ever been done before.
+
+That's why I'm a wee bit excited.
+
+I've taken a chunk of the iron oxide rock
+
+and had it ground up into fine powder.
+
+It's then been turned into a solution.
+
+One I'm hoping will allow me to take a breath from the planet's earliest oxygen.
+
+Oxygen made by the ancient ancestors of plants.
+
+And now what I'm going to do is kind of jump-start it really with this batty.
+
+I'm going to attach a lead and passive electric current through it.
+
+And we should see a simple reaction.
+
+Oh yeah, yeah. Yeah, there's some bubbles coming off.
+
+These bubbles are the gassed oxygen.
+
+It's been released for the first time in over two and a half billion years
+
+when it was locked away in the rock.
+
+It's a lovely little train of them, just rising up to the top of the test tube
+
+before they're not fucking in your ass.
+
+You're never sure whether you can spell this, but you're really going to get it.
+
+That's exciting, that's what we're going to see.
+
+In just one hour, I've collected enough to fill the whole test tube.
+
+The thing is, this isn't any other oxygen.
+
+This is oxygen that's come from those iron bars.
+
+The very oxygen that changed our planet.
+
+I can't resist it.
+
+I can't believe it.
+
+I'm breathing oxygen.
+
+It's been made two and a half billion years ago.
+
+It's all going, liberated from the rocks.
+
+Okay, partly silly, but...
+
+The point he's making there, though, is what he was effectively doing is...
+
+So, the way this goes is, you start off with...
+
+Phenobacteria revolves.
+
+They evolve into water.
+
+They can turn water into hydrogen and oxygen,
+
+and the oxygen can be released into the atmosphere.
+
+The trouble was, at that time in evolution, in the history of the Earth,
+
+it was a largely reduced planet.
+
+And in particular, iron and manganese are two particularly important metals.
+
+Iron and manganese were present in large amounts,
+
+floating around in the sea, floating around in bodies of water.
+
+And they were floating around in their reduced form,
+
+so either as iron two or as manganese two.
+
+If iron ions,
+
+iron two plus ions, react with oxygen,
+
+they will lose electrons,
+
+and they will change to...
+
+Anyone know?
+
+Oxidized iron two, so iron two is ferrous iron.
+
+Iron three, ferric iron.
+
+So they go from ferrous to ferric.
+
+Important difference, and this is really important,
+
+you'll come back to this later in the course,
+
+but this is really important for the evolution of life.
+
+Iron two is really soluble in water.
+
+There was lots of it about manganese two is really soluble in water.
+
+Iron three is largely insoluble.
+
+So rather than just floating around as iron three in solution,
+
+it reacted with the oxygen to form iron oxide.
+
+Iron oxide, of course, is rust.
+
+It's insoluble.
+
+That sunk down to the bottom of the oceans
+
+and formed these distinct red layers.
+
+So what you see, this is an example of a rock.
+
+If I'd been more prepared for this lecture,
+
+I would have gone and borrowed one from the...
+
+If you go to the room on the ground floor of Williamson Building,
+
+has anybody been there, the sort of library down there?
+
+If you go down there, you're asking there,
+
+if Mandy Edwards is around,
+
+she should be able to find an example of this sort of rock
+
+with this distinct band in it.
+
+But these orange bands are layered deposits of iron oxide.
+
+So you went from having lots and lots of dissolved metal,
+
+particularly iron manganese, in the oceans,
+
+that reacted with oxygen and precipitated out,
+
+settled out and formed these sediments,
+
+which is why you get these sedimentary rocks
+
+with these distinct banding patterns,
+
+with these red bands in them.
+
+And that was happening around here.
+
+So we're talking about...
+
+That was actually two and a half million years ago.
+
+A billion years ago, sorry.
+
+Two and a half thousand million years ago, roughly.
+
+We get through this sort of massive shift.
+
+So it's often called the oxygen crisis
+
+or the great oxygen event,
+
+where the whole nature of the planet,
+
+kind of overnight,
+
+and when I say overnight,
+
+I'm talking about three or four hundred million years,
+
+well, you know, that's pretty fast, isn't it?
+
+You get this massive change in the nature of the planet.
+
+And this, if you like, you can think about this
+
+as being the very first example
+
+of life on Earth causing pollution.
+
+This is the first ever major pollution disaster.
+
+So just as we go out releasing,
+
+creating new molecules and releasing them
+
+into the environment and poisoning things,
+
+so did cyanobacteria in their day,
+
+did exactly the same thing.
+
+They produced a toxic molecule.
+
+Oxygen is a toxic molecule.
+
+They produced oxygen, released it.
+
+And that had massive consequences.
+
+And there were two major consequences,
+
+one of which was, broadly speaking, bad,
+
+and the other one, we can argue, maybe was good.
+
+If you look at what, if you look at,
+
+if you start to do, again, this is geology,
+
+I'm not a geologist,
+
+so I'm not quite sure what the evidence of this is,
+
+but geologists tell us that around this time,
+
+we get the first what's called a snow-walled event.
+
+I guess in the geology lectures,
+
+we haven't got that far yet.
+
+Have you formed the Earth yet, in geology?
+
+Where have you got to in the history of the planet?
+
+We're just in the old 1,000 years ago.
+
+Sorry?
+
+We're just in the old 1,000 years ago.
+
+Right, okay.
+
+We're talking about the Hadean,
+
+and then we did the 1,000 years ago.
+
+Okay, right, we're in the Hadeans, fine.
+
+So this event here, the Huronian Ice Age,
+
+is considered to be the first
+
+what's called Icefall Earth event.
+
+So it's an event where pretty much the whole planet
+
+turns into an ice age that comes to the ice ages simultaneously.
+
+And it's considered to be largely, not entirely,
+
+I mean there are locations of the continents,
+
+continental drift, the location of the continents,
+
+and the ocean current, stuff like that,
+
+of course that's also important,
+
+but the major driver for it was this change in the atmosphere
+
+that was ultimately being driven by cyanobacteria.
+
+And specifically, because they were producing oxygen,
+
+so I've already said the oxygen,
+
+the first thing the oxygen did was react with iron,
+
+with metals.
+
+So they were the first,
+
+they were the most accepting molecules around.
+
+So oxygen is being released into the water,
+
+it's meeting iron, it's meeting reduced iron,
+
+reduced manganese, it's oxidizing it,
+
+the oxygen is being lost, it's going to form rust,
+
+it's going back, it's going into a mineral form.
+
+So it's not being released into the atmosphere.
+
+But at some point, all the readily available metals
+
+have already reacted,
+
+and the oxygen starts to be released into the atmosphere.
+
+And if you ask, well, what was the atmosphere like at the time?
+
+Well, it was massively dominated by this molecule, methane.
+
+So methane is reduced carbon.
+
+Reduced carbon, just like every time.
+
+So my niece went to university,
+
+she's the same year we were with you,
+
+my niece went to university about two weeks ago.
+
+Before she went to university,
+
+her parents took her to Ikea
+
+to buy some things that she was going to need in her kitchen
+
+and they bought her a set of saucepans.
+
+When she got to university,
+
+she felt she had an induction hob.
+
+And the saucepans weren't compatible with an induction hob.
+
+Does anybody else have that experience?
+
+Do you all have an induction hob?
+
+Well, I was a student.
+
+I didn't have an induction hob in my university accommodation.
+
+Actually, in my first year, I didn't even have a kitchen.
+
+I didn't have to go to a canteen.
+
+But when I was first living in a place where I was cooking for myself,
+
+I had a gas hob.
+
+And of course, the gas that you burn in the gas hob
+
+is this one, methane.
+
+So the gas that you get out of the pipes
+
+that most houses are still being heated with in this country
+
+is methane.
+
+Methane reacts with oxygen.
+
+If you catalyze that reaction,
+
+if you put some heat in to start the reaction,
+
+you can produce a flame.
+
+It's a very sort of dramatic and quick reaction.
+
+But just in the atmosphere,
+
+methane, in the atmosphere,
+
+it doesn't reasonably long life time,
+
+but it's not a very long lifetime.
+
+It's years or centuries or millennia.
+
+The huge quantities of methane in the atmosphere,
+
+the oxygen is being released.
+
+So once the iron and the reduced iron and manganese have run out,
+
+the oxygen is being released out of the water.
+
+It's coming into contact with this methane.
+
+It's oxidizing the methane to make carbon dioxide.
+
+Why might that cause cooling of the earth?
+
+Yeah?
+
+Is it because methane is a stronger greenhouse gas than oxygen?
+
+Exactly. Methane is a much stronger greenhouse gas.
+
+So the sun, I think the sun at this time anyway
+
+was weaker than it is today.
+
+So the amount of energy coming in from the sun
+
+was less than it is today.
+
+And you have there a change from having a strong greenhouse gas
+
+to having a relatively weak greenhouse gas.
+
+Because we always think about carbon dioxide as being a greenhouse gas,
+
+and it is, but not as strong and not as much of a problem as methane.
+
+So the effect of this then was you went through an event
+
+where biological processes caused global cooling,
+
+which led, because combining that with the weak sun
+
+and the fact that you had the continent in a position which got,
+
+which discouraged the free movement of air and currents
+
+across the pines, you get this first major ice age event,
+
+the first ice fall earth event.
+
+And this happened, so we think the sign of activity
+
+appeared here about two and a half thousand million years ago.
+
+We then get this, you see, this is even two separate estimates,
+
+two different methods, but basically saying the same story
+
+about what the oxygen atmosphere was like,
+
+what the amount of oxygen in the atmosphere was like
+
+over the history of the earth.
+
+So the early earth had basically no oxygen at all,
+
+some bacteria evolved and you start to see a gradual increase,
+
+and it's gradual because of all that chemistry going on.
+
+So it's not all suddenly being released,
+
+it's occurring over something like 500 million years
+
+before you reach a new stable level.
+
+Later in the history of the earth, we get other events
+
+which cause more oxygen to be released,
+
+we'll get onto those later in the course.
+
+But the moment we just figure out this bit,
+
+we're going from having no oxygen
+
+to having something like 0.05 atmosphere partial pressure
+
+of oxygen in the atmosphere.
+
+So it's not really a sudden event,
+
+but it's sudden in kind of geological and evolutionary terms.
+
+It's quite an abrupt change to the nature of the planet.
+
+So everything gets very cold,
+
+lots of things die because they get very cold.
+
+There are other problems with oxygen.
+
+I've already said to you, oxygen is poisonous.
+
+Does that sound plausible?
+
+Is that what you expect me to say about oxygen?
+
+Do you think oxygen can kill you?
+
+In high concentration.
+
+In high concentration.
+
+If you think that, it's probably going to kill you anyway.
+
+Probably we're all, the reason that if you get older,
+
+you get sort of wrinkly and things start breaking,
+
+a lot of that is to do with oxygen.
+
+I'm just going to give you a little bit, not exclusively that,
+
+but it's to do with some chemistry.
+
+So I've already mentioned this reaction.
+
+Oxygen reacts with ions to produce iron three plus.
+
+But it also, when it does this,
+
+in the first instance it produces this molecule here,
+
+which is called superoxide,
+
+which is what we call a free radical.
+
+So a free radical is a molecular species with an unpaired electron.
+
+So putting lots of complicated chemistry into very simplistic terms,
+
+electrons like to occur in pairs.
+
+Stable molecules have electrons organized into pairs,
+
+and we say that the pair will have opposite spins
+
+on the share of a particular atomic orbital.
+
+This thing here has, it's got a negative charge because it's acquired,
+
+so at O2 it's stable,
+
+but it's acquired one electron, so it's O2 minus.
+
+But that is an unpaired electron.
+
+And this is a really weird chemistry, which is special to oxygen.
+
+It's not generally seen in most molecules.
+
+But this thing that itself is not that bad,
+
+but it will react with itself,
+
+and it will react with itself in the presence of protons, hydrogen ions,
+
+it will form this thing here.
+
+Do you know what this thing here is?
+
+Hydrogen peroxide, yes.
+
+Hydrogen peroxide.
+
+Hydrogen peroxide is a form of bleach.
+
+And in fact, there's a little bit more chemistry.
+
+Don't worry too much about the chemistry.
+
+It's an important reaction,
+
+because hydrogen peroxide will react with ions to produce these things here,
+
+which is called a hydroxyl radical.
+
+This is the most reactive species known.
+
+These are incredibly damaging.
+
+They will react with proteins,
+
+they will react with membrane lipids,
+
+they will react with DNA and RNA.
+
+If they react with DNA, they will change the sequence of the DNA,
+
+cause mutations in the DNA,
+
+and that's considered to be part of the aging effect.
+
+That's why people say that antioxidants are good for you.
+
+So you need lots of purple fruit, for example, things like that,
+
+or you take vitamin tablets.
+
+A lot of the supposed benefits of those antioxidants
+
+is due to the fact that they slow down these sorts of chemistry.
+
+They slow down reactions of free radicals.
+
+So antioxidants are simply things that react with these highly reactive
+
+molecules
+
+and stop the damage from occurring.
+
+So this theory of reactions is collectively known as the Fenton reaction.
+
+And it's a major pathway by which oxygen, in the presence of produced ions,
+
+can lead to free radical formation,
+
+which then goes on to damage the cell.
+
+And at the point when oxygen starts to appear in the atmosphere,
+
+no organism alive has ever encountered molecular oxygen in any significant
+
+concentration.
+
+It was a new, unknown molecule.
+
+It didn't really occur in any significant concentration on Earth.
+
+But if you remember back to when I was talking about electron transport
+
+at the beginning of this lecture,
+
+I talked about the fact that iron is important,
+
+and they are in the electron transport chain,
+
+they're producing reduced iron all the time.
+
+They're oxidizing and reducing iron.
+
+They're oxidizing and reducing manganese as well.
+
+So they're generating reduced iron, and they generate an oxygen presence.
+
+So life tends to do these reactions.
+
+And to this day, every single one of yourselves is tending to do this theory of
+
+reactions all the time.
+
+And for the early organisms that first encountered these molecules,
+
+first encountered oxygen, this was deadly,
+
+because they had no defense against it whatsoever.
+
+And the result of that was pretty much everything died.
+
+So, obviously, hydrogen peroxide is used as hair bleach.
+
+That gives you an idea of when it's been used as hair bleach,
+
+you're actually chemically reacting with the melanin molecules in your hair,
+
+changing the chemical nature of them and changing therefore the color of them.
+
+But the result of all this, and you've got the combination,
+
+you've got ice ball Earth, everything's freezing,
+
+the few pockets which stay warm, like where there's volcanoes and things like
+
+that,
+
+you'll get pockets of warmth across the planet.
+
+But it's basically a largely frozen planet.
+
+So there's much less physical space for life to exist.
+
+And then all the things that were alive are suffering from this poison.
+
+And this is the very first mass extinction event on Earth.
+
+So the appearance of oxygen, Geronimo and Isage, combined together,
+
+obviously the Isage is caused by the oxygen,
+
+they're combined together to be the first mass extinction event on Earth.
+
+Most organisms that were present on Earth,
+
+that we can see in the fossil record from that time,
+
+disappeared as a sudden loss of total life.
+
+And pretty much that could have been it.
+
+Right, that could have been the end of our story,
+
+or it could have just, you know, life had killed itself.
+
+Except some things survived.
+
+So some things evolved characteristics which allowed them to thrive.
+
+It may be that there were some things which just happened to have molecules,
+
+they happened to be making molecules that protected them from that reactive
+
+oxygen.
+
+So being somewhere that stayed warm was obviously an important feature,
+
+so you had to stay somewhere that was warm enough
+
+where there was liquid water where you could survive.
+
+There would have been pockets of that around the Earth,
+
+but then organisms had to be resistant to oxygen.
+
+But of course it did take 500 million years for the oxygen concentrations to
+
+peak
+
+in that first wave of oxygen evolution.
+
+So it wasn't entirely an overnight event,
+
+nevertheless you've got this relatively fast in evolutionary terms change,
+
+but some organisms evolved the ability to make antioxidants.
+
+Do you know any examples of antioxidants that are important in your diet?
+
+Why do people have to eat oranges?
+
+Vitamin C and vitamin E.
+
+Vitamin C and vitamin E are two examples.
+
+Vitamin E is a fatty molecule that exists in the membrane.
+
+Vitamin C, otherwise known as ascorbic acid,
+
+so also to follow with vitamin E.
+
+Vitamin C, if ascorbic acid is its other name, is a soluble molecule.
+
+These are both two of the most important molecules.
+
+Although we always say you should eat oranges and lemons and things to get
+
+vitamin C,
+
+actually the best source of vitamin C is green vegetables.
+
+Anything which is green means if a thing which is making oxygen
+
+and it's making reduced iron, it's got chloroplasts and it's doing
+
+photosynthesis,
+
+they are the most vulnerable organisms to oxidative stress
+
+and the formation of reactive oxygen.
+
+They're much more vulnerable than we are.
+
+We have mitochondria, which are going to come up in the next half of this
+
+lecture.
+
+They're making reactive oxygen as well all the time.
+
+We also need them.
+
+We don't tend to make them ourselves with the antioxidants.
+
+We tend to take them in our diet and several of the vitamins are antioxidants.
+
+Also things like anthocyanins.
+
+You get into red fruit and yellow fruit.
+
+Red and purple and blue fruit.
+
+They're also a rich source of antioxidants.
+
+So some things survive and life is able to continue.
+
+There were two positives about this.
+
+A couple of positives I want to mention.
+
+One is this series of reactions.
+
+Oxygen rate in the atmosphere started being broken down by UV energy
+
+to form this, atomic oxygen.
+
+As I've already said, atomic oxygen is not stable.
+
+What if it's really radical?
+
+It won't persist very long.
+
+But it will react with molecular oxygen.
+
+O2 will react with O to make O3.
+
+In other words, ozone.
+
+So we get the appearance of the ozone there.
+
+Why is the ozone there important?
+
+What does that mean?
+
+How does that change?
+
+Lack of UV light.
+
+Prevents UV light.
+
+Yeah, it prevents UV.
+
+So basically it's formed.
+
+So because ozone tends to form at the outer part of the atmosphere,
+
+because that's where the most UV light is,
+
+you get this layer of ozone there around the outside of the planet.
+
+That blocks the further entry of UV into the planet.
+
+UV is an incredibly damaging wavelength of light.
+
+It's high-energy light.
+
+It can break chemical bonds in life.
+
+It causes sunburn.
+
+That being a very obvious example of what the planet does to us.
+
+In the absence of ozone there, life could not exist on Earth.
+
+Life as we know it, it could not exist on the surface,
+
+the dry bits of Earth, on land.
+
+So the appearance of the ozone there
+
+means that life was able to move to outside water for the first time.
+
+And that's what we're going to talk about next week.
+
+I'm not sure whether it will be Neil Duncan next week.
+
+It will certainly be Rob.
+
+But next week's theme is going to be the movement of life from the oceans onto
+
+the land.
+
+Another feature of this, though, is actually to do with chemistry.
+
+So if you take this example, this is something some of you may have learned
+
+about
+
+if you did biology at A-level, possibly chemistry at A-level.
+
+Anybody know what this reaction is?
+
+Oh, sorry, it says that. I don't need to ask you where it is.
+
+This is what we call anaerobic respiration.
+
+So, for example, yeast growing in a relatively low oxygen environment
+
+will break down sugar, break down glucose, for example,
+
+to make this molecule here, which is, in other words, it's talking about
+
+fermentation.
+
+So this is what we call the fermentation reaction.
+
+So yeast do it because they're breaking down, for example, grapes or barley,
+
+which makes alcoholic drinks.
+
+It also makes ATP, but it doesn't make very much.
+
+So from one molecule of sugar, you get two molecules of ATP.
+
+If you try and do this same reaction in the presence of oxygen, though,
+
+from one molecule of sugar, you get 36 molecules of ATP,
+
+a massively more efficient way of gathering energy.
+
+So respiration goes from being to being really good at extracting energy.
+
+You can break sugars down right down to carbon dioxide, you can oxidise them
+
+fully
+
+so that the carbon is completely oxidised.
+
+And that meant that cells suddenly could become bigger.
+
+So at the beginning of life, they were restricted to being small
+
+because they were restricted by the amount of energy that was extracted in the
+
+environment.
+
+But the appearance of oxygen means the ones that still survive,
+
+the ones that could tolerate the oxygen, could start doing more efficient
+
+respiration.
+
+They could get bigger and bigger.
+
+So you get an explosion in the size, the physical size of cells.
+
+Why was that important?
+
+Well, it was important because it diversified what life could do.
+
+So at the beginning, you have chemistry going on.
+
+So you have chemo-autotrophs, things extracting energy from the environment.
+
+You have photosynthetic organisms or some different photosynthetic organisms
+
+appearing early on in life.
+
+And you have things which can absorb molecules from their surroundings,
+
+so what's called heptatrons,
+
+but they're just simply relying on what's floating around them and absorbing it.
+
+So it could be chemicals, it could be organic, inorganic chemicals,
+
+or you get organisms which can take organic chemicals out from their
+
+environment.
+
+But with the appearance of oxygen, you get these bigger cells,
+
+and what these bigger cells learn to do is eat.
+
+And that's going to be the theme for the next part of the session,
+
+but I think we need a break.
+
+So we'll have a break and start again on the hour.
+
+Does that sound okay?
+
+Are there any questions?
+
+Okay, we'll have a 10-minute break.
+
+You might go to the toilet or anything.
+
+What's the gesture like?
+
+And then we'll carry on.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Right.
+
+How have you been so far?
+
+Has anything that I've said so far made any sense?
+
+Any questions about the first part?
+
+It was Gerald from the first part.
+
+Would anything like to do a little bit?
+
+Okay, one question.
+
+Is there a question there?
+
+Sorry, I couldn't hear you.
+
+He fell down, please.
+
+Thank you.
+
+We'll try again.
+
+So a reaction center is a binary core.
+
+So at half the reaction center are these two proteins.
+
+They evolved as being the same proteins.
+
+In the very early search, they were two identical proteins found together
+
+and so it sandwiched in the core in the middle.
+
+And then at some point, they evolved into separate proteins,
+
+and it happened twice.
+
+Once in the type one and once in the type two.
+
+And that's how we know that they were separated,
+
+because the two proteins in the type one are more similar to each other
+
+than either is the two proteins in the type two.
+
+Does that make sense?
+
+Anybody want to do a quick quiz?
+
+See if any of our genders do what you want.
+
+Okay, so you need to go to minty.com and put 2473-2723 as current.
+
+Can I just give you a minute to log in?
+
+Can I just give you a minute?
+
+Can I just give you a minute?
+
+Can I just give you a minute?
+
+Can I just give you a minute?
+
+Can I just give you a minute?
+
+Can I just give you a minute?
+
+Can I just give you a minute?
+
+Okay, let's move on.
+
+Can I just give you a minute?
+
+Okay, so this will be a race against time and accuracy.
+
+Time and accuracy are two things, so show me those.
+
+Question one. Which of the following true type one reactions have you seen?
+
+Okay, next question then. Hang on, wait, let me get a score first.
+
+Congratulations. Okay, next question.
+
+Why is it advantageous to have both type one reactions?
+
+Okay, what was the impact of the appearance of oxygen in the atmosphere?
+
+That's the last question that's relevant to me.
+
+So, high on in harmony with our victor.
+
+I think the next question is irrelevant.
+
+We haven't covered yet, so...
+
+How might oxygen be treated in the appearance of you, Perry?
+
+I haven't actually told you that yet, but that's a hard question.
+
+Is that what we're going to cover in the next few minutes?
+
+Okay, so our overall winner of that game is...
+
+Okay, so our overall winner of that game is...
+
+Okay, shall we move on?
+
+So, the kind of questions I was using in that quiz are less well thought
+
+through, but similar to the ones people get in the exams.
+
+So, you've got a practice exam in week six, I think. Is that right?
+
+So, in two weeks' time.
+
+In reading week, you have a practice exam to give you an experience of what the
+
+exams are like.
+
+The sort of questions we ask are similar styles to those, but like I say, we
+
+tend to be a little bit more careful about them because they're not being
+
+ambiguous.
+
+But if it's generally going to be the most correct answer, we'll be the one to
+
+get the mark.
+
+I think usually, because we recycle the questions quite a lot, we've tested them
+
+on previous year groups, so they tend to be okay questions.
+
+A couple of those were a little bit ambiguous, I have to confess.
+
+So I apologize if you lost points because I misled you.
+
+Okay, anybody recognize the music I was playing?
+
+Yeah, come together.
+
+Because what I want to talk to you about now is how cells came together to form
+
+more complex organisms.
+
+The last question I asked in that quiz was, of course, related to that because
+
+I'm talking about now about the appearance of a group of organisms for the new
+
+period.
+
+So 2 billion years ago, around here, we've had life appeared, photosynthesis
+
+evolved, scientific theory evolved, we've had an ice age, the ice age comes to
+
+an end.
+
+The driver for that is probably a combination of continental drifts and possibly
+
+changes in solar activity.
+
+But essentially, the world starts warming up again.
+
+The ice sheets start receding, there's more liquid water available, there's more
+
+space for life to occur.
+
+And then you get, again, on an evolutionary scale, another abrupt change.
+
+So the lectures that Rob's given you in the last two weeks, of course, we're
+
+jumping ahead of this and talking about some of that complexity.
+
+Really what I want to talk to you about now is why did you get the complex cell
+
+appearance?
+
+So why did you get the appearance of what we call eukaryotes?
+
+So the first possible evidence of eukaryotes is from something like 1.9 billion
+
+years ago, so around here.
+
+So 1.9, 2 billion years ago, complicated cells started appearing.
+
+So generally, what I first learned about biology, biology was divided into
+
+prokaryotes and eukaryotes.
+
+Do you know what those terms mean? What does eukaryote mean?
+
+It does have a nucleus, we'll come on to that in a second, so that is what a
+
+eukaryote is. I was going to say what the term means.
+
+So what it actually means is that a karyote means cell, so it can do its thing
+
+with cells.
+
+Eukaryote means true cell, as opposed to prokaryote, which means sort of pre
+
+-cell.
+
+We don't talk about prokaryotes in the same way anymore, because we divide them
+
+into the bacteria and the archaea.
+
+So you had the last universal common ancestor. That divided into the archaea and
+
+the bacteria.
+
+The bacteria evolved to do photosynthesis, the archaea evolved a form of
+
+photosynthesis with bacteria and redoxin, but they were separate.
+
+They've got quite fundamental differences at the molecular level in terms of how
+
+they use DNA, for example, some of the structures they use are different.
+
+They're identified with different types of organisms that work in a slightly
+
+different way.
+
+You then get eukaryotes of this third group, which have larger cells, more
+
+complicated cells, with as you said nuclei, with a nucleus.
+
+Where did they come from? They must have evolved from the prokaryotes, they must
+
+have evolved from the bacteria or the archaea.
+
+So which of those groups gave rise to the eukaryotes?
+
+I'll tell you about how it all happened.
+
+I sort of alluded at the end of the last slide, I used the idea that when you
+
+had oxygen, oxygen meant you could get bigger cells, bigger cells meant there
+
+were some big things and some small things.
+
+If you've got big things and small things, then the big things can start to eat
+
+the small things.
+
+It's not simply about eating, it's quite a complicated thing to evolve.
+
+You have to evolve structures, I think it would appear, you have to evolve
+
+structures like you have to have a cytoskeleton which is able to flex around
+
+another cell.
+
+So basically, if you ever learned about amoebae for example, amoebae little
+
+single cell organisms that live in puddles,
+
+and they've got to swim around in the puddles and they've got to engulf oxygen,
+
+they have what are called pseudopodia like, sorry, false legs,
+
+and they wrap themselves around bacterial cells, engulf them and then absorb
+
+them into their cells.
+
+And that's called phagocytosis.
+
+So phagocytosis is to do with eating, cytosis is to do with cells, so it's cells
+
+eating cells, cells engulfing cells.
+
+And they would have evolved the ability to digest those cells as well, so they
+
+would be evolving enzymes and the ability to inject them,
+
+so what they do is they wrap themselves around the smaller cells, they engulf
+
+them and they're surrounded by the membrane,
+
+and then they inject proteins into that membrane and break down and consume the
+
+cells they've engulfed.
+
+So they have some kind of system for digestion, so they have, if you'd like,
+
+they have the very first primitive gut.
+
+You cannot have it any other way around it, you can have the little cells
+
+invading the big cells and living inside the big cells as well,
+
+and there's some evidence that evolution has happened as well.
+
+So you have this relationship, you get these different sizes, different sizes
+
+can interact in new ways.
+
+But at some point, and traditionally this has happened, well it's happened on
+
+multiple occasions for evolution,
+
+but in terms of our ancestors, we can think about there being two, well in our
+
+ancestors, one distinct event in the case of plants, two distinct events.
+
+Something has happened where that process has somehow gone wrong.
+
+You can imagine it being like an arms race, so you can have big cells trying to
+
+eat little cells,
+
+and you can have little cells trying to invade big cells from the inside, or
+
+simply trying to protect themselves from the big cells,
+
+but somehow you've got concurrence of a cell that was able to be, that was
+
+engulfed by bigger cells,
+
+but wasn't digested, and managed to persist.
+
+And that really is the origin of the eukaryotes.
+
+So, and it's a theory called endosymbiosis.
+
+So symbiosis is a term used living together, and you can get different types, so
+
+you get lots of examples in nature of organisms
+
+which live together in a very intimate way.
+
+And there can be different types of relationships.
+
+You can have parasitic relationships where, for example, one organism is living
+
+off another organism.
+
+Usually often it would be doing harm to the other organism.
+
+So you might, for example, think about organisms like you might have sort of
+
+worms living in your guts.
+
+You might have organisms which cause diseases like malaria, for example, which
+
+can live in and persist in your body for a significant amount of time.
+
+They would be examples of parasites.
+
+You can also have what are called commensural relationships where you get one
+
+organism is living off the other one,
+
+it's depending on the other one, but it's not giving anything back.
+
+And in those earlier relationships you would get both examples of both of these.
+
+You get things which were exploiting other organisms but not necessarily
+
+benefiting them.
+
+But you also get these sort of relationships, and these are the kind of most
+
+interesting and most beautiful ones, the neutralistic ones.
+
+You might, for example, have heard of lichens. Does anybody know what a lichen
+
+is?
+
+Are they a type of fungus?
+
+Almost.
+
+They're a type of fungus and...
+
+Anyone?
+
+What's special?
+
+Amongst fungal species, why would lichens be separated out?
+
+It's like a symbiotic relationship between a fungus and an algae?
+
+There's a symbiotic relationship between a fungus and an alga.
+
+I'm a fan of bacteria or a green alga.
+
+Don't worry about the difference between them, we'll come on to that later.
+
+It's two organisms living together, and both organisms are benefiting from that
+
+relationship.
+
+So the fungus is able to live in places.
+
+The fungus is getting a source of food, is able to live in places where it
+
+couldn't live on its own.
+
+And the alga is also getting a, if you like, it's getting a house.
+
+It's getting a protected environment where it can survive better in places it
+
+wouldn't otherwise be able to grow.
+
+So it's considered mostly to be a mutualistic relationship.
+
+So that's symbiotics, different forms of symbiotics.
+
+In those symbiotics, this is perhaps the most interesting example.
+
+That's where one organism lives inside the cells of another.
+
+Does anybody know of any kind of modern-ish examples of this?
+
+Where you might get this, where two organisms are living that intimacy close
+
+together.
+
+Yeah.
+
+Mactocondria we're going to come on to, but yeah, that is very true.
+
+Any other examples?
+
+More recently evolved examples.
+
+Bacteria in our bodies?
+
+Bacteria in our bodies.
+
+Bacteria in our bodies, but they're not living inside our cells normally though.
+
+They're living in our body, but not inside our cells.
+
+Anybody ever been to Australia on a holiday?
+
+No, not many.
+
+You've all heard of the Great Barrier Reef, haven't you?
+
+I'm guessing.
+
+Corals.
+
+Coral is an example of a photosynthetic organism,
+
+which actually lives inside the cells of non-photosynthetic organisms.
+
+That's a modern example of endosymbiosis.
+
+There are a few others as well.
+
+For example, there are some green slugs you get,
+
+where the slugs will take out algae, and the algae will live inside the slugs.
+
+Duncan has been able to talk to you about a paramecium that he works on.
+
+A paramecium is a single-celled organism with lots of flagella around the
+
+outside.
+
+There are species of paramecium which have algae living inside them.
+
+He's interested in the symbiotic relationship between them.
+
+Had he been well enough to be his thing, he would have told you about that.
+
+Unfortunately, it's not my area of expertise.
+
+I don't know about stories, I will.
+
+Now, this woman here is one of my scientific heroes,
+
+Lynn Margulis.
+
+What my scientific heroes often have in common is the fact that when they come
+
+up with ideas,
+
+everybody says, no, you're talking rubbish.
+
+She had the added problem that she made a fatal mistake in 1960s, 1970s science
+
+of being a woman.
+
+So she came up with a brilliant idea, everybody said, no, you're talking
+
+rubbish, you're a woman.
+
+Fortunately for science, not everybody was that prejudiced, and her views did
+
+eventually win over.
+
+So she was the first person to come up with this idea that this could have been
+
+an important...
+
+the endosymbiosis, so the endosymbiotic hypothesis,
+
+is considered to be one of the key stepping stones in the evolution of life,
+
+of the appearance of these more complicated cells.
+
+So this is a cartoon of a new pair of cells, and it differs in complexity from a
+
+prokaryote.
+
+Can anybody tell me what this blue structure here is supposed to be?
+
+A nucleus.
+
+A nucleus, exactly.
+
+So this is a nucleus. So it's different to bacteria.
+
+So bacteria have DNA, but they have DNA floating around in the cell.
+
+It will be bound to proteins, it will have some kind of structure to it, but
+
+broadly it's just sort of in the cell.
+
+A eukaryote is wrapped in a membrane.
+
+You also have these other sort of membranes, these really complicated folding
+
+membrane structures here.
+
+Anybody know what I wrote any of this about?
+
+Endoplasmic reticulum.
+
+You've got the endoplasmic reticulum.
+
+This is important for synthesizing proteins, so you have what's called the rough
+
+ER,
+
+which has got ribosomes bound to it, which is making proteins.
+
+The other structure is called the colony body.
+
+What about these ones here, what are they?
+
+Microchondria.
+
+Microchondria.
+
+And the green ones?
+
+Chloroblasts.
+
+Chloroblasts, yes.
+
+So, and collectively we call these things organelles.
+
+And you compare them to a bacteria, so bacteria will have internal membranes.
+
+This is an example of a sort of filamentous cyanobacteria.
+
+You can see these lines here are called membranes, so these are membranes.
+
+So they do have internal membranes.
+
+So these bits here are special, but they're not that special.
+
+You don't get quite this in bacteria, you get similar sort of things.
+
+But what was noted about these, and what particularly this has got, what
+
+Margolis' observations were,
+
+if you look at these two organelles, this sort of neutron nucleus,
+
+if you look at the mitochondria, and I've given it a more general name, Plastid,
+
+but this really means Chloroblast.
+
+We call it Plastid because in some farm cells they're no longer doing
+
+photosynthesis.
+
+You get examples of it to do other jobs as well as photosynthesis.
+
+For example, in the roots, one of the ways in which plants know which way is
+
+down
+
+is if they have a mollified Plastid which can sense gravity.
+
+And that's why roots grow down, for example.
+
+So Plastid is a generic name, Chloroblast is an example of a Plastid.
+
+They have traits, they have characteristics which make them particularly
+
+special.
+
+Does anybody know what those traits will be?
+
+Things that gave Margolis the idea that these might have evolved via an organism
+
+living inside another organism.
+
+Double membrane.
+
+Double membrane, yes.
+
+How did that come about?
+
+How do you get a double membrane? Why would that be a clue?
+
+So you've got a cell, you've got the third cell, the smaller cell, which had a
+
+membrane around it,
+
+and then the bigger cell comes on and engulfs it and sort of pulls it inside.
+
+As it pulls it inside, it wraps it in a second membrane.
+
+So you end up with a structure which has got two membranes.
+
+And they're chemically distinct, they have different lipids in them, they're
+
+recognisably different.
+
+One is coming from the endosymbiont and one is coming from the host cell.
+
+Something else about these structures, the Plastids and the mitochondria,
+
+they give away the fact that they evolved from endosymbiosis.
+
+Yes?
+
+They've got DNA, it will circulate DNA, they have their own DNA, their own
+
+genomes.
+
+They've also got their own ribosomes, they're able to make proteins.
+
+So, some point in evolutionary history, around two and a half billion years ago,
+
+we had a cell which engulfed another cell, but instead of digesting it, they
+
+formed a stable relationship.
+
+The smaller cell persisted inside the bigger cell,
+
+and then over millions of years that evolved into being a mitochondria.
+
+Where did it come from? So what were those cells?
+
+So this is, if you like, the tree of life. I don't know if I can show you this
+
+diagram, if you can use this version of it.
+
+This is basically all the big groups of plants. So we've got the cell of life.
+
+So we've got the bacteria here, which we divide into gram plus and gram minuses,
+
+don't worry about that.
+
+We have the archaea here, and as you can see, these branch quite early on in
+
+evolutionary history.
+
+You get that separation into two pathways. So you have Luca would be here,
+
+Luca separates out into these two lineages, the archaea and the bacteria, and
+
+they evolve different traits.
+
+Around here, we have the eukaryotes. So we have the animals here, the fungi
+
+here, and the plants are here.
+
+Well, the things with passage are here, collectively. The plants, specifically,
+
+are there.
+
+But if you look at where they come from, if you trace them back through the
+
+tables,
+
+you'll see that the branch point is branching from the archaea.
+
+So we try and reconstruct their evolutionary histories.
+
+We could say they are more similar to the archaea than they are to the bacteria,
+
+so they've evolved from the archaea.
+
+But it's not quite that simple.
+
+For example, you remember I said photosynthesis evolved inside of bacteria.
+
+Chloroplasts do photosynthesis. They do oxygenic photosynthesis. They have two
+
+photosystems. They mate oxygen.
+
+So you can conclude that the chloroplasts evolved from the cyanobacteria.
+
+It has traits in common with the cyanobacteria.
+
+So, in other words, although the outer part of the eukaryote probably evolved
+
+from the archaea,
+
+the inner part, as mentioned in this already, evolved from the bacteria.
+
+And we can say that about the mitochondria as well. We can look at the traits in
+
+the mitochondria.
+
+We can look at the traits in the bacteria. We can look at the genes that they
+
+possess.
+
+And we can conclude that they evolved from the bacteria.
+
+So we can't say that eukaryotes came from archaea or that they came from
+
+bacteria, because they actually came from bone phobias.
+
+It was archaea cells, or some type of archaea-like organism,
+
+which was engulfing bacteria and then forming a stable relationship with them.
+
+We really don't know what that organism was.
+
+So if we look at modern archaea, they can't do phagocytosis. They don't have a
+
+mechanism.
+
+There is no modern archaea which is capable of doing phagocytosis, which could
+
+have been the ancestor of the eukaryotes.
+
+Except for there is evidence from some deep sea vents in the North Sea,
+
+somewhere around Iceland, somewhere on the North Atlantic, or somewhere near the
+
+Baltic coast of Norway.
+
+This structure is a hot spring in the bottom of the ocean called Loppi's Castle.
+
+So it's named after some Japanese cartoon, I think, or something like that.
+
+But these deep sea vents have some really fascinating sets of communities of
+
+organisms.
+
+They're very, very different from anything we see in the rest of the world,
+
+really.
+
+And there is evidence from this particular one off the coast of Norway of an
+
+organism which goes by the name of Loppi archaeota,
+
+which appears to have traits which are moving it in the direction of being able
+
+to do phagocytosis.
+
+It's not clear that it can do phagocytosis, and I don't think anybody has run
+
+into culture or land yet,
+
+because they haven't properly found it.
+
+It's based on sending probes down, collecting samples, and then just looking at
+
+DNA sequences.
+
+But there is evidence that the ancestor of the eukaryotes might have been
+
+something rather like Loppi archaeota.
+
+Okay, so we've got, then, this sort of relationship with vowels.
+
+What then happens over time is that the bacteria, the endosymbiont, the
+
+bacteria, start losing some of its genes.
+
+So some of the genes get transferred from the mitochondria to the nucleus of the
+
+bigger cell.
+
+So they're losing control.
+
+But the relationships have less remains, so they're dependent, they become
+
+dependent.
+
+So you couldn't take the mitochondria out of the cell and culture it on its own
+
+and allow it to live.
+
+The example I gave you of the organism that the dunk works on, the paramecium,
+
+you have a paramecium and you have an alder, and they can be separated and they
+
+can be brought back together.
+
+It's a reversible relationship.
+
+But in terms of mitochondria, they can't, mitochondria and chlorophytes, they
+
+become completely dependent.
+
+But there's a really complicated relationship between them, we don't fully
+
+understand.
+
+So the organelle tells the nucleus what it wants, what it needs in the world,
+
+proteins and the nucleus.
+
+But you also get signals going the other way, where the nucleus will tell the
+
+organelle what it wants.
+
+You have the organelle which is feeding the host, and you have the host feeding
+
+the organelle,
+
+because it's providing it with, for example, minerals and the building, the
+
+physical building blocks.
+
+So the organelle is doing lots of energy processing, so it's making ATP in the
+
+case of mitochondria.
+
+It's supplying something to the cells.
+
+So effectively, they become a completely interdependent endosymbiotic
+
+relationship.
+
+And the idea is that if you look at all mitochondria, and you look at the
+
+sequence of mitochondria that exists today,
+
+and you do what's called a phylogenetic tree, which is kind of that diagram I
+
+showed you before,
+
+you look at how related they are to each other based on the similarities of
+
+their DNA,
+
+you come to the conclusion that all mitochondria came from one single event.
+
+So the first event would be an organism without, so an archaea and dogs of
+
+bacteria to make the first mitochondria.
+
+That then diverged into a wide range of different organisms.
+
+One of those lineages then did the same thing again with the cyanobacteria.
+
+So you then get a cell which has got a mitochondria and a cyanobacteria.
+
+So it's got a mitochondria and a chloroplast.
+
+And we think it probably happens that order.
+
+The other option would be you had to get it to happen the other way around,
+
+then something would have had to loom its chloroplast base.
+
+And that's not impossible, but it's not the simplest, it's a sort of applying
+
+-optimum-territor.
+
+We look for the simplest explanation, so we suggest that it happens that order.
+
+First you get an organism with a mitochondria.
+
+That early eukaryote then engulfs a cyanobacteria to make the first algo.
+
+So we can draw it out as a sort of phylogenetic creature.
+
+You have that first event that produces the last eukaryotic common ancestor,
+
+and then that diverges into different lineages.
+
+And amongst those, we can divide these up into the unicons,
+
+things with one flagella and the bitons, things with two flagellas.
+
+Don't worry too much about that.
+
+Flagellas are these sort of tails of cells that allow them to swim.
+
+Importantly, these ones evolve into the animals and the fungi,
+
+and these ones evolve into the plants.
+
+So early on we get the separation of these two lineages.
+
+The animals and the fungi are more closely related to each other than either is
+
+the plant.
+
+So in terms of scientific history, if you go back 150 years,
+
+when botany was first invented as a scientific field,
+
+people thought that fungi were kind of the plants.
+
+That was actually, if you talk about Linnaeus, for example,
+
+Linnaeus classified the fungi as being closer to the plants than they were to
+
+the animals.
+
+That's actually completely wrong.
+
+The fungi are much closer to the animals than they are to the plants.
+
+The plants are quite distinct and separate.
+
+Okay, how much time have we got left? Just a minute.
+
+The way we can tell that is because, amongst other things,
+
+there's the fact that you get, in all of these organisms,
+
+there's a characteristic three proteins which get fused into a single gene,
+
+and there's a different fusion in plants where two proteins can be fused into a
+
+single gene.
+
+And I think there's relatively unlikely things to happen.
+
+We think the fact that we see these, these are present in both animals and fungi
+
+and in the absence of plants.
+
+These are present in plants and absent in animals and fungi.
+
+That's the kind of the sort of evidence we use to say that was the relationship
+
+between these groups.
+
+But the animals and fungi are more closely related.
+
+Macro and neglected for two hours in a row.
+
+Just to finish then.
+
+Another trait that was evolving in eukaryotes.
+
+So eukaryotes have evolved into complicated cells.
+
+They're able to get bigger.
+
+And the fact you have mitochondria now means you can get, or chloroplasts,
+
+means you can have it even bigger.
+
+Because in a simple cell, you have one nucleus that produced one set of proteins
+
+that made ATP.
+
+If you have mitochondria, you are multiplying the number of genomes you have.
+
+So rather than having one copy of the genome to make energy,
+
+you've got lots and lots of copies of it because you have lots of mitochondria,
+
+which means you can make even more energy.
+
+So they're much more energy efficient, much more efficient at extracting energy
+
+from their food.
+
+So they're better able to grow.
+
+They can get bigger.
+
+They can get more complicated.
+
+You start seeing the appearance of, as you've already heard about from Rob,
+
+you start seeing the appearance of multicellular life.
+
+But before we get there, it also creates some complications for the cells.
+
+Because the other thing that appeared in eukaryotes is the appearance of this
+
+thing, the nucleus.
+
+And we have a change in the structure of DNA.
+
+So rather than from having, in a bacteria, you have one single circle of DNA.
+
+In eukaryotes, you have usually multiple chromosomes.
+
+So you have, they tend to be linear molecules of DNA.
+
+That's not so important.
+
+But the important thing is there are multiple ones of them.
+
+So you get, you know, how many have we got?
+
+Do you know of chromosomes, anybody?
+
+23 pairs, exactly.
+
+Or 46, so 23 pairs.
+
+That created some problems for cells.
+
+Because the way that cells have been divided before,
+
+bacteria, for example, or archaea,
+
+they have this sort of budding mechanism whereby they'll copy the genome,
+
+they'll separate it out into two cells, the two cells will bud off,
+
+and then you'll get two daughter cells, which are separated.
+
+As your cells get more complicated,
+
+you have to have more complicated mechanisms for separating the DNA
+
+to make sure that both of the daughters,
+
+you've got one genome, it's relatively simple, right?
+
+You make a copy of it, one goes one way, one goes the other way.
+
+The worst that can happen is they both end up staying in the same place,
+
+and then one of the daughter cells will survive.
+
+Often you'll have, it's a little bit more complicated than that,
+
+because you can usually actually produce four,
+
+but in most cases it's just producing two cells.
+
+In eukaryotes you need more complicated mechanisms,
+
+and I'm not going to go into all the details of this.
+
+Many of you will have learned about this before.
+
+Some of you, if you haven't done any biology, maybe this is something you do.
+
+There will be notes and sections about the detail.
+
+When I was a student, I had to learn all of these different steps,
+
+prophase, metaphase, anaphase, and telophase.
+
+You had to learn all the steps that were happening in this prophase.
+
+All I really want you to know is that mitosis is a way in which cells can divide
+
+so that they share out the DNA evenly,
+
+so that if you have, say, 23 chromosomes,
+
+you want to make sure that one copy of each of those chromosomes is going to
+
+each daughter cell.
+
+You want to make sure that both of your daughter cells have the same component
+
+of DNA as the parent cell has,
+
+and it requires quite complicated structures evolving in the cell that allow
+
+that to occur.
+
+You have to break down the nuclear membrane, so the nucleus disintegrates.
+
+You get the condensing out of the chromosomes,
+
+so the chromosomes, rather than all being jumbled up in the cell,
+
+become these distinct structures, which are visible down a microscope.
+
+They then arrange themselves on this what's called a sphingle,
+
+so it's a protein scaffold that forms in the cell,
+
+and then they get separated out.
+
+Really quite complicated process.
+
+But it was, if you like, the precursor to another important evolutionary step,
+
+which was the appearance of sex, sexual reproduction.
+
+Now, I've already talked about lateral gene transfer,
+
+and this is how we think that the bacterial,
+
+the two different types of bacterial reactions that came together in a single
+
+cell to form a kind of bacteria.
+
+But if you look around the bacteria,
+
+we do find they're really quite promiscuous about how they exchange DNA.
+
+So they will just take up DNA from their environment.
+
+There will be bacteriophages, so viruses, which move DNA from one cell to
+
+another.
+
+But they also have primitive methods for moving DNA between cells,
+
+so you can get swapping of DNA between cells,
+
+but it's really not that sophisticated compared to what you see in eukaryotes.
+
+So it's a thought of a little bit like sex, but not quite sex.
+
+But what you evolved in eukaryotes is this process.
+
+You evolved the process of meiosis.
+
+And why is this important?
+
+Well, what is sex?
+
+What is sexual reproduction, and what distinguishes it from just binary vision?
+
+I think that was a stretch and not an arm.
+
+What's important?
+
+Why is sex important in our evolution and in our health as a species?
+
+It needs genetic variation.
+
+It basically mixes up genes from different individuals.
+
+So when you go through sexual reproduction,
+
+you take a set of chromosomes from one parent and a set of chromosomes from
+
+another parent,
+
+you mix them together, you juggle them up,
+
+and depending on exactly where you are in evolution, you may then separate them
+
+out again.
+
+We'll come back to that in a later lecture.
+
+But essentially, you have a mechanism by which you shuffle DNA all the time.
+
+Why is that important?
+
+It's important because it opens up new ways for evolution to occur,
+
+because you can bring genes together.
+
+If individual A has got one particular gene sequence,
+
+and individual B has got another gene sequence,
+
+you can bring them together, swap them over,
+
+put them in different combinations,
+
+and find new solutions to the new evolutionary answers, should we say, problems.
+
+So in terms of driving evolution, this would be a massively important step.
+
+Again, I don't want you to learn the details of meiosis.
+
+If you want to read about it, any biology textbook will tell you about it.
+
+But the important point is, meiosis is a mechanism by which
+
+half of the DNA from a cell goes in one direction,
+
+and half of the DNA from the cell goes in another direction.
+
+You produce two cells, which you end up, they then come back together again,
+
+and you produce cells which have a mixture of DNA from two different parents.
+
+So it's an evolutionary pathway by which you can shuffle DNA.
+
+And that really, so you've got the appearance of oxygen in the atmosphere,
+
+which leads to the evolution of bigger cells, more complicated cells.
+
+Those bigger cells and more complicated cells have to evolve more complicated
+
+ways of doing cell division,
+
+so they have to evolve meiosis,
+
+but they also evolve even more complicated cell systems,
+
+which is mitosis, first of all, simple sharing out of big sets of DNA.
+
+But then those structures are the basis on which they're able to come up
+
+with this even more complicated form of cell division called meiosis,
+
+where you can separate out chromosomes between daughter cells,
+
+you can produce daughter cells which are not,
+
+which can then combine with other cells from other individuals
+
+and bring DNA together that wouldn't naturally mix.
+
+And that really is the basis of the evolution of eukaryotes,
+
+which is what Rob has already started talking about,
+
+or what we're going to be talking about for the rest of this semester.
+
+Any questions?
+
+Okay, so the slides are available on Blackboard.
+
+There's some further reading which allows us, particularly in textbooks today,
+
+which I think you should all have access to, hopefully.
+
+It's one we recommend for reading.
+
+I think you should have access to a digital version of today,
+
+but I hope it's not all live.
+
+So these are the particular chapters that relate to stuff I was talking about,
+
+particularly in the second half of this.
+
+There's also some things on Blackboard you might,
+
+particularly in scientific lanes,
+
+at the University College London,
+
+you send quite a lot of pop signs,
+
+but also quite a lot of interesting research about theories about eukaryotes.
+
+There's a good video up here.
+
+Again, links on Blackboard.
+
+These are the Facebook messages.
+
+Facebook messages are the things that you're learning out from your lectures,
+
+because that's how you say it in class, for example.
+
+And I'd like to see you next week.
+
+I just wanted to say something about that.
+
+That's just what it is.
+
+Because everyone's getting paid from week 6.
+
+Right, yeah, that's good.
+
+In times over time, it's precious.
+
+I've worked with the University for a long time, if I can remember,
+
+and week 1 had always been the first week of teaching,
+
+until about two years ago,
+
+when they randomly changed to the time they used to be.
+
+So yeah, it's the...
+
+We teach in week 4 of the month, or times over week 5.
+
+So it's not meant to be a week after.
+
+It's only like one day.
+
+It's two days, for example.
+
+It's not the entire week.
+
+Yeah, I don't...
+
+I'm not really teaching this year,
+
+so I haven't really been involved in that.
+
+Well, to give you a more modern example,
+
+think about how the computer works.
+
+In northern hemisphere, you've got a ring around the pole,
+
+which means that there's not very good swirl water around the pole,
+
+which is why the cold weather gets there very well,
+
+which is why it's called the cold, which is where you might have to go.
+
+In the southern hemisphere, the southern hemisphere,
+
+well, you've got a dark zone there,
+
+which is a big one,
+
+and a single community has two poles, frozen poles.
+
+So that's an example of modern space.
+
+I think when you've got a snowball earth,
+
+you tend to need to get kind of rings of continents around the equator,
+
+which is, again, this is not really my area.
+
+You need to probably put a mirror on the floor or something like that,
+
+but it's to do with the fact that because the continents necessitate water,
+
+the currents can't move as well.
+
+That's very interesting.
+
+Yeah, thank you.
+
+Can I just double-check?
+
+Is it type one and the type two?
+
+Type one is the electron acceptor, or...?
+
+Well, they're both acceptors and donors.
+
+Type one is the one which gives the electrons.
+
+So type two is the electron, type two is the one...
+
+We're kind of...
+
+The reason they're numbered like that is sort of an accident discovery.
+
+They were discovered in that order.
+
+They were described in that order.
+
+Ah, okay.
+
+Sorry, I'll try and check that up and see if I can find it then.
+
+It may have been taken down in that case.
+
+I'm sorry, I just wondered, where can I find the optional test?
+
+Erm...
+
+It's on this page, but I can't find the link.
+
+Hang on.
+
+Sorry, I'm trying to work it out and log out.
+
+Okay.
+
+Erm...
+
+Ah, that's good.
+
+I'll check with that.
+
+I'll have to check that because it should be there visible on blackboard if it's
+
+not.
