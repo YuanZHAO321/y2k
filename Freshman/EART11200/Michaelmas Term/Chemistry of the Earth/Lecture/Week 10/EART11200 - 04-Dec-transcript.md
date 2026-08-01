@@ -1,0 +1,1789 @@
+---
+title: "EART11200 - 04-Dec-transcript"
+source: "Freshman/EART11200/Michaelmas Term/Chemistry of the Earth/Lecture/Week 10/EART11200 - 04-Dec-transcript.txt"
+type: transcript
+---
+
+'EART11200 - 04-Dec', automated transcript
+01/08/2026
+---
+
+All right, good morning.
+
+Well done for making it out.
+
+The semester's getting long, and we're
+
+coming towards the end of it, so well done.
+
+Just to remind you, next week there is no 9 o'clock lecture.
+
+You should have received an email about that.
+
+Did you get that email that I sent?
+
+Can you raise your hand if you remember getting an email that
+
+says there's no lecture next week from me?
+
+No?
+
+Ah, OK.
+
+I'll send it out again.
+
+It should have come from the Blackboard system.
+
+I think I sent it either the same Wednesday
+
+last week or Thursday, so it would
+
+have been a little while ago.
+
+But I'll send it out again.
+
+But just so that you know, next week there's no lecture,
+
+but there will be the practical.
+
+But because there's no lecture, we
+
+can start the practical at 10 rather than 10 past 10.
+
+So next week, meet at 10 in the practical room
+
+in the engineering building.
+
+I will send that message out again, especially
+
+since it hasn't arrived.
+
+So next week, what we'll do is I have a quick quiz,
+
+just a sort of a test to see what
+
+you remember about the structure of the periodic table.
+
+It's just for fun, and it's also just
+
+so that you can gauge how much you already remember and know.
+
+In terms of reviewing for the exam, which is in January,
+
+I don't think we've had the dates of the exams yet,
+
+have we?
+
+No.
+
+But it'll be in the exam period in January.
+
+So in terms of reviewing for the exam,
+
+there's a couple of things you can do.
+
+Next week in the practical session, while I'm talking,
+
+I might as well put the seats thing back up.
+
+Hold on, since lots of people are just coming in.
+
+So next week in the practical session,
+
+you can just bring any questions you've
+
+got about any of the practicals that we've
+
+done all through the semester or the lectures.
+
+If there's something that's really bugging you
+
+that you don't understand or you missed a practical
+
+and wish you could have caught up on it, whatever,
+
+we will all be there, and it'll be like just a workshop where
+
+you can bring your own questions and problems and so on.
+
+So take advantage of that next week.
+
+That'll be from 10 till 12 in the practical session.
+
+The other thing for the exam, for the midterm test,
+
+I gave you a quiz that you could take just
+
+to help you revise the lecture content.
+
+And I'll do the same thing for the second part
+
+of the semester.
+
+There won't be a new one for the first part of the semester,
+
+but there will be one for the second part of the semester.
+
+That's not ready yet, but I will do it.
+
+We'll get it up for you, hopefully, before next week,
+
+before the end of next week.
+
+So use that as a guide to refresh the lecture material.
+
+The practical material is all in your practical books.
+
+If you can do the stuff in the practical workbooks,
+
+then you'll be in good shape for the exam.
+
+So like I say, take advantage of next week
+
+as a review session where you can just
+
+sort of fill in any gaps that you have
+
+or go over things that you didn't
+
+understand in the first place.
+
+And next week, I'll talk about the structure
+
+of the exam, which is basically similar structure
+
+to the midterm test.
+
+It's an online exam that has the same kind of questions in it.
+
+So I'll talk a bit about that next week as well.
+
+So do come next week starting at 10 in the engineering building.
+
+So today, our last topic is about radioactive isotopes
+
+and how we can use them to determine
+
+the age of a system in geochemistry.
+
+So part one, which we're going to start with,
+
+is about radioactive decay in general.
+
+And our objectives today, we're going
+
+to think about what the age of a rock actually means,
+
+because it's not always obvious.
+
+We're going to look at how radioactive isotopes decay
+
+and understand how we use them to determine the age of a rock.
+
+And this is the field of geochronometry.
+
+So geo means rock, chronometry time.
+
+And we're also going to look at which elements
+
+and which isotopes are useful as geochronometers
+
+and why that's the case.
+
+So here's some reading.
+
+So we'll start off by thinking about what we mean when
+
+we talk about the age of a rock.
+
+And for an igneous rock, it's quite simple,
+
+because an igneous rock is melted,
+
+and then it crystallizes from that melt.
+
+It solidifies.
+
+So something like an eruption of a basalt, we might say,
+
+well, we know when that happened.
+
+It happened 10 years ago.
+
+This rock is 10 years old.
+
+We can say its age is 10 years.
+
+It's like a child is 10 years old.
+
+And the rock formed 10 years ago.
+
+Those are all equivalent statements.
+
+And that might seem really trivial,
+
+but it's quite an important thing just
+
+to sort of have an anchor when you're
+
+thinking about the age of a rock and other circumstances.
+
+So if we see an eruption, we know exactly when the time was.
+
+But if we have to measure the time,
+
+then we have to think about what that time actually
+
+means when we measure it.
+
+So if we have a different kind of igneous rock,
+
+maybe an erupted lava that happened a long time ago,
+
+or an intrusive igneous rock like a granite,
+
+when we talk about the age, we're
+
+talking about the time when that rock cooled and solidified.
+
+That's quite a straightforward concept.
+
+So this is a granite in Yosemite National Park,
+
+very famous half dome.
+
+And we could, for example, I'm not
+
+saying that this rock is this age,
+
+but for example, we could say that this rock
+
+is 100 million years old.
+
+So we would write that as MY million years.
+
+And we would write the statement,
+
+the rock is 100 MY old.
+
+But we could also say that the age of the rock
+
+is 100 million years.
+
+And we would write that as 100 MA, or 0.1 giga annum.
+
+So A is annum, or years.
+
+M is 1,000.
+
+G is a billion.
+
+So these are equivalent statements.
+
+We could say the age is 0.1 GA.
+
+So you read that as the rock is 0.1 billion years old.
+
+So this terminology of using the MY or GA,
+
+it means that you read it slightly differently.
+
+So igneous rocks is quite easy.
+
+You've got a melted volume, and you cool it down,
+
+and you say when that happened.
+
+If we talk about a metamorphic rock,
+
+then when we talk about the age, we
+
+have to be very specific, because we are usually
+
+determining the age when a particular mineral formed
+
+in that rock.
+
+So metamorphic rocks are rocks that maybe
+
+have been buried very deep.
+
+And as they get buried, the pressure and temperature
+
+increases, and the different minerals recrystallize.
+
+They change.
+
+The mineral assemblage changes.
+
+So for example, we might get garnet growing
+
+as we increase in pressure.
+
+But then that rock has been brought back up to the surface.
+
+And as it comes back up to the surface,
+
+the thermodynamics will determine
+
+the stable mineral phases.
+
+We've talked about how you can use phase diagrams
+
+to show which minerals are the most
+
+stable at a particular temperature and pressure.
+
+And because metamorphic rocks have undergone
+
+this whole journey in pressure and temperature,
+
+but that has happened over a very long period of time,
+
+we might need to specify that we're measuring
+
+the age of the garnet in that rock,
+
+or the biotite in that rock, because those minerals formed
+
+at a different time on that path.
+
+And they could have formed millions
+
+of years different in time.
+
+So we can't just say there's one age for a metamorphic rock.
+
+The same is true of a sedimentary rock,
+
+because a sedimentary rock consists of lots of grains.
+
+If you think about the formation of a sedimentary rock,
+
+you weather mineral grains from the mountains.
+
+You wash them down into a river, maybe.
+
+You transport them to the ocean.
+
+And then you build up the rock from the sediment in the ocean.
+
+But all those individual grains, they
+
+grew originally when the mountain formed.
+
+They could be igneous rocks from the mountain.
+
+And the grain was formed at that time.
+
+So you could measure the age of the individual grains
+
+in the sedimentary rock.
+
+But they would be telling you the time
+
+when the mountain formed, not when
+
+the sedimentary rock formed.
+
+So what you can do if you want to know
+
+when the sedimentary rock formed
+
+is you can measure the age of the matrix that's
+
+binding those grains together.
+
+So in this example here, I think these
+
+are carbonate grains, or carbonates and quartz grains.
+
+But there's the matrix in between this dark brown stuff,
+
+which is binding everything together.
+
+So as an example of that, this is the Jack Hills rock
+
+formation in Australia.
+
+It's very famous because the rock itself, most
+
+of the grains in it are 3 billion years old.
+
+And that very, very ancient age for a sedimentary rock
+
+is important because it shows that these sedimentary
+
+processes were taking place a very long time ago.
+
+But within this rock, we find individual grains
+
+of the mineral zircon.
+
+They're tiny.
+
+That's 250 microns, which is a quarter of a millimeter.
+
+But when we measure the age of these individual grains
+
+of zircon, we find that they're 4.4 billion years old.
+
+And that's the very oldest stuff that formed on the Earth,
+
+basically, after the Earth formed.
+
+So that's incredible because those zircons formed perhaps
+
+in an igneous rock.
+
+But then over a billion years later,
+
+they got trapped into this sedimentary rock.
+
+And the sedimentary rock is now exposed.
+
+And we're able to measure the age of these very, very ancient
+
+grains.
+
+So when we're talking about geochronology,
+
+hopefully you can see that context is very important.
+
+And we need to understand not just,
+
+we don't just say this is the age of a rock.
+
+We have to think about what that means.
+
+So to get into the nitty gritty of radioactive isotopes,
+
+these are isotopes that undergo natural radioactive decay.
+
+And that's happening all around us all the time.
+
+The rocks we walk around on, there
+
+are radioactive elements that are decaying.
+
+They're in very small amounts, so they're not dangerous
+
+usually.
+
+But you might have heard, for example,
+
+of people who live in Cornwall on granite,
+
+where there's a lot of radon is produced
+
+as a result of radioactive decay of uranium.
+
+And it's only very small amounts of that,
+
+but it's enough radon that it builds up.
+
+And it's a natural process.
+
+So this is the chart of the nuclides,
+
+which I've shown you before.
+
+It's a chart where on the x-axis we've
+
+got the number of neutrons, and on the y-axis
+
+we've got the number of protons.
+
+So as we go up vertically, we're increasing the atomic number.
+
+So we're going down the periodic table
+
+from hydrogen to uranium.
+
+So in this chart, and we've seen this before,
+
+the black squares are stable isotopes.
+
+So if you have that isotope, it's going to sit there.
+
+That atom is never going to change.
+
+It's fixed forever.
+
+Whereas the ones that are colored are radioactive.
+
+So if you remember back to the first lecture
+
+when we talked about nucleosynthesis,
+
+we talked about how we can add neutrons onto atoms,
+
+and they will change the atomic mass of an atom.
+
+So for example, if we took an element that was here
+
+and we added neutrons onto it, we would go in this direction.
+
+But all of these isotopes are not stable.
+
+They're unstable.
+
+So as they then decay, they move back
+
+towards the center of the chart, the black squares,
+
+until they become a stable isotope.
+
+So this is exactly the same chart,
+
+but it's a bit simpler.
+
+But the only thing about it is it's flipped.
+
+So on this chart, the number of neutrons is on the y-axis,
+
+and the number of protons is on the x-axis.
+
+So this is where we're going from hydrogen up to uranium
+
+in this direction.
+
+So what this shows is that the most common types
+
+of radioactive decay are alpha and beta decay.
+
+So you can see that marked on the chart.
+
+So again, black is stable isotopes.
+
+And what it's showing you is things that are blue
+
+are decaying by beta minus decay.
+
+Orange is decaying by beta plus,
+
+and yellow is decaying by alpha decay.
+
+And the processes are shown in this chart here.
+
+So if we start with a particular atom
+
+and we decay by alpha decay,
+
+we move two down and two to the left.
+
+If we decay by beta plus decay,
+
+we go up one and across to the left.
+
+If we decay by beta minus decay,
+
+we go down one and over to the right.
+
+So that's sort of a visualization of what's happening
+
+when elements naturally undergo decay.
+
+So let's look at these in a little bit more detail.
+
+So alpha decay is where we lose something
+
+called an alpha particle.
+
+An alpha particle consists of two protons plus two neutrons,
+
+and that's exactly the same thing as a helium four nucleus.
+
+So basically we can think of alpha particles
+
+as a helium atom or helium nucleus to be more precise.
+
+So this is what's happening.
+
+We have an atom that's not happy
+
+because it's been overloaded with too many neutrons
+
+and it spits out an alpha particle just spontaneously.
+
+So here's an example.
+
+This is plutonium 240.
+
+So 240 is the isotope.
+
+This is the atomic mass, 240,
+
+and the atomic number of plutonium is 94.
+
+So if it loses an alpha particle,
+
+then we're going to change the atomic mass from 94 to 92
+
+because we've lost two protons.
+
+And we're going to, sorry, the atomic number,
+
+I think I got that wrong.
+
+The atomic number changes from 94 to 92
+
+because we've lost two protons.
+
+The atomic mass changes from 240 to 236
+
+because we've lost two protons plus two neutrons,
+
+a mass of four.
+
+So overall, the atomic mass decreases by four,
+
+the atomic number decreases by two.
+
+So beta minus decay is another common decay pathway.
+
+So in this, we have an atom where one neutron
+
+in the nucleus suddenly decides to split itself
+
+into a proton and an electron.
+
+So this is called beta minus
+
+because the particle that is emitted
+
+is equivalent to an electron, the beta minus particle.
+
+So basically what's happening is the neutron
+
+turns into a proton and spits out an electron.
+
+So that's illustrated here.
+
+Carbon-14 consists of six protons and eight neutrons.
+
+The protons are yellow, the neutrons are orange.
+
+And if you look at this neutron here at the bottom,
+
+what's happening is we spit out a beta minus particle
+
+which changes that neutron into a proton
+
+and here's our electron that's been spit out.
+
+So what's happened here is we've changed a neutron
+
+into a proton so we've increased the atomic number
+
+because we've gone from six to seven protons.
+
+But the total mass hasn't changed
+
+because that one particle only changed its charge
+
+from neutral to positive.
+
+It didn't change, no actual mass was lost.
+
+The opposite of that is beta plus decay
+
+and this is where a proton turns into a neutron
+
+and a positron.
+
+A positron is like an electron but it's positively charged.
+
+That's my understanding of it.
+
+So basically it's the opposite of what we just talked about
+
+and the proton turns into a neutron.
+
+So here we've got carbon-10 and which proton,
+
+this proton here at the top is undergoing a change.
+
+It's becoming a neutron and it's spitting out a positron.
+
+So what's happened here is the atomic mass stays the same
+
+because we've got a total of 10 particles in the nucleus
+
+and the atomic number is decreasing by one.
+
+We've gone from six to five protons.
+
+So there's one other mechanism which is electron capture
+
+which has the same net effect as beta plus decay
+
+and that's where we take a nucleus
+
+and we add an electron to it.
+
+So in this case we've got carbon-11.
+
+We're taking this proton here, adding an electron
+
+so that the charge neutralizes and it becomes a neutron.
+
+So we've got proton plus electron gives neutron
+
+plus neutrinos and gamma rays.
+
+Those are sort of massless particles
+
+that are being emitted.
+
+So we go from six protons, five neutrons
+
+to five protons, six neutrons.
+
+So again, we haven't changed the mass
+
+but we have decreased the atomic number by one
+
+and that's exactly the same overall effect
+
+as the beta plus decay on the previous slide.
+
+So those are the mechanisms.
+
+The only thing I also want to mention is gamma
+
+which if you know about radioactivity
+
+you'll know there's alpha, beta and gamma radioactivity.
+
+Gamma rays are not particles.
+
+They're light wavelength.
+
+Their light are very short wavelengths, very high energy.
+
+So gamma decay doesn't really affect,
+
+it doesn't affect the isotopes.
+
+It doesn't affect the mass, the atomic mass
+
+and it doesn't affect the atomic number.
+
+So it's not of so much interest in geochronology
+
+because what we were interested in is radioactive decay
+
+that changes isotope ratios in a given element.
+
+So gamma decay is basically,
+
+if you start with plutonium 240 and you lose a gamma ray
+
+you've still got plutonium 240.
+
+And this is just a nice illustration of the fact
+
+that an alpha particle, because it's very heavy
+
+and has a lot of mass, you can stop it with a piece of paper.
+
+So if somebody's firing an alpha particle gun at you,
+
+just hold up a piece of paper.
+
+If somebody's holding a beta particle gun at you,
+
+get your lunchbox out and hold up a piece of aluminium foil.
+
+But if somebody's firing a gamma ray gun at you,
+
+get behind a lead wall because those things are very tiny,
+
+that is light particles basically
+
+and it will get through very thick lead shielding.
+
+So now we're going to put radioactive isotopes
+
+into context as a geochronometer.
+
+So what we have to think about
+
+is the principle of radioactive decay
+
+and we have to work through some equations
+
+which you might not be familiar with the maths of this
+
+because I think you don't really do this maths specifically
+
+till next semester, but you might want to come back to this
+
+and follow through the maths at a later date.
+
+So I am going to go through it just very light touch
+
+so that you can see where,
+
+if I just showed you the equation for geochronology,
+
+you wouldn't understand where it came from,
+
+but I think it's quite important to understand
+
+that it's actually quite simple
+
+and maths is not too complicated.
+
+So we start off by saying that if we've got a material
+
+that contains a radioactive nucleus, nuclide,
+
+then the rate of decay,
+
+the number of particles that get emitted at any instant
+
+is proportional to the number of atoms of that nuclide.
+
+So that makes sense if we've got a pot
+
+with a lot of uranium in it,
+
+we're going to measure a lot of decay.
+
+If we've got a pot with a small amount of uranium in it,
+
+we're going to measure a small amount of decay.
+
+So this follows an exponential law, exponential decay.
+
+So this is the number of radioactive atoms on the y-axis
+
+and the time on the x-axis.
+
+And you can see that over time,
+
+if you started off with a pot full of uranium
+
+and it decayed, you watched it over time.
+
+Then when you start off, you'll see a large amount of decay,
+
+but then because it has decayed,
+
+if you come back later and watch your pot,
+
+you'll see a small amount of decay.
+
+So it's described by this exponential decay equation,
+
+which has the form minus dN by dt is proportional to N.
+
+Now what that means is N is the number of parent atoms
+
+present in your sample.
+
+And dN by dt, if you haven't come across this yet,
+
+that means the slope of the curve.
+
+And it's negative because the system is decaying,
+
+the slopes are negative,
+
+the amount of the substance is going down over time.
+
+So if you think about what this means,
+
+this is the slope of the curve
+
+and the slope of the curve here is very high at the start,
+
+and then the slope of the curve is very shallow
+
+as we increase the time.
+
+So what it's saying is that the slope of the curve
+
+is proportional to the number of atoms,
+
+the number of radioactive atoms.
+
+If we've got a lot of atoms, we've got a high slope,
+
+if we've got a small number of atoms, we've got a low slope.
+
+So we can say that in very general terms,
+
+this symbol means it's the,
+
+it means it's proportional,
+
+that the slope is proportional to the number of atoms,
+
+but we can change that into an equation
+
+by saying that there's a constant,
+
+we can say it's equal to a constant times N.
+
+And this constant is called the decay constant
+
+in this radioactive system.
+
+So it's illustrated here on the right,
+
+we start off with all these parent atoms,
+
+which are blue, and over time,
+
+some of them change to a daughter atom, which is yellow.
+
+Okay, so here's a bit of maths,
+
+which hopefully you can follow along.
+
+So we start with this equation, which I just showed you,
+
+and we can rearrange that into this form.
+
+So minus DN over N equals lambda DT.
+
+So that's just simply algebraically rearranging it.
+
+Then again, if you haven't done calculus yet,
+
+don't worry, this is what you'll see in calculus.
+
+We can do something called integration of this equation.
+
+And those of you who know about it,
+
+you can follow this along.
+
+If we integrate the left-hand side, we get minus log N.
+
+And I'm saying log, but I mean natural log.
+
+And if we integrate the right-hand side,
+
+then we get lambda T plus C.
+
+So now let's say that we've got this equation
+
+and it's relating the number of radioactive atoms
+
+to the time and the constant of proportionality,
+
+in other words, how fast that decay is happening.
+
+So if we say that T equals zero,
+
+in other words, we haven't yet started running the system,
+
+we're just looking at the box
+
+at the beginning of the experiment,
+
+then we can say that N is equal to N zero.
+
+We're just telling it, telling ourselves
+
+that we will call the number we start with,
+
+we'll say that's N zero.
+
+So if T equals zero, then this term goes away.
+
+So then we can say that minus log of N zero
+
+is equal to C, this constant in the integrated equation.
+
+So if we substitute that log N naught equals C
+
+into the equation we started with,
+
+this one minus log N equals lambda T plus C,
+
+then it's just a little trick to get rid of the C.
+
+And it's basically saying that C is equal to the number of,
+
+the log of the number of radioactive atoms we started with.
+
+So we get minus log N equals lambda T plus log N zero,
+
+and we can rearrange that into this form
+
+minus the log of N over N zero equals lambda T.
+
+And that, if we take the exponential of this equation,
+
+then we get N over N naught equals E to the minus lambda T.
+
+If you don't follow the maths,
+
+don't worry, after next semester,
+
+that will just be really obvious.
+
+But if you do follow it, it's really interesting,
+
+I think, to see that it's a very, very simple explanation
+
+of where this equation comes from.
+
+So here's our basic equation,
+
+N over N naught equals E to the minus lambda T.
+
+So what we'll do now is we'll say,
+
+when we start our system running,
+
+we actually already have some atoms of the daughter.
+
+So what we looked at before,
+
+oh, sorry, I know, I haven't got to that bit yet.
+
+When we start our system running,
+
+we're going to change the parent to the daughter,
+
+and that's what I illustrated previously.
+
+So what we're going to do now is consider
+
+the number of daughter atoms that we produce over time.
+
+Sorry, I haven't quite got to that other point yet.
+
+So what we're going to say is the daughter,
+
+the amount of daughter, and we're going to call that D star
+
+because those daughter atoms
+
+are produced by radioactive decay.
+
+So the number of daughter atoms
+
+is the number of parent atoms that we started with
+
+minus the number of parent atoms that exist
+
+at the point that we're observing the system.
+
+So here's our box.
+
+Let's say that four of the parent atoms
+
+have decayed to daughters.
+
+Then you can see that the number of daughters,
+
+four is equal to the number we started with,
+
+16 minus the number of blue ones we've got left,
+
+which is 12.
+
+So that is just saying four equals 16 minus 12.
+
+So if we rearrange this top equation,
+
+we get this expression, which can be written as this.
+
+I'm not going to walk through the maths of it,
+
+but then we can take this expression for the daughter,
+
+the number of daughter isotopes
+
+and combine these two equations
+
+and get this overall equation,
+
+that the number of daughter isotopes at any point
+
+is equal to the number of parent isotopes
+
+that we started with, sorry, that we observe,
+
+that we observe times e to the lambda t minus one.
+
+So this is what I've just shown you,
+
+D star equals n times e to the lambda t minus one.
+
+And so this is relating, like I say,
+
+the number of daughter atoms that we observe,
+
+the number of parent atoms that we observe
+
+at any given time t,
+
+and we're looking at lambda, the decay constant.
+
+So here is what I started saying before.
+
+At the beginning, when we look at the system,
+
+we might already have some daughter atoms present.
+
+So we're going to call that D naught,
+
+the number of daughter atoms at time zero.
+
+So those are represented here by orange.
+
+So in this case, we started off with 14 blue atoms,
+
+radioactive atoms,
+
+and we already had two daughter atoms
+
+sitting there in the box already.
+
+So effectively, we only had 14 parent atoms
+
+to start with rather than 16.
+
+But the thing is that at time t,
+
+if we go in and we measure how many daughter atoms there are,
+
+then we see that there are six.
+
+So if we don't recognize the fact that two of those
+
+were there at the beginning, we would get the age wrong,
+
+because the number of daughter atoms
+
+is more than what we would expect
+
+for the age of the system.
+
+So we have to take that into account.
+
+And what we say is the total daughter atoms at this point
+
+is equal to the D naught, which is two in this case,
+
+we had two to start with,
+
+and four that were produced by decay.
+
+So we put that together with the previous equation
+
+and we get this.
+
+And this equation is the equation
+
+that we use for geochronology.
+
+So it's D, the number of daughters in the system,
+
+is equal to D naught,
+
+the number of daughter atoms present at the beginning,
+
+plus n, the number of parent atoms
+
+that we observe in the system,
+
+times e to the lambda t,
+
+where lambda is the decay constant,
+
+t is the time at which we're observing the system,
+
+and then minus one.
+
+So we can look at the rock
+
+and we can measure the number of daughters,
+
+we can measure the number of parents.
+
+What we don't know is D naught,
+
+but we can determine its value,
+
+and this is the trick of geochronology,
+
+radioactive dating.
+
+So before we just move on to that,
+
+the half-life of radioactive decay,
+
+which you probably have heard about,
+
+is the time it takes for half the atoms to decay.
+
+So the way it works is if we start off with 16 blue ones,
+
+after one half-life, half of the 16 will have decayed.
+
+So now we have eight yellow, eight blue.
+
+But then we start again,
+
+and we say that after the same amount of time,
+
+half of the blue ones will have turned into yellow.
+
+So let's say that the half-life is one billion years.
+
+So the first box is showing you after one billion years.
+
+The second box is showing you after two billion years.
+
+So after two billion years,
+
+what we've done is we've taken the eight blue ones
+
+and half of them have decayed.
+
+So we've got four blue ones left.
+
+And then after three billion years,
+
+we'll have four of those blue ones,
+
+half of them will have decayed,
+
+so there'll only be two blue ones left.
+
+So that's how it works, this half-life,
+
+is you take the system and you say,
+
+in this time period of a half-life,
+
+half of the number of parents will decay to daughters.
+
+I'm not going to go through the whole derivation of this.
+
+I'm happy to do that with anybody who wants
+
+to follow it through in the practical later.
+
+But basically, we talk about this half-life
+
+and its relationship to the decay constant,
+
+which is the mathematical description of the decay curve,
+
+is given by this.
+
+The half-life is 0.693 over the decay constant,
+
+and that's a fixed relationship.
+
+So if somebody gives you the decay constant,
+
+you want to know the half-life,
+
+it's just this simple equation.
+
+Right, so now we're going to take all that
+
+and apply it to how geochronometers work in rocks.
+
+And this is a table of some important
+
+geochronometers that are used.
+
+So it shows you the parent isotope,
+
+the decay mode, alpha, beta, minus, beta, plus,
+
+so you can see we've talked about them.
+
+Lambda, which is the decay constant.
+
+The half-life, which you should be able to calculate
+
+the relationship between them,
+
+you should be able to check that that's correct.
+
+This is the daughter isotope,
+
+and this ratio, we'll come back to that column.
+
+It's the ratio that we measure in the lab,
+
+and I'll show you why that's important in a minute.
+
+So if we look on the periodic table,
+
+something that decays by beta plus
+
+is potassium decaying to argon,
+
+potassium-40 decaying to argon-40,
+
+so that's going to step us down one space
+
+in the periodic table,
+
+whereas beta minus will move us up one space,
+
+it's like snakes and ladders.
+
+Lutetium decaying to hafnium is beta minus,
+
+that's going up.
+
+Here's an alpha decay,
+
+samarium decaying to neodymium,
+
+which takes us two spaces to the left.
+
+Uranium decaying to lead is a huge decay chain.
+
+It's not just one single decay,
+
+but there's multiple steps in the process,
+
+which I'll show you in a minute.
+
+But uranium decaying to lead
+
+takes us way, way down the periodic table.
+
+So what makes a good chronometer for us
+
+in geochemical systems?
+
+First of all, we want a geochronometer with a half-life
+
+that is sensible for the time scale that we're measuring.
+
+So we want a chronometer that has a half-life
+
+that is within about a factor of 10
+
+of the process that we're measuring.
+
+If we're measuring something very recent,
+
+we might use carbon-13, carbon-14 dating.
+
+Whereas if we're measuring something
+
+at the beginning of the solar system,
+
+we'd want to use a very long-lived radioactive decay scheme
+
+such as uranium lead.
+
+If the half-life is very long, we need very high precision,
+
+and that makes it very challenging.
+
+But if the half-life is very short,
+
+it could decay to the point that it's no longer present
+
+over a geologic time scale.
+
+So we've got to match the half-life
+
+with the system we're interested in.
+
+The other thing is that the parent and the daughter
+
+need to have quite different chemistry,
+
+and I'll explain why that's the case.
+
+And because they have different chemistry,
+
+they're present in different minerals in the rock.
+
+That helps us very greatly.
+
+We also, ideally, want the daughter isotope
+
+to be in low abundance,
+
+because then the more daughter isotope that's produced,
+
+the easier it is to measure it
+
+against the background of that isotope.
+
+In other words, we want a very low D0, D0,
+
+which is the highest D0 in our system.
+
+So we have these things called isochrons,
+
+which are graphs that we use to determine the age of a rock,
+
+and it's called an isochron, a line of equal time,
+
+because I'll explain how we make,
+
+why we use these particular ratios,
+
+but what we want is an array of data
+
+that all lie on a straight line.
+
+And when we see data that lie on a straight line,
+
+then we have an isochron,
+
+and we can interpret that as the age of a rock.
+
+So we've already derived this equation for geochronology.
+
+I'm not going to go through that again,
+
+because I've just talked about it.
+
+So let's have a look at how that works
+
+in a system that's very typical used for rocks,
+
+which is the rubidium-strontium system.
+
+So this is where we have rubidium-87
+
+decaying to strontium-87,
+
+and this is beta minus decay.
+
+So if we look at a rock,
+
+let's think about an igneous rock when it crystallized,
+
+then when it crystallized,
+
+we had a certain number of strontium-87 already in the rock.
+
+But over time, the amount of strontium-87 will increase
+
+because there's more and more as the rubidium-87 decays.
+
+So if we substitute that into this equation,
+
+D is the amount of strontium-87 that we see today,
+
+D naught is the amount of strontium-87 that we started with,
+
+N is the amount of rubidium-87 that we see today,
+
+and then E to the lambda T minus one.
+
+So the thing is that it's very difficult to go into a lab
+
+and take a piece of rock and say,
+
+how many strontium-87 atoms are there in this rock?
+
+It's much easier to measure a ratio of two isotopes
+
+than it is to measure the absolute amount of one isotope.
+
+So what we do,
+
+and this is the really clever trick in geochronology,
+
+is we divide the whole equation by strontium-86.
+
+Strontium-86 is a stable isotope
+
+and it's not produced by radioactive decay in the system.
+
+So the amount of strontium-86 when the rock formed
+
+is exactly the same as the amount of strontium-86
+
+we see today.
+
+So all we do is say,
+
+well, let's take the stable isotope of strontium
+
+that's not being produced by radioactive decay
+
+and let's divide the whole equation by that isotope.
+
+And now we've got ratios that we can measure
+
+in the mass spectrometer.
+
+So we can measure the amount of strontium-87 to 86,
+
+the ratio, I should say, of strontium-87 to 86.
+
+We can measure the ratio of rubidium-87 to 86.
+
+What we can't measure is the initial ratio
+
+of strontium-87 to 86.
+
+And here's some pictures of typical mass spectrometers
+
+that we use to measure these mass ratios.
+
+But the trick, the amazing trick,
+
+is that here's the same equation.
+
+We're measuring this ratio, we're measuring this ratio.
+
+This we can determine because once we've got a straight line,
+
+this is the intercept on the y-axis.
+
+So this is basically an equation of y equals mx plus c.
+
+If we rearrange it, this is the,
+
+so if we have y versus x, which are the things we measure,
+
+then this is the slope, this value here,
+
+e to the lambda's t minus one is the slope of the line,
+
+and the intercept of the line on the y-axis
+
+is given by this initial ratio of strontium-87 to 86.
+
+So that's the elegance of geochronology,
+
+is that we've got two values we can measure
+
+and the other two values we can read off the graph.
+
+So here's the graph.
+
+And on this, the y-axis, we've got the daughter isotope
+
+relative to the stable reference isotope, 87 to 86.
+
+On the x-axis, we've got the parent isotope
+
+divided by the reference isotope, this value here.
+
+And then if we've got a straight line,
+
+then the intercept here is the initial ratio
+
+of strontium-87 to 86, this value in the equation.
+
+And the slope of the line is e to the lambda t minus one,
+
+which is going to enable us to extract t,
+
+the time at which we're observing the rock.
+
+Yeah, we've got a few more minutes, so we'll continue.
+
+So this explains how the rock is changing
+
+and why we have these isochrons.
+
+So this is the same thing, 87 to 86,
+
+rubidium, sorry, strontium-87 to 86
+
+and rubidium-87 to 86.
+
+And this is taken from the Rollinson textbook,
+
+which is a nice explanation of it.
+
+So the thing is that when this rock forms,
+
+we have different minerals that have different chemistry.
+
+So we might have a granite, for example,
+
+in which we have the minerals plagioclase,
+
+K, feldspar, and biotite.
+
+And plagioclase doesn't have much potassium in it.
+
+Potassium feldspar has quite a lot,
+
+biotite has a lot, quite a lot of potassium.
+
+So when these minerals form, the ratio,
+
+so, okay, let me just go on to this.
+
+Here's our system, rubidium decaying to strontium.
+
+Notice that rubidium is an alkali element
+
+and strontium is an alkaline earth element.
+
+So rubidium will do what potassium does.
+
+Strontium will do what calcium does, why?
+
+Because we've got one plus ions in the first group
+
+and two plus ions in the second group.
+
+So if we've got a mineral that has a lot of calcium in,
+
+it will have a low amount of rubidium
+
+and a high amount of strontium.
+
+So it'll have a low rubidium to strontium ratio.
+
+Whereas if we've got a mineral
+
+that takes up a lot of potassium,
+
+it will have a lot of strontium in it, sorry,
+
+it'll have a lot of rubidium in it
+
+and so it'll have a high rubidium to strontium ratio.
+
+So the different minerals have a different initial ratio
+
+of rubidium to strontium.
+
+And then over time, the rubidium to strontium ratio
+
+will decay, but if we have a mineral
+
+with a low amount of rubidium to strontium,
+
+it'll just decay a little,
+
+there'll be a little bit of daughter isotope.
+
+If we have one with a lot of rubidium-87 in it,
+
+there'll be a lot of decay to strontium-87,
+
+the daughter isotope.
+
+So over a fixed period of time, they will all have decayed,
+
+but they will all lie on a straight line
+
+because these lines all have a slope of one.
+
+So what happens is that this line of decay just rotates,
+
+it pivots around this value
+
+of the initial strontium-87 to 86 ratio.
+
+So that's why we end up with an isochron.
+
+In this case, in this example,
+
+it's shown that after this is time one,
+
+which is maybe 500 million years,
+
+and after time two, we've got a steeper slope
+
+and that's because more of the rubidium
+
+has decayed to strontium by that point.
+
+So the initial ratio is given by this intercept
+
+and the slope is given by e to the lambda t minus one
+
+and that's going to increase with time.
+
+So these are two, these two example isochrons
+
+that I showed you to start with.
+
+So now hopefully what you're thinking about
+
+is on the y-axis, we have the daughter
+
+relative to the stable isotope
+
+and on the x-axis, we've got the parent
+
+relative to the stable isotope
+
+and that's true for the rubidium-strontium system
+
+and also the samarium-neodymium system.
+
+So when we have this straight line,
+
+think of it as the isochron has pivoted
+
+from where it started, flat here
+
+and with distribution of rubidium and strontium
+
+in different minerals or samarium-neodymium
+
+in different minerals and over time,
+
+the line has tilted.
+
+Okay, just one more thing to say
+
+is I forgot to go back to this table,
+
+this last column, this ratio column,
+
+that's the ratio that we measure in the lab.
+
+So here's for the rubidium-87 decaying to strontium-87,
+
+this is the ratio we measure in the lab,
+
+the 87-strontium to 86-strontium ratio.
+
+So the denominator in these is the stable isotope
+
+that we use as the reference in the lab.
+
+So that table's a nice summary
+
+of all the different geochronometers
+
+that we use for dating rocks.
+
+Okay, so in the practical,
+
+we will look at some examples of this
+
+and you do a calculation yourself
+
+and it will consolidate all this information
+
+I've just given you.
+
+Right, so I'll see you over there.
+
+Oh, those of you who came in a bit later,
+
+next week we'll meet at 10, not 10 past 10,
+
+no, there's no lecture at nine
+
+and we'll meet at 10 o'clock in the other room
+
+and I'll be sending a message out about that.

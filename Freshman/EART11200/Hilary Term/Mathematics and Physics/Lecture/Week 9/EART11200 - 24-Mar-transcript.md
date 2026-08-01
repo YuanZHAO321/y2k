@@ -1,0 +1,1883 @@
+---
+title: "EART11200 - 24-Mar-transcript"
+source: "Freshman/EART11200/Hilary Term/Mathematics and Physics/Lecture/Week 9/EART11200 - 24-Mar-transcript.txt"
+type: transcript
+---
+
+'EART11200 - 24-Mar', automated transcript
+01/08/2026
+---
+
+Okay, good afternoon everyone. Good to see you. Obviously not used to being here
+
+on a
+
+Sunday. Matt's in Colombia at the moment in a suit talking to World Health
+
+Organization
+
+officials. I went to Swindon two weeks ago, so I'm not jealous at all. But I'm
+
+here to
+
+talk about second order differential equations. You've actually come across
+
+these already
+
+in this course. It's just that how we framed them and we can formalize the
+
+approach to
+
+equations in terms of integration today. You'll see that we'll only really touch
+
+on a very
+
+specialized type of equation because what you'll find really with calculus is
+
+you learn
+
+the foundational approaches like you have the last few weeks where really you're
+
+recognizing
+
+which tool to apply to a particular problem. But the more you make the calculus
+
+more complex,
+
+you'll find that you have to bring more and more tools in to solve that. And
+
+second order
+
+differential equations, which are common in representing a rate of change in
+
+terms
+
+of acceleration or spatial distribution, and we'll see that in some theories,
+
+they do require
+
+certain strategies that are much beyond the reading of this course, but it's
+
+just showing
+
+you what they represent and how you might approach solving them. And hopefully
+
+what
+
+you've seen or what you're starting to see in the programming course at least
+
+that there's
+
+where we can't solve it by hand. We just want a solver that someone's created to
+
+integrate
+
+the equation. And second order differentials are certainly one of those
+
+instances where
+
+it's hard to find that analytical solution. So I'll keep making reference as
+
+Matt will
+
+have done to an analytical solution versus a numerical solution. So we're
+
+iterating numbers
+
+around to get to our answer. In this case, integrating a differential equation
+
+or turning
+
+that differential equation into something that you can actually quantify. So if
+
+we're
+
+looking at dy by dx, which y might represent temperature, x might represent
+
+space, then
+
+we want to predict the actual temperature as a function of space. We need to
+
+integrate
+
+the differential, which I'm sure Matt's covered. And across this course, you
+
+learn to recognize
+
+certain, like I said, certain tools or solutions to certain types of equation.
+
+So you've gone
+
+from left to right, yeah? So you started on being able to calculate a derivative
+
+from
+
+a functional form, which would give you a rate of change in time or space. And
+
+now you're
+
+going the other way, which is typically the most common application of calculus
+
+because
+
+most of our theoretical rules, whether they predict things that change in space
+
+or time,
+
+for example, in the earth system, all of these equations that are relevant for
+
+predicting
+
+how heat distributes across the globe, how emissions emerge from the land, how
+
+the temperature
+
+profile changes on the subsurface, pressure changes in the marine or
+
+atmospheric, these
+
+are all written as differential equations. And the climate models try and
+
+integrate them
+
+to predict ahead of time and space how these things might vary. So there are
+
+very idealized
+
+problems that you've looked at, and you've looked at them in the context of
+
+radioactive
+
+decay, Newton's laws, yeah? And because they can take functional forms on the
+
+left-hand
+
+side, it means that we can get toward an integral. And remember that the
+
+integral is allowing
+
+us to make that calculation, so go from a rate of change to predict something in
+
+time
+
+or space. Last week, you looked at integration by substitution, and in the same
+
+way with
+
+differentiation, you can start with these rules, but sometimes your equation
+
+becomes
+
+a bit more complex, so you have to break it down so these apply. And in
+
+differentiation,
+
+you might have seen a combination of functions multiplying together, or one
+
+function divided
+
+by another. To apply these equations, you then have to use differentiation by
+
+parts,
+
+you know, by using the product and quotient rule, so recognizing where the
+
+functions are.
+
+The same with integration. This particular example here, integrating 3x plus 2
+
+to the
+
+power of 4 with respect to x, it has no context, but it might represent, that
+
+might represent
+
+a gradient with respect to x of a quantity you're interested in. For us to apply
+
+the
+
+rule here, given by, if your derivative is x to the power of n, you want that
+
+integral,
+
+there's something, there's a problem here in that we need to rewrite that
+
+example in
+
+a new variable so we can apply that rule, and we'll go over that shortly. If
+
+you're
+
+not, if you have any issues with these particular types of problems, let us know
+
+in the practical
+
+report, because we can always look over weeks up to this point. But integration
+
+by substitution
+
+is rewriting the function so you can apply these common rules. As I said at the
+
+beginning,
+
+it gets to a stage where you can't rewrite it. In terms of integration, then we
+
+have
+
+to do that numerically, and that's when we pass that to a solver. So you might
+
+write
+
+that integral, so the function within the integral sign in whatever programming
+
+your
+
+using and then call a solver. So make reference to the course we've got on
+
+programming. Yeah,
+
+so it's essentially the reverse of the chain rule for differentiation. It's
+
+breaking your
+
+problem down. So there's various steps to doing that. If you're using
+
+integration by
+
+substitution, the first step you need to do is to recognize which bit you're
+
+going to
+
+rewrite as a new variable, because ultimately what we want is if we integrate
+
+something
+
+with respect to a variable, that something has to be written using that
+
+variable. The
+
+two have to match. So your integration with respect to x, dx, you have to have x
+
+terms
+
+there. So the first thing we're going to do, we're going to use a new variable
+
+where u
+
+is equal to 3x plus 2. The reason we're doing that, if you just keep your eye on
+
+that bracket,
+
+because I want to use, I hate this screen, I want to use the rule where we have
+
+a derivative
+
+in the form x to the power of n, because if we can do that, I can access the
+
+answer given
+
+on the right hand side. x to the power of n plus 1 over n plus 1 plus a
+
+constant. Do
+
+you know where that's come from? So if you went from the right to the left, you
+
+can check
+
+that that answer's right. If you did the derivative, x to the power of n plus 1
+
+over n plus 1 plus
+
+d, you'll get the answer on the left. So the good thing about integration is
+
+when you come
+
+with an answer, you can check if that answer's true by differentiating it again,
+
+and you
+
+should get the term given there. So I want to use that rule. So if I'm saying u
+
+is equal
+
+to 3x plus 2, we've done half of the work. The integration then becomes y is
+
+equal to
+
+the integral of u to the power of 4 with respect to x. So I said at the
+
+beginning earlier,
+
+those two have to match, so we're only halfway there. I need to then integrate u
+
+to the power
+
+of 4 with respect to u. So I need to rewrite that dx term. So the way that we do
+
+that is
+
+you rearrange the new expression, get an expression for the old variable with
+
+respect to the new,
+
+and then calculate dx by du. And then we can separate those two terms, so we're
+
+left with
+
+an expression for dx. Are all those steps clear? If they're not, let me know in
+
+the
+
+practical, we can go over it, because there's lots and lots of examples that we
+
+can go through,
+
+but that's the general workflow. So rewrite in terms of a new variable, and then
+
+integrate
+
+with respect to that new variable by getting a term for the derivative. So the
+
+two terms
+
+need to speak to each other. If the question at hand has limits, you can
+
+do that. So it's not indefinite integration. It's definite. We're defining the
+
+boundaries
+
+between two limits, minus 1 and 5. Then we also need to integrate between those
+
+limits
+
+with respect to our new variable. So you need to change the limits as well. So
+
+you're rewriting
+
+the whole integral, so you can use a common law, making sure the terms speak to
+
+each other,
+
+by D something, the new variable and the new variable, and also the limits, and
+
+integrate
+
+as usual. Where that's relevant in terms of earth and
+
+environmental examples, well, as I said at the beginning, a lot of our common
+
+rules that
+
+we implement within our environmental models are differential equations. So the
+
+hydrostatic
+
+equation is an equation that describes the pressure variation in a fluid, any
+
+fluid.
+
+It's not just the atmosphere. It's also water as well. It's obviously two very
+
+different
+
+fluids, but you appreciate that if you're a bottom of a column of a fluid,
+
+you're going
+
+to feel a higher pressure than if you are at the top because of everything
+
+that's above
+
+you. So in the atmosphere, we feel a pressure at ground level, and the higher we
+
+go up in
+
+the atmosphere, the less of a pressure we feel. But of course, through the laws
+
+of physics,
+
+we feel a temperature because of the rate at which molecules are bombarding us.
+
+So they
+
+transfer energy. It's like if we imagine the molecules in this room, and there's
+
+lots of
+
+them, they're transferring their kinetic energy by bouncing into us, and they're
+
+transferring
+
+heat to us. If we go to a lower pressure environment, where there are fewer
+
+molecules, fewer things
+
+bouncing at us, we start to feel colder. So pressure and temperature vary with
+
+each other.
+
+Using the ideal gas equation. And the hydrostatic equation accounts for that
+
+within a fluid.
+
+So if the pressure decreases as we go up, then the temperature will also change.
+
+The
+
+idealized hydrostatic equation isn't realistic in the sense that that T doesn't
+
+vary, does
+
+it? T is a constant there. Now as that's written, that differential equation, dp
+
+with respect
+
+to z, we can separate the variables and integrate. Because if I go back to that
+
+table, I'm going
+
+to use this rule here, 1 over x to get, so if my differential is 1 over
+
+something, a
+
+variable, then the integral is that answer. So the idealized hydrostatic
+
+equation, see
+
+here, I've separated my variables. So I've gone from the left to the right, top
+
+term.
+
+Now I've got integrating 1 over p with respect to p. So I can use that answer in
+
+the table.
+
+That's going to become log p. Integral of a set of constants with respect to z.
+
+So I'm
+
+saying T doesn't vary here. It's a constant. That's not right. Because as I've
+
+just said,
+
+if we move through a fluid, temperature will vary according to all those
+
+molecules changing
+
+in their density. But I can integrate a constant with respect to a variable
+
+because that becomes
+
+those constants times that variable. This answer you see here is just me writing
+
+it
+
+by getting rid of the logarithmic term. So we can interchange logarithms and
+
+exponentials.
+
+So that expression, pressure as a function of height is given by that
+
+exponential, shows
+
+that it makes physical sense. Pressure decreases as we go vertically up through
+
+the atmosphere
+
+or from the bottom of the ocean upwards. And pressure will change exponentially.
+
+But it's
+
+not quite realistic yet because we know through physical rules that temperature
+
+will also
+
+vary. And the problem there is if we rewrite the hydrostatic equation in a more
+
+realistic
+
+sense, I can't easily access that solution unless I introduce a new variable.
+
+And the
+
+new variable here will basically encounter T surface minus 0.01 z. So
+
+integration by
+
+substitution adds that extra layer before you can access the solution. Now what
+
+that
+
+gives us is a more realistic end equation where pressure still varies
+
+exponentially
+
+with height, but the temperature also changes. So if you were to plot pressure
+
+as a function
+
+of temperature in a fluid, let's say in the atmosphere, I hate not having a
+
+board, you'll
+
+have kind of this, pressure is on this axis here and that's height. So you'll
+
+see that
+
+exponential drop in pressure. With that variation now, that pressure change will
+
+be different.
+
+Typically in the atmosphere, it's not even that simple because you have at the
+
+top of
+
+the tropopause a sudden increase in temperature. So the pressure actually goes
+
+like this and
+
+the planetary boundary layer is capped. This is a real big problem with
+
+pollution over
+
+cities at night. So you get like a compression of the atmosphere and things
+
+can't move. It
+
+is like a lid that keeps things moving upwards and ventilating out. So the real
+
+world is
+
+no complex than that, but we're going towards the real world there as opposed to
+
+there,
+
+the integration by substitution.
+
+A long intro, but hopefully that helps relate to what happened last week. So
+
+today we're
+
+going to look at second order ODEs. You've seen them before, but we're going to
+
+formalise
+
+this a little bit and then you'll move on to vectors and partial
+
+differentiation. Vectors
+
+are another important addition to your toolkit in the sense that I talk a lot
+
+about climate
+
+models and everything I say, pollution models, and of course a lot of these
+
+examples deal
+
+in two dimensions. The pressure is a function of height, but we know that things
+
+move in
+
+3D. So if you have a temperature differential, a concentration differential in
+
+this room,
+
+things move in three dimensions and vectors allow you to account for those
+
+different directions.
+
+So it's just another way of writing differential equations and integrals that
+
+have directional
+
+information to them. And then there's a big break and then you'll do some
+
+revision sessions.
+
+So we're going to talk about the concept behind second order differential
+
+equations. Solve
+
+a subset of second order ODEs and then we'll use some initial conditions to
+
+actually get
+
+toward the answer. So what we're going to do is drop in an A priori defined
+
+answer to
+
+a second order differential that has constants in them and then we'll use the
+
+initial conditions
+
+to work out what those constants are. We'll come across some physical rules
+
+again. We'll
+
+go back to Newton. We'll see that Newton's laws are already written as second
+
+order ODEs
+
+that we've come across, but also heat transfer and mass transfer. It's also
+
+useful really
+
+when you see the type of equations you'll come across. Depending on what you do
+
+after
+
+this, if you become an applied researcher or a consultant, you'll typically
+
+know, it's
+
+like more of an engineering approach, so you'll know what tools to solve a
+
+particular problem.
+
+You won't necessarily build those tools, but you'll become familiar with that
+
+ecosystem
+
+of tools. If you do something a bit more fundamental, so you're creating, you
+
+might
+
+come up with new theories or implement new theories, this is kind of scale of
+
+calculus
+
+might come in. But on both sides of the fence, it's knowing what differential
+
+equations mean,
+
+so what's the narrative behind them? What are they representing? If you're
+
+reading an
+
+academic paper and someone might describe a theory that they've put into a new
+
+global
+
+climate model, they'll often write it in equation-based form, so it's just
+
+recognizing
+
+what's the English version of this. Today we'll cover that more and more in
+
+terms of
+
+second order differential equations. I'm sure you've seen many graphs that plot
+
+a function
+
+in its gradient, so I think you started on this from the very beginning. If you
+
+have
+
+a red line, which is function f as a function of x given by 4x to the power of 4
+
+minus 2x
+
+to the power of 3 minus 12x squared, bit of an abstract equation, but
+
+nonetheless it leads
+
+to that behavior given by the red line, so x and y. It has points of inflection,
+
+i.e.
+
+the value changes, it becomes negative, it becomes positive again. The first
+
+gradient
+
+is immediately useful in the sense that it can give us the rate of change at a
+
+given
+
+point in space and time. Typically we think about that in terms of a velocity,
+
+if we're
+
+moving through space, so the rate of change of distance with respect to time,
+
+that's a
+
+first order differential. A second order differential means that we've
+
+differentiated it twice,
+
+so if you hear n order ODE's, it's the number of times differentiation's been
+
+applied. The
+
+most common use cases of second order differentials are when our rate of change
+
+changes, so it
+
+describes the change of acceleration, so this is why you'll have already seen
+
+this in Newton's
+
+second law, which we'll see shortly, because Newton's second law is when you
+
+apply a force
+
+to an object and it leads to a velocity as a function which depends on the mass,
+
+but
+
+it also leads to a change in velocity, that means it leads to a change of
+
+acceleration,
+
+and you can visualize that in terms of a rocket launch, so if it was a constant
+
+acceleration
+
+you might see a growing change of velocity, but it's not a constant acceleration
+
+because
+
+the fuel decreases, it goes through a thinner and thinner atmosphere, gravity
+
+starts to
+
+decrease, everything brings that together for it to be a, the rate of change of
+
+acceleration
+
+also changes, so it's a second order differential. It also tells you something
+
+about the value
+
+of the problem we're interested in, so if you keep your eyes on that green curve
+
+here,
+
+if you can go from the function to the second order function it means that
+
+depending on
+
+the value you can work out whether something's at a maximum or a minimum point,
+
+and you've
+
+done maximum points and minimum points already haven't you, when you set a
+
+derivative to
+
+zero and you can do that, you can then work out whether a resource that you're
+
+managing
+
+has reached its maximum or minimum value for example, so the second order
+
+differential
+
+also tells you whether that point is a maximum or minimum, so you can use it to
+
+interrogate
+
+functional forms, we're going to use it more to predict something as a function
+
+of space
+
+and time, using abstract problems but also by using other physical laws, so
+
+Newton's
+
+laws of motion and Fourier's and Fick's laws, because they both represent
+
+something that
+
+changes the rate of change of heat and mass across a space, so that's why second
+
+order
+
+differentials are used. So, Newton's second law, you'll see multiple diagrams
+
+where you
+
+have a block or a circle with forces acting upon it, in this case there's a
+
+gravitational
+
+force acting in a separate direction to a frictional force, these arrows become
+
+more
+
+relevant next week when you look at vectors because those arrows represent the
+
+direction
+
+of travel of a force on an object, because if you have the force acting at an
+
+angle then
+
+it's going to pull it along the different dimensions at different rates of
+
+change. By
+
+using Newton's second law and setting that to a value you can integrate that to
+
+arrive
+
+at an expression for a first velocity as a function of time and when you have no
+
+frictional
+
+force, when your derivative is set to zero, then your velocity is the same, so
+
+any object
+
+falling in a vacuum where there's no frictional force, so again there's no
+
+molecules for this
+
+object to move through, so in a vacuum that's why temperature is really low,
+
+well near zero
+
+in an ideal vacuum as well, there's nothing transferring that thermal energy to
+
+us. But
+
+in this case you'll have seen that the very unrealistic example in terms of
+
+objects that
+
+fall in the atmosphere or through water is that the speed is completely
+
+independent of
+
+the object's mass, so if you were to drop a brick and a feather in an ideal
+
+vacuum they
+
+would fall at the same rate. Obviously that's not realistic, we do have
+
+frictional forces,
+
+as things move through a fluid, whether it's direct frictional or the lag
+
+effects from
+
+the weight behind, and then you can integrate that equation again to predict the
+
+distance
+
+of the function of time, so you'll see there's a quadrature dependency there, so
+
+it starts
+
+to increase as a function of time as the velocity remains constant. So you have
+
+solved the second
+
+order, an ODE with respect to velocity and time, and then solved that with
+
+respect to
+
+x, but Newton's second law is actually a second order ODE. If you make this more
+
+generic,
+
+you'll be familiar with the left hand term right, so d2y by dx squared equals
+
+something,
+
+so the Newton's second law equivalent of that would be force is equal to mass
+
+times d2x
+
+by dt squared, yeah, distance with respect to times, that's acceleration, but
+
+you can
+
+also rewrite this in a general form, so where you have the second order
+
+differential, the
+
+first, and then a term with respect to y equal to zero. This is a very idealized
+
+case, but
+
+we can actually come up with a solution to this case. As I said at the
+
+beginning, these
+
+forms of the second order differentials can change depending on the theory
+
+you're looking
+
+at. We're going to look at theories and examples where the solutions to this and
+
+Newton's laws
+
+will work. We're going to use steady state as well. If this becomes much more
+
+complex,
+
+your toolkit just has to expand, and you'd have to recognize the approach to
+
+take. So,
+
+but this looks like a quadratic equation as well, doesn't it? So we're going to
+
+use that
+
+approach here to get the value of our constants a, b, and c. To place this in
+
+context where
+
+this is kind of equation is used would be anything that oscillates. So a spring,
+
+imagine
+
+that you have, so if you're using this for Newton's law, you would start to
+
+think that
+
+there's nothing, if there's zero on the right-hand side, that means there's no
+
+force. So imagine
+
+that you have a block on a bit of spring, and then you just let it go, or you
+
+throw
+
+it down, and that eventually will damp and reach a steady equilibrium. That's
+
+the kind
+
+of equation that would describe that motion where y, you might have y as a
+
+function of
+
+t, so y represents the height, and t is time. Earthquakes, imagine you have an
+
+idealized
+
+scenario where you have this huge release of energy, and then you get this
+
+vibrational
+
+motion on the ground. That's the kind of equation that would describe that as
+
+well. But typically,
+
+again, like the hydrostatic equation, there will be something on the right-hand
+
+side because
+
+force is an instant. There isn't suddenly a release of energy, and then it goes
+
+away.
+
+There will be something that varies with time, but nonetheless, that's the kind
+
+of equation
+
+that we will use. But how do we get to an expression for y as a function of x
+
+here?
+
+It looks much more complicated as compared to the second order differential
+
+you've used
+
+so far with Newton's second law. It does have a term. It's referred to a
+
+homogeneous linear
+
+second order ODE. The vocabulary around this space just grows more and more
+
+complex. It's
+
+a bit like biology and chemistry, right? You start to recognize certain types of
+
+equations,
+
+certain types of biological definitions, and you just get more familiar with
+
+that narrative.
+
+Same with anything numerical. It's homogeneous because the whole thing is set to
+
+zero. If
+
+it wasn't zero, it would be inhomogeneous, and we'd have to use a new set of
+
+rules, as
+
+I said earlier on. You've come across alternative notation as well. If you come
+
+across calculus
+
+in the literature, people representing their theory, you will either see this
+
+type of expression
+
+you use, d2y by the x squared, d3y by the x cubed, because that was third order
+
+differential,
+
+or you can use shorthand notations, y double dash, y dash, and so on. You can
+
+use exactly
+
+the same thing. The whole goal of this course is where we can is when we start
+
+with a differential
+
+equation, we want to get towards an analytical solution. Sometimes we can't, but
+
+where we
+
+can, we should try, because it's much quicker. With a numerical solution, we
+
+have to iterate
+
+around values. We have to see what the answer is within a set tolerance. An
+
+analytical solution
+
+is the answer we want to get to. Where there's a second order written in that
+
+functional
+
+form, we can actually arrive at a solution straight away. The whole point of the
+
+practicals
+
+today are playing around with that approach. When you're given that functional
+
+form of
+
+a second order equation, there's a workflow to get to the answer. The same way
+
+with integration
+
+by substitution, it's recognizing what to do and at what step. So how do we find
+
+a value
+
+for y? How do we get an expression for y first? It's almost like a leap of
+
+faith, but actually
+
+there's a generic expression at which we can get a solution for these type of
+
+equations,
+
+and that's by assuming why the answer takes that kind of form. It's exponential.
+
+You can
+
+kind of visually relate that to what I said about oscillating systems, because
+
+imagine
+
+that you're trying to account for an earthquake where you get huge displacement
+
+at the beginning,
+
+a vibrating system, and then it starts to calm down. Imagine that you're trying
+
+to predict
+
+that displacement as a function of time. So there's an exponential damping. It
+
+goes very,
+
+very, very ... The first stages are quick, and then it starts to decrease
+
+exponentially.
+
+So the exponential form relates to these second order differentials. What we'll
+
+see is by
+
+dropping that guesstimate in to that differential equation, it works. So in all
+
+forms of differential
+
+equations, there are solutions you could pick. So what you do really is you'd
+
+expand that
+
+table on the first slide. You'd recognize the form that your answer's to solve
+
+and then
+
+drop that answer in. But what we need to find is work out this constant, gamma.
+
+So there's
+
+going to be a constant that relates to the initial or final conditions. Well,
+
+the first
+
+thing we're going to do is rewrite our differential equation using that final
+
+solution. Because
+
+it's an exponential, we can access the first order differential and the second
+
+order differential
+
+using that rule in the table on the very first slide. You remember with
+
+exponential functions,
+
+if you have an exponential to a constant times a variable, you bring that
+
+constant down and
+
+rewrite with e to the power of the constant and variable. So you should
+
+recognize how
+
+we've arrived at dy by dx. So if y is e to the gamma x, dy by dx is gamma, e to
+
+the gamma
+
+x. And the second order differential, we've done that twice, and that's where we
+
+arrive
+
+at gamma squared. If we put that back into our second order differential, we
+
+then arrive
+
+at this expression. It doesn't look any simpler, does it, at this stage? But
+
+what we're doing
+
+is we're going to be able to access values for our constants by doing this.
+
+That's why
+
+dropping this solution in works. We can get rid of e to the gamma x because it
+
+can't be
+
+zero. So this is another useful property of this solution. Do you see why e to
+
+anything
+
+can't be zero? Yep. Okay, so we divide by e to the gamma x, and then we're left
+
+with
+
+this. So that looks like a quadratic equation, and there's a solution to
+
+quadratic equations.
+
+We'll go over this again in an example, don't worry. We've gone from the first
+
+second order
+
+equation to this solution. What this means is this actually has a name. It's
+
+called the
+
+characteristic equation. What this really means is we don't have to go through
+
+all of
+
+that steps ever again. If you're given, let's say, where is it? I've gone too
+
+far. If you're
+
+given a second order differential equation to integrate, you can straight away
+
+rewrite,
+
+provided it's something set equal to zero, you can rewrite that in this form.
+
+But now
+
+what we need is we need information on the system to extract values for our
+
+constants.
+
+So the thing with integration is you always need information on the system. We
+
+can arrive
+
+to general expression, so indefinite integration, but to actually get constants
+
+from that so
+
+we can predict something either ahead of time or before where we are now, it's
+
+function
+
+of space, we need some information. This is why measurements are really
+
+important. Yes,
+
+we need actually to measure the system. Someone might have created a theory that
+
+represents
+
+our broad observations, but you need to actually make those accurate
+
+measurements so we can
+
+actually take that theory and predict something ahead of time. So global
+
+observations in any
+
+part of your system are really important. So that's a general form that we can
+
+turn
+
+our first second order differential into. So you can jump straight to this
+
+point. So
+
+we have a quadratic equation, and if we can solve it, we can get a value for
+
+gamma, which
+
+actually gives us the value of that. So let's just make sure this is clear,
+
+because what
+
+I've suggested here is we want to arrive at this expression, because the second
+
+order
+
+differential here is the rate of change of y with respect to space or time, for
+
+example,
+
+d two y by the x squared plus dy by the x and so on. Ultimately, we want an
+
+expression
+
+for that y to predict either in space or time. The suggested solution that the
+
+functional
+
+form of y is this allows us to rewrite our second order differential like this,
+
+which
+
+means that we can solve a quadratic equation to get that value of gamma. Once we
+
+have the
+
+value of gamma, we've got the functional form of y. We're done. So this is why
+
+you don't
+
+have to go through, in some ways, you don't have to repeat the painful steps by
+
+integration
+
+by substitution, for example. You can jump straight to this answer, which is
+
+really useful
+
+if what you're studying can be represented by this type of second order
+
+differential.
+
+So we've seen the solution to a quadratic before. If we know the value for our
+
+constants
+
+b, a, and c, then we now have values for gamma. And there could be two values.
+
+So we arrive
+
+at two roots called y1 and y2. So what that means is because we have two roots,
+
+our solution
+
+can be written in that functional form. So really, what we're talking about is
+
+there's
+
+two steps to go from what looks like a really complex equation, which is your
+
+second order
+
+differential. Go all the way back here. You rewrite it as a quadratic. We want
+
+to calculate
+
+the value of gammas. And because we're solving a quadratic equation, we get two
+
+values of
+
+gamma written like this. We've had to introduce two constants because we can't
+
+assume that
+
+there isn't any. But now, if we have information in the system at a certain
+
+point in space,
+
+so we've got y as a function of x, or the information on the rate of change, we
+
+can
+
+now start to work out what these constants are. If the values of gamma are
+
+equal, you
+
+can simplify the equation even more. They might not be. One might be negative,
+
+one might
+
+be positive. What we're not doing is dealing with a solution where gamma is not
+
+real, i.e.
+
+we have imaginary numbers. We're not dealing with that. That's the kind of
+
+problem that
+
+comes across in optics, where you work with imaginary numbers. It's not relevant
+
+to what
+
+we want to do here. So what we're just showing is how you can go from that
+
+initial second
+
+order differential knowing what the solution looks like, but then needing then
+
+information
+
+on the system to define these constants. So as an example, imagine we're told
+
+that what
+
+we're interested in can be represented by this second order differential
+
+equation. It's
+
+homogeneous. It's set to zero. So it might represent one of the type of systems
+
+I've
+
+talked about where we have oscillating behavior. What I want to get to the
+
+functional form
+
+of Y as a function of X so I can predict how Y changes. We can use the auxiliary
+
+equation
+
+straight away. So remember we can jump straight from the second order
+
+differential to the
+
+expression where we have gammas, remembering that I'm assuming Y is a function
+
+of exponentials
+
+where gammas are in those exponents. A in this case here, because remember I
+
+wrote the
+
+differential equation previously as A d2 Y by the X Y plus B dY by the X plus C
+
+Y.
+
+A is one, B is minus six and C is five. So I'm writing a quadratic equation out
+
+here.
+
+To get our values for gamma, you can use that quadratic equation and actually
+
+arrive at
+
+a solution for two values. So three plus two or three minus two for gamma. So
+
+the roots
+
+are gamma, one of the gammas is one and one of the gammas is five. Since they
+
+are real
+
+and distinct, then I can write i.e. they're different. I can write the
+
+expression using
+
+this term here and put those values in and that's the general solution to the
+
+problem.
+
+But it's not yet properly defined in the sense that no one's told us they might
+
+have measured
+
+Y at certain points in X or the rate of change. If they have, I can actually now
+
+use that
+
+information to extract values for A and B. So I'm not quite at the final
+
+solution yet.
+
+So someone might have told us that Y is zero and Y is one when X is equal to
+
+zero. I can
+
+now use all of my expressions to work out those values for A and B. So these are
+
+called
+
+initial conditions and you'll work a lot with initial conditions. We've already
+
+done that
+
+in the programming course. Remember when we used a solver to integrate a couple
+
+of differential
+
+equations from a starting point to initial condition? Yes, so we have the
+
+parameters
+
+there to take that system forward. So it can give us a unique solution to the
+
+differential
+
+equation. And you'll have come across these already through the radioactive
+
+decay equation,
+
+hydrostatic equation, Newton laws. So when you integrated the hydrostatic
+
+equation, you
+
+might have been given a scenario, I think, where you have the pressure at ground
+
+level
+
+and then predict what the pressure is at a certain height. That's an initial
+
+condition
+
+and then you're taking that forward. Same here. So we need more information on
+
+the system.
+
+So if we go back to the previous example with the general solution, suppose that
+
+we're
+
+given two conditions. We're told that the value of Y is zero when X is zero, but
+
+also
+
+the gradient of Y is one when X is zero. We have two unknowns, A and B, so we
+
+need at
+
+least two equations, simultaneous equations, to actually extract the values for
+
+A and B.
+
+So how do we do that? Well, we know that Y is given by this expression because
+
+we're
+
+given information on Y when the value of X is zero, but we're also given
+
+information
+
+on the differential. So we need to actually derive, get the derivative Y dash or
+
+dy by
+
+dx. We can go from here to here by using that simple rule of exponents. So you
+
+see here,
+
+we're actually combining multiple rules together all in one go. And this is why
+
+this is a,
+
+it really is much like a tool kit. You recognize what to apply and when. So A to
+
+the X becomes
+
+A E to the X using that rule of differentiation. In this case, the five comes
+
+down. We have
+
+the constant remaining and the original expression, but what we need to do now
+
+is plug in that
+
+information we've just been given. In the first case, when X is zero, Y is equal
+
+to
+
+zero. That gives us the top line. When the derivative is zero, X is equal to
+
+one. So
+
+we've got two equations that we can rearrange and get our values for A and B. So
+
+substituting
+
+those in for rearranging the different expressions, which allows us to arrive at
+
+the final expression
+
+here. So we've gone from quite a complex differential equation. We haven't used
+
+your existing rules
+
+of integration. We haven't had to. What we do is we use the auxiliary equation,
+
+which
+
+is a recognized solution to homogeneous second order differentials. And then we
+
+need information
+
+in the system to extract those equations. So again, it's retained that
+
+exponential behavior,
+
+which starts to make sense because if it is an oscillating system, then you'd
+
+expect
+
+some kind of exponential behavior where there's no constant force or no force,
+
+which in this
+
+case there isn't because we have that zero term.
+
+There are other more realistic examples as we go from abstract examples. I think
+
+you
+
+know through our experiences that heat moves from hot to cold regions. Pressure
+
+moves from
+
+two concepts drive weather systems, for example. That's the way air moves
+
+globally. And also
+
+if you're walking into a cold environment that you know that heat transfers
+
+accordingly.
+
+Well, there are rules to describe this. So Fourier's second law describes the
+
+distribution
+
+of heat as a function of time. On the face of it, this looks really hard to
+
+solve, but
+
+what we're trying to instill here is recognizing what the different terms mean.
+
+And what they
+
+mean is, if you imagine you're trying to predict the change of temperature as a
+
+function of
+
+time over a substance, it could be the air, it could be a block of metal, wood,
+
+whatever.
+
+That rate of change of temperature at any point in that space were a function of
+
+time.
+
+So you leave a hot cup of tea out in the kitchen, whatever, that eventually
+
+cools down, doesn't
+
+burn it. You get that distribution of heat away from it until you reach
+
+equilibrium.
+
+If you were to measure a certain point away from that cup, the rate of change of
+
+temperature,
+
+what's driving that rate of change is the term on the right-hand side. It's the
+
+temperature
+
+differential in space. So if you have something really hot in a very cold
+
+environment, that
+
+rate of change is really quick. The molecules are getting out of the hot
+
+environment and
+
+the rate of change is really quick at first. Because what we've got there is a
+
+really high
+
+temperature differential in space. So imagine you go from a thousand, not a
+
+thousand degrees,
+
+it's not really relevant for a cup of tea, depending on who makes it, but you've
+
+got
+
+a really hot temperature environment here and a really cold one here. That's a
+
+massive
+
+temperature differential. So the rate of change is really quick. If you have
+
+something that's
+
+30 degrees here and 25 here, that's not a big gradient at all. So the rate of
+
+change
+
+of temperature is really low. That's what that equation is describing. It's
+
+describing
+
+the observed behavior in the real world. But it's a second order differential.
+
+So if we
+
+want to predict temperature as a function of space, so what is the temperature
+
+across
+
+that distance? And that's really important. So imagine, it's easier to access
+
+engineering
+
+examples here. You might be working with a really useful instrument that works
+
+on burning
+
+stuff or a vacuum inside. As a user, you don't want to access, you don't want to
+
+be exposed
+
+to all those high temperatures. Working with your oven in the kitchen, yeah? So
+
+you don't
+
+want to have the same heat coming out to you as you're cooking. What dictates
+
+that rate
+
+of change of temperature is this parameter alpha, the property of the material.
+
+How much
+
+does it conduct heat? If your oven was made out of copper, that would be useless
+
+because
+
+copper's a fantastic conductor of heat. It has a high gamma value, so you feel
+
+the heat
+
+coming out. With glass and ceramic, they don't conduct heat very well at all. So
+
+that's why
+
+we have flasks made out of glass or ceramic because they don't allow heat to
+
+travel very
+
+far out. So that's why you get a rate of change of temperature that's really
+
+slow.
+
+So your temperature remains colder for longer. So properties of materials are
+
+wrapped up
+
+into that alpha. But if you want to predict temperature as a function of space,
+
+then you
+
+need to know what alpha is. And that's the thermal conductivity. And typically
+
+if something's
+
+good at conducting heat, it's good at conducting electricity as well. And there
+
+are obviously
+
+hundreds of years of early experiments where people focused on heat and
+
+conduction properties
+
+of materials. The whole steam era was built around knowing where heat can go,
+
+what can
+
+keep it trapped, how do you push the energy from that steam system into turning
+
+a set
+
+of wheels. So obviously movement of heat and energy really drove the Industrial
+
+Revolution.
+
+So this simple equation, which came from Fourier's second law, was really
+
+relevant
+
+there, properties of materials. The same type of equation can be used to
+
+describe not just
+
+heat, but the flow of mass. Because again, it's what we're talking about.
+
+Remember I
+
+said at the beginning, if we're in a high pressure environment, we feel warmer
+
+typically
+
+because we have all these molecules transferring their thermal energy to us. So
+
+the hotter
+
+the gas, the quicker the molecules are moving. So if you're mixing a drink, if
+
+you have a
+
+big bucket of water and you pour a cordial in, that eventually will dissipate
+
+throughout
+
+that water. That movement of mass of the molecules of that drink spreading out
+
+into that system.
+
+So we talked about heat in the previous example. The same equation describes the
+
+spread of
+
+mass. So mixing. So again, if I had a huge tank here with water and I put some
+
+high concentrated
+
+material here and I wanted to measure how that spreads over at each end point in
+
+space
+
+as a function of time, that value on the left, which I'm measuring, is dictated
+
+by the concentration
+
+gradient. So if I dump a huge amount here, it will spread out quite quickly. If
+
+I put
+
+a tiny amount, it will take a long time to come across all the points I'm
+
+measuring,
+
+but also the property of the molecules moving. D refers to the diffusivity. Some
+
+molecules
+
+are big, some have really weird structures to them. Some are small, like water
+
+and ozone,
+
+so they can move quickly through things. It's a bit like a cat. It can shrink
+
+itself and
+
+get through the other molecules, but if it's a huge dog, it'll start bumping
+
+into everything.
+
+So that's represented in the parameter D, diffusivity. But it's a second order
+
+differential.
+
+So in the examples we come across here, rather than using the auxiliary
+
+equation, we're using
+
+the assumption of steady state. Have you come across steady state already in
+
+this course,
+
+where our rate of change is constant? Yep. So set the term on the left equals to
+
+zero.
+
+We're left with a second order differential equals to zero. I don't have to use
+
+the auxiliary
+
+equation here, because I can integrate that twice. Because to get to the next,
+
+to integrate
+
+this once, to get to dt by dx, for example, that would have to have gone from a
+
+constant.
+
+To integrate the constant, to get to my expression for t as a function of x, we
+
+have a constant
+
+times x plus a constant. So we integrate that twice. So getting the feel for
+
+that. Because
+
+we do have parameters A and B, C and D, we need more information on the system.
+
+So in
+
+this case, going back to that heat transfer example, someone might tell me,
+
+well, I measure
+
+the temperature one meter away to be 100 degrees, but I'm also measuring the
+
+rate of change
+
+at 20 centimeters away to be 100 degrees per second. And there are two bits of
+
+information
+
+I can use to get my constants. So the workflow is similar, they're just
+
+different examples
+
+of second order differential equations, okay? So that's it for now. If anyone's
+
+got any
+
+questions, I'll see you over in practical, because we're in Nancy Rothwell,
+
+aren't we?
+
+Thank you.
+
+There we go. This one, isn't it? Yeah.
+
+There you go.
+
+Thank you.
+
+Thank you.

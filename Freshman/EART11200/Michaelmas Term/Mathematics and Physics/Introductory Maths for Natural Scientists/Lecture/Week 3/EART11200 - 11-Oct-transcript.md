@@ -1,0 +1,1481 @@
+---
+title: "EART11200 - 11-Oct-transcript"
+source: "Freshman/EART11200/Michaelmas Term/Mathematics and Physics/Introductory Maths for Natural Scientists/Lecture/Week 3/EART11200 - 11-Oct-transcript.txt"
+type: transcript
+---
+
+'EART11200 - 11-Oct', automated transcript
+01/08/2026
+---
+
+They do have like general things, the batteries, if it's people.
+
+It's safe, like they are designing that.
+
+Yeah, yeah, they do.
+
+The using with the charger will not damage it.
+
+No, that's right.
+
+No, no, it's supposed, it's meant to be used, ASAP.
+
+Yeah, yeah.
+
+It's electronic.
+
+Oh, it's fine.
+
+There's a light, so it's fine.
+
+OK, we don't need that too.
+
+There isn't one for now.
+
+Yeah, they all have to come to this, so that's OK.
+
+OK, so that's being stupid.
+
+We don't need that right now.
+
+Let's see what everybody wants to do today.
+
+Go through the lectures, I imagine,
+
+because they haven't looked at them.
+
+So everybody, anybody who's not here, then this session,
+
+this hour, has now been made officially optional.
+
+So you don't have to sign in.
+
+There's no log in.
+
+No attendance required for this hour.
+
+There will be one at 3 o'clock.
+
+So when we go over to the engineering building,
+
+I will give you the appropriate attendance code for that.
+
+So as last week, over to you.
+
+Is there anything anyone particularly
+
+wants me to cover from last week?
+
+Would you prefer to go through the lectures from this week
+
+and just talk a little bit about some of the ideas
+
+you're going to have to use this week, references?
+
+Obviously, I put the slides up there.
+
+But we can go over things from last week
+
+if anybody has anything they wanted to ask, yeah?
+
+Geology slides, yes, we can.
+
+Absolutely, I will do that.
+
+Any other requests in particular?
+
+That's actually the difficult bit this week.
+
+Thinking through dimensions.
+
+That's this week's big challenge, OK?
+
+Quickly through the trigonometry and the bits,
+
+just so that it's all in your head.
+
+We won't go through the little exercise bits.
+
+You can look at the exercise.
+
+Does that make sense to everybody?
+
+And then we'll look at the 3D monitor.
+
+All right, then.
+
+So if everybody is happy with that idea, let's do this.
+
+So yes, today's problem is a geological one.
+
+It's about gold mining.
+
+And that will be made available to you shortly.
+
+But you will need to think in three dimensions
+
+to use some of the trigonometry that I'm going to show you
+
+to be able to do this week's question or questions.
+
+So let's do the geometry.
+
+And then I'll probably skip to the 3D stuff,
+
+how we specify how rocks slope and go into the ground.
+
+And then if we've got time, we can come back
+
+and look at Bragg's crystals, OK?
+
+That is one of the questions this week as well.
+
+So the things that you will need to know about
+
+are Pythagoras theorem, and then about radians and degrees,
+
+and something about trigonometric ratios.
+
+And it's not just for today's problems.
+
+These concepts come up all over the place
+
+in all branches of science, including geology
+
+and environmental sciences.
+
+They're used in simple problems.
+
+They're very fundamental.
+
+They also come up and help to solve
+
+some more complex problems.
+
+So the first thing we'll look at is Pythagoras theorem.
+
+And this is for a right-angled triangle.
+
+So any triangle where one of the angles is 90 degrees, OK?
+
+By definition, I can only do one,
+
+because that only leaves 90 degrees split
+
+between the other two angles.
+
+So you have a single right angle in a triangle.
+
+Of course, a triangle doesn't have to have a right angle.
+
+There are many different kinds of triangles
+
+with three different angles, none of which are 90 degrees.
+
+But Pythagoras theorem applies directly
+
+to a right-angled triangle.
+
+And it says that the square of the hypotenuse,
+
+and this is the hypotenuse, the longest side.
+
+So in this diagram, it's side C. The square of the hypotenuse
+
+is equal to the sum of the squares of the other two sides.
+
+So the squares of these two sides here.
+
+Going back to what we talked about in week one,
+
+that only applies so long as you have got the measurement
+
+for sides A, B, and C in the same units.
+
+If you use meters for one, and centimeters for another,
+
+and millimeters for another, Pythagoras theorem
+
+does not work, OK?
+
+They've all got to be in centimeters, or meters,
+
+or miles, or cubits, or elbows, or fingers,
+
+so long as it's the same unit that you measure
+
+all three sides in, OK?
+
+And so this is a very, very ancient theorem.
+
+And the pictures upon the board show you that it's true,
+
+pictorially, that it's true.
+
+You can also go through a mathematical proof,
+
+which we're not going to do.
+
+What I need you to know is the theorem
+
+to know it and to use it, right?
+
+And those pictures just show you, in terms of area,
+
+C squared is like the area of a square with sides C, C, C,
+
+and C, OK?
+
+Same for A and B. And you can put those into a further big
+
+square and just show, just prove to yourselves
+
+that those areas are indeed the same
+
+by rearranging a series of triangles.
+
+So I hope that makes sense to everybody.
+
+You can see that very pictorial proof of the theorem.
+
+But the main thing is learn it, know it, use it, OK?
+
+So the square of the hypotenuse is
+
+equal to the sum of the squares of the other two sides.
+
+Or in terms of the labeling on this picture,
+
+C squared is equal to A squared plus B squared,
+
+where C, A, and B are the lengths of the three
+
+sides of a right-angled triangle.
+
+And I expect many of you have come across that before, OK?
+
+But it is a really important and a really useful theorem.
+
+We're also going to be dealing with angles.
+
+And so you need to understand that you can measure angles
+
+in two different units, either in radians or in degrees.
+
+And again, sometimes it's just easier
+
+to use one or the other, but it doesn't matter which one you
+
+use particularly, so long as you know which one you are using
+
+and using.
+
+If you're using a calculator, you probably
+
+look on it, and it will give you
+
+the option of using either radians or degrees
+
+if you're making a calculation that involves an angle,
+
+for example, finding the sine or the cosine of an angle.
+
+Make sure you choose the right button on your calculator
+
+for the right.
+
+So if you're using calculators a lot,
+
+then that's usually the thing that
+
+goes most wrong when you're doing trigonometry.
+
+You've got it set to radians, and you put in degrees
+
+or vice versa.
+
+The two are, of course, related.
+
+And the radian is the angle subtended
+
+at the center of a circle by an arc length of one radius.
+
+So the arc length is the distance
+
+around a bit of a circle.
+
+You can see that marked up there on the left-hand side
+
+is r.
+
+And when that's equal to the radius of the circle,
+
+then the angle in the middle is one radian.
+
+And from that definition, we know
+
+that that means there must be two pi radians at the center
+
+of a full circle, because the full circumference
+
+of a circle is given by 2 pi r.
+
+So if one r around the circumference is one radian,
+
+and there's 2 pi r all the way around,
+
+then there must be 2 pi radians at the center of the circle.
+
+There are also 360 degrees at the center of a circle.
+
+So we know that 2 pi radians is equal to 360 degrees.
+
+And so that means that we can convert quite easily
+
+between degrees and radians.
+
+And sometimes we want to do that.
+
+Sometimes that's useful to do within our calculations
+
+or for expressing angles in a particular way that's
+
+useful for our application.
+
+But when doing calculations, once again,
+
+make sure your calculator is set onto the unit
+
+that matches your input.
+
+I'm not going to go through all these.
+
+They are on Blackboard, and you can look at them for yourself.
+
+But they're just examples of how you
+
+might move between converting between degrees and radians.
+
+And it's helpful just to sort of have in your head
+
+that 2 pi radians is 360 degrees.
+
+That means that pi radians is 180.
+
+And pi by 2, or half of pi, number of radians,
+
+is a right angle.
+
+And if you remember those, then everything else
+
+you can calculate from that.
+
+So we're not going to go through all of those.
+
+You can have a go for yourself.
+
+Just practice your conversions.
+
+But really, probably the best advice I can give you
+
+is the one about the calculators.
+
+So we've talked about Pythagoras theorem
+
+for a right angle triangle.
+
+And there are a number of other useful things
+
+that we can do with right angle triangles.
+
+And sine, cosine, and tangent of angles is one of them.
+
+And so that's what we're going to look at here.
+
+We're going to take our right angle triangle again.
+
+So we know one angle is a right angle.
+
+That means we know the other two angles between them
+
+must add up to 180 degrees.
+
+So if we've got a right angle triangle,
+
+one of the angles is 90.
+
+That means the other two must also add up to 90.
+
+So we have ways of identifying these other two angles
+
+using the sine or the cosine or the tangent.
+
+And often in a problem, you might
+
+have two of the sides of the triangle
+
+or one of the sides of an angle.
+
+And you're asked to find the other sides
+
+and the other angles.
+
+And while we can do that as a simple math problem,
+
+that's often what you're faced with trying
+
+to solve a real world problem.
+
+So these what are called trigonometric ratios, sine,
+
+cosine, tangent of an angle, we can calculate
+
+if we know the length of the side of the triangle.
+
+Again, the right angle triangle.
+
+So the sine of the angle is just given
+
+by the length of the side opposite the angle.
+
+So we've got our triangle here, A, B, C.
+
+This is the angle that we're talking about, theta.
+
+So the side opposite that is this one.
+
+So the side B, C is opposite the angle at A.
+
+And it's called the opposite side.
+
+This is our hypotenuse, the longest line.
+
+We've already talked about that.
+
+So this one's the hypotenuse.
+
+And this side here, next to the angle, next to theta,
+
+is called the adjacent side.
+
+So the sine of the angle is the opposite.
+
+So that's B, C over the hypotenuse.
+
+That's A, C.
+
+So the sine is this side divided by this side.
+
+Assuming, of course, that the length of your sides
+
+are given in the same unit.
+
+Cosine of the angle is the adjacent side
+
+over the hypotenuse.
+
+That's this side here, A, B, over the hypotenuse,
+
+which is A, C.
+
+And then the tangent of the angle is the opposite side.
+
+This one over the adjacent side.
+
+This one.
+
+So that's called tan theta.
+
+And the tangent, tan theta, you can also get that
+
+or define as sine theta over cos theta.
+
+So is this new to anybody?
+
+You're all familiar with it.
+
+You remember it from somewhere back at school.
+
+All OK?
+
+It all works out.
+
+We can put together this and Pythagoras' theorem
+
+and look at some common angles.
+
+So if we've got a triangle that's got sides
+
+opposite and adjacent sides of one and one,
+
+then as well as being a right-angled triangle,
+
+in this case, it's also got two sides that are exactly the same.
+
+And so that tells us that the two angles,
+
+the other two angles, must also be the same.
+
+And that tells us they're 45 degrees.
+
+And we can then work out the sine, the cosine,
+
+and the tangent of 45 degrees and give that
+
+in nice, simple numbers.
+
+So sine of 45 degrees is one over root two.
+
+Cosine is the same.
+
+And the tangent is just one.
+
+It's just opposite over adjacent.
+
+One divided by one is one.
+
+And if you know what the sine, cosine, tangent of an angle is,
+
+in other words, you know that the sine theta is one over root
+
+two, then you can work backwards and find out
+
+what the actual angle is as well.
+
+Your calculator will do that for you.
+
+There's usually a little symbol.
+
+It'll say sine minus one on it.
+
+And that lets you go the other way.
+
+So that if I know the sine of an angle is one over root two,
+
+then I can work out that the angle is 45 degrees.
+
+But these 30 degrees, 60 degrees, and 45 degrees
+
+are very simple sine and cosine numbers.
+
+We can work them out using our right-angled triangle
+
+and Pythagoras theorem.
+
+And we often, for these simple sine, cosine, tangents,
+
+leave them just as a half or as root three over two
+
+or one over root three or whatever it might be.
+
+Again, it's often very useful to do that if you're
+
+doing larger calculations.
+
+This is just part of a much bigger calculation.
+
+And if we do that, then these are
+
+called the third form of the fraction
+
+or of the sine or the cosine.
+
+So root three over two is the third form
+
+of cosine of 30 degrees and of that fraction.
+
+So they're quite useful things to recognize, those simple ones,
+
+60 degrees and 30 degrees especially, are very useful.
+
+And because they're simple and because it's just a half
+
+or root three over two, simple numbers,
+
+then they used a lot of course in calculations
+
+and in examples.
+
+We are OK with that.
+
+Does that make sense to everybody?
+
+So what's that got to do with gold mining?
+
+You will find out later on this afternoon
+
+when you're doing your problems.
+
+So let's go to the other end of the gold mining problem
+
+and let's talk about slope and direction of seams of rocks.
+
+Doesn't have to be gold.
+
+It's just gold and an attractive thing to have a problem about.
+
+And that comes back really to it's a little bit
+
+about structural geology.
+
+And I expect you will come across this again in parts
+
+of understanding years or it may be discussed
+
+when we go on one of your field trips, either one of the day
+
+ones, I think you went on one yesterday, did you?
+
+Or at the end of the year when you go
+
+on your longer field trip in April.
+
+So structural geology is the study
+
+of the three dimensional distribution of rock.
+
+So we've got a layer of sandstone overlaid
+
+by a layer of gritstone and on top of that some gold
+
+and then we've got a bit of granite.
+
+I'm sure a geologist would tell me that's well my impossible.
+
+But you've got lots of variations in the rock
+
+overlaid on one another or with intrusions of one type of rock
+
+into another type of rock.
+
+And structural geology is the study
+
+of that three dimensional distribution
+
+and often unpicking or trying to understand why it's like that.
+
+What happened to leave that three dimensional rock
+
+structure with its seams and its intrusions and its layers?
+
+How did that happen?
+
+What's the history of the earth at that point?
+
+Today we're going to look at an economic part of that
+
+and look at an idea about a seam of gold.
+
+So a seam of gold is a plane of rock that's high in gold.
+
+It's not yellow shiny bar stuck into the ground.
+
+It's rock that contains gold.
+
+You have the rock and then extract the gold from it.
+
+So often we don't know what's under the ground.
+
+We can't see that.
+
+All we see is the top surface.
+
+Or if we want to find out what's beneath the surface,
+
+then initially what we might do is to drill a hole.
+
+Drill a hole and have a look what's down there
+
+or take out the rock from within the hole
+
+and see what's beneath the surface.
+
+If you're looking for gold, you don't want
+
+to just randomly start digging.
+
+It's not going to be very useful.
+
+So we drill holes, look at what comes out of that hole.
+
+Is it what contains gold or not?
+
+Should we dig a bit further or is it a waste of time?
+
+And in doing that, you're then trying to work out,
+
+let's say we have found something with gold in it,
+
+seam of gold, where does that go?
+
+We may see a bit at the top of the surface,
+
+but does it go straight down?
+
+Does it go almost horizontal?
+
+Does it go at some angle into the ground?
+
+Maybe it changes angle at some point.
+
+We need to know about that to find out whether it's worth
+
+doing a bit more mining and digging up the gold.
+
+And so geologists have a way, a measurement convention
+
+for explaining how a seam, let's call it a seam of gold,
+
+we'll stick with a seam of gold for simplicity,
+
+where the seam of gold goes beneath the surface.
+
+Or sometimes it's on the surface.
+
+Sometimes it might be a cliff face, for example.
+
+Then you can see what's happening,
+
+but you might still need to describe it
+
+in conventional terms for somebody who's not there,
+
+for somebody who can't see it.
+
+And so there are two things that we need to know.
+
+What direction does it go in at the surface?
+
+If we've got a plane, a seam of gold,
+
+coming out of the surface here,
+
+make sure you understand this,
+
+because if you do, today's problem will be really.
+
+So I'm standing on the surface.
+
+The first thing I need to know is,
+
+here's my seam of gold sticking out,
+
+and I'm trying to describe this to my banker back home,
+
+so they'll give me lots of money for that.
+
+So first of all, I want to know what direction is that?
+
+So the simple way to measure that
+
+is just to measure its direction at the surface from north.
+
+Yep?
+
+So my seam, or maybe my seam's running east-west,
+
+or anything in between,
+
+that tells someone if they've come here
+
+and they're looking for a seam of gold,
+
+that's in that piece of rock that's going that way.
+
+Then I want to know, it's going down in,
+
+first seam of rock, we've decided it's running north-south.
+
+Is it going straight down, like a well?
+
+Is it tilted that way?
+
+Is it tilted that way?
+
+And what angle is it tilted at?
+
+Those two bits of information for a plane of rock,
+
+the direction the top of it faces,
+
+let's call it the top,
+
+and how it slopes down into the ground,
+
+I have a good idea of the structure at that point
+
+for the gold, yes?
+
+Obviously, if it's at the top here
+
+and it's tilted in that direction,
+
+it's pretty useless drilling over here.
+
+I need to know which way it's sloping into the ground.
+
+It would also be pretty useless drilling over there,
+
+because it's not sloping that way, it's sloping that way.
+
+So how do you tell people that?
+
+How do you tell people those two things?
+
+What we do, well, there are two ways.
+
+There's what's called the strike and the dip.
+
+So that's the first way.
+
+So the strike is the line of intersection
+
+between the feature, our seam of gold,
+
+and the horizontal plane.
+
+In other words, it's what direction does this go in,
+
+where it sticks out of the surface.
+
+So that's the strike.
+
+And then the dip is the inclination below the horizontal,
+
+measured at right angles to the strike.
+
+So I need to count.
+
+Yes, we're all happy with that.
+
+Tilting that way, and then measure it
+
+as the slope downwards from a line
+
+that's perpendicular to the strike.
+
+So this is the strike direction.
+
+That's just basically a line along the ground,
+
+perpendicular to where the gold's sticking out.
+
+And then I measure the angle between the,
+
+I want to measure the slope,
+
+how steep it goes down into the ground.
+
+Yes?
+
+I would draw a line along the ground.
+
+It's going down quite steeply, isn't it?
+
+So I don't know what, 65 degrees into the ground.
+
+It might be like that, it might only be 15 degrees.
+
+But then I know how steep it's going.
+
+And it would help, if that helps me work out,
+
+for example, when you're doing your seam of gold question.
+
+If you know the dip angle, how steeply or otherwise
+
+it dips below the ground, you can work out
+
+how deep you're going to have to dip
+
+to get the gold out, right?
+
+If it goes down very steeply, then before long,
+
+you're going to have to dig a really deep hole
+
+to get to the bottom of that seam of gold.
+
+But if it's very shallow,
+
+then you're only going to have to go a little way down.
+
+So that's called the dip, the strike and the dip.
+
+Then we can define how this plane of rock
+
+is going down below the earth.
+
+So we might say something striking 25 degrees east of north.
+
+This is going to the not brilliant diagram up there.
+
+So the strike line is to the east of north,
+
+25 degrees east of north,
+
+and then the dip is 45 degrees.
+
+So then it's sloping 45 degrees down beneath the earth.
+
+So strike and dip is very common.
+
+Another way of saying almost the same thing
+
+is to say dip and dip,
+
+which gives you the same information.
+
+And so you measure, when you're doing dip and dip,
+
+instead of measuring where this is, where this line is,
+
+you're saying what direction are you facing for the slope?
+
+So you've got an angle of slope down here.
+
+That's the second dip, same as the other one.
+
+But then what direction is this line facing?
+
+Which way is it?
+
+Which way is the slope of the gold looking, if you like?
+
+If it had eyes here, which way would it be looking?
+
+And so in that case, you'd say, well, in this case,
+
+we've got a dip of 45 degrees towards 115 from north.
+
+So on that diagram, we've still got a dip down of 45 degrees.
+
+That's still the same, yeah?
+
+But now, if you imagine there are little eyes
+
+in that plane, which way is it looking?
+
+It's looking 115 degrees from north.
+
+Because that's the strike that is looking 90 degrees,
+
+so it's what would be the strike plus 90 degrees.
+
+And 90 plus 25, which we have in our strike.
+
+So the two things end up with the same definition.
+
+And it really just depends which you prefer,
+
+what works best in your mind for defining
+
+where this plane of rock is
+
+within the three-dimensional structure that's the earth.
+
+And so you get something sort of like that.
+
+So this was a gold mine in Australia.
+
+And you can see that that was sloping down
+
+beneath the surface, and they needed to find out
+
+whether it was worth digging up this seam of rock
+
+that contained gold.
+
+So they dug a number of boreholes,
+
+sampled the rock from those boreholes.
+
+I'm sure they calculated, first of all,
+
+where they more or less expected the gold to be
+
+from looking at the strike and the dip
+
+that they could see at the surface.
+
+But seams of rock are not always
+
+completely straight flat lines.
+
+They can change angle.
+
+But it's a good start, okay?
+
+Start with what you know.
+
+And they drilled a number of boreholes,
+
+sampled the rock around the areas
+
+where they thought they might start to get gold,
+
+took samples out at different depths,
+
+brought those up, crushed up the rock, took out the gold,
+
+looked to see how much there was,
+
+and then were able to work out
+
+whether it would be worthwhile digging up
+
+or mining for that seam of rock that contained gold.
+
+How costly is it to dig down and get the gold out?
+
+Would it pay for itself?
+
+And you're going to do a similar calculation.
+
+This afternoon, as it says here,
+
+sometimes the seam will protrude out of the ground for a bit.
+
+And then that makes things,
+
+that gives you a really good clue
+
+as to how you're going to start
+
+and where you think the seam might go
+
+once it gets beneath the ground.
+
+So it's this sort of picture
+
+that you're going to be starting with this afternoon.
+
+Is everybody okay with that?
+
+Did that help at the back there?
+
+Okay, great.
+
+I think that's it for that one.
+
+Oh yeah, that's just the question
+
+you're going to do this afternoon.
+
+So we don't need to look at that again.
+
+Would you like me very quickly to do the middle lecture?
+
+Or is everybody okay with that?
+
+Yes, you like, okay.
+
+Okay, so this is another application of trigonometry.
+
+And again, one of the additional questions today
+
+just looks at this in a little bit more detail
+
+just to help embed it in your minds.
+
+So it's looking at something called Bragg's law
+
+and that helps us to determine the distance
+
+between planes in a crystal, in a solid crystal,
+
+which also has very many applications
+
+in different branches of science.
+
+And just as Jules' law that we looked at last week
+
+or the work of Jules, he was a sort of brewer remember,
+
+Bragg also has a link to Manchester.
+
+He was the Langworthy Professor of Physics here
+
+at the beginning of the 20th century
+
+or one of the Braggs was, William Lawrence Bragg.
+
+But he and his father shared the Nobel Prize in Physics
+
+in 1915 for services in the analysis of crystal structure
+
+by means of X-rays.
+
+So they used X-rays to find out
+
+how different crystals were structured.
+
+And at the time, it was still widely believed
+
+that light was a wave, a sort of disturbance
+
+in the electromagnetic field.
+
+So it's this wave idea of light that Bragg used
+
+and that we're going to use.
+
+Today, of course, we know that we can also think of it
+
+as a series of photons.
+
+You all familiar with that idea?
+
+Yeah, okay, good.
+
+And of course, experiments with light
+
+and definitions of light go back a very long way.
+
+Back to ancient Greek and the Greek philosophers
+
+who did a lot of optics,
+
+so sort of underpinned what's known as modern optics.
+
+And then in Iraq,
+
+oh, about a thousand or so years ago,
+
+they were looking at color and sort of packets of light.
+
+Then coming a bit more up to date,
+
+people using, played in a lot of work around using wavelengths
+
+of light, and then people also started to say,
+
+well, that doesn't quite fit
+
+with all the theories that we have.
+
+Maybe there's a different way to think of light.
+
+And then it was Einstein who finally
+
+sort of pulled together thoughts
+
+about thinking of light as little packets of energy,
+
+as photons, what we now call wave-particle duality.
+
+Anyway, going back to Bragg.
+
+So what they did was to shine X-rays
+
+through a crystalline solid,
+
+protecting themselves in the meantime
+
+with the big LED screen.
+
+And then they put a photographic plate
+
+beyond the crystal solid.
+
+And of course they got the X-rays made a spot
+
+on the photographic plate,
+
+the sort of straight through spot.
+
+But they also got a pattern of spots
+
+around that main straight through beam.
+
+So a distinctive pattern
+
+of what are called diffracted X-rays.
+
+And it was in explaining that
+
+and then using that to work out crystal structure
+
+that won them the Nobel Prize.
+
+So we're gonna jump straight to what they worked out,
+
+which is this, that is known as Bragg's law.
+
+And you can see that there's some trigonometry involved.
+
+We're going to use some trigonometry.
+
+We've got some angles.
+
+We've got some right-angled triangles.
+
+This here is a right-angled triangle.
+
+Here's the right angle at B.
+
+There's a right angle at A here as well.
+
+And this theory also involves
+
+the idea of constructive and destructive interference.
+
+Because of course we can use the idea of light
+
+as both waves or particles.
+
+It's that they're both correct.
+
+And in some explanations, one description works better.
+
+And in other cases, another one does.
+
+So using waves here is absolutely fine
+
+and it works very nicely, right?
+
+So we're thinking of light as a wave.
+
+You're all familiar with waves.
+
+You've seen them in water, okay?
+
+If we have two waves that come together,
+
+then they can either interfere in a constructive way
+
+and boost each other, or they can interfere
+
+in a destructive way and sort of cancel each other out.
+
+And you might have seen this if anybody likes
+
+to sit on the beach and watch the waves coming in.
+
+Sometimes you'll see near the shore waves coming in
+
+and there might be another bigger wave coming in behind
+
+and it sort of catches up a small one
+
+and they both go together as an even bigger wave.
+
+If waves are going in opposite directions,
+
+they can cancel each other out almost, yeah?
+
+And the same thing can happen with light,
+
+which is just a wave.
+
+Oh, we're thinking of it as a wave,
+
+a disturbance in the electromagnetic field.
+
+If we have two waves as on the bottom left there,
+
+which are exactly synchronized with each other,
+
+then they interfere in a way that we call constructive
+
+and the net disturbance is twice,
+
+is the sum of the two individual disturbances.
+
+So that's, if they happen to meet
+
+when they're both exactly in sync,
+
+then you get this constructive interference.
+
+The opposite is that they might meet
+
+when they're exactly at the opposite phases of their wave.
+
+So the peak of one and the trough of the other, right?
+
+And if they meet together and try to move the medium
+
+and they're in one, one way and one the opposite way
+
+by an equal amount, then the net movement is nothing, yeah?
+
+And the wave interferes in a way
+
+that we call destructive interference.
+
+So effectively, we just add up for these two waves,
+
+they've got the same wavelength.
+
+We just add up their amplitude at every point
+
+to find out whether they've interfered constructively
+
+or destructively.
+
+And of course you can get the situation
+
+where they're not exactly in sync
+
+and then you get a sort of wave that's doing that.
+
+We're just going to concern ourselves
+
+with the two extremes,
+
+constructive and destructive interference.
+
+So we've got a nice regular crystal
+
+and we want to find out the spacing
+
+between the layers of the crystal, right?
+
+And this is very small.
+
+So if the crystal was, for example, sodium chloride,
+
+then you can see that the spacing from A to B,
+
+we know today is 2.8 times 10 to the minus eight centimeters.
+
+That's pretty small.
+
+You're not going to measure it with your ruler.
+
+We need to find another way to measure it.
+
+And it was this diffraction of Bragg's law
+
+that helps with that.
+
+So what we imagine is a wave, wave plane
+
+coming in towards the crystal, right?
+
+So we've got two waves completely the same,
+
+same wavelength, same amplitude, everything
+
+coming into the crystal.
+
+One of them is reflected, diffracted at this atom here.
+
+So it bounces off and off it goes away from the crystal.
+
+The second wave goes through a gap here,
+
+goes through a gap in the top layer,
+
+hits an atom in the second layer, bounces off that,
+
+goes through a gap in the top layer again and comes out.
+
+So leaving the crystal, we've now also got
+
+two wave planes here, two wave fronts.
+
+And what we're going to work out is whether these
+
+are going to interfere with each other constructively
+
+or destructively.
+
+So to do that, they're in phase here.
+
+They're exactly the same as they go into the crystal.
+
+We need to work out the difference in the distance
+
+they've traveled and whether that's a whole wavelength
+
+or only part of a wavelength.
+
+If it's a whole wavelength, then when they come out,
+
+they will be, again, completely synchronized
+
+and they will interfere constructively.
+
+If when they come out, they're different
+
+by exactly half a wavelength,
+
+they will interfere destructively.
+
+So what we want to know is this distance here,
+
+because that's the difference in the distance
+
+the two waves have traveled.
+
+This one's gone, boom, refracted there.
+
+This one's gone the same distance
+
+when it gets to this point, this is the right angle,
+
+travels the extra bit and then goes from here,
+
+they've both traveled exactly the same distance
+
+when they get to this point here.
+
+Yeah, everybody see that?
+
+So what we want to know is, is this distance
+
+a whole number of wavelengths
+
+or a whole number of half wavelengths?
+
+Do we get constructive or destructive interference?
+
+Okay, sorry, that's a bit wordy.
+
+I hope I've explained what we're trying to do
+
+on the previous graph and here,
+
+again, we've got a system,
+
+so what we're trying to work out, another view of it,
+
+what's the extra distance that the second wave has traveled?
+
+And we do that using our trigonometry
+
+because we've set ourselves up with right angles here
+
+and we know the angle that the light's coming in at
+
+because in an experiment, you shine it in
+
+at a particular angle, so we know our angle theta here
+
+and we need to work out, in this diagram,
+
+the distance from A to B and B to C
+
+and then from that, we need to take away this distance,
+
+A to C dash because one beam's gone A, B, C and out
+
+and the other one's just gone from A to C dash,
+
+so what's the difference in those path lengths?
+
+Okay, and so we can work that out.
+
+We're gonna call the distance between the two layers
+
+in the crystal D, so that's the crystal spacing.
+
+We'll give it a letter, call it D.
+
+So we've got a distance, we've got an angle here.
+
+We can make ourselves a right angle
+
+if we draw a line up here and we can consider this.
