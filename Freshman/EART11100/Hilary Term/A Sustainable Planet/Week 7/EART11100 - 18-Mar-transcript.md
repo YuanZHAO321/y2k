@@ -1,0 +1,2929 @@
+---
+title: "EART11100 - 18-Mar-transcript"
+source: "Freshman/EART11100/Hilary Term/A Sustainable Planet/Week 7/EART11100 - 18-Mar-transcript.txt"
+type: transcript
+---
+
+'EART11100 - 18-Mar', automated transcript
+01/08/2026
+---
+
+Hopefully everyone can hear me alright. We're going to get started. Vicki will
+
+join us but
+
+she's a bit late this morning. Before I start with the slides, if I can just
+
+have everyone
+
+quiet down, thanks. Before I start with the slides, do you want subtitles on
+
+them or not?
+
+Can you put your hand up if you want some subtitles? Okay, great. I will do that
+
+for
+
+you. Okay, so this is a brand new lecture that I've written for this course
+
+because
+
+this is my first year on this unit and I really wanted to incorporate something
+
+about carbon
+
+capture utilization and storage. As you will see, it's an active area of my own
+
+research
+
+but it's a very central set of tools to the climate crisis and that is one of
+
+the biggest
+
+global environmental issues that we face and indeed it's got its own sustainable
+
+development
+
+goal. So we're going to cover a bit of everything, particularly the stuff that's
+
+relevant to earth
+
+and environmental sciences. Okay, so there'll be lots of this that will take us,
+
+if we were to
+
+pursue it would take us into chemical engineering but since you're here to do
+
+earth and environmental
+
+sciences, we're going to focus on those environmental aspects. Okay, so just to
+
+give you an indication of
+
+what we're going to cover. There's a few slides that I've put in here about
+
+context, why this is
+
+important. A lot of this will be familiar to you and we will recap on that
+
+sustainable development
+
+goal climate action. Then we're going to segue into what CCUS is. So as I've
+
+said already CCUS
+
+stands for carbon capture utilization and storage. You'll see that acronym quite
+
+a lot and I will try
+
+and define it every time it's on the screen and therefore why is it needed? So
+
+we can put into
+
+some context the role that CCUS is promising to play in climate mitigation,
+
+climate change
+
+mitigation and then we'll go into each of the three different aspects. So CO2
+
+capture, focusing
+
+on natural systems, CO2 utilization which takes us a bit more into the blue
+
+skies areas and CO2
+
+storage which I'm focusing very much on geological CO2 storage and then we're
+
+going to do paper of
+
+the week. So we're going to have a break between CO2 utilization and CO2 storage
+
+to see how we get
+
+on. That's when you'll get the seats code. I actually can't log in, I need Vicky
+
+to log in to
+
+get that for me and then at some point we will put up the Mentimeter on these
+
+screens as well so
+
+you can ask any questions there and then we'll have those questions up for the
+
+paper of the week.
+
+Okay so these are the intended learning outcomes and these map to the exam
+
+questions. Okay I'm
+
+not going to tell you what the exam questions are obviously but these are the
+
+five different
+
+areas that I am intending you to learn from this lecture. So what CCUS is and
+
+the role
+
+it can play in achieving net zero emissions. Appreciate that it's an
+
+interconnected toolbox
+
+of approaches. Many of the approaches in that toolbox are nature-based so
+
+they're nature-based
+
+solutions as I would call them. Understand how those major capture utilization
+
+and storage
+
+approaches work and appreciate the uncertainties of the longer term approach
+
+which is geological
+
+CO2 storage. I have tried to illustrate throughout this lecture where research
+
+here at Manchester
+
+is really working towards this and that means sometimes I will be showing things
+
+in an
+
+illustrative way that will be beyond the scope of your exam and I will mention
+
+which ones they
+
+are. So there will be some slides with with more detail in there than I expect
+
+you to know or
+
+even understand but it's really there to illustrate how you are studying
+
+somewhere that is actively
+
+contributing to these efforts. Okay and that you can always ask for
+
+clarification with any of that.
+
+Okay so if we remember what the course is built upon it's built upon these UN
+
+sustainable
+
+development goals and goal number 13 is climate action. So we are as of last
+
+year making marginal
+
+progress. I would say that the review for 2025 might not be so modest and the
+
+key environmental
+
+science related challenges are shifting away from greenhouse gas emitting
+
+processes especially our
+
+energy. That's something you'll hear about daily in the news. The shift away
+
+from fossil fuels and
+
+towards renewable energy sources. It's not an easy solution to try and strike
+
+and it it's
+
+controversial but then there's also you know the soil. We've talked a lot about
+
+soil which is
+
+admittedly not my area but as you will come to see soil plays a major role in
+
+storing carbon. New
+
+technologies I'm actually going to focus more on new biotechnologies which is my
+
+area but there
+
+are lots of impacts that still need to be quantified and we will touch on that
+
+with particular emphasis
+
+on CO2 geological storage and I again I'm going to highlight where we can
+
+enhance our efforts
+
+here using natural processes harness those to to develop nature-based solutions.
+
+Okay so this
+
+should not be surprising to anyone. This is atmospheric CO2 up to I think up to
+
+2015 so
+
+obviously we are several years on from there but you can see that rapid increase
+
+since I really
+
+from the mid-1900s and that's the Industrial Revolution and then gradually
+
+different countries
+
+across the world have developed in similar ways and all of that collectively
+
+pumps out
+
+greenhouse gases and particularly CO2. This is as of 2021 the percentage of
+
+global emissions based
+
+on country. I should caveat that this is not per capita so it doesn't normalize
+
+for population
+
+size and the number of people per country but this is probably going to change
+
+again within
+
+the next 10 years and it will flex a bit and why do we care about that well we
+
+care about that
+
+because we've got very clear trends of increasing global temperature rises and
+
+they are increasing
+
+in magnitude and you can see here this only goes up to 2020 and these are really
+
+nice graphics
+
+that basically split the year into the month and it will have the year here this
+
+is I think this
+
+is from Visual Capitalist I like using their graphics they're really self
+
+-explanatory but
+
+what you need to concentrate on and although this isn't a massive range you've
+
+got the very dark
+
+colors which indicate the highest temperature increase and we're seeing those in
+
+the most recent
+
+years so we know from various studies and sources of data that I won't go into
+
+that this increase
+
+in CO2 is directly linked to this increase in temperature so this is global
+
+temperature rise
+
+by country in 2022 so more context here and then projected temperature increases
+
+from 2050 so
+
+obviously we haven't lived that those years yet and we have the agency to do
+
+some things about
+
+this but it's not stopping you know there's no easy switch to turn that off but
+
+it's important
+
+to think about the impacts of climate change not only in terms of global
+
+temperature and again this
+
+won't be news to you either you know we've had a huge amount of forest fires
+
+over the last few
+
+years and generally increase in extreme weather events or extreme climate events
+
+by their definition
+
+it's very difficult to attribute those directly to climate change because for
+
+climate change you need
+
+30 years of weather data or extreme pattern data but that has always been
+
+predicted as an outcome
+
+of climate change that you would have a higher risk of forest fires a higher
+
+increase of heat
+
+waves extreme rainfall droughts and there are many many more I would say we are
+
+fortunate in
+
+the UK that we are fairly well buffered from many of these things but large
+
+waves of the
+
+world in particularly I mean the Los Angeles fires are a good example are not
+
+and we will see more
+
+and more of this as climate change continues so in response to those impacts
+
+global nations
+
+have pledged to reach net zero emissions this is already quite out of date I put
+
+this together
+
+late last year for a conference so the data is true up until 2024 but obviously
+
+there's
+
+huge political shifts in recent months but basically most of these major nations
+
+have pledged to reach
+
+net zero by a certain date and some of these have even enshrined them in law
+
+which you may think
+
+sounds quite serious but I would argue they're just words but nonetheless
+
+there's this direction
+
+of travel towards achieving net zero so how do we do that especially against a
+
+backdrop of the
+
+warmest year on record last year so you can see this trend on a higher
+
+resolution time scale and
+
+we've already gone above that 1.5 degrees global warming that we were trying to
+
+avoid with the
+
+Paris agreement meanwhile since Trump took office he has pulled the US out of
+
+the Paris
+
+agreement and one of the major goals of the Paris agreement is to achieve net
+
+zero and to reduce
+
+those global temperature rises which is now somewhat set back but this is a
+
+really I think
+
+important quote that highlights and contextualizes this topic so this is the UN
+
+Secretary General
+
+Antonio Guterres who I think we might have seen a bit about before and this is
+
+actually a fairly
+
+old quote now a couple of years ago but on the topic of climate action he said
+
+our world needs
+
+climate action on all fronts everything everywhere all at once my interpretation
+
+of that is that
+
+nothing is off the table we need all sorts of approaches to try and tackle this
+
+problem none
+
+of them are simple and many of them interact and through my own research career
+
+I've noticed that
+
+there are many corporations and outside of that academic sphere that are trying
+
+to innovate or
+
+outside of that research and development sphere who don't really understand how
+
+to achieve this
+
+they are serious about pledging net zero emissions but they are not the ones who
+
+are going to deliver
+
+this so this is very much a moving feast and in your lifetimes there will be
+
+plenty of scope if
+
+this is something that grabs you to contribute directly to this issue it's not
+
+going away so
+
+today we're going to focus on the role of carbon capture utilization and storage
+
+technologies and
+
+this is just a really simple schematic that basically takes you through some of
+
+those it's
+
+overly simplified so we're going to go through it in more detail but essentially
+
+heavy industry
+
+not just from energy but also from cement and steel and lots of other what we
+
+call foundation
+
+industries ceramics glass chemicals they produce vast quantities of co2 in fact
+
+cement production
+
+I believe is is at the moment the biggest contributor and then that can be
+
+captured
+
+in many different ways and we'll go through that in more detail this is kind of
+
+a you know an implied
+
+so we don't really talk about compression but there is a whole area of research
+
+that goes on
+
+between how to capture that co2 how to store it in the short term how to
+
+compress it how to transport
+
+it that is not our domain so we're not going to talk about that today and what
+
+we will talk about
+
+are different ways that you can then utilize that captured co2 to try and
+
+achieve what we call a
+
+circular economy which will reduce the need to go to fossil fuel sources for
+
+your for your carbon
+
+but also for storage and this is the the way that you can actually take those
+
+emissions out
+
+of the atmosphere however you do that capture process and store them permanently
+
+away so that
+
+is a removal of co2 from the atmosphere not just a reusing of it so these are
+
+not straightforward
+
+but they're really interesting problems so I'm hoping I can convince you of that
+
+today
+
+so before we go into these individuals I map this back onto this Venn diagram
+
+after I put
+
+this lecture together because it was very clear to me that this is not three
+
+simple boxes that
+
+you can put things in this will make more sense when we go through some of these
+
+individual
+
+approaches essentially you've got this orange circle in the Venn diagram which
+
+is about capture
+
+and some of those really are isolated to just capturing co2 then you've got
+
+utilization and
+
+some of those are just direct utilization and then you've got geological storage
+
+which is direct
+
+storage but then there are lots of overlapping issues things like the nature
+
+-based or landscape
+
+based solutions capture and therefore store some of these capture approaches
+
+such as biocatalytic
+
+conversion or biological fixation end up doing so to use that co2 so you'll see
+
+that there are no
+
+straightforward boundaries between where one of these three ends and another
+
+begins most of the
+
+time so I'm calling it an interconnected toolbox and that's why we're learning
+
+about it together
+
+holistically rather than just having a lecture on co2 storage or co2 utilization
+
+okay so we're
+
+going to start with co2 capture this is largely focusing on natural approaches
+
+to capture co2
+
+and so this is a really nice graphic that summarizes some not all but some of
+
+those
+
+carbon removal technologies or I would call them capture technologies and many
+
+of these are
+
+nature-based so for example we have soil carbon sequestration that is certainly
+
+nature-based soil
+
+naturally pulls in carbon and stores it habitat restoration we're trying to
+
+encourage those
+
+naturally occurring habitats to be in the best health they can be to capture and
+
+store the most
+
+co2 that they can reforestation and afforestation so we'll go through this in
+
+more detail in a minute
+
+but planting trees either to replace those that have been removed recently or to
+
+just increase
+
+the tree cover again using nature harnessing the trees capacities to withhold
+
+co2 biochar this is
+
+locking co2 away in something that can then be used in a natural way in soils
+
+enhanced weathering
+
+this is definitely not biological but enhanced weather weathering capitalizes on
+
+naturally
+
+occurring rock weathering reactions so chemical reactions that consume co2 and
+
+then this one we're
+
+not going to talk about much because I actually don't really understand what
+
+it's trying to say
+
+which is usually a red flag whereas this one I would say is the only sort of
+
+disruptive technology
+
+and some of these are disruptive technologies as well okay so carbon negative
+
+concrete we're not
+
+going to talk about that and but that would be an indication that you know
+
+you're you're creating
+
+something new in a disruptive way biomaterials so avoiding the use of some of
+
+these co2 consuming
+
+producing materials like concrete and we will talk about direct air capture
+
+because that's
+
+that's something that's sort of ramping up at the moment and there's some nice
+
+examples okay so to
+
+go into a bit more detail here we've got soil carbon sequestration I've been
+
+talking to you
+
+mostly about soils in the last few lectures that I've given you and hopefully
+
+this won't be a
+
+surprise by now that soils store carbon both directly in the in the organics
+
+that are held
+
+in the in the car in in the soil but also indirectly in the crops and plants and
+
+other
+
+flora and fauna that they help support and you can see that here so this is a
+
+snapshot you've
+
+got the atmospheric co2 which is consumed during photosynthesis and release
+
+during respiration they
+
+are the opposite of one another but because of all these other processes you get
+
+a net drawdown
+
+of co2 you get this co2 incorporated into plant shoots and roots that decomposes
+
+which then fuels
+
+soil fauna and microbes including your right mycorrhizobia and also your
+
+nitrogen fixing
+
+bacteria that we talked about and then it can stay short-term is humus and then
+
+long long-term
+
+it can get deposited and go through a diagenetic process you know really long
+
+geological timescales
+
+and then that gets stored away and there are ways that you can encourage the
+
+management practices
+
+of using soils for agriculture which we talked a lot about in relation to zero
+
+hunger in order
+
+to encourage the most co2 capture and storage as possible so for example reduced
+
+tillage or no
+
+reduces the loss of co2 from the soil controlling erosion again reduces co2
+
+carbon loss addition
+
+of organic amendments increases the amount of carbon in that system and the use
+
+of cover crops
+
+can reduce that loss as well as increase that input so these are all management
+
+practices that
+
+can be implemented in order to maximize the potential of soil carbon
+
+sequestration and then
+
+we have habitat restoration and what you see here is a really nice visual
+
+summary of different
+
+habitats and their ability to store carbon in terms of carbon this is and you
+
+can see here
+
+particularly with in terms of soil it disproportionately stores more compared to
+
+things
+
+like the atmosphere and plant and animal life and these are terrestrial habitats
+
+but you can
+
+hear wetlands and I'm going to come back to that wetlands are definitely the
+
+largest storage
+
+habitat for co2 boreal forests and they cover a huge amount as well and you can
+
+see this is
+
+the below ground component and then you've got the above ground component the
+
+vegetation and the
+
+flora and fauna but then you can also have coastal environments which are called
+
+sort of blue carbon
+
+restoration because of the proximity to the ocean where you can have this
+
+continuum of habitats
+
+and you can have for example mangrove forests and salt marshes kelp all of these
+
+components store
+
+carbon dioxide and even large marine mammals or marine organisms like whales and
+
+other things
+
+collectively store a large amount of carbon so clearly they can only really
+
+maximize that carbon
+
+storage by being healthy so that's really the crooks of habitat restoration and
+
+then just to
+
+flag you know this isn't always really far removed from where we are this is
+
+just up the road from
+
+where I live this is mellimore just on the edge of the peak district you can see
+
+here kinder scout
+
+if you ever get a chance to go for a hike up there it's beautiful but all of
+
+this here is moorland
+
+which is a type of wetland and the peak that grows there or the the the mosses
+
+that grow there on the
+
+land retain a huge amount of carbon and there are projects going on across the
+
+university to
+
+make that sphagnum moss and all these other mosses as happy as possible to
+
+retain as much co2 as
+
+possible and I'm lucky enough to have a forestation projects on my doorstep as
+
+well so we have things
+
+locally that really are making a difference if you think about their
+
+contributions now this is
+
+fun so trees clearly store carbon dioxide but different trees store different
+
+amounts we have
+
+here a comparison of four this is from 8 billion trees comm which was flagged
+
+really early in my
+
+one of my lectures and essentially it's comparing the amount of co2 stored in
+
+each different tree
+
+type and oak which is something that we have quite a lot of in England or in the
+
+UK in general stores
+
+by far the most co2 and then you can start thinking about your international
+
+travel in terms of how
+
+many trees you know sometimes as a student you might think of expenditure in
+
+terms of how many
+
+pints or or whatever if we start thinking in carbon budgets then all of a sudden
+
+we can start
+
+putting numbers of trees per person to cover that kind of trip so this isn't to
+
+say international
+
+travel is bad we all do it it's just to contextualize the cost to the carbon
+
+budget of
+
+doing something like that and putting it in the unit of a tree but it's not just
+
+trees house plants
+
+also make a difference so this is a really nice sort of adjunct table of data
+
+that tells you which
+
+houseplants capture and therefore store the most co2 I was really pleased when I
+
+saw this because
+
+I'm a bit of a houseplant nut and I felt and I don't do it for this reason but
+
+now I feel
+
+quite smug and I've got a picture here this is a chaotic picture of my house but
+
+I've got some
+
+prayer plants here calatheas which absorb the most of all the houseplants this
+
+is my little
+
+dog Alfie but then I feel quite bad because it's an oak floor so you know swings
+
+and roundabouts I
+
+guess it's being aware you know that you can always make a difference even if
+
+it's about having you
+
+know your very local environment optimized for co2 capture and keeping them
+
+alive that's often
+
+a hard thing biochar is a very interesting one it is kind of a nature-based
+
+solution in the way
+
+that we are cheating that process of taking biomass organic biomass so waste
+
+could be paper
+
+pulp it could just be food waste drying that and then pyrolyzing it into
+
+something that looks like
+
+charcoal basically which is a natural process that happens over a very long time
+
+scale with
+
+the addition of pressure and temperature through that diagenetic processing so
+
+then what we can
+
+get is is biochar as well as biogas bio oil and then heat and electricity but
+
+the main thing is
+
+developing this biochar which then is a very stable form of carbon you're trying
+
+to basically
+
+make it so that it's no longer available widely bio available like the kind of
+
+waste that goes
+
+into landfill is and that usually degrades into methane rather than co2 but in
+
+terms of carbon
+
+content biochar is almost entirely carbon and it's very locked away and you can
+
+see some of the
+
+applications of biochar and this is really what makes it that kind of an
+
+additional aspect of
+
+being a nature-based solution you can add that to your soil environment and you
+
+can improve
+
+pest and disease resistance I don't know what tilth is but I think it's
+
+basically a soil
+
+conditioner you can improve microbial activity mainly because it's a really nice
+
+surface for
+
+microbes to colonize you can increase your nutrient retention moisture retention
+
+and
+
+ultimately make that system more tolerant to drought so you've not only stored
+
+away your co2
+
+in a very robust inaccessible form you've also then done something to improve
+
+the health of your
+
+soil if anybody has ever made a terrarium this is this lecture you're going to
+
+learn all sorts
+
+of weird nuggets of information about me I like making terrariums which are
+
+these enclosed like
+
+ecosystems and you put charcoal in those which really makes all the difference
+
+between whether
+
+your system is going to be happy when you close the lid on it or might go a bit
+
+weird you know
+
+it's a balancing addition you also put sphagnum moss in there as well because
+
+it's that nice
+
+spongy layer anyway that's not on your exam it's just an aside and then here we
+
+have enhanced rock
+
+weathering so you can see we're going all over the place from different soils to
+
+biochar to trees
+
+this one capitalizes on this natural rock weathering reaction that you can see
+
+here which
+
+consumes co2 and produces minerals so you can you can facilitate this process or
+
+even force
+
+that process by basically seeding the environment and that could be terrestrial
+
+or marine with
+
+silicate mineral rocks that then are more likely if especially if you're doing
+
+it on a very high
+
+surface area they will then consume more of the co2 and then that gets washed
+
+into the into the
+
+marine environments and helps buffer against ocean acidification so on the face
+
+of it it's
+
+like a killing two birds with one stone you know you can pull down that co2 from
+
+the atmosphere
+
+and then buffer against that co2 acidifying effect in the oceans by introducing
+
+that bicarbonate
+
+and then we've got the one that I would call sort of a disruptive technology
+
+rather than a
+
+this is direct air capture and this is all exemplified using Climeworks and I'll
+
+show you
+
+a picture of it in a moment you might have heard about this one this is based in
+
+Iceland and
+
+essentially they draw ambient air in they collect the co2 on a filter which when
+
+it becomes saturated
+
+they pull that off and then they have concentrated co2 now what they do with
+
+that they've
+
+strategically situated themselves next to carb fix which we're going to come
+
+back to later in
+
+the lecture which is the co2 disposal geological disposal company and that's
+
+what that's what they
+
+do they store that co2 directly captured from the air they hand it over to their
+
+next door
+
+neighbors at carb fix and they inject it into the subsurface and we will come
+
+back to that but they
+
+also have a branch of their co2 that they send off concentrated greenhouse
+
+growing of fruits and
+
+veg this happens to be nice and I do quite a lot of work in Iceland and you see
+
+these
+
+greenhouses all over the place they can grow their own food because they have
+
+good heat
+
+from geothermal and then this is a real boost so this is this is the Climeworks
+
+site called
+
+mammoth in Iceland it's actually very easy to get to this and it's next to a
+
+geothermal power
+
+plant where you can actually go and look around an exhibit so if you ever get to
+
+go to Iceland
+
+I highly recommend this I mean I've seen a lot of really glossy PR about this
+
+and it's doing really
+
+well in terms of capturing the attention of the likes of Bill Gates so he's
+
+invested in it or
+
+funded it rather through his breakthrough energy foundation it on the grand
+
+scheme of things the
+
+numbers don't make it look like a particularly meaningful amount of co2 that it
+
+can capture
+
+however if you remember back to that quote by Antonio Uterus everything
+
+everywhere all at once
+
+and I would argue that we can't be picky and choosy about what methods we use
+
+that this is if it's
+
+scalable and they can make it work then it's it's it's helping and then just for
+
+a bit of fun you
+
+know co2 gets captured and turned into luxury goods as well and my particular
+
+favorite that
+
+I've got my eye on but haven't got the money or an excuse yet is diamonds so you
+
+can capture
+
+that co2 and turn that into carbon capture diamonds there's also air de parfum
+
+which I don't
+
+really know how they've done that but I guess they've turned their co2 into the
+
+alcoholic
+
+component of perfume and vodka as well clothing so this is actually I think this
+
+is climb works
+
+or maybe Lanza tech and I'll come back to Lanza tech they've been pairing up
+
+with crack hopper to
+
+create clothing from this co2 so it's a really good way I think of engaging you
+
+know those of us
+
+who aren't in the room learning about earth environmental sciences about how you
+
+can do
+
+your bit without compromising your lifestyle so maybe next year or the year
+
+after I might wear
+
+some carbon capture diamonds let's see okay so that was capture but some of
+
+those things by
+
+also utilization however I want to focus this section on sort of very targeted
+
+utilization of
+
+co2 and this is a really nice you've got paper here that it's definitely a
+
+really nice overview
+
+and from that paper you've got these different pathways and we're going to cover
+
+some of these
+
+here now so it's important to distinguish that co2 utilization is direct quote
+
+from the paper
+
+co2 utilization does not necessarily reduce emissions and does not necessarily
+
+deliver a
+
+net climate benefit once indirect and other effects have been accounted for so
+
+this is not
+
+quite as simple as take it from the atmosphere and lock it away this is more
+
+nuanced you take
+
+that co2 from the atmosphere you make use of it and by doing that you remove the
+
+need to recover
+
+you know precursor chemicals that ultimately come from oil and gas so you're
+
+reusing what
+
+you've already generated rather than having to produce any more so you can some
+
+of the things
+
+we're going to talk about are covered here chemicals from co2 so turning that
+
+co2 into
+
+commodity chemicals either to be used as they are or as precursors for things
+
+like plastic
+
+fuels so biofuels the obvious example of that would be biodiesel that you can
+
+use in your cars
+
+products from microalgae I'd say you know things have even moved along a lot in
+
+in the six years
+
+since this paper was published there were other ways of producing products
+
+concrete building
+
+materials we're not really going to cover that but we did touch on it a bit that
+
+you can you can
+
+make concrete with co2 or or make I think it's called net negatives concrete net
+
+negative emissions
+
+concrete co2 enhanced oil recovery we're going to come back to because it's both
+
+utilization and
+
+storage bioenergy with carbon capture and storage this this keeps popping up I
+
+couldn't really tell
+
+you what that is and enhanced weathering we've talked about forestry techniques
+
+and soil carbon
+
+sequestration and biochar is at the bottom there so although we've talked about
+
+these in terms of
+
+approaches they're clearly utilization approaches as well and it the point of
+
+this is really to
+
+help achieve net zero emissions not to get net negative but to prevent the need
+
+to produce even
+
+more co2 and there is some really cool disruptive biotechnologies is much more
+
+my wheelhouse now
+
+which I would argue a redefining what we term nature-based solutions so
+
+traditionally that
+
+you go into nature and you maximize the potential of that natural system at the
+
+landscape or
+
+ecosystem scale to do whatever it is you're trying to get nature to do in this
+
+case co2 capture and
+
+storage but there are other ways of harnessing nature and these all include
+
+microorganisms which
+
+is my area again so these are all different companies most of them in the US but
+
+some of
+
+them such as this one is actually UK based and some are in in Europe as well
+
+they're aimed at
+
+harnessing microbial metabolism to turn co2 into various different useful
+
+products we're going to
+
+come back to Lanzatec in a minute but the most obvious way of seeing this and
+
+one of the more
+
+mature approaches for this is to harness algae to capture that co2 through
+
+photosynthesis just like
+
+trees and grass do and store it in large-scale approaches so these are sort of
+
+light dependent
+
+utilization or actually I would say that's more of a storage process but you can
+
+then use their
+
+metabolism to generate useful chemicals from that as well however these are not
+
+ideal because they
+
+require so much light by definition to work okay so you need to maximize it's
+
+really nice to look
+
+at you know these green pipes sometimes you see these instead they've been
+
+deployed on the surface
+
+of the sea of the ocean in floats and then you're you're not needing all of this
+
+infrastructure but
+
+this does not look like particularly low-hanging fruit when it comes to trying
+
+to find a way to
+
+remove that co2 but it's well it's it's sort of well trodden so I wanted to
+
+highlight this one
+
+Lanzatec it's probably the best known biotechnology that's directly capturing
+
+and utilizing co2 so
+
+Lanzatec have long since been using a type of bacteria called that that's in the
+
+Clostridium
+
+genus these are known to be what's called acetogens that means they can make
+
+acetate and they do that
+
+through this pathway here which is a very ancient pathway so this is very
+
+widespread in the microbial
+
+world and they do this not only to capture that co2 but to then convert that
+
+into energy as well
+
+as other products so you can see here this is a schematic of a Clostridium cell
+
+on the left in
+
+this box here you've got that pathway that's common to all acetogens or most or
+
+all members
+
+of Clostridium and then these are the different processes that you can harness
+
+that knock on
+
+either just as they are or most of these companies and this is why it's got a
+
+little cog in the cell
+
+here most of these companies go in and hijack the mechanical operating of the
+
+cell or the
+
+genomic information to force it to do things more efficiently or make a wider
+
+repertoire of products
+
+so and that's very much patented or secret source IP that you never really know
+
+how they've done it
+
+but the so Lanzatec I think is based in Chicago and they're really prolific
+
+closer to home is
+
+so a colleague of mine in the MIB Nigel Scrutton who is now fellow the Royal
+
+Society he has a
+
+company one of a few called C3 biotech that makes advanced synthetic fuels like
+
+kerosene for I
+
+think the you know the Department of Defense in the US they have a major
+
+contract with that they
+
+don't do that with Clostridium they do it with halomonas which is a salt
+
+tolerating or salt
+
+loving bacterium so this is getting much more in my area now where I like the
+
+extreme stuff
+
+the benefits of that is that you can do these kind of processes you can
+
+manipulate the genome
+
+of that organism to make whatever you want to make as efficient as possible but
+
+critically you
+
+don't need to do this under sterile conditions because they only grow when you
+
+have salt present
+
+so this is a very clever way of harnessing nature within that sort of area of
+
+biotechnology we can
+
+say okay we can engineer this halomonas strain to make really important things
+
+hydrocarbons
+
+bioplastics osmolites things that we can apply to industrial settings and we can
+
+do that without
+
+having to go through any of the costs and energy requirements of sterilizing our
+
+operation and
+
+that's a big deal so this is happening in Manchester right now and then just to
+
+sort of show off some
+
+of what my group do we we go a lot to Iceland you've already seen some pictures
+
+of Iceland and
+
+we're trying to use a similar approach where we're trying to harness microbial
+
+activity but
+
+not from individual organisms rather from communities or microbiomes to do what
+
+they
+
+already do very well in nature which is turn co2 into whatever they need these
+
+environments
+
+tend to be very low in organic carbon so they have to make it very ancient form
+
+of life they're
+
+often studied as an analog for early earth or other planets in fact and when you
+
+get to the
+
+environments of these where they come into contact with water you get hot
+
+springs they're
+
+everywhere in Iceland and they're really variable and so we we have been working
+
+on feeding them
+
+co2 with a bit of help from hydrogen and some nutrients to see what they can
+
+make and in
+
+principle they can make lots of things and the idea here is that we're
+
+harnessing their natural
+
+evolved proficiency of using co2 to turn that co2 into other forms of carbon
+
+that then have a
+
+value to them and I'm just showing you this video because this is what they look
+
+like so the rest
+
+of this slide is far beyond the scope of this course I really wanted to show you
+
+this video we
+
+go to these springs where you have prolific growth so you're seeing there me
+
+harvesting what is very
+
+thick biomass that is thick thick thick like years old we don't actually know
+
+how old and sort of
+
+gunge and that is just microbial mass and the assumption that we make that we're
+
+pretty confident
+
+about is that they make that mass and whatever else they need to live from the
+
+co2 that gets
+
+permeated up through the bedrock so Iceland is very volcanically active also
+
+tectonically active
+
+and the predominant gas that comes through is co2 amongst others so we're trying
+
+to harness the
+
+ability that they already have to turn co2 into useful things as well as other
+
+gas impurities
+
+that we find in industrial waste streams like sulfur and to use that and tweak
+
+that so that
+
+we can get them to produce what we want them to produce without having to
+
+completely rewire how
+
+they do things so the rest of the slide is far beyond the scope of your exam do
+
+not worry about
+
+this this is the one slide that is here to illustrate things but this is some of
+
+our work
+
+where we've shown the proof of concept of who's present and what they can do and
+
+there are some
+
+really interesting things here but this is almost like a teaser if any of you
+
+are interested in
+
+microbiology we will be doing a lot of this work over the next three years of
+
+your degree so you
+
+know watch out for projects but just to repeat this is not going to be on your
+
+exam don't worry
+
+about the detail it's there purely for the video okay so with that I think we're
+
+gonna take a short
+
+break before we go to co2 storage and then we've got paper of the week in that
+
+time so we'll take
+
+ten minutes okay and we'll get the seats code and I'll get Mentimeter up as well
+
+okay great thank
+
+you guys thank you guys we're gonna get started again because we've got one more
+
+section to go
+
+through and then paper of the week which which links in really nicely with this
+
+next section
+
+we've just seen there's a question up on the board could you produce biochar
+
+directly from co2 guys
+
+bit of hush thanks we're just talking about that and we think probably not
+
+because whereas co2
+
+gets turned into diamonds which are pure and they have a very predictable and
+
+important structure
+
+to them tetrahedral structure biochar isn't pure co2 or carbon and it's also got
+
+a very different
+
+structure and that comes from we think am I right there the refining from the
+
+bottom up of
+
+actually quite mixed organic materials and natural yeah a natural charcoal is
+
+not pure carbon it's
+
+got lots of hydrocarbons in it and that hydrogen comes from that organic
+
+material whereas co2
+
+doesn't have hydrogen associated with it so anything you want to make just like
+
+with our
+
+research you want to make something organic from co2 you need to find some way
+
+of adding
+
+in hydrogen yeah our educated guess is that probably not but you could you could
+
+yeah yeah
+
+but that's also why biochar production gives you a whole load of other things
+
+that you can then use
+
+as part of a circular economy like the gas that gets produced and oil and things
+
+like that okay
+
+we're going to move on to co2 storage this is also an area that I work a lot in
+
+and it's a
+
+really interesting one we'll go over what it looks like so I'm first of all
+
+going to make a bold
+
+statement that storage is a completely incorrect word to use that we should
+
+instead think of this
+
+is disposal often you'll see that co2 storage or carbon capture sequestration
+
+CCS as it's often
+
+referred to talks about storage on tens of thousands of years but ideally
+
+permanent so
+
+what is permanent storage if it's not disposal so I think there's a risk that by
+
+calling it
+
+storage we don't take it seriously enough and that there are uncertainties
+
+around this method
+
+that we'll talk about that are quite concerning and need attention and I think
+
+if we were to
+
+call it disposal it would get more attention just like for example the disposal
+
+of nuclear
+
+waste no one wants to do that in a hurry but the storage of nuclear waste
+
+doesn't seem quite so
+
+serious so that's not really anything other than just my personal view on the
+
+words the words
+
+matter and I don't think they're helpful but here you can see a cross-section
+
+you can see
+
+continental crust and subsea crust you can see different layers of rock types
+
+you can see activity
+
+on here basically we're going to go through some of these in more detail but
+
+essentially co2 storage
+
+or geological co2 storage is burying it deep in the subsurface to keep it locked
+
+away so there
+
+are some key attributes to make sure doing that is secure and you know there's a
+
+nice I've linked
+
+a nice paper here that if you wanted to read in more detail you could learn more
+
+about it you need
+
+geology that is appropriately porous and permeable so that you can store large
+
+amounts of co2 that
+
+disperses throughout that that formation on its own you need a big enough
+
+storage reservoir to
+
+make it worth doing you need at least 800 meters of depth and that's important
+
+because it keeps the
+
+co2 high and that is how we can contain it safely then in terms of containment
+
+more directly caprock
+
+integrity and composition is important you essentially need that geological
+
+reservoir
+
+which is porous and permeable and can store that co2 but then has some kind of
+
+impermeable seal
+
+over it so it's very parallel to the kind of environments hydrocarbons are
+
+recovered from and
+
+indeed that is one target formation to store co2 but there are other ways of
+
+trapping that
+
+co2 in situ and we'll go through those different mechanisms and ideally you also
+
+need the ability
+
+to access that site and we'll come back to that in a minute so this is a figure
+
+from a paper that
+
+me and a couple of others are working on right now and there are three main
+
+target formations
+
+there are more but ultimately the ones that have been used up till now and are
+
+being increasingly
+
+used over the next decade or so are depleted oil and gas reservoirs and that
+
+could be either
+
+for enhanced oil recovery transitioning into storage or just direct storage
+
+saline aquifers
+
+which are not exploited because they are frankly not useful for anything else
+
+other than co2 storage
+
+and basalt formations so these all have very different attributes they have
+
+different ranges
+
+of temperatures pressures depths salinities porosities permeabilities basalt is
+
+an odd one
+
+because you can have completely impermeable basalt but it's also a really nice
+
+example because
+
+carb fix has got a really unique way of storing co2 in basalt and we're going to
+
+go through that
+
+this is very important in terms of global global capacity saline aquifers are by
+
+far the largest
+
+reservoir that we can make use of for co2 storage however depleted oil and gas
+
+reservoirs already
+
+have infrastructure they've already by definition proved themselves capable of
+
+containing something
+
+like co2 or gases or or oil over millions of years and basalts there are a few
+
+current projects
+
+ongoing but you will see they make up actually a relatively small proportion of
+
+what's being
+
+so this is something that I've put together for the same paper that should be
+
+out soon this is a
+
+snapshot of where we are where we are now already out of date this is only a few
+
+months old but
+
+you know these things move very quickly so what you see is a global perspective
+
+of and the bubbles
+
+are proportionate to the size of the volume of carbon dioxide in megatons
+
+injected per year the
+
+colours relate to the different formation types you've got enhanced oil recovery
+
+which does overlap
+
+with depleted oil and gas but when it's red it's being used directly for storage
+
+saline formations
+
+basalt in black coal seams in green and salt caverns in purple now salt caverns
+
+are much more
+
+widely used or proposed for transient storage of gases like hydrogen or methane
+
+but they're not
+
+really of large enough capacity to dispose of co2 so they are on there and it's
+
+been demonstrated
+
+they can work but it's not really on the same scale feasibility so immediately I
+
+think you'll
+
+see that this is not equally distributed globally there are pockets of activity
+
+particularly around
+
+enhanced oil recovery in the US so I believe you covered this a bit last week
+
+with Vicki but this
+
+where your recovery approaches that conventionally are used to get oil and gas
+
+out and no longer
+
+recovering economically viable amounts of hydrocarbon and it's long since been
+
+co2 is long
+
+since been used as a way of forcing that residual oil and gas out particularly
+
+oil and then people
+
+have realized well actually that means we look great because we've already been
+
+storing co2
+
+actually a lot of that co2 ends up in that formation often up to about a third
+
+so although
+
+it does store co2 it's almost indirect that's not really the purpose of doing it
+
+and if we take a
+
+big step back and think about how does that contribute to net zero then I would
+
+ask you
+
+to think about you know well if the point of EOR is to get more oil out which
+
+then goes into
+
+that whole industrial pipeline of creating more stuff and inevitably producing
+
+more co2 should
+
+it even be on here so then I've got this little graph that says this is where
+
+we're up to now
+
+how much we're currently storing by formation type and this is what's planned
+
+and you can see
+
+a huge amount of activity in direct storing in depleted oil and gas reservoirs
+
+and saline
+
+formations is planned for Europe so these are things that have been approved or
+
+being built
+
+at the moment whereas what's on the map is what's operational right now so I'm
+
+going to highlight
+
+a few Sleipner is in the North Sea or below the North Sea and this is a really
+
+old really
+
+brilliant demonstration that the technology works so if it weren't for this
+
+system probably we
+
+wouldn't feel confident about storing co2 in the tail end aquifers and and
+
+that's quite a large
+
+I think it's about two megatons of co2 a year there's a really nice database I
+
+used to compile
+
+this that the University of Edinburgh operate called the carbon capture storage
+
+UK research
+
+database it's a horrible acronym but I can link to that on blackboard then here
+
+this is slightly
+
+controversial of late because I think it's actually not gone so well this is the
+
+Gorgon system and
+
+this is underneath Gorgon Island which is just off the coast of Australia this
+
+is by far the
+
+biggest co2 injection operation into saline aquifers that's ever been operated
+
+by now but
+
+up to this point it's very deep two to two and a half kilometers that's more
+
+like the depth of
+
+gas well and then carb fix and I'm not highlighting that because it's
+
+particularly important in terms
+
+of its volume of co2 storage but it operates a very interesting and different
+
+way to these others
+
+now I personally think it's important to acknowledge that all of the major
+
+efforts that are accounted
+
+for on this graph or on this map are being operated or mediated by what we have
+
+traditionally seen as
+
+the oil and gas company so oil and gas sector so Sleipner is operated by Equinor
+
+used to be
+
+Statoil Gorgon is operated by Chevron carb fixes are different in many ways but
+
+then you've got
+
+BP that facilitate lots of the UK systems Shell Exxon Mobil Canoco Philips these
+
+are all massive
+
+what could be easily described as dirty industry players but I'm putting it up
+
+here because I
+
+personally feel it's important that we can appreciate the nuance in this issue
+
+if we're
+
+thinking about storing co2 anywhere in the subsurface the only sector that has
+
+the knowledge
+
+and expertise to do that is that oil and gas sector which I actually prefer to
+
+call energy
+
+sector and it's kind of my job as a researcher in this area to hold them to
+
+account and make sure
+
+they're doing it for the right reasons and then they're not forgetting it
+
+there's a huge way to
+
+policy needs to be involved as well but my group actively collaborates
+
+particularly with Equinor
+
+we're about to receive samples from Sleipner which is very exciting we also work
+
+with Exxon and BP
+
+and Shell Chevron and they are not evil people and it's not as black and white
+
+as saying they
+
+produce oil and gas therefore it's dirty they also are at the forefront of
+
+storing co2 so I
+
+just want to make that statement because I do think it's important it often gets
+
+lost in the
+
+noise this is not a black and white situation okay so we're going to go into the
+
+mechanisms
+
+of containing co2 there are lots of different mechanisms and it's really nicely
+
+illustrated
+
+in this review article by Rebecca Tyne I'm going to come back to Rebecca Tyne's
+
+work in a minute
+
+and essentially there are I mean often people say there are five but there are
+
+actually six
+
+because there's a microbial component in this system as well but we're going to
+
+go through these
+
+so the first is residual trapping residual trapping just means the co2 in that
+
+environment is
+
+immobilized in poor spaces and it's disconnected from other parts of co2 so it's
+
+isolated from the
+
+rest and it's trapped by the capillary forces during the movement of formation
+
+fluids okay so
+
+you've got the definition down here so this happens very quickly once you've
+
+injected it
+
+disperses and you're likely to get quite quickly you're likely to get residual
+
+trapping much easier
+
+to conceptualize is structural trapping and this is where it gets trapped
+
+beneath a seal or a cap
+
+rock this is a prerequisite for us for a successful storage environment you need
+
+that structural
+
+trapping because the proportion of co2 that needs to be contained is significant
+
+and so they need
+
+to be impermeable and then we've got solubility trapping which is essentially
+
+when that co2
+
+dissolves into water you can think of it like carbonated water that's a
+
+spontaneous reaction
+
+that will happen because the subsurface is not dry so regardless of what type of
+
+formation you
+
+get you will get some solubility trapping or and the degree of that will depend
+
+a bit on
+
+chemistry things like that but that is a very important way to take that co2 out
+
+of play then
+
+you have microbial carbon cycling which I'm going to come back to in a minute
+
+because this is a
+
+really ignored but important component of this picture and this is where my work
+
+comes in then
+
+you have precipitation and this is ultimately the goal of co2 subsurface storage
+
+is to try and get
+
+that co2 to precipitate out as carbonate minerals which are then stable over
+
+long periods of time
+
+the kind of time periods that we need this to be stored away from for it to work
+
+and so the last
+
+one then which is kind of relevant but only specific to the coal environment you
+
+can maximize
+
+trapping mechanisms if you were to store co2 in coal bed seams by the sorption
+
+process but as you've
+
+seen from the map the coal projects contribute only a small amount of co2 to
+
+that subsurface
+
+storage and there's nothing planned to do any large-scale coal storage so this
+
+is relevant and
+
+I think it's an interesting trapping mechanism when we think about the the
+
+chemistry of it that
+
+it's not proportionately significant so they're not all equally secure we have
+
+here this sort
+
+schematic that shows you've got your low permeability shale which is a very
+
+common
+
+cap rock which contains that co2 you've got all of these different trapping
+
+mechanisms here
+
+and this is for a high permeability sandstone so sandstones are predominantly
+
+where we get
+
+our oils from in conventional oil recovery but they are also the kind of geology
+
+that we look
+
+for in a saline aquifer that we want to store in but if we see here we've got
+
+the contribution
+
+of trapping plotted against the time since injection stops so you'll have this
+
+structural
+
+and stratigraphic trapping so immediately it gets trapped by that cap rock
+
+residual
+
+trapping is important throughout solubility trapping increases over time and
+
+then mineral
+
+trapping comes much later and as you go from left to right here you're looking
+
+at more and
+
+more secure ways of storing that co2 away so then you can start thinking well we
+
+need to understand
+
+what contributes to these different degrees of stability of storage so what are
+
+the containment
+
+risks I mean if we're storing it we're doing that to remove it from the
+
+atmosphere and stop
+
+it from working as a greenhouse gas we want to make sure like we are going to
+
+store that in the
+
+deep subsurface and it will remain there so you can see a really nice schematic
+
+here you can have
+
+a look at it again in your own time when you can see a bit more detail but this
+
+is from a really
+
+nice review which I recommend you read and looks at all the different ways that
+
+basically co2
+
+might leak out and that could be localized or it could be large-scale and we
+
+still do not
+
+understand all the factors that encourage containment compromise okay this is a
+
+moving
+
+feast as well especially when it comes to saline aquifers because we don't use
+
+them for anything
+
+else oil reservoirs are well studied for their integrity because it's important
+
+to make sure
+
+you can seal and abandon them in there they're secure so that the technology
+
+actually overlaps
+
+very well with co2 storage but when you're looking at a different kind of
+
+formation different
+
+technologies then it's still a bit of a knowledge gap but there are things here
+
+such as you know I
+
+think I've labeled it so you've got here injected co2 displaced fluids and any
+
+mobilized elements
+
+they basically can find small faults or fractures and cause a minor pressure
+
+buildup so that feels
+
+quite localized maybe it doesn't have a big impact but you know depends on how
+
+extensive
+
+that process is here we have faults pathways and other mechanisms to reach the
+
+surface so these
+
+are much more significant structural routes and then we have leakage pathways
+
+and beyond the spill
+
+zone so it can either find or create new leakage pathways so that's when it's
+
+injected and trapped
+
+at the top here then we have a critical buildup of pressure from injecting co2
+
+which can impact
+
+on stress and a combination of factors that can induce seismicity so now we're
+
+talking here we
+
+have a fault you can see if you had that buildup of significant pressure it
+
+could induce seismicity
+
+which is then a concern for the integrity of that system and then you can see
+
+here the co2 could
+
+potentially make use of the natural geological stratigraphy and migrate up dip
+
+and start
+
+contaminating the surface environment or even drinking water you can see this
+
+layer here is
+
+our water table where we got our drinking water from and this indicates that
+
+there's a you know
+
+a truncated depth profile but what you really don't want to do is to contaminate
+
+your water
+
+sources or influence their mobility sufficiently that we are struggling to get
+
+clean water
+
+and we absolutely don't want that co2 back in the atmosphere that's the whole
+
+point so this is where
+
+i have to bang the drum about the microbiology because i give talks at industry
+
+facing conferences
+
+about this and they often say things like why are you interested in microbiology
+
+there's no water in
+
+the subsurface or the subsurface is sterile the subsurface is definitely not
+
+sterile it harbors
+
+the unseen majority of microbial life on earth okay so we got here all life on
+
+earth and then
+
+the deep subsurface this is where the majority of bacteria and archaea are from
+
+okay we don't
+
+really understand what they're doing in most of the scenarios there and this is
+
+so-called deep
+
+biosphere it's very exciting and and if we compare sort of our history through
+
+biology
+
+in the last couple of hundred years you've got you know darwin's famous notebook
+
+where he
+
+he decides he understands how evolution occurs and that's by looking at birds
+
+then you have
+
+the advent of fingerprint techniques so this is 16 s rr and a which told us that
+
+actually
+
+we don't only have bacteria we have two kingdoms of prokaryotes bacteria and
+
+archaea this was a
+
+huge revolution and it occurred around the time that genetics was a big deal but
+
+we are now in
+
+the genomic era and because of the tools available to us we can do things like
+
+uncover the insanely
+
+diverse tree of life that occurs in fact just below the surface much of the
+
+foliage on this
+
+tree is from within the top 20 meters below the surface from one research group
+
+applying
+
+genomic approaches to recover the genomes of things that we aren't able to grow
+
+so we now know
+
+there's extraordinary diversity there we also know from from this and other
+
+approaches when you have
+
+engineered access to the subsurface it's a really great opportunity for people
+
+like me
+
+to then use that opportunity to study the life that exists there and so we now
+
+have a better
+
+understanding of the different types of habitat for life in the subsurface and
+
+especially when
+
+they're engineered they become very habitable so you can definitely have levels
+
+of microbial
+
+life in aquifers in igneous rocks and it's different with every setting as soon
+
+as you
+
+tend to stimulate microbial activity and this is best known in the conventional
+
+recovery of oil
+
+because it costs so much money so in conventional oil recovery you will inject
+
+seawater in an
+
+injector well and you will produce oil from a producer well but that seawater
+
+has sulfate in it
+
+and often in these reservoirs and in the seawater itself you have bacteria
+
+capable of turning that
+
+sulfate into sulfide and in doing so they generate energy you don't need to know
+
+the
+
+mechanism all you need to know about this is that this is a very widespread and
+
+expensive problem
+
+for the oil industry and this is really what kicked off research about life in
+
+the deep subsurface
+
+because of that impact impact on on the oil industry and the reason it's bad is
+
+because
+
+it's very expensive to do that and sometimes it's just not worth it so that's a
+
+recover an
+
+unrecoverable resource potentially it's very corrosive so even if you can
+
+recover your
+
+hydrocarbon it might do so you might you might have some catastrophic failure of
+
+your infrastructure
+
+lots of steel will very easily corrode with sulfide and it's very toxic to
+
+people and to
+
+all other life so there are many reasons why it's bad but i'm telling you this
+
+is specific
+
+to oil reservoirs even shale gas reservoirs look very different in terms of what
+
+causes problems
+
+so we still don't know what we don't know but essentially why wouldn't there be
+
+some kind of
+
+microbial response to storing co2 in the subsurface especially because co2 has
+
+been around much longer
+
+than the large amounts of organic carbon we have on our planet so life from
+
+billions of years ago
+
+has been very happily using co2 as a basis for its metabolism and indeed that's
+
+how we have
+
+photosynthesis so this is our conceptual map of where microbial carbon cycling
+
+could impact
+
+on co2 storage so you have your co2 here this via acetogens could potentially
+
+get fixed into
+
+carbon that may be available to other organisms in fact it could then get made
+
+into methane
+
+equally if you have any residual oil or organic carbon locked away in kerogens
+
+you might have
+
+some degradation and fermentation processes occurring from the community there
+
+and that
+
+then turns what is not very accessible carbon think biochar that kerogen is
+
+basically natural
+
+biochar it turns that into a very readily available source which can then fuel a
+
+whole
+
+of other things some of these processes may produce sulfide some of them may
+
+mediate iron
+
+reactions but there's an opportunity here maybe they can expedite the conversion
+
+of co2 into
+
+carbonate minerals we won't know unless we start looking and understanding it a
+
+lot bit more so
+
+this is really the point of this diagram is to say it's not simple either but
+
+we're pretty sure
+
+some of this is very relevant and we'll come back to that for paper of the week
+
+and obviously this will vary dramatically depending on whether you're
+
+injecting your co2 into a depleted oil and gas reservoir where you're likely to
+
+have that complex
+
+organic carbon left over or maybe even breakdown products or a saline aquifer
+
+where you have a high
+
+salinity which is a very stressful environment for life not impossible but you'd
+
+find a different
+
+type of life there if you're really deep you might end up at that temperature
+
+area which is
+
+way above the limit for life okay so if you go super super deep and your
+
+reservoir is at 200
+
+degrees you you can probably discount all of this because we don't know any form
+
+of life that can
+
+cope above 122 degrees and that's not a happy existence either and then you have
+
+your aqueous
+
+geochemistry as well you know how much nutrient do you have there inorganic
+
+inorganic all of those
+
+things are going to influence how much of this is relevant site by site basis so
+
+this is another
+
+illustrative slide you do not really need to know the details of this it's
+
+really just to sort of
+
+showcase the kind of approach that we at Manchester are taking to try and
+
+understand how we can shed
+
+some light on that map so we look at who's there you know it's different in
+
+every scenario what
+
+they can do based on their genomic material if they're active or not and if they
+
+are active what
+
+lifestyles do they operate and then what's their geochemical context so the
+
+point here is to show
+
+that you can't just look at the geochemistry and you shouldn't just look at the
+
+microbiology it
+
+really needs to be a holistic approach to understanding these things and I would
+
+say that's
+
+pretty unique to earth and environmental sciences as a subject area it's very
+
+systems level very
+
+cross-cutting and that's really what I think you guys have ahead of you with
+
+your degree you can
+
+pick and choose different aspects of these things or see them as a whole in a
+
+way that I don't think
+
+you could do with another degree type so this is not exam material this is again
+
+just an illustration
+
+of the work we do and a lot of this work is co-sponsored or directly funded
+
+through industry
+
+and I make no apology about that that is the only reason we're able to do this
+
+and I personally feel
+
+that we are increasingly reliant on these relations to get net zero done okay so
+
+that's why another reason I'm at Manchester okay that was meant to stagger and I
+
+didn't do the
+
+animation very well but this is the summary map back to those intended learning
+
+outcomes so
+
+hopefully you now know what ccus is and why it matters it's a suite of tools
+
+that interconnect
+
+aimed at the capture utilization permanent storage or disposal of co2 and it's
+
+critical for
+
+achieving net zero emissions and avoiding the worst impacts of climate change
+
+they are interconnected tools some capture methods also store some storage
+
+methods also use
+
+it's not clear cut but they are many of them rely on nature-based processes so
+
+you can think of
+
+them as nature-based solutions including some of these new biotechnology
+
+approaches that's the next
+
+aspect the harnessing the natural world to deliver nature-based solutions so
+
+this could
+
+be at the ecosystem scale you could restore habitat you could plant more trees
+
+or it could
+
+be at the level of a microbe or a microbial community encapsulated in some kind
+
+of bioreactor
+
+they're all harnessing natural processes and in terms of the different methods
+
+of capture
+
+utilization and storage we've talked about things like direct air capture
+
+ecosystem recovery of co2
+
+but also that storage component and then we've talked about the uncertainty
+
+specifically around
+
+co2 storage in the deep subsurface because it is such a critical one
+
+okay and with that i would like us to move on to paper of the week so i
+
+apologize in advance
+
+you've only seen this maybe not even seen it at all but i only put it up late
+
+last night so apologies
+
+about that was off sick last week for a few days so i wasn't able to get this
+
+finalized for you
+
+but we're going to go through the details of this paper now and then i'm going
+
+to leave you with a
+
+few questions that we want you to discuss between yourselves that are a bit
+
+higher higher level so
+
+this is a paper we've got the same name here rebecca tine i'm going to flag that
+
+she is now
+
+an academic in our department and she's she's a fantastic young researcher and
+
+there'll be lots
+
+of opportunities i imagine to work with her as project students in future and
+
+and this is her
+
+so it's a remarkable achievement for someone in early in their career to do such
+
+amazing work
+
+and nature is very coveted journal it also makes it nice and easy to read
+
+because they're really
+
+concise so this was making use of an opportunity to see what happens to co2
+
+that's used in a
+
+field trial for enhanced oil recovery in an onshore reservoir in the us and what
+
+they found
+
+as their very punchy title and indicate is that they had very good evidence that
+
+a significant
+
+proportion of the co2 that was meant to be injected to store was being converted
+
+microbially into
+
+methane which had been you know we've hypothesized it for a while but this is
+
+the first demonstration
+
+really so i've got a glossary of terms here which i'm not going to go through
+
+now but i've put that
+
+so that it's helpful for you to refer to either during the rest of this session
+
+or if you want
+
+to try and understand more about this paper after this session because there are
+
+some probably new
+
+terms to many of you a lot of them to do with isotopes and things like that but
+
+you don't need
+
+to worry about the detail of it it's just really to help you understand the
+
+story in the paper
+
+okay so here is the abstract and i think i've highlighted the two key take-home
+
+messages from
+
+the abstract and i mean hopefully you know by now that you can get probably
+
+everything you need
+
+for a paper to get that top line understanding of what they've done from an
+
+abstract if you want
+
+the detail or the so what or the bigger picture and the supporting you know
+
+previous work that's
+
+when you delve into the paper but here we can already see that there's a clear
+
+acknowledgement
+
+that we need to understand those trapping and storage mechanisms in order to be
+
+confident that
+
+storage in these kinds of environments is safe and secure long term however they
+
+found that
+
+microbial methanogenesis which is a microbial process of in this case turning
+
+co2 into methane
+
+converted as much as 19 of what had been injected only 30 years prior so
+
+remember co2 storage or
+
+disposal is meant to be secure over tens of thousands of years but within three
+
+decades they
+
+a fifth almost a fifth of that had been converted to something else
+
+and so we're going to look through how they got to that conclusion and then
+
+start to think about
+
+what that might mean so hopefully you can see this this is the ola oil field in
+
+louisiana
+
+and they were back in the 80s it was used for co2 injection to recover enhanced
+
+oil recovery
+
+and as a result of that injection of co2 about a third of that and a very
+
+significant amount
+
+went in about a third of it remained in the reservoir after that eor project
+
+ended which
+
+is fairly typical i think when you do eor a large proportion stays in that
+
+reservoir which is why
+
+it can also be considered storage and then it was water flooded not long after
+
+that
+
+so their study used a whole load of different techniques that we use
+
+in the department here which is why i thought it would be a really nice
+
+demonstration of
+
+relevant research so they use noble gas and clumped isotope data with stabilized
+
+tapes and microbiological data to basically trace back the fate of the co2 that
+
+was injected into
+
+that system in the 80s where it's ended up now and they were lucky enough to
+
+have a system 20
+
+kilometers away that had not received any co2 injection that for various reasons
+
+that they go
+
+into detail of in the paper they can consider a control site so essentially
+
+they've got two
+
+sites in the same formation one received significant co2 as part of an enhanced
+
+oil recovery exercise
+
+and the other did not and therefore they can compare and contrast and they found
+
+significantly
+
+higher concentrations in of methane in that co2 injected site than the than the
+
+controls
+
+and and crucially the use of isotopic approaches acts like a fingerprint it
+
+gives you an indication
+
+of what process made that product and so by doing that they can basically
+
+determine that this was a
+
+microbially produced methane fraction not completely but you can tease apart
+
+what's
+
+abiotic and what's biotic and how that biotic process has occurred it's
+
+fascinating stuff
+
+so essentially there's a delta 13 c concentration
+
+ranked against helium so helium is a noble gas which is really inert and is a
+
+good proxy tracer
+
+for the for the movement of fluids and gases in the deep subsurface so you see
+
+noble gas isotope
+
+geochemistry being used a lot to infer deep processes but essentially they have
+
+here you know
+
+um if everything was microbial methanogenesis produced you would expect all of
+
+them to be here
+
+and if everything was just a result of abiotic processes fed by co2 dissolution
+
+you'd find
+
+those lines here and this is essentially increasing degrees of consumption of
+
+co2
+
+and this gray area indicates that you've got a combination of dissolution driven
+
+and methanogenic
+
+microbial processes contributing to that methane production and this really
+
+nicely shows you how
+
+separate they are from the so this is the injected gas and where that sits along
+
+it
+
+and then you can see here this is carbon 13 and methane carbon 13 and carbonate
+
+and how that this
+
+is the co2 injected site and this is the control site you have these far removed
+
+from this injected
+
+gas so you don't need to worry about the detail here isotopes can be a really
+
+tricky one to get
+
+around I always have to go back and refresh my memory about which way it works
+
+but the reason
+
+this is important for biology is because biology will always favor a lighter
+
+isotope than a heavier
+
+one and so you get that fractionation or separation where you get a relative
+
+enrichment or a relative
+
+depletion in different reservoirs and that can be a really robust way of
+
+determining whether
+
+something has been produced biologically or not so then the clumped isotope data
+
+shows it really
+
+nicely that you have clear evidence that ch4 is microbial in our origin it's
+
+highly variable in
+
+terms of where you can trace its source through which is what you'd expect from
+
+a microbially
+
+produced again this is really nitty-gritty detail you don't need to worry about
+
+but it's
+
+the supporting evidence that they've used in this paper only three figures as
+
+well and they've shown
+
+this is where their control site plots and it's ambiguous as to what it is and
+
+they've got here
+
+these clumped isotopes which is basically the heavy carbon and the heavy
+
+hydrogen in the methane
+
+they can analyze simultaneously and if it were thermogenic methane you'd expect
+
+the composition
+
+to be here and then we have this microbial component inferred here so this is
+
+then their
+
+interpretation of what they think is happening now and then in this system so
+
+this is actually
+
+in the supplemental or extended data section but it's a really nice graphical
+
+summary so you have
+
+here co2 injection and in every case they've got this little graph that shows
+
+where you'd expect
+
+that isotopic fractionation to be and there's no microbial activity really
+
+occurring here you have
+
+that co2 injection it's migrating throughout that whole system and then post
+
+injection this is what's
+
+kind of happened since you've got microbial methanogenesis you've also got co2
+
+dissolution
+
+and the sum total of that is what they detect today which is this fractionation
+
+pattern here
+
+which is the combination of the two but crucially that combination of methane
+
+production includes
+
+a microbial component which was unexpected okay so here is where we want you to
+
+discuss amongst
+
+yourselves for the next sort of 15-20 minutes some of these questions so firstly
+
+is the microbial
+
+conversion of methane in a geo co2 storage environment a risk or an opportunity
+
+have a
+
+think about what that might mean the paper very much just documents it could
+
+residual oil be
+
+important in this scenario so this paper looked at enhanced oil recovery system
+
+where you have
+
+residual oil but what if that had been injected into a saline aquifer would it
+
+look different
+
+and what could be done in future to anticipate this scenario how will we
+
+incorporate the learning
+
+from this study to monitor for this so you can just pick one of these and talk
+
+amongst yourselves
+
+and if you're sat on a table on your own please join others we will come around
+
+and try and engage
+
+some discussion with you and and then we will put a few of these questions up on
+
+the on the
+
+mentimeter as well that is your seats code if you haven't already clocked
+
+brilliant thanks guys
+
+the the paper is on blackboard as well it's also very easy to find just from the
+
+title
+
+which you'll see in your lecture slides okay

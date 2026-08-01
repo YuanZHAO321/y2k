@@ -1,0 +1,3887 @@
+---
+title: "EART11100 - 05-Nov-transcript"
+source: "Freshman/EART11100/Michaelmas Term/How to Grow a Planet/Week 6/EART11100 - 05-Nov-transcript.txt"
+type: transcript
+---
+
+'EART11100 - 05-Nov', automated transcript
+01/08/2026
+---
+
+Good morning, welcome, welcome back. Did you all have a good reading week? Did
+
+you enjoy
+
+your, what do you call it, test exam? Your practice exam report? How did you
+
+feel about
+
+it? Okay, so first of all a bit of explanation. So I am now, it has been decided
+
+that I will
+
+continue teaching the plant-based part of this stream of lectures for the rest
+
+of this
+
+semester. So unfortunately Duncan is quite seriously ill, he died, we're hoping
+
+he'll
+
+be back later in the semester but we're not exactly sure. So to remove some
+
+uncertainty
+
+it's been decided that I will deliver the rest of the lectures associated with
+
+this
+
+part of the course. So I will continue to do the animal-based ones, I will do
+
+the plant-based
+
+ones. It was only decided, that decision was only made relatively late last week
+
+which
+
+meant as a result the material for this week was released quite late. Did people
+
+manage
+
+to watch the lecture clips? So I'm going to proceed on that function then. So
+
+we're going
+
+to do the first part of the lecture, I'm going to do more of a kind of
+
+discussion-based thing,
+
+interaction, I don't need to talk to me. In the second half we're going to do a
+
+more
+
+traditional lecture. So for the first half we are going to talk about the
+
+transition
+
+of plants from being little furry mothy things, so mothy is Liverworth and
+
+Cornworth, the
+
+moths. So in the second half of the lecture we're going to talk about how they
+
+evolved
+
+into the very first forest. Just for information the opening music was the song
+
+Reach to the
+
+Sky by Van Forth Shorter. Until I needed the title for this lecture I have never
+
+heard
+
+of them so I can't tell you any more about them. Okay so on blackboard I remind
+
+you slightly
+
+different from what Duncan had originally put so there might have been some, you
+
+might
+
+have seen a slightly different version of this at one point because I realised
+
+later
+
+that Duncan had changed and put me to my L.O. so I wasn't going to teach him to
+
+it.
+
+So these are the I.L.O.s of this week. So one of the parade outfits is a kind of
+
+catch-all
+
+intensive learning outfit. I'm just going to cover what we do in the second half
+
+so I'm
+
+not putting too much into that. But what I want to do in the first half is think
+
+a little
+
+bit about some of these I.L.O.s, take you through them, give you a chance to ask
+
+questions
+
+about and make sure that the material will be covered in the online version was
+
+clear.
+
+Is that okay?
+
+Somebody who's ready to make music please?
+
+Go on. I love the cheesy music. The only reason I do it is because of the cheesy
+
+music.
+
+I've tried to drop my games in class time like you saw me. So I've added a QR
+
+code for
+
+free access and I also added some background images because I'm so put to shame
+
+by Rob
+
+and his creepy eyes. I thought I would give you some background images. It's not
+
+that
+
+Rob and I are in any way competitive on teaching this course. So remember the
+
+questions I'm
+
+using in these quizzes are very much in the line of the questions. You've
+
+already seen
+
+some of the grand style questions already. So they're very much in the style of
+
+the
+
+grand style questions you'll get in January. I should also add, I didn't have a
+
+site that
+
+Ted did last week so I have no idea whether the questions actually relate to
+
+what he's
+
+been taught. So it could be that there was some of the junk he put in that I
+
+didn't know
+
+about. So there were plenty of people. I have no idea what the question is
+
+about.
+
+Okay, so numbers seem to stop changing so we will begin.
+
+Okay, question one then. What is a computer pipe? What is the feature of a
+
+computer pipe?
+
+How many chromosomes do you have? One, two, three or four? So how many copies of
+
+each
+
+chromosome are there in a computer pipe? Okay, good. So, most of you got it
+
+right.
+
+I think you got it wrong. Nobody got those two right because that's the only way
+
+you
+
+need to get out of the answer. This is basically about the alternation of
+
+generations. It's
+
+the idea you get from the Haploid generation to the Dixloid generation. A
+
+computer pipe
+
+is a choral pipe. So the computer pipe, do you think about gametes? Do you think
+
+about
+
+your own gametes, sperm or eggs? Those are the single chromosome versions of
+
+your cells.
+
+So the word gameto should give you that clue. You have gametes, you produce
+
+gametes, plants
+
+produce gametes too. And in the case of things like mottings that we already
+
+talked about
+
+and ferns which we're covering this week, the gamete type is that generation of
+
+a single
+
+copy of each chromosome. Okay, so what do we have? Looks like it's very tiny.
+
+Congratulations.
+
+Okay, so question number two. Okay, so it's kind of the same question again but
+
+from using
+
+different terminology. So as far as I know, is that Haploid, Dixloid, Trinboid
+
+or Tetroboid?
+
+And this is exactly the same question. It's a different topic but basically the
+
+same question
+
+as the last one. Okay. Show me one.
+
+Okay, two of you have got the right answer. So the sphorophyte generation for
+
+that matter
+
+is the gamete type generation, one copy each chromosome, then we get Haploid,
+
+the sphorophyte
+
+generation, two copies, so we get Dixloid. Haploid is not a word, it's Dixloid.
+
+It's
+
+a number of copies of the chromosome you have. You do get organisms which are,
+
+under some
+
+terms we can tell them, under some circumstances it can be Trinboid or
+
+Tetroboid, that's three,
+
+that's four copies. There's even an example, for example wheat, red wheat, is
+
+Tetroboid.
+
+They have six copies of each chromosome. We'll come to that later in the course.
+
+Okay, so James and Emily. Question three.
+
+Alternation of generations.
+
+Is that already said? I could have cut some of these questions out. These are
+
+all questions
+
+I've used in the past, by the way. All variations. So, alternation of
+
+generations,
+
+organisms only found the gamete type, those found the sphorophyte, found the
+
+gamete type
+
+and the sphorophyte, or how do you know if I'm incorrect, you'll say no, I don't
+
+think so.
+
+And my problem with you is that organisms which are found, both of them are
+
+sphorophyte
+
+and the gamete type, so you have to have a pre-living version. So we're going to
+
+come
+
+on stage today and we're going to come on to talk about seeds. So seeds are, or
+
+during
+
+the formation of seeds rather, you do get the formation of column, which is if
+
+you like
+
+a haploid life stage, but it's not a pre-living organism, so it can't survive on
+
+its own,
+
+so it doesn't count. Alternation of generations is when you have both the
+
+haploid generation
+
+and the diploid generation allowed to, able to live on its own. Do we have a new
+
+leader?
+
+I find you are very, very clustered together this week.
+
+Okay, 24 then. Which of the following is not a sphorophyte? So this is covering
+
+material,
+
+this is my aloe from last week that you're covering here, although obviously it
+
+had some
+
+relevance to this, and there is a clue on the slide that you gave the last time
+
+in.
+
+This is not a sphorophyte, it's a moss and edelweiss form that you're offering.
+
+Okay, most of you have got that.
+
+So the sphorophytes are literally the mosses that live in the moss, so this is
+
+where you
+
+get, one thing down here is trying to get that term knowledge and definition
+
+correct,
+
+so you have a sphorophyte, and then what we're going to talk about for the rest
+
+of the week,
+
+for the first half of the morning, includes the terracotta type.
+
+Okay, that's apparently done its work, James is still in the lead.
+
+Okay, question five.
+
+Which of the following innovation is seen in the Rhynie Church flora?
+
+The sphorophyte is back in the tissues, woody tissues, as seen.
+
+Remember, I'm looking for innovation, not something that's seen already before
+
+that,
+
+that sphorophyte, but something that appears in that flora.
+
+The first seen in the Rhynie Church.
+
+The first seen in the Rhynie Church.
+
+Most of you have got that right.
+
+So, sphorophytes already seen in the mosses, albeit not in the free, not as a
+
+completely
+
+free-living form, but as an esteemed part of the plant, woody tissues have not
+
+yet evolved
+
+in the Rhynie Church, and seen similarly have not yet evolved in the Rhynie
+
+Church.
+
+Okay.
+
+Okay, keep going.
+
+Question six.
+
+Which of the following was important in the decline of the lycophyte?
+
+So we're talking about the great forests of the carbonate groups.
+
+So these are the so-called cold forests.
+
+Was it rising oxygen levels, rising carbon dioxide levels, falling oxygen
+
+levels, or
+
+falling carbon dioxide levels?
+
+So during this course we talk about both oxygen and carbon dioxide going up and
+
+down
+
+through geological history.
+
+Both of those, the concentration of both of those gases in the atmosphere has
+
+changed
+
+substantially over the history of the Earth.
+
+And it looks like, why not look at the future about this flora?
+
+We'll come back to that in a moment.
+
+So most of you got it right, but not a vast majority of you got it right.
+
+No need for more.
+
+No, there's no need for more.
+
+No, there's no need for more.
+
+That's the way to the end.
+
+Okay, which of the following was first seen in a lycophyte or a lycopot?
+
+I think you made that fair enough.
+
+If you could start with lycos, sometimes I talk about a lycophyte, sometimes I
+
+talk about a lycophyte,
+
+sometimes I talk about a lycopot.
+
+Do they show a secondary growth after an issue, tomato or seed?
+
+So which of them was first seen in the lycophyte?
+
+In other words, not having seen previously in an earlier organism.
+
+First seen in the lycophyte.
+
+Again, why the long confusion?
+
+So the answer was secondary growth.
+
+So you already start seeing evidence of tomato in the boxes, sorry, the
+
+hornworms,
+
+where hornworms are in the sporophyte part of the hornworm.
+
+You also get them in the ferns, which are here around the same time.
+
+So that's an excusable error, but not quite right.
+
+Vascular tissue, again, it's a similar one, where slightly ambiguous.
+
+The secondary growth, the ability of a trunk to fall, so for something to get
+
+faster,
+
+is an early feature of the lycophyte.
+
+Maybe that's a question I came up with last night, maybe not the best way to put
+
+it.
+
+There is a bit of ambiguity there, and you're allowed to get that one wrong.
+
+Okay, final result is...
+
+I should bring prizes for this, shouldn't I?
+
+Okay, enough of that one, isn't it?
+
+Isn't it nice when it stops?
+
+I could turn the music off if you prefer.
+
+If you just complain about that, I will probably just cheat a little bit.
+
+Okay, so what I'm going to do is sort of work through these.
+
+Think about a little bit about what you're going to do,
+
+what we actually mean by the ILO.
+
+Remember, the ILO is what we're testing in the exams,
+
+the Intended Learning Outcome, what we want you to know at the end of this
+
+week's material.
+
+The questions were designed to test whether you know that.
+
+Apart from that one, the end, which was a bit badly worded,
+
+and wouldn't have made it into the exam, because I only wrote last night,
+
+they're very much in the style of the exam questions.
+
+But really, the whole point of this course is not about the exam,
+
+it's about understanding biological processes
+
+and understanding something about the diversity of life on Earth and how it came
+
+about.
+
+Let's talk about the Riley Chert, then.
+
+Has anybody heard of the Riley Chert before?
+
+Have you heard of the Burgess Shale?
+
+Lots and lots, yeah.
+
+Why have you heard of the Burgess Shale and never heard of the Riley Chert?
+
+Could this be plant blindness, I wonder?
+
+There's a phenomenon called plant blindness, where people don't see plants,
+
+right?
+
+This is particularly common amongst my colleagues in biology,
+
+who are a bit lacking in plant blindness.
+
+Plants are massively ignored, and also massively important.
+
+Most of the biomass on Earth is in plant form.
+
+Not all, not most of the species, but a significant proportion of the species
+
+are in plant form.
+
+Every animal depends on plants, and yet you completely ignore them.
+
+Conservation tends to completely ignore them.
+
+There you are, that's my little bit of some, little bit of rant.
+
+So, a couple of points about the Riley Chert.
+
+So, what was the Riley Chert?
+
+Basically, yeah, so it's...
+
+I don't know, it seems a very new problem.
+
+I can't actually remember.
+
+I can never remember to be a logical time, which order they go in.
+
+Naren would have a fit if she ever came to one of my lectures.
+
+So, basically, this is, we have the mosses that the barfites have appeared on
+
+land.
+
+They're limited very much by the fact they can't get very tall.
+
+So, they start, with the sporophytes, you start to see the appearance of some
+
+vascular tissue.
+
+Still fairly primitive vascular tissue, but you have some kind of tubes.
+
+So, basically, it's all about water.
+
+It's all about getting water from the ground to the upper tissue.
+
+So, what would be the impetus, what would be the driver to get taller?
+
+Why would plants want to get tall?
+
+To compete for light.
+
+To compete for light, exactly.
+
+So, plants are, well, these days, plants are competing on two fronts.
+
+They're competing above ground for light, and they're competing on space, for
+
+some reason,
+
+and below ground for nutrients from the soil, the major thing.
+
+Nutrients and, to a lesser extent, water.
+
+In some habitats, it was water, but most commonly in nutrients.
+
+So, that driver, that evolutionary driver, that selective pressure, anything
+
+that can be taller,
+
+if you're taller, then you can compete better for light.
+
+If you think about that transition from the sporophytes to the vascular plants,
+
+as we would call them, things with proper vascular tissue,
+
+and like I say, the sporophytes of a moss do have primitive vascular tissue, but
+
+it's not very good.
+
+I think it would be the best way of putting it.
+
+They also start having stomata, but again, not as efficient and as functional as
+
+the ones that appear in the vascular plants.
+
+You have to have a system for sucking water.
+
+If you want to be tall, you have to have a system for sucking water.
+
+And it was the sporophytes, in that transition from the vascular sites to what
+
+we'd call the teratocytes,
+
+or the leptocytes, both groups appeared around the same time,
+
+it's that impetus to get taller is the evolutionary selective pressure,
+
+but it meant that you get this transition from the breast, but the gametophyte
+
+never really did it.
+
+So, the gametophyte stayed down near the ground.
+
+Gametophytes, so lycophytes and teratophytes, so the lycopods and the ferns, the
+
+fern lycoplums,
+
+have all got, still got gametophytes. They still have alternation in
+
+generations.
+
+But those gametophytes never involved the ability to make vascular tissue.
+
+It was only in the sporophytes, and that's why you go from the more primitive
+
+species,
+
+so from the briophytes into the vascular plants,
+
+where you get a transition from the gametophytes being dominant towards the
+
+sporophytes being dominant.
+
+So the sporophyte becomes the big green thing, and it's that drive to compete
+
+for light.
+
+So it evolves a solution to the problem of how do you get water away from the
+
+ground?
+
+So it has these tubes which can effectively suck water up.
+
+What's the driver for the suction? When I say water sucks up from the soil,
+
+what's it actually sucking?
+
+Can we say sucking, really? Is that the right word?
+
+So the phenomenon we're talking about is transpiration.
+
+So what's transpiration actually involved? Where does the water go? Does the
+
+water go?
+
+It evaporates out from the stomata.
+
+Exactly, it evaporates out from the stomata.
+
+So you've got evaporation, or we call it evapocanspiration,
+
+basically to cover the whole process of movement of water.
+
+You get the loss of water from through the stomata of the leaves.
+
+That creates negative water pressure inside the leaves, which means water tends
+
+to move up the stem.
+
+Within the stem you have these pipes and rolls.
+
+The vascular tissue is basically just dead cells, one on top of another.
+
+They have a cell wall, they have some kind of insulation around the cell walls,
+
+so you can get a layer of waterproofing around those dead cells.
+
+But the contents of the cells have gone, so you basically end up with a pipe.
+
+So that's massively the big thing.
+
+We first see the earliest, in terms of evolutionary history or in terms of
+
+evidence from the fossil record,
+
+the earliest appearance of vascular tissue you get is in plants of the Rhynie
+
+Church.
+
+And that was part of a massive explosion for the discovery of the Rhynie Church.
+
+Where were the most important places researching the Rhynie Church?
+
+Where were the people who were researching the Rhynie Church in the first place?
+
+Where were they motivated?
+
+There were two important universities that were doing this research.
+
+No, not Edinburgh.
+
+So I feel it was one of them.
+
+And Manchester was the other one.
+
+So when you go into the Williamson building, you are going into the building
+
+that is named after William Williamson.
+
+He was the first professor of natural history at the University of Manchester.
+
+So when he was appointed he was professor of botany, zoology and geology.
+
+He acquired colleagues who covered the geology, the zoology and then focused on
+
+the botany.
+
+Why do you think Manchester would be, or the North of England would be
+
+particularly important?
+
+So we call this paleo, paleontology, but particularly paleobotany.
+
+Why would there be a lot of paleobotany in the North of England in the 19th
+
+century, late 1930s, early 20s?
+
+What was going on in North England around that time?
+
+Whole mining.
+
+Exactly, industrial revolution.
+
+So people in the, starting already in the 18th century, mostly the 19th century,
+
+people were digging up coal.
+
+And coal, what's coal made from?
+
+It's carbon, yeah.
+
+Where does carbon come from?
+
+What are they, what are the, this is jumping a little bit forward after the
+
+lecture, but...
+
+The carbon in coal, where does it come in?
+
+Where does it come in from?
+
+From plants, any particular plants?
+
+Or particular ecosystems, should we say, that produce coal?
+
+Who is in the name?
+
+Carboniferous.
+
+Carboniferous era, so it was carboniferous, it was ecosystems that were present
+
+in carboniferous.
+
+They're called the coal forests, yeah.
+
+We'll come on to the coal forest now, I'm jumping ahead, so we'll come back to
+
+the coal forest in a moment.
+
+Go back to the Riley Church.
+
+Another, another, this is something that, this is for Duncan.
+
+So Duncan would have said a lot more about this, because this is an area of
+
+expertise.
+
+Because he is, he's a mycologist, so he's interested in fungi.
+
+I looked at his lecture slides and thought, it's going to take me too much work
+
+to learn this stuff before today,
+
+to teach you what he would have taught you today, which is what I've changed.
+
+He would have covered this material, but he would have spent less time on the
+
+plants and more time on the fungi.
+
+So I apologize. I apologize to him.
+
+I publicly apologize to Duncan for completely ignoring the slides.
+
+He's got a lot of work into writing over the summer to add more fungi to this
+
+book.
+
+But I will highlight this association with fungi.
+
+So what are fungi?
+
+There's been a suggestion recently that they should get their own kingdom, which
+
+I thought was a very odd suggestion,
+
+because they already have their own kingdom.
+
+But they want people who are sort of campaigning to work with fungi.
+
+What fungi are familiar in your life?
+
+Mushrooms, yeah.
+
+So you probably, at some point in your life, even if you don't work with them,
+
+they've been forced to be mushrooms.
+
+Mushrooms and toadstools.
+
+So these are the things that we recognize as fungi.
+
+So little things with red things with white spots in the forest,
+
+which might have a little fairy sitting on the top or something like that.
+
+Fungi.
+
+Mushrooms, toadstools.
+
+What is a mushroom?
+
+It's a fruiting body of a fungus.
+
+So it's just a fruiting body.
+
+It's analogous to, it's not at all like, but it's analogous to a flower.
+
+It's more like a seed pod, actually, rather than a plant, because it doesn't do
+
+sexual reproduction.
+
+It produces spores, which spread the fungus.
+
+So if that's just a fruiting body, where is the rest of the fungus?
+
+On the ground.
+
+What do we call it when it's on the ground?
+
+Root.
+
+It's certainly a subterranean, but that's not what we call it.
+
+Mycelium.
+
+Mycelium, yeah, we call it mycelium.
+
+So under the ground, you have this mass of basically what are little tubes.
+
+And you can think about them.
+
+So when they were first being studied, when taxonomy was first invented,
+
+when Linnaeus first started naming things, basically, biologists said,
+
+well, mushrooms, they look a bit like plants, don't they?
+
+They're not green, but they look like non-green plants.
+
+They will lump them together with plants.
+
+That's why botany has traditionally, the discipline of botany has traditionally
+
+studied mushrooms.
+
+The reality is they're actually, as I think I've covered, was it mushrooms?
+
+No, I can't remember, no.
+
+I did briefly cover it, and probably Duncan had to cover it in week one.
+
+They're actually more closely related to animals.
+
+So effectively what they are is little animals crawling around in tubes,
+
+or like little amoebae in tubes.
+
+And they're living in the soil, and they're spreading out with this mycelium.
+
+And they're finding a way of gaining resources to live.
+
+So they have to capture food, if you like.
+
+So they're closely related to animals, so they can't do photosynthesis, so they
+
+need food.
+
+Where do they get their food from?
+
+From the ground, yeah, they get it from the ground.
+
+What in the ground are they relying on?
+
+Another dead animal.
+
+So they can rely on dead or decaying matter.
+
+So they basically break down, if you have things, animals or plants,
+
+so it could be the roots of plants, it could be dead meat on the surface of the
+
+soil,
+
+it could be dead animals on the surface of the soil or in the soil.
+
+They will attach to them, they will start, they'll produce enzymes
+
+which will break down the molecules that make up those organisms,
+
+and then they will absorb the high-energy molecules as a breakdown product.
+
+So they won't absorb whole proteins, but they'll break down the proteins, for
+
+example,
+
+into individual amino acids, or they'll break down the cell walls,
+
+for example, of a plant into individual sugars,
+
+and they'll take up those molecules, the high-energy molecules,
+
+and they'll use those as food.
+
+But there's another way that mushrooms, that fungi, can get food
+
+when they're living in the soil, which is what's mentioned here.
+
+Micro-organizational associations.
+
+What's that?
+
+It's basically where they form bonds with other organisms,
+
+so like with trees and plants.
+
+So it's where they form bonds with other organisms, such as trees and plants.
+
+Yes, I think I can accept that.
+
+Does anybody want to elaborate on that?
+
+These weren't really very well covered in the lectures,
+
+I probably wouldn't necessarily know this, so I shall move on.
+
+Basically, some of them just form a sheath around the outside,
+
+so they only do this with plants, they're not doing this with animals.
+
+You do get fungi growing on living animals as well,
+
+but that's usually a pathogen, so you might be familiar with,
+
+there are lots of fungal diseases, like athlete's foot, for example,
+
+or thrush, where you can be infected with a fungus.
+
+So that's a pathogen.
+
+What plants do is they form a symbiotic, a mutualistic relationship with fungi,
+
+where the fungus will, either it will encase the root,
+
+it will grow on the outside of the root.
+
+The root then, when it's viewed, molecules, particularly sugars,
+
+and they will be taken out by the fungus.
+
+So basically, that will be a relatively passive sort of relationship.
+
+Fungus on the outside, the root in the middle, the root oozes out sugars,
+
+and they're taken out by the fungus.
+
+You also get far more intimate relationships, which is what we're seeing here,
+
+which you find in the Rhine Church.
+
+I guess I'm somewhere between these two at the moment.
+
+I started out as a young lecturer, looking like that, and now I'm somewhere up
+
+here.
+
+It's a passage of time.
+
+Where have we got it?
+
+I think it's over here.
+
+Here we are.
+
+This structure here is not very obvious from this slide,
+
+but basically what this is, is the fungus has actually grown into the cells of
+
+the plant.
+
+So rather than just being on the outside of the root,
+
+and we're talking about quite primitive roots at this stage,
+
+but these are things you can start calling roots,
+
+because they're thought-vascular tissue, and they grow into the soil.
+
+But you've got cells, you've got the fungal mycelium actually penetrating into
+
+the cells,
+
+and being surrounded, it forms what's called an arboscule,
+
+this structure here, this round structure here,
+
+inside the cells of the plant.
+
+So really tight, intimate relationships.
+
+And it's taking sugars and high-energy molecules from the plant.
+
+Does that make it a parasite if it's taking from the plant?
+
+Are they parasites, do you think?
+
+Nobody wants to admit.
+
+No, they're not parasites.
+
+It's a mutualistic relationship.
+
+So what does the fungus give in return?
+
+Well, the fungus gives nutrients.
+
+It gives things like nitrates, so nitrogen, sulfur, phosphorus,
+
+things that the plant needs to capture from the soil.
+
+And because the mycelium spread out is much finer and more delicate than the
+
+root of a plant,
+
+it can grow more efficiently over long distances,
+
+it can spread out, it can capture resources and give it to the plant.
+
+So the fungus is feeding the plant with nutrients, with inorganic nutrients.
+
+The plant is feeding the fungus with organic molecules, which provide energy.
+
+The total mutualistic relationship.
+
+And this is the first example, I think.
+
+I think you do find, actually, you see something like this in fomosis,
+
+but not this sort of really intimate sort of structure.
+
+But this is the first clear example where you have that symbiotic relationship
+
+between a fungus and a plant.
+
+But it's massively important.
+
+The vast majority of plants are like today for this symbiosis,
+
+and they're really important in driving plant productivity,
+
+and plant growth, and plant composition.
+
+Oh yeah, because that's quite a long time in the running, sure.
+
+Any questions about that?
+
+So we've got this transition there.
+
+So we've got this important fossil record which says
+
+vascular plants appear in the Devonian.
+
+They start to have plants which are able to get bigger,
+
+and we get the appearance of the sporocyte starting to become the dominant
+
+generation.
+
+But there are two groups of plants which are characterized,
+
+which evolve out of that flora, so to say.
+
+So out of all those organisms that we've seen in the Ryan Church,
+
+other examples of that have since been found in other places.
+
+You start to get the appearance of other more complex plants.
+
+And there were two particular groups of plants that got highlighted in the
+
+lecture clips.
+
+One was the, as I said, I tend to be a bit random about what I call it.
+
+So the Lycopodilophyta is the official name.
+
+It's a bit of a mouthful, so I usually say either lycopods or lycophytes,
+
+depending on what mood I'm in.
+
+It's got lycopods, I'll be talking about the same thing.
+
+Terminology is really, really important in science,
+
+and it's really important that you get it right,
+
+and I am totally breaking all the rules by being careless with it,
+
+for which I don't apologize.
+
+They should invent words you can pronounce, it's not fair.
+
+Okay, so you've got the appearance of two groups, the lycophytes and the
+
+pteridophytes.
+
+And the lycophytes are the ones which become dominant early on.
+
+So during the Carboniferous, it's a lycophyte.
+
+So they start to appear in the late Devonian, and then come into the
+
+Carboniferous.
+
+These are really what characterize the Carboniferous.
+
+So what was it about those lycophytes then that was important?
+
+What elapsed was one of the questions in the quiz,
+
+so what allowed them to become dominant?
+
+The falling level of conduct.
+
+The falling level of conduct, so no, not yet, we haven't got that far yet.
+
+That was at the end of the Carboniferous, can you see that?
+
+That was actually what did form them, that's where they disappeared, probably.
+
+So they had, remember, what was the evolutionary drive of this,
+
+like we mentioned earlier in plant evolution, yes?
+
+Secondary growth.
+
+Secondary, but why secondary growth is important?
+
+They can develop thicker structures, and because they're thicker structures that
+
+means exactly.
+
+They can get taller because they have, basically they're producing wood,
+
+something like wood.
+
+So you think about, you know, wood is a material,
+
+it's one of the most important materials in your daily life.
+
+Yours is actually not that, they're probably, there's some historical wood in
+
+these benches,
+
+it's not really good, but they have some wooden origins, should we say, to make
+
+a wood chip.
+
+But wooden objects are around you all the time.
+
+You probably take it for granted.
+
+It's a massively important substance that we're going to keep coming back to.
+
+There's a whole department, the whole department of materials here.
+
+Even the department of materials are really interested in wood.
+
+How you, how it's, what its physical properties are, but also how you can break
+
+it down.
+
+It's a really stable, strong substance.
+
+So it doesn't rot very well.
+
+Only some of you can break it down, and they can't do it very efficiently.
+
+It's a massively important substance.
+
+And the lycoprote, the lycoprote is for the first group of plants that involve
+
+the ability to make it.
+
+So you really know what the important...
+
+So secondary growth is this idea that you have a trunk,
+
+and it can keep accruing extra tissue around the outside,
+
+so as it gets taller, it also gets fatter at the same time.
+
+So it has what's called a, a, a lateral meristem, that's what I'm looking for.
+
+Don't worry about that.
+
+But basically it has cells around the outside of the trunk, which can do cell
+
+division,
+
+which means it can keep adding more cells around the outside, which can get
+
+bigger.
+
+So you had the vascular tissue meant it could suck water up from the soil to a
+
+greater height.
+
+The fact it could get fatter meant it could get stronger as it grew, which meant
+
+it could get taller.
+
+So the ability to do second growth and house the first formation, the formation
+
+of the first forest.
+
+So we have, we have this transition from things being a couple of centimetres
+
+high,
+
+once you get that ability to get tall, the sky is your limit, almost.
+
+It's actually, it's an interesting, interesting problem because people don't
+
+actually, even now,
+
+really understand how trees can get taller than they can get.
+
+So you think about the tallest trees, where do we find the tallest trees in the
+
+world at the moment?
+
+In America, yeah, exactly, the Giants of Fire in California.
+
+So these are the coastal forest in, and the Lycopods, the Lycopod trees were as
+
+big as the Giants of Fire are today,
+
+they're that sort of scale, so they were able to get water from the ground up
+
+really high.
+
+But they had a problem, they had a fatal design fault, which I think I've
+
+mentioned.
+
+I think I've mentioned that, I think I should go over my view on vascular
+
+equipment.
+
+Does anybody know what their limitations were?
+
+A couple of design faults.
+
+What was it about their vascular tissue that was sort of limiting?
+
+I think we could say, so this is a primitive, this would not have been, so this
+
+is Rainier,
+
+which is not actually a Lycoprite, but it's something like the Lycoprite.
+
+So imagine this, and it can get bigger, and this is the vascular bundle.
+
+Why is that a problem, or how might you design that better?
+
+They only have like one vascular bundle.
+
+They only have one vascular bundle.
+
+So although the stem grows, the vascular tissue has a limited amount,
+
+it probably did grow somewhat, so more cells would die,
+
+but you're still confined to having that one tube up the middle.
+
+So you might get a massive trunk.
+
+So I think I suggested last time you should all go to the Manchester Museum,
+
+or maybe to some people when you came down to the close.
+
+I certainly told some people, go to them.
+
+How many people here have been to the Manchester Museum and looked at the
+
+fossils?
+
+Quite a lot of you.
+
+You've all seen the big Lycoprite tree.
+
+Yeah, I think it's still there.
+
+Huge tree stump.
+
+That's the scale, that's just the base of a tree that was found in a cul-de-sac
+
+somewhere around Manchester.
+
+Massive, massive tree.
+
+You go to Glasgow, I've never actually managed to go there.
+
+My daughter lives in Glasgow, and every time I got there, I say,
+
+I want to go and see the fossil tree forest.
+
+They actually have a sort of grove in a park in West Glasgow.
+
+There's a grove.
+
+There's a sort of, a whole building sort of these tree trunks.
+
+Unfortunately, it only opens on the third Saturday of the, when there's a full
+
+moon or something.
+
+It's never opened when I go there, basically.
+
+I've been there, I've tried a couple of times, it never seems to be open.
+
+But the one, just the one and only that we have in Manchester is nevertheless
+
+pretty magnificent.
+
+They've got massive, but they have limited capacity to carry water.
+
+There was something about their leaves.
+
+There was a term I used about the leaves.
+
+Can anybody remember that?
+
+So these are the modern examples of that group of plants.
+
+So you saw this one in the greenhouse.
+
+This is an example of a spiked moth or a salachinella.
+
+I think it might even be this particular species you saw growing all over the
+
+floor in the greenhouse.
+
+You also saw, not this species, but you saw an example of this group of plants.
+
+The club mosses.
+
+So there's the two of the plants we have on the plant trail.
+
+What was it undoing?
+
+Why are they no longer dominating the world?
+
+What happened to the world, which meant it became a less good place for them.
+
+We're into geology here.
+
+Geological events that were happening as we went through into the late
+
+Carboniferous.
+
+Changes in the configuration of the world.
+
+Pangaea, what about Pangaea?
+
+Why was that important?
+
+Basically it's changing climate.
+
+During the Carboniferous you got lots of tropical places, lots of places with
+
+high rainfall.
+
+It's generally thought that the coal forests, they're called, which is dominated
+
+by these big lycopod trees, were found in equatorial swamps.
+
+But with plate tectonics moving things around, those habitats disappeared.
+
+This is an example of, if you like, climate change, but on a natural and
+
+relatively slower basis.
+
+You get the disappearance of the environment for which these lycopods were
+
+particularly suited.
+
+So they start dying out and they start being replaced by other competitive
+
+plants.
+
+Importantly, all of these species, including we think the big trees, would have
+
+had alternation in generation.
+
+So the big trees you found were sporophytes, but the little gametophytes also
+
+still existed.
+
+So they still had to go through that gametophyte generation.
+
+And again, that would be limiting them to places that were wet.
+
+But most importantly, to get really tall with very limited vascular tissues, you
+
+had to be in a wet place.
+
+So you only need water to top those tall trees, so there's plenty of water
+
+around with your limited tissues.
+
+There was a word I used about the leaves as well.
+
+Do you remember the word that describes the leaves of the lycopytes?
+
+Microfil.
+
+Microfil, exactly. Micro means small, fil means leaves, so small leaves.
+
+It doesn't actually mean small leaves though.
+
+They could be quite big leaves, but the important point was they had unbranched
+
+vascular tissue.
+
+They just had one vein down the middle of the leaf, and that was it.
+
+So they had a limited ability to get water into the leaves.
+
+They had a limited ability to get water out to the ground.
+
+If there was plenty of water and the right environmental conditions, that was no
+
+problem.
+
+But as soon as the world started drying, which was happening at the end of the
+
+Carboniferous,
+
+then the environment was no longer friendly for them.
+
+And microfil, that word.
+
+So there was another group of plants that existed around the same time then.
+
+Overcame both problems of astral tissue.
+
+The leaves of the plant which coexisted with the lycopytes, they weren't as tall
+
+because they didn't have secondary growth.
+
+So they had best vascular tissue.
+
+And we've seen lots of examples of them around today, but they don't tend to be
+
+very big, exactly.
+
+So we have the so-called karylocytes, the cerns.
+
+Oh, I missed that bit out, didn't I?
+
+I talked about climate change. I talked about the...
+
+I talked about... sorry, I'll go back to the cerns at the moment.
+
+I talked about the change in climates.
+
+There was something else that happened through the Carboniferous, which is this.
+
+So there's carbon dioxide in the air, it's turned into coal in the ground.
+
+So you have all these forests appearing in these massive coal swarms.
+
+These coal forests are growing in swarms.
+
+Why would they need the formation of coal?
+
+Why would the growth of trees in a swamp need the formation of coal?
+
+Exactly. In a noxic environment, as the trees die, a lot of the material is
+
+falling into the water.
+
+It's anaerobic.
+
+Rather than the material then, the biological material in the trees being
+
+oxidized and turned back into carbon dioxide,
+
+it was accumulating in the soil. It would have gone through probably forming
+
+some form of peat.
+
+So the most modern sort of example of this would be peat bogs that you get, for
+
+example,
+
+before we eat the manna core, or you should always eat the manna core.
+
+And that area around there, particularly in the dark peak, you get these massive
+
+peat bogs.
+
+They are the future coal, if you like.
+
+During the Carboniferous, it was forming in these swamps, in these coal forests.
+
+They would draw the carbon dioxide out of the air.
+
+The carbon dioxide levels were dropping.
+
+So you get the end of the Carboniferous to get to a low point in CO2
+
+concentrations,
+
+or a relatively low point. Actually, modern CO2 concentrations are already also
+
+comparably low.
+
+At the end of the Carboniferous, you get very low CO2 in the air.
+
+Why would that make life hard for the life of folks?
+
+They needed to do photosynthesis.
+
+And what was their limiting factor that meant it was harder for them to get CO2
+
+rather than other plants?
+
+It comes back to the vascular tissue. They don't have many stomata.
+
+Because they can't get water up very quickly, they can't afford to lose water.
+
+So they really suffer from losing water.
+
+So they can't just increase the number of stomata.
+
+The other plants were around at the time that had better vascular tissue and
+
+better leaves,
+
+the ones with the so-called macrophils.
+
+So for example, this is our very classic standard fern leaf,
+
+where you can see, because of the way it's sort of divided up,
+
+you can see the branching of the vascular tissue.
+
+You get other ferns that just have entire leaves, things like the halftime fern.
+
+But in this one, this is a more feathery one,
+
+you can see the branching of the vascular tissue,
+
+because each bit of tissue, the laminar around it, has been shrunk.
+
+I'll pass it round.
+
+I'll send it to the back.
+
+I always worry that people in the back don't get speaking,
+
+so you can have this on the back today.
+
+And pass it forward.
+
+Two things to note about that.
+
+Notice the shape, the fact you've got that branching pattern of the vascular
+
+tissue,
+
+which is accentuated, you can see it quite clearly,
+
+because of the shape of the plant.
+
+Also, one of the brown things on the back of the leaf, on the back of the front.
+
+If you look at the underside of the leaf,
+
+they're covered in sort of brown stuff,
+
+because when you touch it, it comes up, sort of powdering your finger.
+
+What's that? Spores.
+
+So that is the haploid spores, which are going to germinate,
+
+which are going to fly, they fly around in the air,
+
+and they can actually travel.
+
+For example, it's been shown that they fly around in the jet stream,
+
+so they get up a whole world.
+
+So there's particularly one species of bracken,
+
+which is called, sorry, one species of fern called bracken,
+
+which is found on every single continent except for Antarctica,
+
+and its spores are flying around in the jet stream all the time,
+
+so it's spreading over the whole earth.
+
+But they've dominated, the gametophytes are only very short-lived.
+
+I did have some examples of gametophytes.
+
+I had some examples of the transition from gametophytes to porophytes,
+
+but I think we've lost them.
+
+I don't know where they've gone.
+
+We're getting that transition, though, from...
+
+So with lots of carbon dioxide in the atmosphere,
+
+so the plants with the poor muscular tissue are becoming less dominant,
+
+things as megaphylls are doing better,
+
+so that's what we're going to be doing to the ferns.
+
+And so you saw in the last couple of weeks before the mid-September break,
+
+sorry, the exam week, you got to see some, not nearly as,
+
+these are examples of tree ferns,
+
+much more magnificent than the ones we had in the first.
+
+They could form trees, but they couldn't form wood,
+
+so you need to do the secondary shakening.
+
+So they could get somewhat tall,
+
+but they couldn't get as tall as the big lily.
+
+So they only ever existed as an understory.
+
+If you go into a modern forest,
+
+you'll have big trees like oak, for example, or ash,
+
+and underneath it you'll have small trees like holly and porthole.
+
+And that structure existed during the Carboniferous.
+
+So you have the big lily-like trees,
+
+but underneath it you would have the smaller trees,
+
+and things like the tree ferns,
+
+and also another example.
+
+This is perhaps less familiar to people.
+
+It's a very common part.
+
+Anybody know what this is?
+
+Anybody recognize this plant?
+
+It's a horsetail.
+
+It's a horsetail, yeah.
+
+That's quite interesting because they're quite, in some ways, quite similar.
+
+I'll take a couple of examples back again.
+
+The horsetail's quite interesting because they have a ring of xylem.
+
+So the xylem is where you find the water transported,
+
+but the xylem is a tissue which has to find movement.
+
+So it has the water conducting,
+
+and what are called xylem vessels or tracheids,
+
+and they have a little ring around the stem.
+
+If you think about that, that's a much more,
+
+rather than having one down the middle,
+
+they have one around the outside.
+
+So the ferns then have them dotted around all over the place,
+
+but in the horsetails you can actually see them forming a clear distinct ring.
+
+So in the Caldeferus, then, we have big forests appear.
+
+Trees which are woody can get really big.
+
+Trees which are not able to do woody.
+
+So what the ferns can do is do secondary growth.
+
+So one of the questions in the quiz you had,
+
+or the answer question sheet you had for the ferns,
+
+was think about the structure of the stem of a tree fern.
+
+It's not made up of a solid block of wood,
+
+it's made up of lots of fibres.
+
+So it has got lots of vascular tissue,
+
+it's got lots of ability to capture water from the soil,
+
+but what it lacks is strength.
+
+It doesn't have any kind of strong tissue.
+
+Are we okay with this?
+
+Shall we take a break?
+
+Okay, so start back on the ask for a toilet break.
+
+I will move on to the morning material we haven't seen yet.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+What was the song?
+
+It's kind of obvious.
+
+Who was the song by?
+
+The Beatles, yeah.
+
+That was Norwegian words by the Beatles.
+
+I think the Beatles are over-represented in my lecture title.
+
+Sure.
+
+Doesn't mean I'm a massive fan.
+
+One of my earliest memories of childhood is that my parents had a copy of
+
+Sgt.
+
+Charles Loney's Heart Cup Man, which they left on the radiator.
+
+And they fired a war horse.
+
+I remember a small child watching the correct, this isn't the day, of vinyl.
+
+Vinyl used to melt because it was too hot.
+
+So they had this vinyl of Sgt.
+
+Charles Loney's Heart Cup Man, and she went around on the radiator.
+
+It was a bit up and down.
+
+I was mesmerized by this as a child.
+
+Okay.
+
+Where have we got to?
+
+So we've got angular carboniferous.
+
+We get a disappearance of the lipofite forests.
+
+So they can no longer transform water efficiently enough.
+
+They can't, they become less competitive.
+
+So although they have the height, they're not able to get the water up anymore.
+
+So they get shorter.
+
+So effectively they become less competitive.
+
+And eventually they get all the larger ones at least get out and heated and dry.
+
+We then move on, if we get into the, what's the next geological period after the
+
+carboniferous called?
+
+The Permian?
+
+Is that right?
+
+Good, thank you.
+
+Into the Permian then.
+
+We get the appearance of new types of plants.
+
+But actually the history of these plants goes back earlier.
+
+So during the carboniferous, these species were not dominant.
+
+They weren't the ones which were, you're finding lots and lots of involvement of
+
+it.
+
+So they are thought to have been dominant, but they weren't present.
+
+But they didn't have the competitive edge of the lipofite.
+
+So the lipofites were really good at being tall.
+
+But once they stopped having that advantage, other species got involved.
+
+Some of the early ones, what we would call the pro-Gymnosperms.
+
+So the main point about this next hour or next 15 minutes is we're talking about
+
+a group of plants called the Gymnosperms.
+
+Pro obviously means good for.
+
+So it's the plants that were the, if you like, the ancestors or the group from
+
+which we think the Gymnosperms evolved.
+
+And the classic example of this is a species which is called Arcopteris.
+
+Have you heard of Arcopteris?
+
+It's not, the name, you might be more familiar, I think.
+
+You've probably never heard of Arcopteris.
+
+There's a species of bird-like dinosaurs.
+
+Actually all dinosaurs are birds. All birds are dinosaurs anyway, do you think?
+
+I think there are quite so many people who went back, I should have done.
+
+I would have maybe waited a little bit longer. Sorry.
+
+So Archaeopteryx is what was considered to be the transition from dinosaurs to
+
+birds,
+
+or what we now say is the dinosaurs over, we'll be learning about that next
+
+week.
+
+Arcopteris, Archaeopteryx.
+
+So Archaeo is the same thing, it means ancient.
+
+Terris again is one of those words that do with plants.
+
+So it's a sort of ancient tree.
+
+This is quite interesting how fossils, fossilisation and stuff works.
+
+There were actually two separate fossils found.
+
+So there was one that was found that was called Archaeopteryx,
+
+and another one which was found which was called Calizylon.
+
+And they've both been recorded in the fossil record, but they haven't been
+
+linked.
+
+And it was only relatively recently that evidence was found that they were
+
+actually the same plant.
+
+I mean relatively recently I was saying probably within my life span.
+
+So they appeared earlier, they appeared already during the Dornium,
+
+when you first see the evidence in these fossils, but they weren't dominant,
+
+because they didn't have a competitive edge over the life cycle.
+
+They had fern-like foliage, so they were megafoils.
+
+So this is an early example of something with branch fination.
+
+They still reproduce by forming spores and by forming gametophytes,
+
+so they still have that alternation generation.
+
+So in a sense, they're just like a big fern.
+
+But what distinguishes them from the tree ferns, which also existed around the
+
+same time,
+
+was that trunk, because they have what's called the vascular cambium.
+
+They have a ring of vascular cambium.
+
+In other words, they have vascular tissue around, they have a trunk,
+
+and they have a vascular tissue around the outside of the trunk.
+
+So it's thought that they're more closely related to the ferns than they are to
+
+the lycopods.
+
+So I think it's thought that they come out of the ferns in evolutionary terms.
+
+Because they have that, they have megafoils, they have better vascular cambium,
+
+and they form wood.
+
+So a really important evolutionary step, then, is fern which combines good
+
+vascular tissue with physical strength,
+
+the ability to form wood.
+
+Although it happened relatively early, during the beginning of the Carboniferous
+
+period,
+
+they didn't have a selective advantage, so they didn't come to dominate.
+
+And they probably evolved a bit later than the lycopod tree,
+
+so they were trying to compete in a field that was already occupied, if you
+
+like.
+
+But they have characteristics similar to the lycopods.
+
+They form wood, they get tall, and they're also still depending on the formation
+
+of the megafyte.
+
+So why would they not become dominant at the end of the Carboniferous,
+
+when the lycopods were suffering from their poor vascular tissue?
+
+Well, they still had a wet phase in their life cycle,
+
+but they still had a phase in their life cycle where they were vulnerable to
+
+drying out.
+
+Then you get the appearance of another group of plants in the fossil record.
+
+These are the so-called Pteridus thermatophyta, otherwise known as the seed
+
+ferns.
+
+Exactly how these things are related to each other, and exactly what order they
+
+evolved in,
+
+is one of those areas where we're starting to have ideas.
+
+The more fossils that get found, the better you understand what went on,
+
+but we're not entirely clear about the sequence of events and the relationships
+
+between these things.
+
+We don't have any living examples of these things that do DNA sequencing on
+
+them.
+
+Again, they evolved in the Devonians.
+
+So they were there at the period where the forests were disappearing, they were
+
+already there.
+
+They still have the fern-like foliage, but crucially, they have a completely
+
+different way of doing reproduction.
+
+So this is the first group of plants which produce what we call seeds.
+
+Why is that important?
+
+What is special about a seed compared to other forms of reproduction?
+
+And what does it do away with?
+
+They're making seeds. What are they not making?
+
+What are the seeds?
+
+How many people here, at some point in their lives, have taken some seeds of
+
+either mustard or press
+
+and sprinkled it onto a piece of lotting paper and watched it grow?
+
+Anybody seen that when they were kids?
+
+Seeds are basically baby plants.
+
+So they are an embryo, a very, very small plant with a big package of food,
+
+or rather, in most cases, a package of food.
+
+So they are a diploid life cycle, the phase of the life cycle.
+
+So they are the bit of the plant which gets spread around.
+
+Seeds move, so in order for plants to propagate and spread around, they produce
+
+seeds.
+
+The seeds then move, the smaller seeds might fly in the wind, bigger seeds might
+
+get carried by animals.
+
+We'll talk about that in a later lecture.
+
+But basically, they're the life stage.
+
+So rather than having spores fly in the wind, you produce seeds instead.
+
+You're familiar with, for example, dandelions.
+
+You all know what a dandelion is, if you know what a dandelion is,
+
+which produce these little fluffy heads with seeds which have like sails on
+
+them,
+
+which catch the wind and blow around in the wind.
+
+Or you have sycamore trees which have, or acer trees,
+
+which produce these little helicopters that fly in the wind.
+
+These are all mechanisms by which plants spread their seeds.
+
+What they're not doing in the same way is producing spores,
+
+producing gametophytes.
+
+Then the appearance of the seed, and this is the first, in terms of the fossil
+
+record,
+
+this is the first example, still sort of classified under the ferns,
+
+but definitely moving forward towards being a seed plant.
+
+So they get rid of the free-living gametophytes.
+
+They still produce scammies, but we no longer really call them gametophytes.
+
+So they produce a female cell, but this is a large gamete.
+
+So basically the difference between a female and a male is that a female has
+
+large gametes
+
+and a male has more motile gametes.
+
+They produce female gametes in a structure called the arcogonium.
+
+It's not really, all I said to give you to fight there is not really a fight
+
+anymore,
+
+it's just a gamete.
+
+It's a cell, it's a large cell waiting, which is a haploid cell,
+
+waiting to be first survived by a haploid male cell, which will be a sperm.
+
+The male sperm, or the male gametes, are coming in the form of pollen.
+
+And in the case of most of these early plants,
+
+the pollen has just been produced in huge quantities and is flying in the wind.
+
+If you've ever been into pine woods, for example, at the right time of year,
+
+you might find the grounds turn yellow.
+
+They produce so much pollen that it just coats everything.
+
+And already, so already in the terrido spermata phyta, so phyta means plant,
+
+terrido is to do with ferns, and the sperm bit is to do with the reproduction,
+
+so it's the,
+
+and to do with seeds, so the ferns can do with seeds.
+
+So the ferns produce seeds, so their fern plants produce seeds, or something
+
+like that,
+
+terrido, terrido spermata phyta.
+
+But essentially, we get, what we get here is the pollen is behaving like the,
+
+like the spores that we saw in the fern just before.
+
+The pollen is behaving like that, but it doesn't have to go through the phase,
+
+it's essentially a bit like a pollen grain, it's very like a pollen grain in
+
+some respects,
+
+because it's haploid, and it flies in the air, it flies in the wind,
+
+but it doesn't land on the ground and start growing,
+
+it actually lands directly on a plant which has the female organs,
+
+and directly fuses with those female cells, so it fertilizes the female cells,
+
+which is still a actual plant.
+
+And once the male and the female come together, they grow on the parent plant,
+
+on the female parent plant to form a seed.
+
+And that's the innovation of the first seed in the terrido spermata phyta.
+
+Does that make sense? Okay.
+
+I can't have already said this, so I think we can rush through it.
+
+Oh, a brief mention of this lady.
+
+So this is something called Mary Stokes. Have you heard of Mary Stokes?
+
+She's mostly known, I think she's most widely known, because she was responsible
+
+for setting up,
+
+she did a lot of work on family planning and contraception,
+
+and so she had named after her.
+
+They changed their name to find slightly different themselves from her,
+
+but she founded what is now a nationwide family planning,
+
+a sort of chain of family planning clinics, if you like.
+
+Her starting point though, she was actually the first female lecturer at the
+
+University of Manchester.
+
+So she worked somewhere in the Owens Building over the road,
+
+and she did research into this species here, which is a species called
+
+Glosopteris.
+
+It's not a name I expect you to remember, it's not on the ILOs to remember that
+
+name,
+
+so don't worry about it, but it's a very beautiful fossil.
+
+I think you can see the fossil, actually a sample of the fossil in the museum.
+
+It's got this sort of, quite, the fossil is tented to retain this sort of
+
+orangey colour.
+
+What was interesting about this work is it's part of the emergence of ideas
+
+around pate tectonics,
+
+so you'll be learning from, in the how to build, you'll be learning, have learnt
+
+about pate tectonics already.
+
+Who was responsible for discovering pate tectonics?
+
+It was not the geologists, don't let them lie to you.
+
+It was the biologists, okay, the paleo-biologists, but you know, we can put
+
+rocks on the road.
+
+But the ideas around pate tectonics, a lot of the early evidence actually came
+
+from work on fossils,
+
+and Mary Stokes, when she was in Manchester, did some of the most important work
+
+on showing that,
+
+by looking at the distribution of fossils across the world,
+
+they were able to make predictions about, for example, the formation of Pangaea.
+
+Basically, if you look at where Glossopteris is found, well it's found in South
+
+America, Africa, Antarctica,
+
+and I think also in India, so there's like an arc of it around here, around
+
+here.
+
+This is where you find those fossils.
+
+You find them on landmasses which are today massively separated.
+
+There are other examples actually, things like, things where you can look at the
+
+presence of, for example,
+
+mossy fields, all sorts of evidence, but this was some of the earliest evidence
+
+to do with the distribution.
+
+She made a prediction, so she actually worked out, so she was looking at fossils
+
+from across the world,
+
+and she worked out, well she got some from South America, she got some from
+
+Africa, she got some from Australia,
+
+she looked at the map of the world, and she said, I reckon there must be some in
+
+Antarctica.
+
+I think this plant must have existed in Antarctica in the past, she made that
+
+prediction.
+
+So what she went then was she went down to London, and she went to the British
+
+Geological Survey,
+
+and she went and flirted.
+
+She flirted with a gentleman called Scott, Scott in the Antarctic, you might
+
+have heard of him.
+
+I'm going out for a short walk.
+
+And basically she flirted with the sharks together, you know, and they had a
+
+great time,
+
+a great lot of alcohol, and she plucked her eyelashes and said, take me to
+
+Antarctica, take me to Antarctica,
+
+please take me to Antarctica, I really must go to Antarctica, please take me to
+
+Antarctica.
+
+But he was a gentleman, so he couldn't dream of a woman going somewhere as harsh
+
+as that.
+
+Women were too sensitive, they couldn't possibly go somewhere cold, they
+
+wouldn't take her.
+
+But he did agree to take the fossils, to look for the fossils, and he did find
+
+the fossils,
+
+and the fossils were sent back to her, and they provided her with evidence for
+
+the distribution of the fossils.
+
+She didn't continue, so although she was having a successful career as a
+
+paleobiologist,
+
+at the University of Manchester, she got kind of sidetracked by other things.
+
+So after that, it all gets a little bit murky, because she acquired an interest
+
+in eugenics.
+
+You're not familiar with what eugenics is.
+
+It's his idea that you can improve the human breed by getting rid of the
+
+undesirables,
+
+let me say.
+
+Not something that many people, there are some people around, who still believe
+
+in eugenics.
+
+I think Elon Musk is an example who's talked about this.
+
+So some of her legs, right, and that's why she got interested in family
+
+planning,
+
+was to stop poor people breathing.
+
+So she left the University of Manchester, founded this chain of clinics,
+
+but when we were naming our research greenhouse last summer,
+
+we were sort of looking at different candidate names, and she sort of came up as
+
+a candidate,
+
+but we thought, nah, eugenics, maybe we don't want to go there.
+
+That was an interesting story. I mean, you know, people are complicated.
+
+But as I've already said before the break, the formation of Pangea resulted in
+
+this climate change,
+
+which meant that the lightpods, although these other species were there,
+
+they hadn't been able to outwit the lightpods in the wet world,
+
+because the world became drier during the Permian.
+
+You've got the appearance of ice ages, changing climates.
+
+Basically, the getting water out of the soil and the having of gametophytes in
+
+both the canes
+
+is advantageous at around the same time.
+
+We've got the changing carbon dioxide, drying of the climate,
+
+and the fact that gametophytes need a wet condition to thrive.
+
+They haven't evolved to be waterproof.
+
+So the appearance of plants that can produce seeds means you've got something
+
+which no longer needs to be wet throughout that stage.
+
+So the whole bit of gametes is done enclosed within a pair of plants.
+
+It produces a pollen, which is relatively dry, which can transfer, which can
+
+move,
+
+and then the seeds are produced on the mother plant,
+
+and they're kind of protected and well provided with water by the vascular
+
+tissue,
+
+so they're not relying on just what they can pick up from the surface of the
+
+soil.
+
+So they're much less vulnerable.
+
+So you get this transition from plants which didn't have seeds,
+
+so the early vascular plants had spores, they had alternation generations.
+
+You get this transition to plants with seeds, which are able to thrive in drier
+
+climates.
+
+And although we have these early examples in the fossil record,
+
+we have these early examples approaching the sperm, and amongst those, again,
+
+we don't exactly know how all these things relate to each other.
+
+You have the Terytospor, Tery, whatever they were called, the Tery.
+
+I don't remember the word. That one.
+
+Terytospor mattifyta.
+
+They were there, so you have lots of things going around involving.
+
+Out of that, you have the emergence of a new dominant group, ginger-sperms.
+
+So I want to spend the rest of the day really talking about the ginger-sperms.
+
+The ginger-sperms are still massively important in the modern flora.
+
+Unlike the lycopod trees, the lycopod trees, there are still some lycopytes.
+
+They are squeaky little things, they never grow more than a few inches tall.
+
+Whereas the ginger-sperms are still massively important
+
+and in some parts of the world, dominant today.
+
+So I want to read you about what kind of ginger-sperms there are,
+
+a little bit about what's special about them,
+
+and think about where they grow and why they grow there.
+
+So, ginger-sperm means naked seed.
+
+So next two weeks' time, when I come back again,
+
+we're going to talk about the angiosperms, which cover the seed.
+
+Gin, though, you might all be familiar with the word gymnastic, for example.
+
+The origin of the word gymnastic was,
+
+it was got some breed men dancing around that new bosom.
+
+So, gymnastic used to be done naked.
+
+Gin, though, comes from the Greek word for naked, so these are naked seeds.
+
+Like I say, in a later lecture, I'll come on to talk about
+
+what that actually means in terms of the coshines.
+
+So you start to see evidence of them at the end of the carboniferous,
+
+and then with the change in climate at that time,
+
+and the change in CO2 concentrations, they start to become more dominant.
+
+They evolve somehow as the pro-ginger-sperm,
+
+so there's characteristics, that secondary thickening,
+
+and the muscular tissue being outside the trunk rather than in the middle,
+
+which means as the tree gets bigger, the amount of muscular tissue increases.
+
+That was a key feature of the pro-ginger-sperms that you see in the gymnastic.
+
+There's also evidence of some kind of genetic stepping point,
+
+which is to say, genome duplication.
+
+So, looking at genome of all species, you can work out,
+
+going from the earlier ferns and related species to the gymnast sperm,
+
+you get a duplication of the entire genome.
+
+This is something that's actually relatively common in the evolutionary history.
+
+You'll find other more modern examples that we'll touch on later.
+
+That meant there would be some kind of genetic isolation,
+
+so there were things around, and then something happened,
+
+which isolated a group of plants from everything else that was around them,
+
+formed new species.
+
+Also, if you double all your genes, suddenly you've got lots of genes to play
+
+with,
+
+it means you can do lots of mutations with them.
+
+If you've got two copies of every gene, rather than one copy of every gene,
+
+or rather four copies rather than two copies,
+
+the paired chromosomes always tend to be the same as each other.
+
+If you've got that extra spare copy of every gene,
+
+that means you've got something you can mutate and change.
+
+Often those mutations will be negative.
+
+They will have produced proteins which don't work,
+
+but it doesn't matter because you've got a spare copy.
+
+If that then mutates into something which is useful and gives you a new trait,
+
+you've gained something without risking losing something else.
+
+Genome duplication is an important evolutionary process.
+
+They had a combination of having both wood and seed,
+
+so they were producing...
+
+We're not quite sure about the seed ferns,
+
+but certainly within the genus ferns you see the combination of woody tissue,
+
+so that secondary growth reinforces tissues,
+
+forming this molecule called lignin which strengthens the tissue.
+
+They have strong trunks that can get tall,
+
+and at the same time you're not reliant on the gametes-like generation anymore,
+
+because you're producing seeds instead.
+
+And so this is just a cartoon of the sort of life cycle of a...
+
+I mean, this is a, I don't know, some sort of conifer,
+
+so maybe a giant sequoia or something, although that looks like a pine tree.
+
+Of course, this is a pine tree.
+
+Anyway, this is a pine tree.
+
+Pine trees have... They don't have flowers, right?
+
+Very important terminology here.
+
+They don't produce things that we call flowers.
+
+Instead, of course, they produce cones.
+
+You're all familiar with pine cones, I guess.
+
+You're probably familiar with pine cones that look a bit like that.
+
+The ones that you'll recognize that you find lying...
+
+If you go for a walk in the woods where there's pine trees or conifer trees,
+
+you'll find these things called pine cones lying on the ground.
+
+You'll recognize those as pine cones.
+
+Either they come from pine trees, you might see them as pine cones.
+
+You'll find the cones lying on the floor.
+
+But if you look up into the tree, you'll find in addition there's a different
+
+structure,
+
+a much smaller structure, tending to be at the tips of the branches.
+
+So the pine cones tend to be further down the branches.
+
+And the things that are less recognizable, which are actually male cones,
+
+are at the tips of the branches.
+
+So the male parts of the plant, the male cones,
+
+right at the edge of the plant where they're going to catch the wind,
+
+they produce lots and lots of pollen.
+
+That's the gametes.
+
+So although it describes the gametes,
+
+here I think that's slightly misleading
+
+because it doesn't really exist, it no longer exists as a three living plant.
+
+It's the gametes.
+
+These are structures which are designed to be resilient, tough.
+
+They are important, but they're important source of food for insects.
+
+So they have nutritional value, they come with a package of energy.
+
+But most importantly, they're light, they fly in the wind.
+
+Anybody here with hay fever will be very familiar with this.
+
+Pollen flying around in the wind, you breathe it in, it makes you sneeze.
+
+They fly around in the wind in huge quantities of this
+
+because they're basically just chucking it out, hoping that it will land on a
+
+female cone.
+
+If it does land on a female cone, it can then germinate,
+
+and it will start to grow and it produces what's called a pollen tube.
+
+The pollen tube will grow out, it will find the female gametes,
+
+it will then send a nucleus,
+
+so the nucleus from the sperm cell inside the pollen grain will go through the
+
+pollen tube,
+
+enter into the female gametes, go into the ovule,
+
+and form a new embryo.
+
+And that will start developing into a seed.
+
+That seed then germinates and forms a novel sporophyte.
+
+So you don't get a free living gamete site anymore.
+
+If you look at it, if you focus in on what is a seed,
+
+a seed is basically, inside it, you have an embryo.
+
+An embryo is just a tiny little plant.
+
+You've got all the features of the plant.
+
+It has the ability to grow into a plant.
+
+It may even have sort of embryonic leaves,
+
+what we call coccolines.
+
+All of that will be preformed in the embryo.
+
+It's just waiting for the right conditions to come along.
+
+Usually, it will require the addition of water,
+
+so it has to get wet in order to germinate.
+
+So it can dry out pretty much completely.
+
+But when you get water, the embryo will start to grow
+
+and grow into the new plant.
+
+Of course, at the beginning, when it's like here,
+
+you see that's white, it can't do photosynthesis.
+
+It can't capture it.
+
+Unlike gamete site, which is green from the very first cell,
+
+here, this embryo is white.
+
+It can't do photosynthesis.
+
+So it needs to be fed.
+
+It needs to have a source of food.
+
+So what the paraclan does is it packages that embryo
+
+with a pile of food.
+
+And in the case of a gymnosperm,
+
+it's in a structure that's called the new cellars.
+
+So effectively, the mother plant is feeding
+
+and caring for the next generation.
+
+So it's an example of what you might call parental nurturing.
+
+So we have this sort of evolution.
+
+So we keep approaching the gymnosperms thing.
+
+First, we're not exactly sure whether to treat us
+
+for that type of fitting, but we get the emergence
+
+of this group called the gymnosperms.
+
+And they have these characteristics.
+
+They produce seeds.
+
+So they produce pollen grains, which is a male gamete.
+
+And they produce ovules, which is a female gamete.
+
+So the male gametes move.
+
+They germinate the female gametes.
+
+They produce a new embryo that produces the next generation,
+
+produces the seed.
+
+The gymnosperms themselves, we can think a little bit
+
+about the different ones that we see today.
+
+And there are four main groups.
+
+So the cycads, you've already seen.
+
+I'll tell you a bit more about them in a second.
+
+The giga, you could have seen it, or you can see it
+
+around campus, but I didn't point it out,
+
+but I'll tell you a bit more about that.
+
+The most familiar are probably the conifers.
+
+And finally, we have another group
+
+which is called the mesophytes.
+
+Depending on how much I waffle,
+
+we'll get onto those at the end.
+
+We might carry that over to the next times.
+
+So in terms of the ILO, remembering what these
+
+four different groups are, and remembering what
+
+distinguishes them is the important point
+
+that I thought is the ILO.
+
+So cycads, ginkgo, is one of those ginkgipites.
+
+We can then think about how are they related
+
+to the pharynx plant, so the rest of the flora
+
+that exists today, a bit that we haven't touched on yet.
+
+How are they related to those?
+
+And for a long time, it was thought that they were
+
+closest in evolutionary terms to the ginkgipites.
+
+Again, I'll say more about that later.
+
+But actually, more thinking suggests that these
+
+are an out-group from the early gymnosperm.
+
+So they're not more closely related to any of these
+
+than these are to each other.
+
+So it seems that they have a divergence between,
+
+the more than thinking is, that you have a divergence
+
+between these four groups which stay as gymnosperms
+
+and then a separate group evolved from the early
+
+gymnosperms to form what are now called the
+
+pharynx plant or the angiosperm.
+
+Are we okay with that?
+
+Should we take a quick break to watch a video?
+
+I've been talking too much.
+
+The plant kingdom was under serious attack
+
+from another beast.
+
+Right back, plants began to evolve a whole arsenal
+
+of defenses for their precious needs.
+
+Here in California, we can see just how intense
+
+this arms race was in one of the world's most
+
+unusual gardens.
+
+It's filled up a group of bizarre and extremely
+
+rare plants called cycads.
+
+At once, they made up a quarter of all plants on earth.
+
+This is incredible.
+
+Exactly like the place you'd expect a dinosaur
+
+just to pop out.
+
+To stay off attack from those ravenous dinosaurs,
+
+cycads developed some clever lines of defense.
+
+The most obvious being physical weapons like
+
+needles and spikes.
+
+These are vicious.
+
+The main point was to make leaves as painful
+
+as possible to eat.
+
+These defenses came in all shapes and sizes,
+
+and some plants also spiced things up with
+
+chemical weapons.
+
+This is a Trapp's valley cycad from South Africa,
+
+but it's pretty typical in that the leaves
+
+contain a nerve agent that if you ingest it
+
+causes vomiting, diarrhea, paralysis of the lungs,
+
+and then, of course, death.
+
+Obviously, I'm not going to eat one of these,
+
+but I can eat a plant whose ancestors emerged
+
+around the time of the dinosaurs,
+
+and who also had a chemical weapon,
+
+and that is a chili.
+
+In particular, a hibernus chili,
+
+which is supposed to be one of the most powerful
+
+in the world.
+
+There's a chemical in here called capsicum
+
+that is contained in fruit,
+
+and that is actually a cutlery.
+
+That is precisely when we burn it,
+
+and inflame it all in my mouth.
+
+And then there's the toxins in the cycads right there.
+
+They were fabled purple even in chilies.
+
+So you can imagine what the dinosaurs
+
+would have to endure.
+
+Oh my.
+
+Look at the chilies there.
+
+It would be funny to see.
+
+Ooh.
+
+You know what?
+
+You get what the sign has to do with it.
+
+You get the idea.
+
+So that introduces me to the first group.
+
+The first group of ginger spoons
+
+that I want to talk about.
+
+So the leaves that you're parking around
+
+take care of them.
+
+They're quite key, as you just found out.
+
+This is a plant we saw a couple of weeks ago,
+
+with these alibars.
+
+Anybody remember what this plant's called?
+
+The one that I'm parking around?
+
+It was one of the ones on your answer sheet, please.
+
+It's cycads revoluta, or the sego palm.
+
+There's no palm tree.
+
+We're going to come on a later lecture
+
+on what palm trees are.
+
+She's not a palm tree,
+
+but it's called the sego palm.
+
+Why do you call it the sego palm?
+
+Because this is a different species with cycads,
+
+but it looks somewhat similar.
+
+It produces a trunk,
+
+and it produces leaves at the top.
+
+So it looks a bit like a palm tree.
+
+But in evolutionary terms,
+
+it's much, much more ancient than a palm tree.
+
+Not only are they ancient at the tree fern,
+
+which again has that same sort of growth form.
+
+It's what we call a monopodal growth form.
+
+So trunk, leaves at the top.
+
+Very little in the way, little or nothing
+
+in the way of branching.
+
+So one of the ones we've got in the greenhouse
+
+does actually have a branch,
+
+but basically they don't form a branch canopy
+
+like I said earlier,
+
+a tree or a branch.
+
+So they first appear as a recognizable group
+
+in the early fermions.
+
+And in terms of the fossil record,
+
+they're the first group,
+
+they're the simplest group,
+
+structurally the simplest group of gymnosperms
+
+in terms of their growth form and their shape.
+
+And they were the first to become dominant.
+
+They still exist today.
+
+They are still placed on Earth
+
+where they're very common.
+
+An example of this,
+
+I can't remember the name of the island,
+
+but there's a Japanese island
+
+which has a lot of these things going on.
+
+And at some point, I think it was during the war,
+
+I'm not sure which war,
+
+during a war,
+
+this island effectively got cut off.
+
+I think it told some people the story of this story
+
+when they were in the greenhouse.
+
+The island got cut off.
+
+And the people there were so desperate,
+
+they were trying to eat anything they could get.
+
+And they found,
+
+if you cut down that particular plant
+
+that's going around,
+
+the sago palm,
+
+and you scoop out the center of the stem,
+
+where the stem is made of wood,
+
+the center of it,
+
+you get sort of a soft mushy material.
+
+If you scoop that out,
+
+you can make a porridge out of it.
+
+But in order to eat it,
+
+as was being hinted at in the video,
+
+most phycats produce,
+
+apart from being nasty phytonemes,
+
+they also produce horrible toxins,
+
+nerve agents, if you put it.
+
+So they're producing toxic chemicals,
+
+so if you just ate,
+
+if you just start chewing on these phycats,
+
+it could kill you, right?
+
+Don't do it.
+
+Not a nice way to die, I love it.
+
+But if you take the pulp out of the trunk,
+
+and you treat it carefully,
+
+so you have to take it through washing cycles
+
+to wash out,
+
+so you keep the starch you take
+
+basically producing sago,
+
+so it's kind of got a bit like sort of a flour.
+
+If you wash it enough,
+
+the toxin molecules will be soluble,
+
+they will leave it,
+
+and then the big molecules that form
+
+a sort of starchy mass of the material
+
+will stay behind,
+
+so you can wash the toxin out of it,
+
+and it becomes edible.
+
+So the only way in which this island managed to survive,
+
+the people of this island managed to survive,
+
+the isolation, their period of isolation,
+
+was through eating the sago palm tree.
+
+So that's why it's called the sago palm tree,
+
+because you can make a pudding-like substance
+
+called sago out of it.
+
+Most sago actually comes from other trees,
+
+sago actually comes from palm trees,
+
+not rhododendron,
+
+but I think you get the sago from sago.
+
+They have characteristics that are very drought tolerant,
+
+so they can survive in very dry,
+
+hairy conditions,
+
+so the way you find them dominating today
+
+tends to be in dry places.
+
+They have efficient vascular tissue,
+
+they have the ability to capture water,
+
+but they also have vascular tissue
+
+which is very resistant.
+
+This actually applies to all kinds of trees.
+
+They have vascular tissue
+
+which is resistant to drying out.
+
+We're going to say more about that
+
+when we talk about the angiosperms,
+
+which are in some ways better, in some ways worse.
+
+Generally speaking,
+
+these species are very drought tolerant,
+
+and they have already said
+
+they have this simple structure.
+
+They tend to be rather slow-growing,
+
+so I don't exactly know how old one of the three houses,
+
+but it's certainly more than 30 years old, I would say.
+
+It already looked like that
+
+when I first came to the University of Manchester.
+
+Nothing has changed in 25 years.
+
+So they're not very fast-growing.
+
+They're not big competitively.
+
+That's why they couldn't have taken over
+
+from the lycoprote during the Carboniferous,
+
+if they'd already evolved if they hadn't done,
+
+because they wouldn't have been able to grow fast enough.
+
+But in the right conditions,
+
+it tends to be sort of subtropical,
+
+sort of catered for the dry season and the wet season,
+
+and tends to the way you find them.
+
+They're what we call diatus plants.
+
+So they have male plants.
+
+So this is a male tree.
+
+This is a female cone.
+
+So the one in our greenhouse,
+
+we discovered recently when it coned the first time,
+
+it produced its first ever friend in my memory,
+
+and we were able to discover it was a male cone that it produced.
+
+It was a pollen-producing cone.
+
+So they have pollen-producing cones.
+
+They have ovule-producing cones.
+
+In order to get seeds,
+
+you obviously have to have two of them
+
+in right at the same time,
+
+choosing friends at the same time.
+
+Okay, that's our first group, then.
+
+So, simple growth form, monocledal growth,
+
+diatious, male and female plants,
+
+drought tolerant, appear in the folium.
+
+Any one of those could be the answer to an exam question.
+
+The next one, the ginkgo.
+
+Are people familiar with the ginkgo?
+
+It's a very beautiful tree.
+
+It has a slightly awkward characteristic.
+
+I used to give a lecture about ginkgoes earlier in the term,
+
+and I would bring in branches of ginkgoes,
+
+and then somehow the timetable changed,
+
+and the leaves get less and less good.
+
+The branches become less and less good,
+
+because I would bring in branches,
+
+all the leaves would fall off,
+
+and I would get into trouble for making a mess of the vegetables.
+
+If you take the leaves,
+
+I want you to hold on to the light
+
+and look at the structure of the leaves.
+
+Hold on to the light and look at the structure of the veins.
+
+If I plant a leaf,
+
+half of them will be good.
+
+Look at the structure of each of these.
+
+Hold on to the light.
+
+Maybe I'll be generous with them about it.
+
+Hold on to the light and look at the structure of the veins.
+
+I'm afraid I need to manage my own record.
+
+So make sure they're in the background.
+
+What you can see,
+
+which is a clear transition,
+
+is this point about megapills.
+
+These are examples of plants like the firs,
+
+which have megapills.
+
+You can see they have lots of veins.
+
+In this case,
+
+they're radiating from the base,
+
+so they're branched at the base of the leaf,
+
+and they're radiating from the base of the leaf.
+
+They're radiating out.
+
+You can probably just about see it in the image.
+
+So there's a group of plants called the Kingfisher,
+
+and you can find lots of examples of this in the fossil record,
+
+but if you look at the modern flora,
+
+there's only one species.
+
+Like with the Cicatso dietia,
+
+so they have male and female individuals.
+
+They're also deciduous,
+
+as I've already pointed out.
+
+So the leaves here at this time look like that,
+
+they're yellow.
+
+Why would they do that?
+
+Why would they drop their leaves in winter?
+
+Why do trees drop their leaves in winter?
+
+Basically, it's because they're not very tolerant of getting cold,
+
+not to protect them from frost damages.
+
+So we're not going to bother protecting them from frost damage.
+
+We're going to protect our bugs from frost damage.
+
+The leaves are too vulnerable,
+
+so we're just going to get rid of them.
+
+Quite interestingly,
+
+they produce their structure here.
+
+This is a female cone.
+
+But if you look at it,
+
+it's surrounded by...
+
+or sorry, this is the seed,
+
+not that this is actually the seed within the cone.
+
+But they're quite simple cones.
+
+They have this sort of fleshy structure
+
+around the outside of the seed.
+
+What was that before?
+
+I'd say it's like a fruit.
+
+Why would they produce a seed which is surrounded by a flesh?
+
+What does that achieve?
+
+Why would a fruit produce flesh?
+
+What is the purpose of a fruit?
+
+It's getting to eat it exactly.
+
+It's a source of food for animals.
+
+So animals eat this,
+
+and then they will spread the seed.
+
+So it's an example where they don't use insects for pollination.
+
+So they pollinate in the wind,
+
+but they produce seeds which get eaten.
+
+The seed itself can pass through the gut of an animal,
+
+and it can't come out the other end and germinate.
+
+They also have characters.
+
+Compared to the phycaid,
+
+they have a much more complex canopy structure.
+
+So they have branching canopies.
+
+If you look around the...
+
+I think certainly front quad...
+
+if you go to the Stockford building
+
+and look in the front quad of the Stockford building,
+
+you'll see one there.
+
+There's a couple down on the furs.
+
+There are others around the university campus.
+
+They're quite at this time,
+
+but particularly this time of year,
+
+they're quite beautiful species.
+
+The fruit themselves are absolutely foul and horrible.
+
+So if you have a female tree that's getting pollinated,
+
+it's really, really unpleasant because they smell
+
+when they fall on the ground.
+
+They're not naturally eaten by much in this country,
+
+but they're not native.
+
+I mean, it's very, very foul smelling.
+
+I used to work in a building
+
+which had a female tree outside the front door.
+
+It was quite unpleasant at the wrong time of year.
+
+So that's the ginkgo phyton, then.
+
+So again, they're just deciduous,
+
+and they have quite a broad...
+
+they have structures that look like leaves.
+
+So the side cans are very sort of needle-like.
+
+These look more like the leaves you can see on, say,
+
+an oak tree or something like that.
+
+It's a branch donation through the leaves.
+
+Okay, the third group,
+
+and by far the most...
+
+in terms of the modern flora,
+
+by far the most important group of ginger sperms
+
+is this one, the pinophyta or coniferous.
+
+So they're not the only ones that produce cones,
+
+but they're the ones that get their name from the cones.
+
+So they evolved around 300 years ago.
+
+There's only one order within that group, the pinealis.
+
+Don't worry about that.
+
+Unlike the other two groups,
+
+they tend to be...
+
+they're not always,
+
+but they tend to be what we call monoecious,
+
+which means to say...
+
+rather than mean to diecious, it's two sexes.
+
+Monoecious, you get the male and female parts on the same plant.
+
+So you get male cones, as I said before,
+
+tend to be at the tips of the branches.
+
+And then you get the female cones lower down in the canopy.
+
+The classic example of this would be the pine tree.
+
+So I've got some little bit of pine,
+
+a little bit of pine you can look at.
+
+They're probably quite familiar to you.
+
+Long thin, huge length of time.
+
+So the oldest organism alive,
+
+I think it's older than normal life,
+
+the oldest plant alive,
+
+is a bristle stone pine,
+
+believed to be over 5,000 years ago.
+
+The tallest plant on earth is also a conifer.
+
+So the giant sequoias are, again, examples of conifers.
+
+They vary in their complexity.
+
+Within the group, you get ones which are relatively simple.
+
+So you think about a Christmas tree.
+
+A Christmas tree is a single trunk with branches coming out.
+
+It's not like the cycad,
+
+where all branches that are alive are at the top.
+
+It can have branches further down the stem.
+
+But they are coming out in rings
+
+at different heights as you go up the plants.
+
+You get rings of branches.
+
+Very simple growth form.
+
+But here you get pine trees, for example,
+
+which can form much more,
+
+or just like this bristle stone pine,
+
+which you can see over its 5,000 years,
+
+has grown in a branch structure.
+
+So more complex shapes.
+
+More complex shapes are important because you can spread out
+
+and you can be a better competitor.
+
+You can take more lives.
+
+Crucially, they're very fast-grown.
+
+They can get big, and they can get big quickly.
+
+So they're much better at growing
+
+than the other types of species we've talked about.
+
+Do you think about where you find pines today?
+
+Where do you find conifers today?
+
+Where would you expect to find conifers growing most characteristically?
+
+What kind of forest would be dominated by conifers?
+
+I heard an answer about something.
+
+Did you say taiga?
+
+Yes.
+
+Boreal forest.
+
+This is arctic forest.
+
+So they're characteristic of stressful conditions.
+
+So you find them growing in the arctic,
+
+and you also find them growing up mountains,
+
+which again is like the subarctic,
+
+sorry, the lower word, arctic.
+
+You don't find them growing right in the high arctic,
+
+but you do find them in the subarctic.
+
+You find them up mountains, so alpine environments.
+
+Another place you find them is in the Mediterranean climate,
+
+so around the Mediterranean, for example,
+
+or other similar habitats,
+
+so California is another example,
+
+where you have, in that case, you have a hot dry winter, summer.
+
+This is the most stressful time of the year.
+
+So where do you find them today?
+
+Boreal forest, alpine forest, Mediterranean,
+
+where do you find them dominating?
+
+They're very drought tolerant.
+
+They have really tough needles, typically.
+
+They're also very fire tolerant,
+
+and this is particularly important in hot dry places,
+
+or places which are seasonally hot and dry.
+
+They can survive.
+
+They're very tolerant of being burned.
+
+Quite often it will be because they can tolerate fire down on the ground.
+
+It holds free burns.
+
+Like in this picture, they will die,
+
+but if they have a ground fire underneath them,
+
+then they're very tolerant of the fire.
+
+They also, some species, for example, this species here, lepopines,
+
+it produces cones which only open when they get hot,
+
+so they have waxes that you can shut.
+
+I think somebody's waiting to come in,
+
+so I'm going to have to hurry through the next bit.
+
+They're also very commercially important,
+
+and crucially, I'll come back to this in the later lecture,
+
+they're what we call softwood trees.
+
+So, for example, Ikea furniture is traditionally,
+
+at least originally, was made entirely of fibers.
+
+They also have other uses, for example,
+
+juniper berries, which you use in the production of gin.
+
+They're dominant in certain parts of the world
+
+in those extreme environments.
+
+But in the more gentle parts of the world,
+
+like here, or in the tropics,
+
+you don't find them being dominant.
+
+Because here and in the tropics,
+
+we have a less extreme environment,
+
+and it's dominated by another group of plants,
+
+and that is a group of plants called flowering plants,
+
+or the angiosperm.
+
+So in two weeks' time, I'm going to come and talk about this.
+
+I'm going to leave this group,
+
+because I've run out of time,
+
+because we'll need to connect the slides next time as well.
+
+These are the intended learning outcomes,
+
+rewordings to be highlighted at the end of the point.
+
+You'll focus on...
+
+Next, we'll get Robert and Andy's order.
+
+They're beautiful. I'm sure they'll be great.
+
+If you have any plant material to get rid of,
+
+can you bring it up to the front, please?
+
+Thank you.
+
+These are like the pictures of things
+
+in the leaves back in time.
+
+All right.
+
+I noticed that in Canada,
+
+these are more rounded.
+
+More rounded than these things?
+
+Yeah, I think so.
+
+That's probably to do with the environment,
+
+rather than to do with the...
+
+Because the ones here have all been imported relatively recently,
+
+so they've only been brought to Europe in the last 200 years.
+
+They might have evolved a little bit,
+
+but it's unlikely they've evolved much,
+
+because they don't breed here naturally.
+
+So it could be a chance it just happened that the plants
+
+that were brought from the Far East to Europe
+
+happened to have slightly different leaf shapes,
+
+or it could be that the environment here
+
+means that they grow slightly differently.
+
+Hi.
+
+Volunteering at FERS.
+
+Have you still got space?
+
+Always got space.
+
+You've always got space.
+
+Thank you.
+
+Where do I find a thing to sign up?
+
+The easy thing would be if you email
+
+fers.manchester.ac.uk
+
+and say you want to volunteer.
+
+I think they're sort of on the...
+
+You can go to the...
+
+I looked on the website, but I couldn't find it.
+
+Yeah.
+
+It's on the university's volunteer mode.
+
+Oh, right.
+
+If you just email fers, just the word fers.
+
+Just the word fers, at Manchester.ac.uk,
+
+then somebody will get back to you
+
+and take you to the link.
+
+I'll tell you where the link is.
+
+Thank you.
+
+Have I heard of?
+
+It's named Rexall.
+
+They're making it into a museum
+
+that's where I volunteer.
+
+It's really cool.
+
+They found a massive pod tree,
+
+and they...
+
+Well, it's in Cardiff Museum now,
+
+but they make it into a museum.
+
+Well, like an attraction.
+
+It sounds a bit similar to the one in Glasgow, then.
+
+Yeah.
+
+But it's a lot more...
+
+They only got the funding in June
+
+after 17 years.
+
+But no, it's really good.
+
+That sounds interesting. I'll look for them.
+
+Thanks.
+
+You can come in.
+
+What do you want?
+
+I don't know.
+
+Sit here.
+
+I'm fine.
+
+You're fine?

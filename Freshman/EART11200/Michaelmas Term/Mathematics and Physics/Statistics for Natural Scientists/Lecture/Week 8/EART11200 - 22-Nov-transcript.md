@@ -1,0 +1,1265 @@
+---
+title: "EART11200 - 22-Nov-transcript"
+source: "Freshman/EART11200/Michaelmas Term/Mathematics and Physics/Statistics for Natural Scientists/Lecture/Week 8/EART11200 - 22-Nov-transcript.txt"
+type: transcript
+---
+
+'EART11200 - 22-Nov', automated transcript
+01/08/2026
+---
+
+So apologies for keeping everyone waiting.
+
+This is the only day that this semester
+
+that I've got teaching right before this
+
+and that class was hard to end.
+
+So today what I wanted to, well first,
+
+somebody asked me last time about seats codes
+
+and said that somehow people are still getting
+
+marked as absences even though this is a drop in.
+
+I'm working on that, it's just I can't get an answer
+
+from the seats team any more than anyone else can.
+
+So it may take a while to sort.
+
+But I'm working on that.
+
+In the meantime, yeah, we'll carry on.
+
+Does anyone have any, before I start going through things
+
+that I want to talk about, does anybody have questions
+
+for anything from last week or up to this point or beyond?
+
+Okay, then my plan for today is to work through an example
+
+from the practical last week from question three.
+
+And I also want to think a little bit about
+
+some of the things that, some of the issues
+
+that come up in that question.
+
+That were things that were more meant for thought
+
+than to actually solve in the class.
+
+So you may remember in question three,
+
+our goal was to, we were analyzing how femur length
+
+in particular genus of frogs in Hyla
+
+differed among species and among sexes.
+
+So just as we have in previous weeks,
+
+we'll import the data.
+
+I've done something here that I didn't do
+
+in some of the other codes.
+
+In the other codes I've had, I've started by setting
+
+the working directory.
+
+This time I've been even a bit lazier than that.
+
+I'm importing the data and I've put the path to the data
+
+right in my read CSV command in line eight.
+
+That way I don't even have to go looking for this directory.
+
+The next time, as long as I haven't moved that file,
+
+I will find it every year or every time I use this.
+
+So I'll import the data.
+
+I'm calling it Waraz data because it comes from a paper
+
+by Waraz and colleagues.
+
+And if we want to see it, we'll notice this is,
+
+it's the full list of frogs that Waraz
+
+and colleagues measured.
+
+So they went to museums in the US.
+
+They took samples of anurans from these museums.
+
+They measured the mass, the femur length,
+
+and the snout vent length.
+
+And then they've recorded the genus and the species,
+
+and then also where these things are recorded from
+
+and the sex.
+
+Now, I wanted to start by looking just within
+
+the genus Hyla.
+
+So I'm creating a data set that's a subset of the data
+
+and here in line 11, that is just the rows
+
+where the genus equals Hyla.
+
+And if I do this, I'll get a much smaller data set
+
+that you can see in every one of these,
+
+the genus is Hyla.
+
+There are three different species here.
+
+There's Syneria, Arnicolor, and Enchinensis.
+
+Now, we're gonna study this within ANOVA
+
+because we're interested in how the means differ
+
+among groups and we've got multiple groups.
+
+But before I even do that, I just want to plot the data
+
+to see what to expect.
+
+So I'm just gonna make a bar plot
+
+and put error bars on it.
+
+Going to re-plot that so that I don't like
+
+where my legend is, okay.
+
+So in this data, these are the three different species
+
+and the colors of each bar are the sexes.
+
+And the error bars show how much variability
+
+there is within them.
+
+So it does look, just at a glance,
+
+that there might be differences among these species.
+
+Enchinensis seems to be smaller
+
+than Arnicolor and Syneria.
+
+For sex, it's a little harder to tell.
+
+It does look like, possibly,
+
+the males are smaller in some species,
+
+but in Syneria, it's hard to tell if that's true.
+
+One of the, so in an earlier part of this question,
+
+we asked whether the, within the sexes,
+
+whether there were differences among the species.
+
+So in question two, and you found that there were.
+
+The species differed.
+
+The males were different among the species
+
+and females were different among the species.
+
+So the first part of question three asks,
+
+can we study this, if we wanted to just study
+
+the effect of sex in these groups,
+
+could we do this with the t-test?
+
+And most people who sent in answers said no.
+
+And for the correct reason.
+
+And the reason is that the t-test assumes
+
+that data's going to be normally distributed.
+
+But if we look at the distribution of sizes,
+
+femur lengths by, within the sexes in these,
+
+in this genus, the distributions look like this.
+
+They're not normally distributed.
+
+And the reason is that we've got different species.
+
+We have, if we look at females, we've got,
+
+it looks like a group over here that's fairly big.
+
+And this area down here maybe is all normally distributed,
+
+but certainly there's at least two peaks.
+
+And the same thing seems to be going on with the males.
+
+There's a peak over here and a peak over here.
+
+So this data's not normally distributed.
+
+Something's going on with species.
+
+So that means that not only would we lose information
+
+by ignoring species if we tried to analyze the data,
+
+but we'd also be making an assumption,
+
+if we're trying to do this with the t-test,
+
+we'd be making an assumption that the data's
+
+not normally distributed when really it's not.
+
+So it's gonna be better for us to analyze this
+
+with an ANOVA, and that's what we'll do in this,
+
+in the example.
+
+I'm going to run a t-test on this,
+
+even though I've just said it's not the right thing to do,
+
+just because I want to show you why it works out
+
+to be the wrong thing to do later.
+
+So if we run the t-test, we're going to get
+
+a p-value of .186 for sex.
+
+The t-test here, I'm asking,
+
+does the femur differ among the sexes?
+
+I'm getting a p-value of .186.
+
+It's not significant.
+
+I'll come back after we've run the ANOVA,
+
+and we'll compare to this, and we'll see if the t-test
+
+gives us different results from the ANOVA,
+
+and we'll see that it does.
+
+The main thing, though, that I wanted to focus on
+
+was the ANOVA itself, because when we're asking
+
+if the femur length differs among species and sexes,
+
+the ANOVA's the right way to handle this.
+
+We've got three species, we've got two sexes,
+
+so we should be studying the groups in the ANOVA.
+
+The command I'm going to use for this
+
+is the same one that you used in,
+
+most people used in the practical.
+
+I'm going to ask, I'll use the command AOV,
+
+which conducts the ANOVA.
+
+I'll ask how femur length, in line 39,
+
+how femur length depends on species plus sex,
+
+plus sex times species.
+
+So what do these predictors mean?
+
+Well, the first two are pretty intuitive.
+
+The species is asking, are there differences
+
+in the femur length among species?
+
+Sex is asking, are there differences
+
+in the femur length among sex?
+
+And I'll come back to talk about
+
+which one's control for which.
+
+This interaction, species times sex,
+
+this is the interaction term.
+
+So this is asking if the effect of sex
+
+is different within species,
+
+or conversely, if the effect of species
+
+is different in the sexes.
+
+And those are actually exactly the same question,
+
+no matter which way you ask it.
+
+But to think about this sort of intuitively,
+
+we might see an interaction if, for example,
+
+males are bigger than females in one species,
+
+and females are bigger than males in another species.
+
+That means that the effect of sex
+
+differs among species.
+
+ANOVAs are sensitive to the order of the terms,
+
+and we'll see that in a second.
+
+But this means that when we build the model this way,
+
+the interaction is after accounting
+
+for the effects of both species and sex.
+
+The effect of sex here is after accounting
+
+for the effect of species.
+
+So it's the effect of sex controlling for species.
+
+And the effect of species is not controlling for sex.
+
+So in this first model in line 39,
+
+this effect of species is across both sexes combined.
+
+But since if we think there's an effect of sex,
+
+then this first term might not be the right one to use,
+
+because it's not controlling for sex.
+
+So in practice, an ANOVA will often only interpret
+
+the last term in the model.
+
+So to start, let's build this, build this model,
+
+and we'll look at the result.
+
+So the thing that we're getting out of this
+
+is the ANOVA table.
+
+And the ANOVA table, it has a row for each of our predictors.
+
+The most interesting part of this is the column of p values,
+
+this pr greater than f.
+
+This is an unfortunate name for the column,
+
+but this is your p value.
+
+The first thing we can see is that there's really
+
+no evidence of an interaction between sex and species.
+
+And we might not have guessed this,
+
+because if we look at this figure,
+
+it does look like there's an effect of,
+
+the sex is different, the males and females
+
+look like they might be different in chinensis,
+
+they might be different in arnacondyloa,
+
+they're not different in cenuria.
+
+So we might think, naively we might think,
+
+well, the effect of sex does differ here.
+
+But what the p value here is telling us is that
+
+this difference is no bigger than we'd expect by chance.
+
+In the small samples like we've got,
+
+we'd expect these bars not to match up perfectly.
+
+So these differences are, this scatter is easily
+
+something we could see by chance.
+
+Now typically, for interactions especially,
+
+if an interaction is not significant,
+
+if you don't have a reason to believe that it
+
+explains something in your data,
+
+it's usually best to take it out of the model,
+
+because it makes it harder to interpret the main effects.
+
+So I'll rebuild this model without the interaction.
+
+So running these, this time the model is going to be
+
+femur on species plus sex, so this is asking
+
+specifically the effect of sex controlling for species.
+
+And when we look at the output here, it's not significant.
+
+We don't have any evidence that there's an effect
+
+of sex on femur length.
+
+So the femur length, we cannot say based on this result
+
+that femur length differs between the sexes in these frogs.
+
+We can't say that it doesn't, the absence of evidence
+
+is never evidence of absence, and especially here,
+
+the p value is .1, so if we had a much bigger data set,
+
+we don't really know what we'd see.
+
+Possibly we'd see a pattern, possibly we wouldn't.
+
+But from this data alone, we cannot say that we have
+
+evidence that the sexes are different in this genus.
+
+We really shouldn't interpret the effect of species
+
+from this model, because this is, well,
+
+the question of whether we should interpret species
+
+in this model is sort of a, this is a philosophical question.
+
+We don't have evidence that sex matters.
+
+We don't have evidence that it doesn't.
+
+So if we interpret species from this model,
+
+we're asking, ignoring sex, are there differences
+
+among species?
+
+So maybe it's fine, because we don't have evidence
+
+that sex matters.
+
+But on the other hand, we know in a lot of other frogs
+
+that it does, and this p value of .1,
+
+it's not strong evidence that sex means nothing, right?
+
+It's just, it's sort of inconclusive.
+
+So you wouldn't be wrong to interpret sex here.
+
+But if I were doing this, I wouldn't.
+
+I would think, well, we know that sex matters
+
+for some frogs, so let's control the effect of,
+
+let's control species for sex and ask
+
+if we get a different pattern.
+
+And so for that, we've built the model the other way.
+
+So we've switched the order of the terms
+
+so that we're asking, how does femur length depend
+
+on sex and species controlling for sex?
+
+And here, we'll find that, again, the effect
+
+of species is significant, right?
+
+It's very small, so there are, we have evidence
+
+that there are differences among the species,
+
+even controlling for sex.
+
+And if we run the Tukey test, the post hoc test,
+
+we can see where those differences are.
+
+So remember that an ANOVA is just, it's an ominous test.
+
+It tells us that there are differences
+
+among these species somewhere, but it doesn't tell us
+
+which species are different from which others.
+
+If we run the Tukey test, this follow on test allows us
+
+to ask which ones are different from which others.
+
+And so we can see in this case, we have strong evidence
+
+that chinensis is smaller than arnicolor.
+
+We have, because the p-value in this chinensis
+
+arnicolor column is very small, we know that chinensis
+
+is smaller, well, partly because we can see it
+
+in this figure, but for me, the easiest way
+
+to interpret this output is to think of this dash
+
+in the first, the chinensis dash arnicolor
+
+as if it's a minus sign.
+
+So chinensis minus arnicolor gives us a difference
+
+of a negative .54, so that means arnicolor must be bigger
+
+to get this negative difference.
+
+And then we have evidence that cinerea is bigger
+
+than chinensis, and again, we can see this in the pattern.
+
+We have no evidence that cinerea and arnicolor
+
+for differences in sizes between cinerea and arnicolor.
+
+We don't know which one is bigger.
+
+They're close enough that these differences
+
+that we see could easily be due to chance.
+
+This part really is just a review of the question of 3.2,
+
+which almost everyone who sent in their results
+
+got exactly right, so this wasn't something
+
+people struggled with, but I think it's worth going through
+
+it one time to see that you've done it the same way.
+
+Do people have questions about it?
+
+For reporting that result, again, when you report
+
+your results in any sort of science writing,
+
+we can't just take tables from R and paste them
+
+into a document, because we can't trust that our readers
+
+are going to be able to read R.
+
+We want to have a statement in English
+
+that explains what's going on.
+
+So in this case, I would have written something like this.
+
+We know that the mean femur length differed
+
+among the species when controlling for sex.
+
+We present the p-value.
+
+It didn't differ among the sexes
+
+when controlling for species, and we present
+
+the p-value for this, and then where we have differences,
+
+we present both the magnitude of the difference
+
+and the p-value associated with it.
+
+This is taken almost directly from the practical,
+
+but with the p-values and numbers added.
+
+Moving on from this, I want to think about something
+
+a little bit more, less simple and more conceptual.
+
+I've claimed that the order that we build
+
+our ANOVA model matters, that whether we put sex
+
+in the model first or species in the model first
+
+affects our results.
+
+And we can see it a little bit in the outputs
+
+of these two models, because if we run this one,
+
+notice the p-value associated with sex is 0.112.
+
+If we put sex in first, the p-value is 0.09.
+
+It flips to the other side of marginal significance.
+
+We probably wouldn't interpret this
+
+as being wildly different, but it is different.
+
+And in some analyses that we do,
+
+the difference could be a lot larger than this.
+
+So, why?
+
+Why does it matter which one of these things we do first?
+
+Well, to answer that question, I'm going to simulate data.
+
+And I want to make an argument here for simulating data
+
+as a useful thing to do more generally
+
+than just for this example.
+
+Often, throughout your scientific career,
+
+you will come across a new analysis that you want to use
+
+and you'll probably find that you're not 100% sure
+
+you understand what it does.
+
+At least, this happens to me all the time.
+
+And you can read about it, but it doesn't always
+
+completely clear up your questions.
+
+So, a really useful thing to do can be to create a data set
+
+where you know what the answers are and then analyze it.
+
+Because if you know what the answers are
+
+and you run your analysis and the analysis comes up,
+
+it feeds back the answers that you know are in there,
+
+then great, you probably understand how the analysis works.
+
+And if you create a data set and you know what's in it
+
+and then you run your analysis and it doesn't tell you
+
+what you thought it was going to tell you,
+
+then maybe you don't understand what the analysis is doing.
+
+And the usefulness of simulating data is that
+
+if you go collect real data from nature to do this,
+
+you don't really know what's in it.
+
+And so, if you don't know what's in it,
+
+you don't really know whether to be surprised
+
+by what the analysis does.
+
+But if you simulate data, you can know.
+
+So, I'm going to simulate a data set of fake frogs.
+
+And these simulated frogs will have males and females
+
+in two different species.
+
+But I'm just going to draw the sizes of their simulated
+
+femurs from a random normal distribution.
+
+So, there's no difference among them at all.
+
+So, I can do this, and I will.
+
+And this histogram that I'm showing you here
+
+is just the simulated femur lengths that I've drawn
+
+by randomly drawing them from a normal distribution.
+
+Now, I can assign some of these frogs to be male
+
+and some to be female, and I've done that as well.
+
+So, if we look at my simulated frogs in the environment,
+
+so, I've given each frog a species and a sex,
+
+and each one has a femur length that's just drawn
+
+from the normal distribution.
+
+Now, I'm going to go through and I'm going to take
+
+all the frogs that are females,
+
+and I'm going to add two to their femur length.
+
+So, essentially, once I've done this,
+
+I've created a data set where I know
+
+how males and females differ, because I put it there.
+
+So, females are bigger than males in this simulated data
+
+by exactly two units.
+
+And I'm not going to put any effect on the species.
+
+So, I'm going to leave the species completely the same.
+
+So, we know what's in this data set now.
+
+We have a data set where we have frogs
+
+that are both male and female, belong to species A and B.
+
+Females are bigger than males.
+
+But I've set this up so that the sampling is uneven
+
+for the two groups from the two species.
+
+So, here I'm plotting the simulated data,
+
+but divided by sex and species.
+
+I'm going to turn off the front light
+
+so that you can see that a little better.
+
+So, in here, the red symbols are the females.
+
+We've made them bigger.
+
+The blue symbols are the males.
+
+Species one are triangles.
+
+Species B are circles.
+
+So, if you're just looking at this data,
+
+you can see this data does exactly what I said it did
+
+when we were creating it.
+
+The females are larger than the males.
+
+The species seem to be about the same,
+
+which is what we'd expect.
+
+But if you just took the average of the species,
+
+it looks like species one is smaller than species two.
+
+It's not because there's a difference within the species.
+
+The difference is that we sampled more males from species A
+
+and more females from species B,
+
+which can happen in nature, in any sample.
+
+Or it might be that there's a sex bias in the species.
+
+So, we can plot the grand mean
+
+for this whole population here.
+
+So, it's about 11, which should make sense
+
+because I started these populations with a mean of 10,
+
+and then we added two to the females,
+
+so the average is gonna be right about 11.
+
+And now, if I add the mean for the sexes first,
+
+then I can clearly see that the sexes are different.
+
+The females are larger than males by about two units,
+
+which is what you'd expect
+
+because we put that difference there.
+
+And then if I ask for the effect of species
+
+controlling for sex,
+
+so after I've already put sex in the model,
+
+I ask, are the species different?
+
+So, I'm gonna plot the means for the species
+
+within the sexes.
+
+So, these dotted lines are now the means
+
+for each species within each sex.
+
+And you'll see that they're not very different.
+
+In species A, it looks like the females
+
+are a hair larger than they are in species B,
+
+but it's just a tiny bit, right?
+
+This is something that we might see by chance.
+
+And for the males, it looks like the males
+
+are a hair larger as well, so species A looks like
+
+maybe within the sexes, they're a hair larger.
+
+But it's a very small difference.
+
+It's easily something we might see by chance.
+
+Now, I'm gonna replot the same data,
+
+and this time I'm gonna add the means
+
+for the species first.
+
+So, if we study species first,
+
+if we ask if species are different
+
+without controlling for sex,
+
+we're actually gonna see a difference,
+
+and we're gonna infer a difference in the species.
+
+The species means are quite different,
+
+but it's not because there's really a difference
+
+controlling for sex, it's because there's a difference
+
+in how many males and females
+
+were sampled from each species.
+
+So, we would incorrectly infer
+
+that the species are different.
+
+Not because males and females are bigger within one
+
+than the other, but just because there's a sampling bias
+
+in one species relative to the other.
+
+And to see how this affects our,
+
+to see where this carries through into the ANOVA,
+
+we can run the ANOVA with species controlling for sex,
+
+and we see, like I said, no effect of species,
+
+but if we run the effect with species first,
+
+so the species is not controlling for sex,
+
+we infer, we would incorrectly infer
+
+that there's a large effect of species on femur length.
+
+So, this is why the order for this matters.
+
+This is something that it's important to think about
+
+with ANOVA, it won't come up again in our regression models
+
+because the regression models are set up
+
+so that the order doesn't matter,
+
+but for ANOVAs it does.
+
+Questions about this?
+
+If not, I want to show,
+
+so this was my illustration for the,
+
+that I used for the ANOVA that we ran,
+
+asking about differences within sexes and species.
+
+These are just box plots.
+
+So, the bars are the means,
+
+the boxes themselves are showing the 75th and 25th percentiles,
+
+and then the error bars on the outside of this
+
+are 1.55 times the interquartile range,
+
+which is a little bit of a strange thing to put on there.
+
+It's just one and a half times as long as the box,
+
+so it's kind of redundant information with the box,
+
+but this is the way the person who invented the box plot,
+
+who actually was named Box,
+
+so this is not just because of that,
+
+this is the way he did it,
+
+and so people have done it this way since then,
+
+so it's what people expect,
+
+and it's what these figures typically do.
+
+Question three, five, asked,
+
+is there something in this
+
+that would make you worry about having done an ANOVA?
+
+Did anybody notice anything in here
+
+that might violate the assumptions of ANOVA?
+
+So, this was one of the challenge questions,
+
+so it's a bit hard.
+
+Take a second, talk to the person next to you,
+
+and see if you can come up with,
+
+something in here that looks like it might not,
+
+might suggest that ANOVA is not a perfect test for this.
+
+I'll ask again in a minute.
+
+Thoughts on?
+
+Okay, so it is the large,
+
+yeah, so you're right, it's the large variances,
+
+that they overlap everything.
+
+Yeah, so that's not the way I would explain it,
+
+but you're absolutely right that it's the variances.
+
+The ANOVA, there's an assumption in ANOVA
+
+that the variances within the groups are the same,
+
+but here they're clearly not.
+
+These males in Cenaria and females in Cenaria,
+
+there's a lot of variability among them,
+
+and in Chenensis, the variabilities are all squashed together.
+
+There's much less variance within those groups.
+
+Now, ANOVA's a little bit robust to differences in variance.
+
+And one, the rule of thumb that people use
+
+is if the differences in variance are,
+
+if it's less than about four times as great,
+
+then you probably don't have to worry about it.
+
+But here, it's almost nine times as great.
+
+So there's quite a bit of variability,
+
+or differences in variance.
+
+In the question asked, the question went on to ask,
+
+the super challenge part went on to ask,
+
+is there something you might do about this?
+
+Any guesses?
+
+It's not necessarily immediately intuitive,
+
+but often when we're dealing with things
+
+like body measurements,
+
+logging data can be a really useful thing to do.
+
+So the reason for this is imagine that we have
+
+a frog population that has some mean size,
+
+and the variability in the frog population is,
+
+they're normally distributed about this mean.
+
+So the largest frog is about X units plus mu,
+
+and the smallest one is about mu minus X units.
+
+Now imagine that we just have some sort of magic growth ray
+
+that we can point at these frogs and increase their size.
+
+So now in this new population,
+
+this is our population that we've grown,
+
+the average frog is about size two mu,
+
+and the largest one is plus two mu,
+
+and the smallest one is two mu plus two X,
+
+and the smallest is two mu minus two X.
+
+So the variance is scaled,
+
+the variability is scaled with the mean.
+
+But we don't want that to happen, right?
+
+We want the means to stay,
+
+the variability to stay the same,
+
+even as we change the means,
+
+because that's the assumption of our ANOVA,
+
+and of most other linear models.
+
+Well,
+
+the thing that we're looking for in our models
+
+is this, our estimate is going to be some,
+
+our individual observations are mu plus some error,
+
+but what we're actually getting is potentially
+
+that our observations are mu times some error,
+
+because the size of the error increases with the mean.
+
+And conveniently, if we log this product,
+
+it separates the log terms out into additive terms.
+
+So often if you're dealing with things
+
+like body measurements with different groups,
+
+logging them can be a really useful thing to do.
+
+It's also useful because we can think about,
+
+if you want to compare,
+
+say volumes instead of just the,
+
+just lengths of femurs.
+
+So one of the data points in this analysis was mass.
+
+Mass is equivalent to the,
+
+scales with the volume of a frog, right?
+
+Because it's not just how long it is,
+
+it also has its width and its height,
+
+and if you expand it in all three dimensions
+
+at the same time,
+
+the mass increases with the cube
+
+of any of these linear dimensions.
+
+But again, conveniently,
+
+if we log data that's taken to a power,
+
+we still end up with additive functions.
+
+So we can take this multiplicative pattern
+
+and turn it additive,
+
+which is really useful for a lot of analyses.
+
+So if you end up looking at a data set
+
+where you can see that,
+
+often you can see curves in the data set,
+
+this can often indicate that the data needs to be logged,
+
+but there can also be philosophical reasons
+
+for logging the data,
+
+and one of them is that you may be working with things
+
+where we expect the error to scale with the mean.
+
+That's the last thing that I wanted to say
+
+about last week's work.
+
+I did take a look at the things that people handed in,
+
+they looked quite good.
+
+So not everybody handed in things,
+
+so I was only able to glance at the dozen or so
+
+that came in,
+
+but the ones that came in did look good.
+
+I also put,
+
+so I noticed one person on the answers
+
+that they put in had commented that they would,
+
+they put something in that they weren't sure of,
+
+and they wanted to compare it to the answer key later.
+
+Historically, I put the answer keys up on Thursday,
+
+or Friday, so that people can see them
+
+before the next class,
+
+but would it be useful to you to have them earlier
+
+so that you can compare your, okay.
+
+I'll put them up,
+
+I'll start putting them up on Mondays,
+
+because then that gives people over the weekend
+
+to think about the hard parts of the questions
+
+if they want to,
+
+but then they'll be up if you want to compare
+
+your answers to them,
+
+that'll give you more time to do that.
+
+Okay, thanks everybody for coming.
+
+Sorry for rushing in late,
+
+I won't do that again,
+
+this is the last time I teach right before this.
+
+We'll see you in the computer lab in about 15 minutes.
