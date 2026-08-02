@@ -13,7 +13,7 @@
 | 3 | The Workshops | MT | 7 | 7 | 6,154 | 缺 Week 6、8、9 |
 | 4 | Chemistry of the Earth | MT | 11 | 33 | 118,612 | Lecture+Practical 配对，Week 1–11，无缺周 |
 | 5 | Introductory Maths for Natural Scientists | MT | 5 | 29 | 29,138 | Lecture+Practical 配对，Week 1–5，无缺周 |
-| 6 | Statistics for Natural Scientists | MT | 6 | 29 | 93,042 | Lecture(Week6–11)+Practical(Week1–6) 按位置配对，详见下方特别裁定 |
+| 6 | Statistics for Natural Scientists | MT | 6 | 29 | 93,042 | 周单元统一命名为 **Week 01–06**（用户裁定，内部周号）；Lecture(Week6–11)+Practical(Week1–6) 按位置配对，详见下方特别裁定。另有课程手册 2 份置于子课程根目录（不在周文件夹内，未计入本行词数），逐周应读章节见 `Handbook Index.md` |
 | 7 | Practical Skills（MT） | MT | 10 | 25 | 50,120 | 缺 Week 3 |
 | 8 | A Dynamic Planet | HT | 11 | 23 | 140,760 | Week 1–11，无缺周 |
 | 9 | A Sustainable Planet | HT | 10 | 20 | 135,724 | Week 1–10，无缺周 |
@@ -128,18 +128,23 @@
 - 子课程根目录：`/home/user/y2k/Freshman/EART11200/Michaelmas Term/Mathematics and Physics/Statistics for Natural Scientists`
 - 笔记输出目录：`<子课程根目录>/Notes/`
 - 结构类型：Lecture+Practical 配对，**但两侧文件夹的 Week 号编号体系不一致，已裁定配对方案（见下方"特别裁定"章节）**
+- **周号口径（用户裁定）**：本门课周单元统一命名为 **Week 01～Week 06**，采用子课程**内部序号**（与 Practical 侧编号一致），**不**采用 Lecture 侧的学期绝对周号 6–11。即 Week 01 = `Lecture/Week 6` + `Practical/Week 1`，……，Week 06 = `Lecture/Week 11` + `Practical/Week 6`。物理文件夹名保持原样不改，仅笔记与 manifest 的周单元命名统一为 01–06。
 - 缺周：无（Lecture 与 Practical 各自完整覆盖了该子课程设计的 6 个教学单元，只是编号体系不同）
 - 异常说明：见下方"特别裁定"章节的完整证据与结论
+- **课程手册（新增材料）**：子课程根目录下另有两份手册（原 pdf 已转 md，不在任何周文件夹内，故未计入下表词数）：
+  - `SFNS Handbook (Gilman) V2.2.md`（2,298 行，约 35,884 词）——正文第 1～6 章 + Appendix 1 + Appendix 2 + Index
+  - `Chapter 7.md`（242 行，约 7,214 词）——独立增补的第 7 章（Dealing with non-independent data points），V2.2 正文与目录中均不含此章
+  - **各周应读的手册章节与精确行号区间见同目录下的 `Handbook Index.md`**（含可直接复制的 Read offset/limit 参数）。周 Agent 请勿整本通读，按索引只读本周那一段。
 
 | 周（裁定后统一编号） | 材料文件夹 | md 文件 | 词数 |
 |---|---|---|---|
-| Week 6 | `.../Lecture/Week 6`（Lecture）<br>`.../Practical/Week 1`（Practical） | EART11200 - 08-Nov-transcript.md, Statistics for Natural Scientists L1P1(1)/L1P2.md ｜ Practical 2 answer key(1).md, Practical 2(2).md | 14,147 + 4,336 = 18,483 |
-| Week 7 | `.../Lecture/Week 7`<br>`.../Practical/Week 2` | EART11200 - 15-Nov-transcript.md, Statisitcs for Natural Scientists L2P3.md, Statistics for Natural Scientists L2P1/L2P2.md ｜ Practical 3 answer key(1).md, Practical 3(2).md | 10,519 + 3,547 = 14,066 |
-| Week 8 | `.../Lecture/Week 8`<br>`.../Practical/Week 3` | EART11200 - 22-Nov-transcript.md, Statistics for Natural Scientists L4P1(1)/L4P2(1).md ｜ Practical 4 answer key(2).md, Practical 4(2).md | 10,420 + 5,799 = 16,219 |
-| Week 9 | `.../Lecture/Week 9`<br>`.../Practical/Week 4` | EART11200 - 29-Nov-transcript.md, Statistics for Natural Scientists L4P1(2)/L4P2(2).md ｜ Practical 5 answer key(1).md, Practical 5(1).md | 14,465 + 4,012 = 18,477 |
-| Week 10 | `.../Lecture/Week 10`<br>`.../Practical/Week 5` | EART11200 - 06-Dec-transcript.md, Statistics for Natural Scientists L5P1/L5P2.md ｜ Practical 6 answer sheet(1).md, Practical 6(1).md | 12,024 + 2,686 = 14,710 |
-| Week 11 | `.../Lecture/Week 11`<br>`.../Practical/Week 6` | EART11200 - 13-Dec-transcript.md（无幻灯片）｜ Practical 7 answer key.md, Practical 7.md | 6,816 + 4,271 = 11,087 |
-| **小计** | | | **93,042** |
+| Week 01 | `.../Lecture/Week 6`（Lecture）<br>`.../Practical/Week 1`（Practical） | EART11200 - 08-Nov-transcript.md, Statistics for Natural Scientists L1P1(1)/L1P2.md ｜ Practical 2 answer key(1).md, Practical 2(2).md | 14,147 + 4,336 = 18,483 |
+| Week 02 | `.../Lecture/Week 7`<br>`.../Practical/Week 2` | EART11200 - 15-Nov-transcript.md, Statisitcs for Natural Scientists L2P3.md, Statistics for Natural Scientists L2P1/L2P2.md ｜ Practical 3 answer key(1).md, Practical 3(2).md | 10,519 + 3,547 = 14,066 |
+| Week 03 | `.../Lecture/Week 8`<br>`.../Practical/Week 3` | EART11200 - 22-Nov-transcript.md, Statistics for Natural Scientists L4P1(1)/L4P2(1).md ｜ Practical 4 answer key(2).md, Practical 4(2).md | 10,420 + 5,799 = 16,219 |
+| Week 04 | `.../Lecture/Week 9`<br>`.../Practical/Week 4` | EART11200 - 29-Nov-transcript.md, Statistics for Natural Scientists L4P1(2)/L4P2(2).md ｜ Practical 5 answer key(1).md, Practical 5(1).md | 14,465 + 4,012 = 18,477 |
+| Week 05 | `.../Lecture/Week 10`<br>`.../Practical/Week 5` | EART11200 - 06-Dec-transcript.md, Statistics for Natural Scientists L5P1/L5P2.md ｜ Practical 6 answer sheet(1).md, Practical 6(1).md | 12,024 + 2,686 = 14,710 |
+| Week 06 | `.../Lecture/Week 11`<br>`.../Practical/Week 6` | EART11200 - 13-Dec-transcript.md（无幻灯片）｜ Practical 7 answer key.md, Practical 7.md | 6,816 + 4,271 = 11,087 |
+| **小计** | | | **93,042**（另加手册按周分配的 43,098 词，见 `Handbook Index.md`） |
 
 ### 7. Practical Skills（MT）
 - 子课程根目录：`/home/user/y2k/Freshman/EART11300/Practical Skills/Michaelmas Term`
@@ -302,24 +307,28 @@
 2. Practical 侧 6 个文件夹（Week 1–6）无日期证据，但内容编号连续无缺（Practical 2→7），且数量与 Lecture 侧完全一致（均为 6 个单元），符合"该子课程共开设 6 周，每周一次 Lecture + 一次 Practical"的课程设计推断。
 3 因此采用**按顺序位置一一对应**的配对原则：Practical 文件夹的第 i 个（Week i，i=1..6）与 Lecture 文件夹的第 i 个（Week (i+5)，即 Week 6..11）配对，即同一教学周内的 Lecture 与 Practical 材料。
 
-**最终配对表**（已应用于上方"6. Statistics for Natural Scientists"明细表，manifest 中统一以 Lecture 侧的绝对 Week 号命名周单元）：
+4. **命名口径（用户裁定，2026-08-02 更新）**：以上证据链只确定了「哪个 Lecture 文件夹配哪个 Practical 文件夹」，不决定周单元叫什么名字。**用户已裁定：本门课统一采用子课程内部周号 Week 01～Week 06**（即与 Practical 侧编号一致），不再使用早先 manifest 采用的 Lecture 侧绝对周号 Week 6–11。上方证据与配对关系全部保留有效，仅最终命名改变。物理文件夹名不改动。
 
-| 统一周号 | Lecture 文件夹 | Practical 文件夹 |
+**最终配对表**（已应用于上方"6. Statistics for Natural Scientists"明细表；周单元统一以**子课程内部周号 Week 01–06** 命名，括号内为 Lecture 侧的学期绝对周号，仅供对照）：
+
+| 统一周号（内部） | Lecture 文件夹（绝对周号） | Practical 文件夹 |
 |---|---|---|
-| Week 6 | `Statistics for Natural Scientists/Lecture/Week 6` | `Statistics for Natural Scientists/Practical/Week 1` |
-| Week 7 | `Lecture/Week 7` | `Practical/Week 2` |
-| Week 8 | `Lecture/Week 8` | `Practical/Week 3` |
-| Week 9 | `Lecture/Week 9` | `Practical/Week 4` |
-| Week 10 | `Lecture/Week 10` | `Practical/Week 5` |
-| Week 11 | `Lecture/Week 11` | `Practical/Week 6` |
+| Week 01 | `Statistics for Natural Scientists/Lecture/Week 6`（学期第 6 周） | `Statistics for Natural Scientists/Practical/Week 1` |
+| Week 02 | `Lecture/Week 7`（学期第 7 周） | `Practical/Week 2` |
+| Week 03 | `Lecture/Week 8`（学期第 8 周） | `Practical/Week 3` |
+| Week 04 | `Lecture/Week 9`（学期第 9 周） | `Practical/Week 4` |
+| Week 05 | `Lecture/Week 10`（学期第 10 周） | `Practical/Week 5` |
+| Week 06 | `Lecture/Week 11`（学期第 11 周） | `Practical/Week 6` |
 
-下游逐周笔记 Agent 在处理 Statistics for Natural Scientists 时，请按此表取材料，**不要**按两侧原始文件夹名的数字直接字面配对（例如不要把 Lecture Week 6 误配成 Practical Week 6）。
+下游逐周笔记 Agent 在处理 Statistics for Natural Scientists 时，请按此表取材料，**不要**按两侧原始文件夹名的数字直接字面配对（例如不要把 Lecture Week 6 误配成 Practical Week 6）；笔记文件与标题一律使用 Week 01–06 的内部周号。
+
+**课程手册的周分配**：子课程根目录下的 `SFNS Handbook (Gilman) V2.2.md` 与 `Chapter 7.md` 按章分配到六周（Week 01 = 卷首+Ch1+Ch2，Week 02 = Ch3，Week 03 = Ch4，Week 04 = Ch5，Week 05 = Ch6+两个附录+Index，Week 06 = Chapter 7 全文）。精确行号区间与 Read 参数见 `.../Statistics for Natural Scientists/Handbook Index.md`。附带佐证：Practical 侧文件自带编号为 Practical 2～7，恰与各周分配到的手册章号 Ch2～Ch7 一一吻合，进一步支持上述位置配对裁定。
 
 ## 已知异常汇总
 
 1. **The Workshops（MT）**：缺 Week 6、8、9，实际只有 7 个周文件夹（Week 1、2、3、4、5、7、10）。
 2. **Practical Skills（MT）**：缺 Week 3，实际只有 10 个周文件夹。
-3. **Statistics for Natural Scientists（MT）**：Lecture 与 Practical 两侧文件夹的 Week 编号体系不一致（Lecture 用绝对学期周号 6–11，Practical 用相对活动序号 1–6），已裁定按位置一一配对，详见上方专节。
+3. **Statistics for Natural Scientists（MT）**：Lecture 与 Practical 两侧文件夹的 Week 编号体系不一致（Lecture 用绝对学期周号 6–11，Practical 用相对活动序号 1–6），已裁定按位置一一配对；**周单元命名经用户裁定统一为内部周号 Week 01–06**，详见上方专节。另：本门课在子课程根目录下新增课程手册 2 份（`SFNS Handbook (Gilman) V2.2.md`、`Chapter 7.md`），不在周文件夹内、未计入词数统计，各周应读章节与行号区间见同目录 `Handbook Index.md`；Week 06（`Lecture/Week 11`）只有 transcript、无幻灯片。
 4. **How to Build a Planet / How to Grow a Planet / A Sustainable Planet（均为单文件夹周结构的课程）**：文件夹内部幻灯片文件名所含的编号（如 "Week+9"、"Part 10"、"wk4_18Feb"）与其所在的真实文件夹 Week 号经常不一致，甚至跨周重复。下游 Agent 应始终以**文件夹路径中的 Week 号**为准，不可信任文件名内部数字。
 5. **A Dynamic Planet（HT）Week 10** 与 **A Sustainable Planet（HT）Week 10**：transcript 日期（分别为 12-May、29-Apr）明显滞后于本课程其余周次的日期序列，推测为补课或重新排课，材料仍归属其文件夹标注的 Week 号，未做调整。
 6. **Mathematics and Physics（HT）Week 11、12 的 Practical**：两个文件夹内是同一份文件 `2324_Exam%281%29.md`（期末考试材料），并非缺失或重复上传错误导致的内容缺口，仅提示下游 Agent 两周材料实质相同。
