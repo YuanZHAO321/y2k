@@ -111,7 +111,7 @@
 - [ ] 3. The Workshops (MT)
 - [x] 4. Chemistry of the Earth (MT) — 执行顺序第 2 位，11 周周笔记 + 课程总纲已完成（Opus）。注：Week 11 的 transcript 文件为空，已在该周笔记中注明。
 - [x] 5. Intro Maths (MT) — 执行顺序第 1 位，5 周周笔记 + 课程总纲已完成（Opus）
-- [ ] 6. Statistics (MT)
+- [x] 6. Statistics (MT) — 执行顺序第 6 位，6 周周笔记 + 课程总纲已完成（Opus）。周号采用子课程内部 Week 01–06；新增手册按 `Handbook Index.md` 分章到各周。注：多周 transcript 为答疑/复习课，与当周 slides 主题不符，已在各周笔记「课堂补充」中标注。
 - [x] 7. Practical Skills (MT) — 执行顺序第 5 位，10 周周笔记 + 课程总纲已完成（Opus）。注：Week 3 原始材料缺失；W2 图片型幻灯片转换后仅剩标题、W7 讲义引用的公式全学期不存在、W11 无标准答案，均已在各周笔记中标注。
 - [ ] 8. A Dynamic Planet (HT)
 - [ ] 9. A Sustainable Planet (HT)
