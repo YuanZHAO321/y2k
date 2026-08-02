@@ -1,0 +1,1569 @@
+'EART11200 - 10-Mar', automated transcript
+02/08/2026
+---
+
+Right, okay, thank you very much everybody for coming back.
+
+So just to kind of recap where we are, we last week we started the topic of
+
+integration.
+
+So we talked about integration being the reverse of differentiation.
+
+So for the first five weeks we were talking about how to differentiate
+
+something, so that's
+
+basically how we calculate a rate of change.
+
+So how one variable changes, how the function or process changes with respect to
+
+one variable.
+
+Well actually what we're interested in now, I told you everything you needed to
+
+know all
+
+the way up to week five, and then last week we thought, well, what happens if
+
+you want
+
+the difference, right?
+
+What if I give you something called a differential equation which describes the
+
+rate of change
+
+of a process and use that rate of process in the other direction to tell us
+
+something
+
+about how things are changing, right?
+
+So one of the examples would be that this would be a differential equation that
+
+would
+
+describe the rate of water filling a tank.
+
+If you then integrated it, that should tell you how much water has been put into
+
+the tank
+
+between two particular time points that we're interested in.
+
+So we introduced a new notation which was the integrand, that big S shape, and
+
+that
+
+is essentially similar in process, we read it in a similar way to what we do
+
+where we
+
+are looking at the rate of change in F with respect to dx, which is d, so the
+
+rate of
+
+change in F with respect to dx, whereas actually what we're saying now is you
+
+want to integrate
+
+F of x with respect to x, and the S is essentially a sum, right, an
+
+infinitesimal sum, like we're
+
+calculating the infinitesimal, the very, very, very, very, very small rate of
+
+change, instantaneous
+
+rate of change, we're going to start looking at the instantaneous increase.
+
+So underneath the sum of the function, underneath the curve of the function.
+
+So we looked at last week a bunch of kind of basic rules, basic laws of
+
+calculus, so
+
+we had a table for differentiation where we had looked at, basically you had the
+
+right
+
+hand side, and we looked at the derivative which was the left hand side, so this
+
+time
+
+we're doing it the other way around, so again, all of this table, most of these
+
+will be in
+
+the exam, but make sure that you do have practice in them so that they're not a
+
+complete
+
+surprise when these functions typically come up in the exam.
+
+So for example, what we have is that if we integrate x, so if we had constant
+
+times x,
+
+we differentiated that to a constant, well if you have a constant, it integrates
+
+to a
+
+constant times x plus a constant d.
+
+If we had x, we integrate it, we raise the power by one and divide by the new
+
+power,
+
+and the same for xn, we raise by the power, when we integrate, we raise the
+
+power, if
+
+we have x to the power n, what we do is to integrate it, we raise the power by
+
+one and
+
+divide by the new power.
+
+E to the x, again, because it differentiates into e to the x, it also integrates
+
+to e
+
+to the x, k e to the x, when we do kx, the k pops out, differentiated, but
+
+actually now
+
+it reverses back in, so we divide by k.
+
+When we saw when we differentiated lnx, we got one over x, so simply when we
+
+integrated,
+
+we get one over x integrates to lnx, then we have cos and sine, which are
+
+integrated
+
+into each other, but just remember that sine, cos goes to minus sine, so when we
+
+integrate
+
+sine it becomes minus cos, and one of the things that we needed to remember when
+
+we
+
+do something called, what we're going to do is something called indefinite
+
+integrals,
+
+where we just integrate a function not between any two limits, we have to add in
+
+a constant
+
+at the end, because that constant when we differentiate it, it differentiates to
+
+zero,
+
+so if you're only given this left hand side, which is the differential equation,
+
+you do
+
+not know if there was a constant there in the first place, so for every time you
+
+do
+
+indefinite integration, you add in a d at the end.
+
+Now we'll come on to how do we figure out d later on in the tool, when we use
+
+initial
+
+value and boundary value problems, which we'll see in a couple of weeks, how you
+
+can actually
+
+integrate to get d, where you integrate and you actually find out what d and
+
+certain constants
+
+are in the functions. So we have two types of integration, we have one
+
+indefinite integration,
+
+which is essentially integration without limits, so we just integrate it between
+
+any two random
+
+numbers, and we just say, for example, we integrate three x squared, we want to
+
+integrate
+
+that, that just integrates to x cubed, and we add in that constant at the end,
+
+as I said,
+
+right, we always add in that constant when you do an indefinite integration,
+
+because
+
+we don't know in the original function whether there was a constant there or
+
+not, and constants
+
+always differentiate to zero. The second one we have is a definite integration,
+
+which is
+
+where you integrate between two particular limits. Now this is the integration
+
+that essentially
+
+works out the area under the curve, so what we're trying to do is we're trying
+
+to integrate
+
+three x squared between zero and one, so if you imagine that three x squared was
+
+the rate
+
+of water entering a tank, then if you integrated that between zero and one,
+
+you'd get x cubed,
+
+you'd evaluate that, you take the upper limit minus the lower limit, and then
+
+essentially
+
+that tells you how much water was put in the tank between time zero and time
+
+one, okay?
+
+So there's definite and indefinite integration, it's very important that you
+
+make sure you
+
+know how to do them both. The indefinite integration, you just integrate and
+
+make
+
+sure you add a constant d at the end, then with definite integration you try and
+
+go between,
+
+you calculate it between two limits, you integrate the function and you
+
+calculate it,
+
+you evaluate that integral, the integrated function between the upper limit
+
+minus the lower limit.
+
+So, and then what we did was to do something called, we looked at like practical
+
+examples,
+
+and we looked at a technique called separation of variables, right? So what we
+
+wanted to do was to
+
+create a function, suppose that I give you a differential equation, okay, so
+
+imagine I give
+
+you a differential equation which in this case we're going to use as the
+
+radioactive equation,
+
+where you have dN by dt is minus lambda N, and we use a technique called
+
+separation of variables,
+
+which is where we separate the differential equation and move all of the terms
+
+relating
+
+to each, to N and to T onto both sides. So what we would do is, we would do dN
+
+by dt is equal to minus lambda N, we would move anything related to T onto this
+
+side,
+
+and anything related to N onto this side, okay? And then we ended up with a new
+
+equation that said
+
+1 over N dN was minus lambda dt, and then we integrate, which is integrate 1
+
+over N with respect
+
+to dN integral minus lambda N dt, and that essentially works out to ln N equals
+
+minus lambda
+
+T plus some constant. And then once we got that equation, we could do some
+
+jiggery-pokery,
+
+do some rearranging, and then you get this equation right on the end as a
+
+solution to
+
+radioactive decay equation. So we looked at then, so the final topic we kind of
+
+talked about last
+
+week was separation of variables. So largely we're not going to do too much more
+
+difficult than this
+
+separation of variables technique this week, but this week we're going to learn
+
+something,
+
+we're going to learn some more physical, how to integrate through physical laws.
+
+So what we're
+
+going to do is introduce a bunch of differential equations and ask you to
+
+integrate them to tell
+
+us something about a physical state of a process, okay? So this week we're going
+
+to introduce
+
+Newton's laws, and particularly we're going to focus on Newton's second law to
+
+tell us something
+
+about some different systems that we're going to look at in a second. So this is
+
+where we are on
+
+the term. After this week, you've only got three weeks left, and then you've got
+
+three weeks for
+
+Easter. So this week we're going to carry on with the Newton's laws. Integration
+
+will get slightly
+
+harder as we go on from next week, but this week we're just going to introduce a
+
+bunch of
+
+more physical laws that you're going to use and build differential equations
+
+that you can solve.
+
+So as I said, instead of going from the function to its derivative, we're going
+
+to give you something
+
+of a derivative and ask you to find out the original function by building
+
+different differential
+
+equations. So this week hopefully you're going to be able to understand and
+
+describe Newton's laws
+
+of motion and explain relationships between force, mass, acceleration in
+
+different physical systems.
+
+Hopefully then you'll be able to apply Newton's laws to formulate ordinary
+
+differential equations,
+
+that model motion of objects. So we're going to use Newton's second law
+
+to create a bunch of differential equations, and then you're going to be able to
+
+integrate those
+
+to tell us something about the process. And then finally we're going to use
+
+integration. Well,
+
+after we build those ODEs, you're going to be able to integrate those ODEs and
+
+find out and predict
+
+physical behavior in real-world problems. So, Newton, one of the most famous
+
+mathematicians
+
+in history, is basically a lot of what we know about in science is based on
+
+something called
+
+Newtonian physics, and he's probably one of the most influential mathematicians
+
+there ever has been.
+
+And we use Newtonian physics and mathematics throughout all of science, and we
+
+use this to
+
+guide us to tell us largely about how physical systems work, because he came up
+
+with three really
+
+interesting laws, which we'll see in a second. This framework emerged by him and
+
+a bunch of other
+
+mathematicians, and this was called the Scientific Revolution, and it was all
+
+published throughout
+
+history about different areas of science in which mathematics can be used to
+
+help us understand it.
+
+So, Newtonian physics is still an active area of theoretical and experimental
+
+physics, so
+
+there's still a load of work going on in Newton's field, Newtonian physics,
+
+various other things, and we'll see in a second how really useful his laws are
+
+in understanding
+
+physical systems. So, in principle, Newton formulated three laws that explain
+
+planetary motion
+
+in order to explain why the orbits of the planets are ellipses and they don't
+
+behave like you would
+
+think they are, because you'd think they should, orbits should be circular, but
+
+actually they're
+
+ellipses, and his mathematics that he derived in principle in his three laws
+
+explain why that's
+
+not the case necessarily. So, these laws, what we can actually use, these laws
+
+actually go
+
+planetary motion and actually tell us how we can understand force and motion and
+
+how things,
+
+how force and motion interact in terms of physical systems, and we'll see two
+
+examples of how this
+
+works. Okay, so the first of his laws was the law of inertia, so it basically
+
+says that it's
+
+something, if something is at rest or moving at a constant speed, so imagine
+
+that there's a comet
+
+flying through space, it will carry on at a constant speed unless there's a
+
+force acted
+
+upon it. It's the same as, you know, for example, this chair, it's at rest, but
+
+it won't move unless
+
+I exert some force on it to move it. Okay, so that is the first law, the first
+
+of Newton's law.
+
+So, a body at rest or something moving at a constant speed will continue either
+
+at rest or
+
+constant speed and move in a straight line unless something, less force is acted
+
+on it, right? So,
+
+the reason I don't, well, if I throw a ball, the reason why it wouldn't just
+
+continue to
+
+travel at a straight line is because we have gravity, so it's pulling it towards
+
+the floor,
+
+where it also has wind resistance, so it's stopping, it's slowing it down,
+
+so it eventually will come to the ground and come to rest, okay? There's always
+
+forces acting on
+
+different things at different times, right? Gravity is always acting on us,
+
+right?
+
+The second law is one of force of momentum, so the rate of change of a body's
+
+momentum is directly
+
+proportional to the force applied with the change occurring in the same
+
+direction as the force,
+
+okay? I'll explain that in a little bit more detail because I think that one
+
+needs a little
+
+more of an example. Largely, if a force acts on a body, something will, there
+
+will be a change
+
+in momentum and speed. And the third law is the law of action and reaction, so
+
+largely if two bodies
+
+are interacting, so this was the one that largely explains the, how planetary
+
+orbits behave as they
+
+are because, you know, if you have one, you have a planet and a star and they're
+
+interacting with
+
+each other, that's the reason largely how, that largely dictates how planetary
+
+orbits actually work.
+
+So what's happened is there's a force being exerted from the sun and there's a
+
+force being
+
+exerted from Earth and they're largely holding each other in a certain
+
+stationary,
+
+in some sort of stationary way, which means that we can actually do these
+
+planetary orbits, understand these planetary orbits.
+
+So the one we're really interested in is the second one here, so this is the law
+
+of force
+
+and momentum. So you'll have seen this one before when I mentioned it a few
+
+weeks ago.
+
+So largely this kind of boils down to something called the force equation,
+
+which is force times mass equals force, force equals mass times acceleration,
+
+okay?
+
+So force is the total net force acting on the body and I'll show you in a second
+
+how to derive that.
+
+So imagine, so, and then we have an object that's moving and we can describe it,
+
+its forces in
+
+relation to its acceleration, okay, multiplied to its mass. Acceleration of the
+
+object depends on
+
+the mass of the object and the amount of the force supplied. So for example,
+
+when we drive a car,
+
+we're obviously pressing on the accelerator, so the car is powering up, so the
+
+acceleration is
+
+dictated by how much we're pressing on the accelerator, okay? And obviously then
+
+that
+
+is determined also by the mass of the car because the heavier the car is, the
+
+more likely,
+
+the slower the acceleration. In week five, we looked at second order
+
+differential equations
+
+and we talked a little bit about the relation between acceleration, velocity and
+
+distance.
+
+So if you remember, if there's a car traveling along the motorway, the change,
+
+if you have a
+
+function that describes the amount of distance you cover, the rate of change of
+
+your distance is
+
+the velocity, right? That's how fast you're traveling. And then the rate of
+
+change of the
+
+velocity is the acceleration because if you accelerate, you go faster and if you
+
+go faster,
+
+you travel more distance, okay? So you have this kind of relationship between
+
+the distance,
+
+velocity and acceleration, which is really, really useful because when we looked
+
+at
+
+second order differential equations, that's a really, really useful relationship
+
+because
+
+we don't have to just write force equals mass times acceleration. We can
+
+actually look at
+
+different rates of change with respect to different variables. So the first one,
+
+remember,
+
+so imagine that we have, so we have distance x, then we have velocity, which is
+
+v equals dx
+
+by dt and acceleration a equals dv by dt. But also that means that we have a
+
+second
+
+order differential equation here, dx squared by dt squared, okay? So what we can
+
+do is we can
+
+actually, when we saw this in week five, the second order differential
+
+equations, we can actually use
+
+these relationships to come up with different formulations of Newton's laws,
+
+right? So the first
+
+one relates, so the first one, which is f equals m dv by dt, this relates
+
+velocity
+
+with respect to time, f equals m d squared dt squared, and that just relates
+
+distance
+
+with respect to time, f equals m v dv by dx, this one relates
+
+velocity with respect to distance, okay? So you have three different
+
+formulations largely
+
+of Newton's equations, right? One, the first one describes velocity with respect
+
+to time,
+
+then you have the second one, which relates distance with respect to time, and
+
+the third
+
+one then relates velocity with respect to distance. So this is probably going to
+
+be a little bit of a
+
+hint for some of the questions and some maybe exam questions. If I ask you to
+
+relate velocity
+
+with respect to distance, it's this equation. If I'm asking you to respect
+
+distance with respect
+
+to time, it's this equation, and if I'm asking you to relate velocity to time,
+
+use that equation,
+
+right? And what we're going to start doing is we're going to, what depends on
+
+what the question asks,
+
+largely we're going to use one of these three formulations to build a
+
+differential equation,
+
+and then you're going to start calculating what the masses are, and then build
+
+an ordinary
+
+differential equation that you can solve, and it'll tell you something about the
+
+system.
+
+So let's kind of see how some of this actually works
+
+in practice, right? So I've just given you a bunch of these different
+
+formulations,
+
+but actually I want to show you why going from the top equation f equals ma
+
+largely gives you,
+
+we can actually reformulate that into f equals m times dv by dt, okay? And then
+
+what we'll do is
+
+see some actual examples of how to build an ordinary differential equation,
+
+okay?
+
+So imagine you have an aeroplane moving through space, so you have an aeroplane
+
+moving through
+
+space, it has mass at n, and its acceleration will depend on its velocity,
+
+right? So largely let's say
+
+at t equals zero, or brackets, we're going to call that t zero, velocity is v
+
+zero, okay?
+
+So we're going to say, we're going to try and calculate how much, so what we've,
+
+let me start
+
+again, so the place has constant mass, and what we're going to try and do is we
+
+can, we know its
+
+velocity, so what we're going to do is calculate its distance, but we can say,
+
+actually, I'm sorry,
+
+we're going to calculate its acceleration, which we can do very easily by
+
+looking at, if we look at
+
+time t equals one, velocity is v one, so the change in velocity is, we can write
+
+as something
+
+called, let me start this again, so imagine you have a plane that's moving
+
+through the atmosphere,
+
+and what we want to do is we want to try and calculate the change in momentum
+
+in its velocity as you go through time, right? So you have a plane of mass m, so
+
+we know we can
+
+calculate the velocity at two distinct time points, at t zero and t one, and the
+
+velocity is v zero and
+
+v zero, because its velocity at v one minus the velocity at v zero, and then
+
+what we want to do
+
+is we want to calculate the rate of change of that, we want to calculate the
+
+rate of change of that,
+
+right? So what we want to do is say, oh well, if we're changing velocity over
+
+this certain period,
+
+what is the rate of change of that? Let's take t zero one minus t zero, so
+
+hopefully that should
+
+be something similar to what you've seen before. I'm going to let that try and
+
+sink in, so remember
+
+all the way back to week one, when I said you were calculating the rate of
+
+change, you were looking
+
+at one particular time point, taking the value of another time point and
+
+calculating the rate
+
+of change, okay? And largely then when we looked at week two, when we looked at
+
+week two, we saw
+
+that as t one minus t zero goes to zero, this f then becomes dv by dt, okay? And
+
+if we also have f
+
+equals ma, acceleration is equal to dv by dt. So acceleration is the rate of
+
+change of velocity,
+
+okay? So what I'm hoping is that you actually see these Newton's laws are
+
+actually derived in
+
+something sensible that we've seen before, right? So what we've got is we're
+
+going to calculate the
+
+rate of change between the velocity, so we've got velocity at time one and time
+
+two, so we can calculate
+
+the rate of change using something like, which looks very similar to the forward
+
+backward method,
+
+and then if we let that interval go to zero, we end up with a differential
+
+equation, derivative,
+
+and then this tells us that acceleration is equal to the rate of change in
+
+velocity.
+
+So I'm not going to prove every one of these to you, but I'm hoping to see that
+
+you can just,
+
+you can end up using f equals ma as a really, really, really important equation
+
+in physics
+
+and maths, and we can write it in many different ways to try and get us the
+
+differential equations
+
+that we might be interested in, or to describe physical systems that we're
+
+interested in, right?
+
+So just remember that this resembles the calculation of a gradient from week
+
+one,
+
+okay? So we're going all the way back to week one where I asked you to calculate
+
+gradients,
+
+so I didn't just do it, I didn't just ask you to do it by hand to annoy you, I
+
+actually am
+
+showing you the maths and differential equations are actually can be derived by
+
+looking at rates
+
+of change of a process, okay? As much as you probably dislike me for making you
+
+do it,
+
+unfortunately, you can see that that comes out really nicely at the end.
+
+So as I said, what we see is that if we let the time step go to zero, we end up
+
+with the derivative,
+
+and largely now this becomes really a nice problem because we can use
+
+that differential equation dv by dt to tell us how the velocity is changing over
+
+time
+
+in respect to a function, and what we need to do now is for every differential
+
+equation we want
+
+to build on an object, we just need to calculate the forces acting on it, right?
+
+And as I said,
+
+all you need to remember is three different formulations of this, right? The
+
+first one is
+
+if you want to relate, if you want to go from, if you want to just figure out
+
+the forces with
+
+respect to acceleration, just use the top one. If you want to work out the
+
+forces in respect to
+
+velocity and time, distance and time, and velocity and distance, okay? So what
+
+you need to do is pick
+
+the differential equation. When you want to get an approach to the question that
+
+you'll see in a
+
+second, we'll do two examples in a second. What you'll see is that you pick your
+
+differential
+
+equation and you calculate the forces that are acting on the object, and we can
+
+go off there
+
+and determine how much, we can use this, we can use those differential equations
+
+to try and look
+
+at how things behave and look at the forces that are acting on an object to
+
+calculate things,
+
+how things work in real life, right? So there's going to be two things we're
+
+going to do.
+
+Now we're going to look at two examples about how a ball, how an object falls in
+
+a vacuum
+
+and how an object slides down a slope, okay? So we're going to look at two
+
+examples about how
+
+this works, right? So hopefully you start to get the idea that this is just
+
+another process that
+
+I'm teaching you, is you pick your differential equation, you work out the
+
+forces that are acting
+
+on an object, and then you build a differential equation which you'll use
+
+separation of variables
+
+for. So consider an object falling in a vacuum, right? So this is just an
+
+object, it's falling,
+
+because it's falling in a vacuum there's no forces acting on it such as wind,
+
+so there's nothing in the upward direction, right? So it's travelling downwards,
+
+it's falling downwards
+
+and there are no forces acting in the, imagine that we have an object,
+
+there's nothing in this direction because it's falling in a vacuum,
+
+but what we want to do is we know that it's falling in a vacuum, which means
+
+that there's
+
+some forces dragging it down. Now what we know in physics is that's mass times
+
+gravity, so we're
+
+going to say that there's two, so the object is only experiencing a Earth's
+
+gravitational force
+
+and it acts vertically from the centre of the object down towards Earth's
+
+centre,
+
+so this is mg, okay? So it's falling in a vacuum vertically and the force is
+
+acting towards Earth
+
+because that's the direction it's falling and there's nothing going in the
+
+opposite direction
+
+because it's falling in a vacuum, there are no other forces acting on this
+
+object other than
+
+Earth's gravity which is travelling towards Earth's centre. So we see that F
+
+forces is zero,
+
+and Fg is mg, okay? And mostly we're just going to tell you that you're going to
+
+take this as
+
+granted that g is the Earth's gravitational constant and that's 9.8 here. If we
+
+assume that
+
+the object is falling in a vacuum, can we prove that a brick falls at the same
+
+distance as a feather
+
+or the same velocity in the same amount of time? And the answer is yes, because
+
+there are no forces
+
+acting on it, the only thing that works, the only thing that's acting on it is
+
+Earth's gravitational
+
+constant, okay? So what we're going to do is, because first of all we're going
+
+to calculate
+
+the total forces on the object, which is F. So that means we have to sum all of
+
+the forces
+
+that are acting on that individual object, right? But the summing is important
+
+here. We need to work
+
+out what is the direction of travel. So this is the direction of travel. So what
+
+forces are acting
+
+in the direction of travel? Well, that's just mg, right? That's the force that's
+
+acting in this
+
+direction of travel, and then you minus the forces that are acting in the
+
+opposite direction.
+
+So minus zero, because we're falling in a vacuum, there's no other forces acting
+
+on this object.
+
+So the total forces that are acting on this object are just mg, and largely,
+
+what we want to do now is say, well, okay, let's prove that the velocity of a
+
+brick and a feather
+
+falling in a vacuum fall at the same rate, or the velocity is at the same rate.
+
+So we're going to look at the velocity with respect to time. So we also know
+
+that because
+
+we're looking at velocity with respect to time, we have mdV by dt. So what we
+
+can do is just equal
+
+those two things, right? So we see that mg is equal to mdV by dt, okay?
+
+So we calculate all of the forces on the object, F, which is just mg in this
+
+case,
+
+because acting forces are acting down towards Earth, nothing acting in the
+
+opposite direction
+
+of travel. And largely, what we're trying to do is relate the velocity to the
+
+distance through an
+
+ODE. So we have the second velocity time equation formulation of Newton's laws.
+
+And what we can do
+
+is we can equate the forces with the differential equation. And then, while I
+
+can show what we know
+
+is that we have a differential equation at the end that says that the rate of
+
+change of the
+
+velocity of any object is equal to Earth's gravitational constant, okay? So what
+
+we're going
+
+to do now is we're going to do exactly what we did last week, which is use
+
+something called separation
+
+of variables. So what we want to do is we want to make sure that everything in
+
+relation to V is on
+
+this side, and anything related to t is on that side. So let's bring this, the
+
+dt, up. And what
+
+we can see is dV is equal to g dt. And then the next thing we want to do is we
+
+want to integrate
+
+on both sides. So that's gt, g dt. So if we want to integrate that, we see that
+
+a constant,
+
+we're going to say constant, so just constant one there. So integral of one dV
+
+is equal to V.
+
+And then g is just a constant, so that also goes to gt. And remember, we're
+
+looking at
+
+indefinite integration because I haven't given you any limits. So that means we
+
+have to add in
+
+so we see that when objects are falling in a vacuum, so the only force that's
+
+acting on it
+
+is Earth's gravitational constant, we see that the velocity of any object is gt
+
+plus c. And the
+
+interesting thing is here is that this equation does not contain mass, which
+
+means that any object
+
+falling in a vacuum fall at the same rate, or they move as fast at the same
+
+rate, they gain speed
+
+at the same rate. So if I released a feather and a brick in a vacuum, the speed
+
+at which they fall
+
+would be exactly the same because the velocity equation here that we've derived
+
+from this
+
+differential equation contains no mass. The velocity does not depend on mass.
+
+If we had other external forces, then yes, perhaps mass would appear in this,
+
+but largely what we're saying is that in a vacuum, objects fall at the same
+
+rate.
+
+Because what we're going to do is just we do a separation of variables, we
+
+rearrange it,
+
+and it gives us this equation at the end. Okay, so we're following this, yes?
+
+So earlier in the slide I said we could relate distance to time as well, which
+
+is just the
+
+second order differential equation. So what we want to do is we want to say that
+
+they fall at the
+
+same, we've just shown that they fall at the same velocity, do they fall at the
+
+same distance?
+
+Do they fall the same distance in relation to time? So what we're going to do is
+
+we're going
+
+to integrate again. So we're going to use the second version of this, second
+
+version of the
+
+Newton's equations and say, okay, well we know that the velocity gt is equal to
+
+dx by dt,
+
+which is equal to velocity, and remember velocity is the rate of change of
+
+distance.
+
+So what we want to do now is we want to go one step further and show that all
+
+objects falling in a vacuum fall at the same distance with respect to time.
+
+So what we're going to do is we're going to integrate this again. So we're going
+
+to integrate
+
+this out. So let's just assume that that's the case. We're going to do the
+
+separation of
+
+variables again, we're going to move the t up to this side, and then we get
+
+integral of gt
+
+by dt is equal to integral of dx. And what we're going to do this time is I'm
+
+actually going to
+
+do it within, we're actually going to put limits on this, right, because we see
+
+that at time equals
+
+zero, we traveled no distance. So what we're going to do is we're going to put
+
+a zero on this one, because we travel at time equals zero, we travel no
+
+distance,
+
+and at time equals t, we have traveled x distance. So let's integrate this out.
+
+So we can see that
+
+that's gt squared over two, t equals zero to t equals x, because we integrate a
+
+constant up to x,
+
+we get t equals zero up to x, and then that largely just says that x is equal to
+
+gt squared over two.
+
+Okay, so we're going to again, we're just going to relate, we're relating
+
+distance and time
+
+with real velocity, we're just going to do separation of variables again, where
+
+we split
+
+this differential equation up into its components, we integrate, we put some
+
+limits on it, because we
+
+say that they hadn't traveled any distance at time equals zero, but it had
+
+traveled x distance
+
+by time equals t. And largely, we can get this differential equation out that
+
+says the distance
+
+is a quadratic. So what we see is that if we have a, what we have is objects
+
+falling in a vacuum,
+
+they have a linear, the velocity increases linearly, and then the distance
+
+traveled
+
+increases quadratically, which again, perhaps shouldn't be a surprise here,
+
+because when we see
+
+that distance, when we take distance as a quadratic, when we differentiate it,
+
+we get a linear,
+
+and when we differentiate something linear, we get a constant. Okay, which is
+
+what we see, because
+
+the object is falling at constant acceleration, because the only acceleration
+
+that exerted on it
+
+is mass times the gravitational constant. So hopefully now you can start seeing
+
+the
+
+Newton's laws are really useful to start building up ordinary differential
+
+equations.
+
+And largely, again, we've just proved that all objects fall with the same amount
+
+of distance
+
+over the same amount of time in a vacuum, regardless of their mass rate, because
+
+again,
+
+we see that this equation, the equation, the distance equation does not contain
+
+mass, so it
+
+and the distance traveled in respect to time is independent of mass, so mass
+
+does not play a
+
+pair. So you put many different things in a vacuum, and they would all work at
+
+the same rates.
+
+So the second one we're going to do is look at objects on an incline. Okay, so
+
+imagine I put an
+
+object on an incline, and then we're going to, obviously what you'll end up
+
+doing is seeing that
+
+object will start to slide down. Okay, so how do we look at, how do we work out
+
+the forces? This
+
+one's become a little bit more complicated because we're resting it on an
+
+incline. Okay,
+
+so we know that the only thing, the only, if you imagine that we have something
+
+going in this
+
+direction with an angle of theta, and what we're going to do is we're going to
+
+place a box on top
+
+of that, and the only object, the only forces that will work on that is Earth's
+
+gravitational
+
+constant. Okay, so we can see that Earth's gravitational constant gets applied
+
+directly
+
+down, but what we're interested in is two forces, which is F2, which is the
+
+forces in the direction
+
+of travel, because obviously when we build up these differential equations, we
+
+need to work
+
+out the forces in the direction of travel, and also we're interested in, we can
+
+also work out
+
+something called the force acting perpendicular to the object in the direction
+
+of travel, which
+
+is called the normal force, and what we can do is we can apply trigonometry to
+
+get these out. So has
+
+so we have that, we have that this is the angle, we know that this is the
+
+hypotenuse, this is the
+
+opposite, so we know the opposite, and the angle, so to work out what the force
+
+is in F2, we use,
+
+we use sine, so then that means that the forces in the direction of travel is mg
+
+sine
+
+theta. Okay, but we can also work out the forces in the direction, in the normal
+
+direction,
+
+which is mg cos theta. Now largely, the normal force is going to be a bit
+
+irrelevant to us here,
+
+the only ones we're interested in is the forces that are acting in the direction
+
+of travel and
+
+the opposite direction of travel, right, and what we're going to assume here is
+
+that there is,
+
+while this object will slide down, there is no friction, there's no wind
+
+resistance,
+
+again just assume that we're working in a vacuum and that incline has no
+
+friction, which means
+
+that there is no zero forces acting in that direction, in the direction, in the
+
+opposite
+
+direction of travel. Okay, so if we're assuming that there's no friction, what
+
+we need to do is
+
+we need to build up the total forces acting on this object, in the direction of
+
+travel, so we know
+
+that the direction of travel is this way, in the direction of travel, and what
+
+we need to do now
+
+is work out the total forces acting on the object, so we see that F is equal to
+
+mg sine theta,
+
+because that's the forces acting in the direction of travel, and then we see
+
+that there's no,
+
+there is no forces acting in the opposite direction of travel, because again,
+
+we're in a vacuum, there's no wind resistance, and there's no friction on top of
+
+the surface,
+
+so we have F equals mg sine theta, and what we want to do is we want to work out
+
+how fast
+
+this object moves with respect to time, so if we did this, we know that F is
+
+equal to m dv
+
+by dt, so all we can do is we just equate these two things together, and largely
+
+we get
+
+that m dv by dt is equal to mg sine theta, and then what we can do is we can
+
+delete the masses,
+
+again, because we have no forces that are acting on this object in the direction
+
+of travel,
+
+against the direction of travel, or there's no wind resistance, we can just
+
+delete the mass,
+
+so the velocity, because we assume simplistic conditions, largely this just
+
+means that
+
+the velocity in the distance and the acceleration are largely independent of
+
+mass,
+
+okay, so what we're going to do now is we want to use separation of variables to
+
+integrate to
+
+get an equation of velocity with respect to time, so but what we're going to do
+
+again is at,
+
+we know when we're integrating these equations at time equals zero, then
+
+velocity is zero,
+
+so if we assume that it's at rest when we let it go, at time equals zero, so the
+
+velocity is zero,
+
+and at time equals t, then the velocity is v, okay, so what we can do then again
+
+is use this
+
+equation, bring everything related to dt up here, so we end up getting dv equals
+
+g sine theta dt,
+
+integrate that out between zero and v, dv, let's do this, g sine theta integral
+
+between zero and t
+
+t, this gives us, this gives us v between zero and v, and this is g sine theta
+
+between t,
+
+zero and t, which means that we get v, the velocity is g sine theta t, so again
+
+we see that the
+
+velocity increases linearly with respect to, with the constant of g sine theta
+
+as it's constant,
+
+as it increases linearly, okay, so again the velocity increases linearly with
+
+time, and because
+
+there's no forces acting against it, we can see that there's independent of its
+
+mass,
+
+and the rate of increase of the velocity is independent of its mass, but does
+
+depend
+
+on the angle, right, so the larger the angle, the quicker it's going to move,
+
+the smaller the angle, the slower it's going to move, okay, so hopefully now you
+
+can start seeing
+
+that, Newton's laws are really really important to us, but you know the two
+
+examples I've seen
+
+now, it's pretty simplified, I've assumed that things aren't moving at time
+
+equals zero, so what
+
+happens, can you derive general expressions, what happens if an object was
+
+already moving
+
+at time equals zero, what if it had travelled a certain distance at time equals
+
+zero, what happens
+
+if you have a distance and initial conditions that you need, what happens if
+
+things are working in
+
+opposite directions, so luckily these are all examples which frictional forces
+
+you can add in,
+
+such as air wind resistance, you can add in friction in terms of the
+
+incline example, but largely what you'll see is many different examples of these
+
+two examples,
+
+but with slightly different conditions on all things that we're asking for, so
+
+hopefully that
+
+all kind of sunk in, we're not asking for anything more, again just remember
+
+when you start doing
+
+this it's going to be much more of a process, you're going to continue to do
+
+example after
+
+example all applied and simple problems over again, so hopefully you'll see in
+
+the lab now how
+
+simple some of these questions can be once you start dissecting them, so let's
+
+move over to
+
+the practical session, I'll see you over there in a few minutes,
+
+I'll move, that's the seats code if anybody needs it and I'll see you in a bit.
