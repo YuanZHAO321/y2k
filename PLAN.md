@@ -105,7 +105,7 @@
 - [ ] 1. How to Build a Planet (MT)
 - [ ] 2. How to Grow a Planet (MT)
 - [ ] 3. The Workshops (MT)
-- [ ] 4. Chemistry of the Earth (MT)
+- [x] 4. Chemistry of the Earth (MT) — 执行顺序第 2 位，11 周周笔记 + 课程总纲已完成（Opus）。注：Week 11 的 transcript 文件为空，已在该周笔记中注明。
 - [x] 5. Intro Maths (MT) — 执行顺序第 1 位，5 周周笔记 + 课程总纲已完成（Opus）
 - [ ] 6. Statistics (MT)
 - [ ] 7. Practical Skills (MT)
