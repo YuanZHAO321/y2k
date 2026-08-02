@@ -18,10 +18,10 @@
 | 8 | A Dynamic Planet | HT | 11 | 23 | 140,760 | Week 1–11，无缺周 |
 | 9 | A Sustainable Planet | HT | 10 | 20 | 135,724 | Week 1–10，无缺周 |
 | 10 | Computer Programming | HT | 9 | 27 | 119,726 | Lecture+Practical 配对，Week 1–9，无缺周 |
-| 11 | Mathematics and Physics（HT） | HT | 12 | 64 | 140,625 | Lecture+Practical 配对，Week 1–12，无缺周 |
+| 11 | Mathematics and Physics（HT） | HT | 12 | 66 | 156,134 | Lecture+Practical 配对，Week 1–12，无缺周；Week 6、7 已补入 transcript。另有课程主手册 `main(1).md` 置于子课程根目录（不在周文件夹内，未计入本行词数），逐周应读章节见 `Handbook Index.md` |
 | 12 | Practical Skills（HT） | HT | 10 | 39 | 46,614 | Week 1–10 无缺周；但周内分 Morning/Afternoon（Week8 另有 Museum Quiz）子文件夹 |
 | 13 | 2025 Field Trip Material | HT | 非周（1个材料集） | 1 | 613 | 非周结构，单一活动文件夹 |
-| — | **大一合计** | | **112 个周单元 + 1 个非周材料集** | **340** | **1,184,711** | |
+| — | **大一合计** | | **112 个周单元 + 1 个非周材料集** | **342** | **1,200,220** | 合计随 Mathematics and Physics（HT）补入 Week 6、7 transcript 上修（+2 文件 / +15,509 词） |
 
 ## 各子课程明细
 
@@ -235,7 +235,18 @@
 - 笔记输出目录：`<子课程根目录>/Notes/`
 - 结构类型：Lecture+Practical 配对（各 12 周，Week 号一一对应，Chapter N 编号在 Lecture 和 Practical 两侧一致，配对清晰）
 - 缺周：无
-- 异常说明：Week 11、12 的 Practical 文件夹均只含同一份 `2324_Exam%281%29.md`（同名同内容文件在两个文件夹重复出现），推测为期末考试材料被放置于两个周文件夹，非缺失。
+- **课程主手册**：子课程根目录下新增 `main(1).md`（EART11200 Semester 2 Handbook 2024-25，4,291 行 / 44,393 词，共 15 章）。该文件不在任何 Week 文件夹内，**未计入下表词数统计**。**各周应读章节、精确行号区间与可直接复制的 `Read(offset/limit)` 参数，见同目录 `Handbook Index.md`**（由手册比对与索引 Agent 实地比对后生成）。
+- 异常说明（已由手册比对 Agent 逐条实地核实）：
+  1. **Week 11、12 的 Practical** 文件夹均只含同一份 `2324_Exam%281%29.md`（同名同内容文件在两个文件夹重复出现），为 2023-24 往年真题被放置于两个周文件夹，非缺失。
+  2. **周版 `ChapterN.md` 只是主手册对应章的正文段**，不含该章的 Exercises 与 Solutions；这两节被拆到了同周的 `Practical/Week N/ExercisesN*.md` 与 `SolutionsN*.md`。即「主手册章 = ChapterN.md + ExercisesN.md + SolutionsN.md」，词汇重合率 97%–100%。
+  3. **周版章号自第 9 周起相对主手册整体错位 1**：周版 `Week 9/Chapter9.md`（Second-Order ODEs）= 主手册第 10 章，周版 `Week 10/Chapter10.md`（Vectors and Partial Differentiation）= 主手册第 11 章。原因是各周拆分件生成自不含 Integration by Parts 的旧版排版。
+  4. **主手册「缺第 10 章」是假象**：第 10 章标题在原 PDF 中为图片，转 md 后落在第 3086–3087 行的 `<!-- picture text -->` 注释块内，故 `grep "^#"` 看不到 `# 10.`。主手册 15 章齐全（第 15 章 Acknowledgments 同样无 `#` 标题）。
+  5. **主手册第 9 章 Integration by Parts（3008–3085 行）从未被拆分到任何一周**，且其 Exercises/Solutions 在手册中就是空壳占位；全课程 Lecture/Practical 下所有 md（含 12 份逐字稿、两份复习幻灯片）**零次提及 "integration by parts"**，`lecture9.md` 的官方 COURSE LAYOUT 周计划表亦无此主题。已裁定：分配给 **Week 8** 作**选读、非考纲**补充。
+  6. **主手册自身题号与章号不自洽**：第 10 章题号为 Question 9.x、第 11 章为 10.x（均比章号小 1）。引用题号请以周版为准。
+  7. **`Practical/Week 1` 缺 `Exercises1.md`**：该位置放的是 `Chapter1(1).md`（`Lecture/Week 1/Chapter1.md` 的完全重复件）。主手册第 1 章 Exercises（257–497 行，1,826 词）因此只存在于主手册，Week 1 必须读主手册补齐。
+  8. **主手册第 12–15 章（Additional Materials）从未被拆分到任何一周**，已裁定：12.1+12.2 Differentiation（3710–3888）给 **Week 11**（微分复习周），12.3 Integration + 第 13/14/15 章（3889–4291）给 **Week 12**（积分复习周 + 考期）。
+  9. **`Revision_Differentiation.md` 内部的 "WEEK 11" 指的是向量与偏微分**（即本目录 `Lecture/Week 10` 的内容），因幻灯片沿用大学绝对学期周号（本课程占学期第 20–34 周）。下游 Agent 一律以**文件夹路径中的 Week 号**为准。
+  10. **Week 6、Week 7 的 transcript 已补齐**（近期由 main 分支合入）：`EART11200 - 03-Mar-transcript.md`（8,493 词）、`EART11200 - 10-Mar-transcript.md`（7,016 词）。至此 12 周全部有 transcript，本节文件清单与词数已相应更新（子课程小计 140,625 → 156,134，md 文件 64 → 66）。
 
 | 周 | 材料文件夹 | md 文件 | 词数 |
 |---|---|---|---|
@@ -244,14 +255,16 @@
 | Week 3 | `.../Lecture/Week 3`<br>`.../Practical/Week 3` | Chapter3.md, EART11200 - 10-Feb-transcript.md, lecture3(2).md ｜ Exercises3.md, Solutions3(1).md, practical3_soln(5).md | 9,863 + 2,521 = 12,384 |
 | Week 4 | `.../Lecture/Week 4`<br>`.../Practical/Week 4` | Chapter4.md, EART11200 - 17-Feb-transcript.md, lecture4(1).md ｜ Exercises4(1).md, Solutions4.md, practical4_soln(3).md | 10,633 + 2,713 = 13,346 |
 | Week 5 | `.../Lecture/Week 5`<br>`.../Practical/Week 5` | Chapter5.md, EART11200 - 24-Feb-transcript.md, lecture5(1).md ｜ Exercises5.md, Solutions5.md, practical5_soln(1).md | 12,911 + 2,719 = 15,630 |
-| Week 6 | `.../Lecture/Week 6`<br>`.../Practical/Week 6` | Chapter6.md, lecture6.md（无 transcript）｜ Exercises6.md, Solutions6.md, practical6_soln(1).md | 3,715 + 1,903 = 5,618 |
-| Week 7 | `.../Lecture/Week 7`<br>`.../Practical/Week 7` | Chapter7.md, lecture7.md（无 transcript）｜ Exercises7.md, Solutions7.md, practical7_soln(1).md | 3,227 + 2,423 = 5,650 |
-| Week 8 | `.../Lecture/Week 8`<br>`.../Practical/Week 8` | Chapter8.md, EART11200 - 17-Mar-transcript.md, lecture8.md ｜ Exercises8.md, Solutions8.md, practical8_soln(1).md | 10,225 + 2,449 = 12,674 |
+| Week 6 | `.../Lecture/Week 6`<br>`.../Practical/Week 6` | Chapter6.md, EART11200 - 03-Mar-transcript.md, lecture6.md ｜ Exercises6.md, Solutions6.md, practical6_soln(1).md | 12,208 + 1,903 = 14,111 |
+| Week 7 | `.../Lecture/Week 7`<br>`.../Practical/Week 7` | Chapter7.md, EART11200 - 10-Mar-transcript.md, lecture7.md ｜ Exercises7.md, Solutions7.md, practical7_soln(1).md | 10,243 + 2,423 = 12,666 |
+| Week 8 | `.../Lecture/Week 8`<br>`.../Practical/Week 8` | Chapter8.md, EART11200 - 17-Mar-transcript.md, lecture8.md ｜ Exercises8.md, Solutions8.md, practical8_soln(1).md<br>（另需读主手册第 8 章 + 第 9 章 Integration by Parts，见 `Handbook Index.md`） | 10,225 + 2,449 = 12,674 |
 | Week 9 | `.../Lecture/Week 9`<br>`.../Practical/Week 9` | Chapter9.md, EART11200 - 24-Mar-transcript.md, lecture9.md ｜ Exercises9(1).md, Solutions9.md, practical9_soln(1).md | 11,428 + 2,215 = 13,643 |
 | Week 10 | `.../Lecture/Week 10`<br>`.../Practical/Week 10` | Chapter10.md, EART11200 - 04-Apr-transcript.md, lecture10(1).md ｜ Exercises10.md, Solutions10.md, practical10_soln(1).md | 11,840 + 2,049 = 13,889 |
 | Week 11 | `.../Lecture/Week 11`<br>`.../Practical/Week 11` | EART11200 - 02-May-transcript.md, Revision_Differentiation.md ｜ 2324_Exam%281%29.md | 10,293 + 1,065 = 11,358 |
 | Week 12 | `.../Lecture/Week 12`<br>`.../Practical/Week 12` | EART11200 - 09-May-transcript.md, Revision_Integration.md ｜ 2324_Exam%281%29.md（与 Week11 Practical 同名同内容） | 10,166 + 1,065 = 11,231 |
-| **小计** | | | **140,625** |
+| **小计** | | | **156,134** |
+
+**课程手册的周分配**：子课程根目录下的 `main(1).md` 按章分配到十二周——Week 1–8 对应主手册第 1–8 章（Week 8 另加从未被拆分的第 9 章 Integration by Parts，作选读、非考纲）、Week 9 = 主手册第 10 章、Week 10 = 主手册第 11 章、Week 11 = 12.1+12.2 Crib Sheet (Differentiation)、Week 12 = 12.3 Crib Sheet (Integration) + 第 13 章 Constants and Physical Laws + 第 14 章 Provided Equations in the Exam + 第 15 章 Acknowledgments。**精确行号区间与 `Read` 参数见 `.../Hilary Term/Mathematics and Physics/Handbook Index.md`。**
 
 ### 12. Practical Skills（HT）
 - 子课程根目录：`/home/user/y2k/Freshman/EART11300/Practical Skills/Hilary Term`
@@ -331,7 +344,15 @@
 3. **Statistics for Natural Scientists（MT）**：Lecture 与 Practical 两侧文件夹的 Week 编号体系不一致（Lecture 用绝对学期周号 6–11，Practical 用相对活动序号 1–6），已裁定按位置一一配对；**周单元命名经用户裁定统一为内部周号 Week 01–06**，详见上方专节。另：本门课在子课程根目录下新增课程手册 2 份（`SFNS Handbook (Gilman) V2.2.md`、`Chapter 7.md`），不在周文件夹内、未计入词数统计，各周应读章节与行号区间见同目录 `Handbook Index.md`；Week 06（`Lecture/Week 11`）只有 transcript、无幻灯片。
 4. **How to Build a Planet / How to Grow a Planet / A Sustainable Planet（均为单文件夹周结构的课程）**：文件夹内部幻灯片文件名所含的编号（如 "Week+9"、"Part 10"、"wk4_18Feb"）与其所在的真实文件夹 Week 号经常不一致，甚至跨周重复。下游 Agent 应始终以**文件夹路径中的 Week 号**为准，不可信任文件名内部数字。
 5. **A Dynamic Planet（HT）Week 10** 与 **A Sustainable Planet（HT）Week 10**：transcript 日期（分别为 12-May、29-Apr）明显滞后于本课程其余周次的日期序列，推测为补课或重新排课，材料仍归属其文件夹标注的 Week 号，未做调整。
-6. **Mathematics and Physics（HT）Week 11、12 的 Practical**：两个文件夹内是同一份文件 `2324_Exam%281%29.md`（期末考试材料），并非缺失或重复上传错误导致的内容缺口，仅提示下游 Agent 两周材料实质相同。
+6. **Mathematics and Physics（HT）**：
+   - **Week 11、12 的 Practical**：两个文件夹内是同一份文件 `2324_Exam%281%29.md`（2023-24 往年真题），并非缺失或重复上传错误导致的内容缺口，仅提示下游 Agent 两周材料实质相同。
+   - **新增课程主手册** `main(1).md`（子课程根目录，4,291 行 / 44,393 词，15 章），不在周文件夹内、未计入词数统计，各周应读章节与行号区间见同目录 `Handbook Index.md`。
+   - **周版 `ChapterN.md` 只含章正文**，该章 Exercises/Solutions 在同周 `Practical/` 下；**周版章号自 Week 9 起比主手册小 1**（Week 9 = 主手册第 10 章，Week 10 = 第 11 章）。
+   - **主手册第 10 章与第 15 章的标题因 PDF 图片转换未生成 `#` 标题**，`grep "^#"` 会误判为缺章，实则 15 章齐全。主手册第 10/11 章的题号（9.x / 10.x）比章号小 1，引用题号请以周版为准。
+   - **主手册第 9 章 Integration by Parts 从未被拆入任何一周**，且全课程材料零次提及、不在官方 COURSE LAYOUT 周计划、习题为空壳 → 已裁定归 Week 8 作**选读、非考纲**补充。**主手册第 12–15 章（Additional Materials）亦从未被拆分** → 已裁定 12.2 归 Week 11（微分复习）、12.3 + 第 13/14/15 章归 Week 12（积分复习 + 考期）。
+   - **`Practical/Week 1` 缺 `Exercises1.md`**（该位置是 `Chapter1.md` 的重复件 `Chapter1(1).md`），主手册第 1 章 Exercises 只存在于主手册。
+   - **`Revision_Differentiation.md` 内部的 "WEEK 11" 实指向量与偏微分**（本目录 `Lecture/Week 10` 的内容），因幻灯片沿用大学绝对学期周号（本课程占第 20–34 周）。一律以文件夹路径的 Week 号为准。
+   - **Week 6、7 的 transcript 已补齐**（早前记为「无 transcript」），本课小计相应由 140,625 词上修至 156,134 词、md 文件由 64 增至 66，汇总总表与合计行已同步。
 7. **Practical Skills（HT）**：与其余子课程不同，每个 Week 文件夹下还分 `Morning/`、`Afternoon/`（Week 8 另有 `Museum Quiz/`）子文件夹，且并非每周都同时有 Morning 和 Afternoon（Week 6 只有 Afternoon，Week 10 只有 Morning）。下游 Agent 需要递归进入这些子文件夹才能取到全部材料。
 8. **2025 Field Trip Material（HT）**：非周结构，只有一个活动文件夹（Earth and Planetary Field Course 7th - 12th April 2025），内含 1 个 md 文件（同时有 1 个未计入词数统计的 .pptx）。
 9. 全目录核查未发现任何子课程已存在 `Notes/` 输出目录（尚未开始笔记生成），也未发现任何 Week 文件夹之外的、需要纳入统计的散落 md 材料文件（仅各层级根目录下的课程说明文件 `(EARTxxxxx) ....md` 及 `Course Units Freshman.md`、`order.md`，均非逐周材料，未计入词数统计）。
