@@ -117,7 +117,7 @@
 - [ ] 8. A Dynamic Planet (HT)
 - [ ] 9. A Sustainable Planet (HT)
 - [ ] 10. Computer Programming (HT)
-- [ ] 11. Mathematics and Physics (HT)
+- [x] 11. Mathematics and Physics (HT) — 执行顺序第 8 位，12 周周笔记 + 课程总纲已完成（Opus，12 个周 Agent 一次派齐）。主手册按 `Handbook Index.md` 分章到各周；主手册第 9 章 Integration by Parts 未被拆入任何周，裁定归 Week 8 作选读（非考纲）；自 Week 9 起周版章号比主手册小 1。⚠️ 本课 PDF→md 转换损耗极重（公式多为图片），课程总纲含**全课勘误表 62 条** + 13 项「由答案反推重建」清单。
 - [ ] 12. Practical Skills (HT)
 - [ ] 13. 2025 Field Trip (HT)
 - [ ] 后处理 A层（MindMap / 跨学期合并 / 大课笔记）
