@@ -108,7 +108,7 @@
 - [x] Agent 0a 排序（order.md）+ Agent 0b 目录统计（manifest.md 含字数）
 - [x] 1. How to Build a Planet (MT) — 执行顺序第 3 位，10 周周笔记 + 课程总纲已完成（Opus）。注：W3/W5/W9 因原课件上传错误，材料更正后按「反事实重放」重做。
 - [x] 2. How to Grow a Planet (MT) — 执行顺序第 4 位，11 周周笔记 + 课程总纲已完成（Opus）。待核：Week 2 / Week 4 课件疑似对调（W4 内容在演化时间轴上早于 W2、W3）；Week 11 无 transcript，仅一份文字极简幻灯片。
-- [ ] 3. The Workshops (MT)
+- [x] 3. The Workshops (MT) — 执行顺序第 7 位，7 周周笔记 + 课程总纲已完成（Opus）。**秋季学期 MT 至此全部完成。** 注：缺 Week 6/8/9；全课无 transcript；幻灯片中的题目与图件在 PDF→md 时大量丢失，各周笔记以「📎 背景补充」标注补足内容。
 - [x] 4. Chemistry of the Earth (MT) — 执行顺序第 2 位，11 周周笔记 + 课程总纲已完成（Opus）。注：Week 11 的 transcript 文件为空，已在该周笔记中注明。
 - [x] 5. Intro Maths (MT) — 执行顺序第 1 位，5 周周笔记 + 课程总纲已完成（Opus）
 - [x] 6. Statistics (MT) — 执行顺序第 6 位，6 周周笔记 + 课程总纲已完成（Opus）。周号采用子课程内部 Week 01–06；新增手册按 `Handbook Index.md` 分章到各周。注：多周 transcript 为答疑/复习课，与当周 slides 主题不符，已在各周笔记「课堂补充」中标注。
