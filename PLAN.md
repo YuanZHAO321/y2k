@@ -97,12 +97,12 @@
 
 ## 5. 进度追踪
 
-- [ ] Agent 0a 排序（order.md）+ Agent 0b 目录统计（manifest.md 含字数）
+- [x] Agent 0a 排序（order.md）+ Agent 0b 目录统计（manifest.md 含字数）
 - [ ] 1. How to Build a Planet (MT)
 - [ ] 2. How to Grow a Planet (MT)
 - [ ] 3. The Workshops (MT)
 - [ ] 4. Chemistry of the Earth (MT)
-- [ ] 5. Intro Maths (MT)
+- [x] **Intro Maths (MT)** — 执行顺序第 1 位，5 周 + 双课程笔记，已完成
 - [ ] 6. Statistics (MT)
 - [ ] 7. Practical Skills (MT)
 - [ ] 8. A Dynamic Planet (HT)
