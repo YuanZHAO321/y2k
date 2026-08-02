@@ -107,7 +107,7 @@
 
 - [x] Agent 0a 排序（order.md）+ Agent 0b 目录统计（manifest.md 含字数）
 - [x] 1. How to Build a Planet (MT) — 执行顺序第 3 位，10 周周笔记 + 课程总纲已完成（Opus）。注：W3/W5/W9 因原课件上传错误，材料更正后按「反事实重放」重做。
-- [ ] 2. How to Grow a Planet (MT)
+- [x] 2. How to Grow a Planet (MT) — 执行顺序第 4 位，11 周周笔记 + 课程总纲已完成（Opus）。待核：Week 2 / Week 4 课件疑似对调（W4 内容在演化时间轴上早于 W2、W3）；Week 11 无 transcript，仅一份文字极简幻灯片。
 - [ ] 3. The Workshops (MT)
 - [x] 4. Chemistry of the Earth (MT) — 执行顺序第 2 位，11 周周笔记 + 课程总纲已完成（Opus）。注：Week 11 的 transcript 文件为空，已在该周笔记中注明。
 - [x] 5. Intro Maths (MT) — 执行顺序第 1 位，5 周周笔记 + 课程总纲已完成（Opus）
