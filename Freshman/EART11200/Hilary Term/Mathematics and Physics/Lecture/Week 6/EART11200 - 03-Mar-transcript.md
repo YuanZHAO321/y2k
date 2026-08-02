@@ -1,0 +1,1603 @@
+---
+title: "EART11200 - 03-Mar-transcript"
+source: "Freshman/EART11200/Hilary Term/Mathematics and Physics/Lecture/Week 6/EART11200 - 03-Mar-transcript.txt"
+type: transcript
+---
+
+'EART11200 - 03-Mar', automated transcript
+02/08/2026
+---
+
+I don't know.
+
+It's not.
+
+It's shit.
+
+Right.
+
+Right.
+
+Okay everyone.
+
+Thank you very much for coming back.
+
+So just to kind of recap of where we are.
+
+Last week we finished the topic of differentiation.
+
+So we kind of moved on to talking about two or three kind of things last week.
+
+Which was first of all we talked about second order differential equations.
+
+So differential equations typically have something called an order.
+
+And that's what the order means is how many times you differentiate it.
+
+So up to last week you looked at differentiating functions only once.
+
+But then we started thinking about the second order derivative.
+
+Which is when you differentiate the same function twice.
+
+And actually these had some really useful and interesting properties for us.
+
+Such as.
+
+When we look at second order derivatives they actually tell us even more
+
+interesting things about a function that we were interested in.
+
+For example when we look at the first order derivative we can find things like
+
+stationary values.
+
+Maximum, minimum or several points.
+
+And then what we can do is we can actually use the second order derivative to
+
+help us categorise what those functions are.
+
+And further behaviours of a function.
+
+So we saw that when we differentiated a function twice at a stationary value.
+
+If the second order derivative was negative then the stationary value was a
+
+maximum.
+
+If the second order derivative was positive at the stationary value then it was
+
+a minimum.
+
+If it was zero then it's not possible to conclude anything.
+
+And hopefully you will have seen a couple of examples last week on the handbook
+
+and the quiz.
+
+Of what a saddle point looks like.
+
+Essentially it's where a function comes to rest and starts going off in the same
+
+direction again.
+
+So the week before we looked at properties as derivatives.
+
+And now when you thought about last week you must have thought well why are we
+
+looking at an informal test.
+
+For example if we have a formal test to check whether stationary values are
+
+maximum, minimum or saddle points.
+
+Well actually in some cases we may need to investigate the first order
+
+derivative again to tell us a little bit more about it.
+
+If we can't categorise the stationary value as a maximum or a minimum.
+
+So that kind of wrapped up the topic of differentiation.
+
+But what we kind of talked about was to kind of give you an idea of why the
+
+second order derivative is also useful is to think about concept of steady
+
+state.
+
+So largely what we mean by when a system is in steady state a function is the
+
+differential equation describing a process.
+
+The first order derivative is constant so the rate of change is constant.
+
+So for example we see that in this transient state more water is going into the
+
+tank than coming out of it.
+
+But actually it reads a critical mass where the more water coming into it
+
+reaches the water coming out of it.
+
+So the rate of change is constant and that means if the rate of change is
+
+constant it means that the second order derivative will be zero.
+
+So you can use either definition of saying that the first order derivative is
+
+constant or the second order derivative is zero.
+
+But that second order derivative equals zero is going to come up really really
+
+important later on in the term when we start talking about integrating
+
+differential equations and using something called initial value problems.
+
+So we kind of wrapped up the last little bit which was to say that we've been
+
+trying to find out where the roots of the functions are where functions end up
+
+being equal to zero.
+
+We use this principle roots of functions trying to find out where the stationary
+
+values are but sometimes functions can be quite complex and we can't actually
+
+solve them directly to find out the zeros.
+
+So we may need to use something called Newton's root method for root finding
+
+which is an iterative algorithm.
+
+We start with a starting guess of X zero.
+
+Usually you try and do something fairly educated.
+
+So for example you wouldn't choose an X value that gives you a starting value
+
+that gives you a function evaluated at say a thousand.
+
+You would try and find something fairly small and work in that direction.
+
+And then you apply this formula iteratively until you reach some threshold.
+
+So like for example last week we looked at going up to the third decimal place.
+
+So if the third decimal place doesn't change you say that the answer has
+
+converged and you've worked it out and you've found the root of that equation.
+
+So that wrapped up the topic of differentiation.
+
+So we spent five weeks looking at differentiation.
+
+So this is a kind of a good chance to review what we've got left.
+
+So for the next four weeks we're going to be talking about integration which is
+
+about kind of the opposite of differentiation.
+
+Instead of differentiating the final rate of change we're actually going to use
+
+the rate of change and integrate it to tell us something about the process of
+
+what has changed over time.
+
+So that's what we're going to spend the next four weeks doing.
+
+And then we're going to move, we're going to come back into the final week, week
+
+10 before Easter.
+
+We're going to come back on looking at differentiation in higher dimensions and
+
+start thinking about partial differentiation in nablas which I think you might
+
+have seen before.
+
+And then that will conclude, before Easter all of the materials will be given to
+
+you before Easter.
+
+So we've got five more weeks of term and everything will be before Easter.
+
+At the end of this lecture on the week 29 I will release last year's exam paper
+
+so you have all of Easter to work on it.
+
+And so you'll see the type of questions you're likely to get during the exam in
+
+the summer.
+
+And then what we're going to do is there's going to be two revision lectures and
+
+practicals after Easter.
+
+One of them will cover differentiation and one of them will cover integration.
+
+During these lectures I'll give you the solutions, I'll work through the
+
+solutions to the problems and also give you a bit of recap about what I think
+
+might come up on the exam.
+
+I have written your exam, I might give you some hints so please do come to those
+
+lectures.
+
+I might just give you a couple of tips and tricks to watch out for and just to
+
+warn you a little bit about common mistakes people make and basically try and
+
+tell you not to worry about the exam in general.
+
+So that's basically what we're going to do left now.
+
+So we've got five more weeks of term left and we're going to start talking about
+
+integration today.
+
+So in terms of today we're going to learn about what the concept of integration
+
+is and explain why it's needed in calculus.
+
+You're going to understand common notation using integration.
+
+Look at ordinary differential equations and explain how some of them are really
+
+useful.
+
+And what we're going to do is then learn common laws of integration similar to
+
+differentiation that allow you to integrate real world examples.
+
+So integration is the reverse of differentiation.
+
+So so far we've taken, we've gone from the right to the left, right?
+
+We've taken f of x and we differentiated to get df by dx.
+
+So what we've done is we've taken a process, a function that describes a process
+
+of something that could be distance traveled, that could be number of nuclei in
+
+a sample that's radioactive.
+
+It could be plenty of other examples that we've looked at throughout the term.
+
+And what we've decided is to think about, well, if we differentiate that, we're
+
+going to look at the rate of change.
+
+We've looked at how things are changing over time, over space, any sort of
+
+variable.
+
+We've looked at how this function, understanding how functions change or
+
+function change over different variables.
+
+So what we're going to do now is we're actually going to do the other way
+
+around.
+
+We're going to take df by dx and start doing something called integration.
+
+So we're going to come back. We're going to start with a differential equation.
+
+And we're going to move back to the f of x.
+
+OK, so we're going to take a rate of change and we're going to use that rate of
+
+change and tell and use that in integration, integrate that rate of change to
+
+tell us something about what that process is doing.
+
+So if differentiation is providing us with a gradient, a rate of change,
+
+integration provides us with a function that can be used to calculate absolute
+
+values.
+
+And I'll explain what that really means with an example in a second.
+
+But essentially what that, you know, is a kind of quick example is if you
+
+understand that a tank and the f of x is describing describing if the rate of
+
+change df by dx is telling you how much water is leaking over time from this
+
+tank.
+
+If you integrate that differential equation, it'll tell you how much water has
+
+been leaked from that tank over time.
+
+OK, because you've been you're integrating the rate of change.
+
+OK, you're doing the opposite, right? You're going from differentiation to
+
+integration.
+
+So this is where the kind of long s symbol comes in.
+
+So it's basically a summation and we'll see where that comes from in similar way
+
+that we looked at differentiation.
+
+We looked at we looked at the, you know, the central central differences method,
+
+the backward or forward method.
+
+We're going to see generally how that come that comes about, right?
+
+And we're going to see some you're going to see some approximate methods.
+
+And then we're going to start building up this idea of how you get from a
+
+function, how you get from a differential equation up to up to, you know, an
+
+integral up to an integral or tells you something about the state of the process
+
+at any time.
+
+Right. And what this really means is remember when we started looking at the df
+
+by dx tells you the in the in the infinitesimal rate of change.
+
+Well, the s symbol tells the infinite is a summation of infinitely many integral
+
+small quantities.
+
+And again, I'll show you what that really means when we start looking at an
+
+example.
+
+So most of science that you're going to see largely involves a differential
+
+equations.
+
+What differential equations are effectively telling you something about a rate
+
+of change.
+
+And what you have to do is solve that differential equation to tell you
+
+something about the process.
+
+OK, so we've already seen one, which is the radioactive equation as an example.
+
+So we see that the number of the rate of change of a radioactive sample is
+
+proportional to the number of nuclei in the sample already multiplied by its
+
+rate of change.
+
+So there's also Newton's laws of cooling, which tells you that the change in
+
+temperature over time is a relationship where you have alpha, which is the rate
+
+of cooling, the surface temperature and T, which is the temperature of the
+
+object that that is at a high temperature.
+
+Right. So effectively, this will be some sort of exponential relationship
+
+against all of these will be an exponential relationship.
+
+Right. And then Newton's second law, we'll talk a lot more about this next week,
+
+but largely, hopefully you will have heard something called the force equals the
+
+mass times acceleration.
+
+And actually, if we look at what we did last week, which is to discuss how mass
+
+velocity and acceleration, velocity and distance are related, then you can
+
+actually write that differential equation in many different forms.
+
+But again, we'll go through that in a lot more detail next week.
+
+So you also might come across different types of ordinary differential
+
+equations.
+
+We're not going to really go into the detail of telling you to solve certain
+
+types.
+
+We are going to solve second order differential equations at the end of term,
+
+but I'm not going to expect we're not going to dive too deeply into the kind of
+
+what the different types are.
+
+So the homogeneous, you know, Cauchy harmonic, you know, we're not going to
+
+really talk about those.
+
+We're just going to kind of talk about in general how we're going to solve these
+
+differential equations.
+
+So just remember that we're just going to go backwards this time, right?
+
+So we wouldn't last you last the last four or five weeks.
+
+I would have given you, you know, a function and I would have told you to derive
+
+these differential equations the other way around.
+
+We're going to do this now as I give you the differential equations.
+
+I'm going to ask you to solve them.
+
+OK, we're going to go in the opposite direction.
+
+So imagine now as a kind of example, what we're going to do is imagine you have
+
+I give you a function, a rate of change df by dt, which is the F of t.
+
+So the water volume of water in a tank is changing all the time, right?
+
+So what we can see here is that the flow rate, which would be the differential
+
+equations, the differential equation is changing, telling you the rate of
+
+change,
+
+the change in the flow of the water that's in this tank over time.
+
+So what we see is for the first 30 seconds, the flow rate is is increasing
+
+linearly.
+
+Then we see that the flow rate stops until around 70 is constant for the next 40
+
+seconds.
+
+And then the flow rate starts to decrease for the next 30 seconds.
+
+OK, so as I said earlier, imagine that we have, you know, we're filling a tank,
+
+right?
+
+So if I'm telling you the rate of change, I'm telling you that this right this
+
+tank is filling up by one liter per second.
+
+Then after 10 seconds, you should say, well, that's 10 liters.
+
+Right. And that's what integration is telling you.
+
+Right. What this is doing is really saying is we're going to calculate the area
+
+under this curve to tell you how much water has been added into this tank.
+
+Right.
+
+So luckily, because this is quite a nice, quite a nice shape, we see that, you
+
+know, we for a triangle, it's half times base times height.
+
+So we know that we can go, you know, half times 30 times 250 to get what the
+
+rate to get what the rate is, how much water is in the tank,
+
+total volume of water in the tank at time 30.
+
+Then if you want to work out what the time the total tank volume is at times
+
+empty, well, we've got the first half of that.
+
+We've got the up to 30, which is up to 30 there.
+
+And then for 30 to 70, we can just calculate the area of that rectangle, which
+
+is base times height.
+
+So we would just add in half times base time height plus base times height of
+
+those two things to get the area.
+
+Add those two quantities together.
+
+And that tells you how much water is in that tank at times empty.
+
+OK, so just to simplify that even further, as I said, if I tell you that it's
+
+constantly if there's a constant rate of water going into a tank,
+
+one meter per second after 10 seconds, there's 10 meters in the tank.
+
+Right. This is exactly the same process.
+
+So you just because the first 30 seconds is is an increasing rate, it stays
+
+constant and then it decreases.
+
+We see that the water is filling.
+
+Right. We can see that the tank is filling over time.
+
+But actually, what we can do is we can calculate individual points of where we
+
+can calculate the total volume of water in the tank
+
+at each individual point by calculating the areas under these curves.
+
+OK. And this is essentially integration.
+
+Right. So what we're going to do is effectively say that we're going to sum.
+
+So imagine this big S is a sum of the minute.
+
+We're going to sum across all of the all of the all of the X axis here to kind
+
+of tell us what should be going on.
+
+Right. How much water is going to be in that tank at any one particular point.
+
+So whereas you would have gone from the bottom curve, what I would have given
+
+you before is this curve at the bottom.
+
+I told you to differentiate it to get this curve at the top.
+
+We're going the other way around now.
+
+So I would have given you this what the change of the tank, the change in the
+
+volume of water in the tank is over time.
+
+Next time, this time, we're going to do is we're going to tell you you're going
+
+to tell me I'm going to tell you the rate
+
+and you're going to tell me how much water there is in the tank over time.
+
+Right. And we're going to do that by summing this function over all loads of
+
+different quantiles.
+
+Right. So we're going to take this one is fairly straightforward.
+
+We can take, you know, we can take the first 30 seconds and calculate, you know,
+
+half times base time height.
+
+Then we can go from 30 to 70, which is base times height.
+
+And then for the third one, we can go 30 times half times base time height.
+
+And that should tell you how much water there is in the tank at any of those
+
+three points.
+
+You know, largely you can do that calculation for anyone.
+
+So you can actually go from 15 if you wanted to work out how much water there
+
+was a 15 seconds.
+
+But largely what you're doing is you're summing over that function over and over
+
+and over again.
+
+And then you end up with this function that tells you how much water there is in
+
+the tank at any one particular time.
+
+Right. Because you're summing over how much water you be the rate you're summing
+
+over the rate of change of that time.
+
+As I said, you can find in this one is a really simple example as to kind of
+
+find the area under the curve.
+
+But not function functions will not always be as simple as this.
+
+Right. So we're going to look at a harder example in a second.
+
+But actually, we're not going to do this by hand like we did for
+
+differentiation.
+
+I'm just going to show you a set of rules that will allow you to integrate the
+
+functions directly.
+
+So imagine you have this function.
+
+I tell you this function instead, rather than giving you as a triangle,
+
+rectangle, triangle, I should give you a function now.
+
+Right. And this then becomes thinking, right, OK, well, how the hell am I going
+
+to start estimating the area here?
+
+Right. Right. OK. So let's think about this.
+
+Let me do some scribbles on. OK.
+
+So what we're going to do is imagine that this is the function.
+
+This is not going to work.
+
+Right. There you go. So imagine now I'm going to give you a function which looks
+
+like this.
+
+Well, we're going to do something similar to what we did with the what we did
+
+with the triangle, the kind of simple triangle, rectangle, triangle.
+
+And we're going to split the area, split the curve up into distinct chunks.
+
+OK. And what we're going to do is I'm going to calculate how much area is under
+
+each of these chunks.
+
+Right. We can calculate the areas into these chunks. Right. So what's the best
+
+thing we could do?
+
+Right. Well, I'm just going to say, let's calculate the area under that little
+
+chunk.
+
+What I'm going to do is I'm going to try and approximate the area into that
+
+curve.
+
+Right. So I'm going to approximate that with a with a triangle. Right.
+
+So imagine if this is if you imagine this is just length one and this is f of x,
+
+then you can calculate the area is equal to f of x multiplied by one.
+
+OK. And that will tell you the area in that little triangle, which is an
+
+approximation of what the area under that curve is.
+
+Right. So come back to when we were looking at the central differences method of
+
+the backward and forward method.
+
+What we did was to take one particular time point and we looked at the rate of
+
+change with respect to some sort of time interval around it.
+
+What we're going to do is we're going to do something exactly the same way.
+
+I'm going to say we're going to split up the to look at the area under this
+
+curve.
+
+I'm going to split it into small regions, into chunks of different time steps or
+
+different step sizes.
+
+We're going to calculate the area under those curves.
+
+And then what we'll see is something similar, where if we let the intervals get
+
+smaller and smaller and smaller and smaller, you'll end up getting to the
+
+integral.
+
+OK. So you're going to approximate it using this method, similar to what you
+
+would have done with the central differences method or the forward and backward
+
+method, which is to say, right, we're going to take this curve.
+
+We're going to calculate the area underneath the curve, but we're going to
+
+approximate it using rectangles like we do up here.
+
+So we're going to split it up into chunk step size of chunks of 10.
+
+And we're going to approximate it using the area under the curve by using
+
+rectangles.
+
+Right. It seems simple enough.
+
+We're going to just take multiple different rectangles, calculate the area and
+
+sum them all up.
+
+And this will tell you the rate of change of a function.
+
+This will tell you the total number of water.
+
+So imagine the flow rate now has changed to the smooth function rather than the
+
+discontinuous one we looked at.
+
+Well, we can actually calculate the total water that's been added to this tank
+
+over time at distinct time points.
+
+Then we just interpolate in between them. Right.
+
+So what we're going to do is we're going to calculate the step size.
+
+So we're going to take a step size, delta X, and we're going to multiply that by
+
+all of the different functions evaluated, calculate the different rectangles.
+
+We're going to sum across all of that.
+
+And that should tell you the area under the curve or how much water there is in
+
+that tank at any one particular time point.
+
+Is everyone following?
+
+Yeah.
+
+Cool.
+
+So this was the numerical approximation method.
+
+Right. Exactly the same way as we did with the central differences method.
+
+Backward method, forward method.
+
+You know, we took the time.
+
+We took the time step and we did some operation of the function around that
+
+particular values.
+
+But instead, what we're going to do is now like we did before where we got to
+
+differentiation, we let this we let the step size or the interval get smaller
+
+and smaller and smaller until we've got the instantaneous rate of change.
+
+What we're going to do is we're going to make these triangles smaller and
+
+smaller and smaller or thinner and thinner and thinner.
+
+Because if you make them thinner, they're going to be more accurate.
+
+Right.
+
+Because there's some approximation here.
+
+You can see that these rectangles don't represent exactly what's going on with
+
+that function.
+
+If we get that smaller and smaller, those rectangles will converge to the area
+
+under the curve.
+
+And that's where we get the integral from.
+
+Right.
+
+So this is where this S comes from.
+
+And it's effectively an infant is called an infinitesimal sum.
+
+Right.
+
+It's where these intervals get so, so, so, so, so, so, so small that they're
+
+infinitesimally small.
+
+And then we could do the integral.
+
+Right.
+
+So it's exactly the same in terms of in the theory of differentiation where we
+
+take these intervals, we work out the rate of change around around a point in an
+
+interval.
+
+We're going to let that interval go small, small, small, small, small.
+
+And then we get the infinitesimal rate of change.
+
+Right.
+
+The instantaneous rate of change.
+
+This will tell us the instantaneous area under the curve.
+
+Right.
+
+So we can calculate that line, that black line.
+
+This is a black line here to tell us the area under the curve or how much water
+
+has been placed into this tank.
+
+OK.
+
+As I said, the choice of increment is important.
+
+As with numerical differentiation, we set the we let the increment go to zero.
+
+Well, this is exactly the same thing as we let this sum go to zero and we get
+
+this infinitesimal sum, which is called we call the integrand.
+
+And as I said, because it's summing up, that's why we write it up, because we're
+
+summing up a whole bunch of different rectangles in the area we look at.
+
+We give it the S shape.
+
+It's summing.
+
+So rather than but we're not actually going to do numerical integration here
+
+because numerical integration is much more involved in numerical
+
+differentiation.
+
+Because you've got to do lots of different triangles and then you've got to sum
+
+up across triangles.
+
+Whereas, you know, when we do the rate of change, we can just do that for one
+
+particular value.
+
+So we're not actually going to do numerical integration.
+
+I'm just kind of showing you how it works and how in theory it works very
+
+similarly when we start treating it like differentiation by letting these
+
+intervals go very, very small.
+
+But we can actually use analytical integration.
+
+So I'm going to give you like like we did for differentiation.
+
+I'm going to give you a table of common integrals.
+
+I want to go from there where you start integrating different functions.
+
+And I can show I can tell you that if we integrate this function, this curve
+
+between zero and X or from we're going to start at zero, we're going to start at
+
+zero.
+
+And then if I wanted to find out what the rate of change is for any value of X,
+
+I would say I'm going to integrate from zero to X.
+
+So we're going to start from zero and integrate it from any value of X you might
+
+be interested in.
+
+We're going to integrate that little bowl function, this little bowl function
+
+here for dx.
+
+So I'm going to integrate this little function with respect to X.
+
+So as I say, again, all language works in the exact same way.
+
+dy by dx meant the rate of change in Y with respect to X.
+
+This reads as we're going to integrate between zero and X of this function with
+
+respect to X.
+
+So we're going to do is we're going to integrate everything in here, the respect
+
+that relates to X.
+
+OK, how do we so how do we do how do I get from the left hand side to the right
+
+hand side this time?
+
+Right. Well, luckily, I've got a bunch of common laws that you can use.
+
+Again, most of these will appear on the exam.
+
+But what I want you to do over the next few weeks is to try and get used to them
+
+and apply these over and over and over again in the lab questions and the
+
+quizzes.
+
+And we're going to go from there. Right. So let's kind of look at these
+
+individually.
+
+Right. So so let's kind of build up some of these ideas.
+
+Right. So when we saw when we saw a constant, right.
+
+So imagine we had a constant d if y is equal to constant, then we knew that dy
+
+by dx is equal to zero.
+
+So actually, we're going to go backwards. Right.
+
+And we're going to say that if dy by dx is equal to zero, we're going to get the
+
+integral d.
+
+If we saw that y is equal to ax, then we saw that dy by dx is equal to to a.
+
+But actually, what we're going to do something now is we're going to say y is
+
+equal to d.
+
+Well, what we're going to do is when we try to integrate this and we're going to
+
+say, you know, when we have integral of a by dx, we're actually going to add
+
+something.
+
+We're going to add a constant onto the end. Right.
+
+So we're going to integrate a with respect to x.
+
+So we're just going to reverse this process of going right.
+
+We've got a y equals ax.
+
+I'm going to differentiate that now to get dy by dx is equal to a.
+
+Well, I'm going to reverse that. Right.
+
+So I'm going to reverse that and get ax back.
+
+But this time I'm going to add in something called a constant at the end. Right.
+
+I'm going to add in a plus d because all constants differentiate to zero.
+
+So what happens when we want to go backwards is that you when you when you just
+
+given dy by dx, you have no information of a way that d where there was a
+
+constant added onto the original fashion.
+
+OK.
+
+So we're going to do is we're going to integrate the function and then add on a
+
+constant plus d at the end because when you differentiate this, you're going to
+
+get that back.
+
+OK. So what we're going to do is we're going to add on a d ax plus d.
+
+So we're going to add on. So this one we'll find out later how we can find out
+
+d.
+
+So you may be given something called initial values or you may be given boundary
+
+conditions.
+
+And what you can do is calculate what d was.
+
+But unless you're not unless you are given or you were told what d is, you just
+
+add a d on the end.
+
+Right. So you integrate and then just add a d on the end.
+
+This is called different. This is called indefinite integration.
+
+We'll see a little bit more of this later on.
+
+So what we're going to do is just going to constantly go through this where we
+
+say right.
+
+OK, y equals x to the power n.
+
+Well, when we had d y by d x, we saw that the power came down and it decreased
+
+by one.
+
+So that was n x n minus one.
+
+And again, we're just going to reverse that and say then that if we wanted to
+
+integrate n x n minus one with respect to x, then that's just x to the power n
+
+plus d.
+
+But if you wanted to say if you wanted to kind of go slightly differently, which
+
+is the way we're going to write it,
+
+is if you imagine that we're going to integrate x to the power n d x.
+
+Well, we're going to reverse the other way.
+
+We're going to reverse what we did was just to say, right, OK, well, we're going
+
+to add the power and then we're going to divide by the new power.
+
+So rather than doing what we did differentiation, which is to bring n down and
+
+minus one.
+
+What we're going to do is going to add the power and divide by the new power.
+
+OK, and again, we're just going to part.
+
+We're going to add on a constant there.
+
+So if we have y is equal to the e to the x, we saw that d y by d x is equal to e
+
+to the x.
+
+And again, so what we're going to do is just going to reverse that and say if e
+
+to the x d x is just e to the x plus some constant.
+
+OK, if we have y is equal to e to the k x, d y by d x is equal to k e to the k
+
+x.
+
+So vice versa, k e to the k x d x is equal to e to the k x plus d.
+
+But obviously, sometimes you may not have the k in front of it.
+
+So that means that you may want to say, OK, the integral of e to the k x d x is
+
+equal to one of a k e to the k x plus d.
+
+OK, so if we don't give you any limits, so if you don't give you any limits,
+
+I'll say what will explain a little bit more in detail what limits means.
+
+But if you give no information on other than you just integrating or you're
+
+given boundary conditions to tell you what d is, then just add on the d at the
+
+end.
+
+And then like we saw with y is equal to l n x, we saw that d y by d x is equal
+
+to one over x.
+
+We see that the integral of one over x d x is equal to l n x plus d.
+
+And again, we're going to see with sine and cosine that we saw this kind of
+
+reciprocal relationship where d y, if y, y is equal to cos x d y by d x is equal
+
+to minus sine.
+
+Is that right? Yeah. And then y is equal to sine x d y by d x is equal to cos x.
+
+We're just going to reverse this and say that the integral of cos x is equal to
+
+sine x plus d.
+
+And the integral of cos x d x is then sine x d x is equal to minus cos x plus d.
+
+OK, so you can see now that it's literally just reversing the process, right?
+
+The only way you need to be a bit careful of is where to place the sine, the
+
+plus or minuses on the sine.
+
+But largely all of these rules you've seen before, it's just that we swap in the
+
+columns now, right?
+
+So all you have to do is start applying these.
+
+And I said these are in your handbook, they're in the survival packs.
+
+One of these will actually be on the exam.
+
+You'll have a table of equations at the beginning.
+
+That table of equations is in the handbook as well, if you wanted to have a look
+
+at it.
+
+And what you can do is just please keep applying these over and over and over
+
+again, and you'll see how we get to them in the end.
+
+So the question is, why do we add a constant d?
+
+Well, when we look at differentiation, when we differentiate, we lose all
+
+constants.
+
+So they end up disappearing.
+
+But because we're reversing that process of differentiation, they may have been
+
+present, they may not have been.
+
+So we're just going to add them on just in case they were.
+
+And then if you're given any information about what that constant might be,
+
+we'll see an example later.
+
+We'll see much later in the term exactly what we mean by initial values and
+
+boundary conditions.
+
+But actually, we just add it back in because we just want to be safe and ensure
+
+that we may.
+
+There may be a constant, it may be zero, it may not be.
+
+But what we're going to do is add it in to make sure that we're correct.
+
+For standard integration, which just means that if we're just going to find a
+
+function, we're going to just go from this is standard integration where we just
+
+integrate a function.
+
+We're not going to be able to determine what that value is.
+
+So that's why we just call it a constant when we add it on the end.
+
+So this is why we call it indefinite integration.
+
+This is called indefinite integration because we cannot be definitive about what
+
+the full function is when integrating.
+
+So this comes on to hopefully what we're going to do.
+
+So you may have something called initial values or boundary conditions.
+
+We'll see an example when we integrate the radioactive equation in a second.
+
+But largely, we can find out what D is if you're given some sort of conditions
+
+about what the original function was at certain points.
+
+Or, for example, if you're told there's a certain number of particles in a
+
+sample, then you may be able to use that at the end to find out what D is.
+
+But for now, indefinite integration, because you're not doing it between any two
+
+limits, you're not looking at any two values on.
+
+Because you're not looking at it between any two values on the y on the x axis
+
+here, there's no limits.
+
+So we're not going to integrate between any values.
+
+It's called indefinite integration.
+
+So because this doesn't actually tell you about anything about integrating under
+
+a curve, it just means we're just going to integrate a function.
+
+It doesn't necessarily tell you directly any area under the curve, right?
+
+It doesn't tell you, say, what the rate of change would be.
+
+If you had this rate of change over time, how much of the process would have
+
+changed?
+
+This is where we have to use.
+
+We have to perform definitive integration or definite integration.
+
+And that means that we're just going to integrate between two values of x.
+
+So if I tell you, like in the last example, what we're going to do is how much
+
+water has been added to the tank between 0 and time 10.
+
+I'm going to integrate between 0 and 10, which means is that I'm going to take
+
+this value.
+
+I'm going to take this integral.
+
+I'm going to evaluate, say, imagine I give you that it's cos x.
+
+Well, I'm going to integrate that between 0 and 10, which means I'm going to
+
+evaluate that sign at 10 and 0 and calculate that right.
+
+So we'll see. Let's look at an example.
+
+So what I'm going to do is now I'm going to find the integral between 1 and 2 of
+
+x squared, right?
+
+So I'm imagining that I have a process, a differential equation that says x
+
+squared is the rate of change over time.
+
+So you imagine this coming down until it reaches 0, then it's increasing again
+
+after 0.
+
+What I'm going to do now is I'm going to tell you how much, say, imagine that
+
+was the rate of increase of water that's going into a tank.
+
+So it's increasing quadratically.
+
+I want to work out how much water was added between time 1 and time 0.2.
+
+So we're going to look at the rate of change or how much water has been added
+
+between time 1 and time 2.
+
+So what that means is I'm going to integrate this.
+
+So what we're going to do is we're going to integrate this, which means we add
+
+on a power x plus 3.
+
+And we add on the new power, which is divided by 3.
+
+And then we're going to evaluate that between 1 and 2.
+
+And then what that means is I'm going to evaluate 2 cubed over 3 minus 1 cubed
+
+over 3,
+
+which means that I have 8 over 3 minus 1 over 3.
+
+And that's then 7 over 3.
+
+So if you imagine that that x squared was describing the amount of water being
+
+added to a tank,
+
+so between time point 1, time equals 1, time equals 2, there are 7 over 3 litres
+
+being added in that one particular time point.
+
+OK?
+
+So the question then is, obviously, in the last slide I showed you, when we
+
+integrate something, we have to add on a constant at the end, right?
+
+Because we don't know what the original function was.
+
+So the question is, where does that go, right?
+
+Well, actually, it doesn't go and it disappears, right?
+
+So let's imagine that I'm going to add in that constant, right?
+
+So instead, now I'm going to work out, I'm going to assume that there's a
+
+constant in there.
+
+So that's still x cubed over 3.
+
+But now I'm going to add in a constant between 1 and 2.
+
+Well, that d doesn't have anything to do with x.
+
+So it still remains the same that you have 2 cubed over 3 plus d minus 1 cubed
+
+over 3 minus d.
+
+Sorry, let me, 1 over 3, and let's put that in big brackets, right?
+
+So we're just going to take one limit away from the other.
+
+We're going to go from the upper limit minus the lower limit to get to our area
+
+under the curve.
+
+So we can see that evaluated the upper limit minus what would be evaluated the
+
+lower limit.
+
+And that's still 8 over 3 plus d minus 1 over 3 minus d.
+
+And as you can see, the d cancels out.
+
+So, and actually, we get the same thing at the end, which is 7 over 3.
+
+So when we do, so one last slide, I showed you how to do an indefinite
+
+integration.
+
+When you just ask to do indefinite integration, you just add a constant on the
+
+end.
+
+When you do indefinite integration, you don't bother adding it in.
+
+Because when you're doing indefinite integration, it all cancels out in the end.
+
+Because you take it, when you take the, you evaluate the function at, you take,
+
+you integrate the function.
+
+And you evaluate it at the upper limit minus evaluated the lower limit.
+
+And actually, even if you added a constant in, it disappears at the end anyway.
+
+So don't bother adding it in when you do indefinite integration.
+
+Only when you do an indefinite integration, you need to add that in.
+
+Because you need to make sure that if you were to differentiate that function,
+
+you get that at the end.
+
+Because remember, when you differentiate constants, they disappear.
+
+So what happens when we have a sum of functions?
+
+Well, luckily, like differentiation, the sum of the integrals is the integral of
+
+the sum.
+
+So what we can do is we can just integrate things individually.
+
+So what we can do is I can integrate.
+
+I can integrate.
+
+So you have integral.
+
+Integral of 2x plus e to the x dx.
+
+Well, that's just integral of 2x dx plus the integral of e to the x dx.
+
+And that's basically x squared plus e to the x plus d.
+
+Oh, I missed out something here. I should have added a d on there.
+
+So the integral works exactly the same way as the sum.
+
+So when we have a sum, the integral of the sum is the sum of the integrals.
+
+So it works just like differentiation.
+
+So what we're going to do now is we're going to actually use these ideas to
+
+actually solve differential equations.
+
+And the first technique you're going to actually use how to solve
+
+differentiations is called separation of variables.
+
+So what we're going to do is we're going to disentangle some of these
+
+differential equations to get something out at the end.
+
+So what we're going to do is we're going to use this idea of integration and use
+
+a technique called separation of variables to actually integrate some common
+
+ordinary differential equations.
+
+So let's think about, let's firstly start off with the radioactive equation.
+
+This is probably, this is the one you've probably seen most of.
+
+So one I've used the most of in lectures is maybe ones that I've used on
+
+examples, right?
+
+So what we have is the rate of change of the number of nuclei in a sample is
+
+equal to minus the rate of decay multiplied by the number of samples in the
+
+unstable nuclei at any particular time point.
+
+And we can see, and I gave you a few weeks ago that this is a solution to that
+
+equation and I asked you to differentiate it to show that it is a solution.
+
+But actually now we're going to go from the top and actually use integration to
+
+get that.
+
+I gave you the solution and you differentiated it.
+
+But this time we're going to actually use the differential equation to get to
+
+the solution.
+
+So again, we're going to use something called separation of variables here.
+
+So what we're going to do is we're going to move, imagine we have dn by dt minus
+
+lambda n.
+
+What we're going to do is we're going to move everything on this side in terms
+
+of n and we're going to move everything in terms of t onto that side.
+
+OK, so we're going to do, so I'm going to do dn equals minus lambda n by dt.
+
+I'm going to multiply dt on each side.
+
+That's brackets times dt.
+
+Then I'm going to divide by n.
+
+So we're going to get dn by n is equal to minus lambda dt.
+
+So that's divide by n and then we're going to integrate.
+
+OK, so we're going to get integrate 1 over n dn is equal to the integral minus
+
+lambda integral dt.
+
+OK, so hopefully you will have seen this before.
+
+We've seen these before, but you've seen it the other way around.
+
+So what gives us, if we differentiate it, what gives us 1 over n?
+
+Anybody want to shut up?
+
+If I was to give you a function, what would give me 1 over n if you
+
+differentiated it?
+
+Go back a few slides.
+
+So if we have ln x, when we differentiate it, it gives us 1 over x.
+
+OK, so what we're going to do now is we're going to actually reverse that
+
+process and say, right, if we have 1 over x, 1 over n,
+
+which is the derivative, then if we integrate that, that becomes ln x.
+
+OK, so this becomes ln n.
+
+And if we have a constant here and we integrate it with respect to t, then that
+
+becomes minus lambda t.
+
+And then obviously what we're going to do is we're going to add on a constant on
+
+the end, which I'm going to call c this time,
+
+because we want to make sure that we don't know if we differentiate whether
+
+there was originally a constant at the end.
+
+So we see that if you divide both sides by n, this is separation of variables,
+
+right?
+
+So what we're going to do is we're going to get everything with respect to one
+
+variable on one side and one variable on the other so we can integrate it,
+
+right?
+
+So we can see that we're going to divide by n, multiply both sides by t,
+
+and then we're going to integrate to get this differential equation into a form
+
+of an integrand.
+
+And then we can see that if we integrate that ln n is equal to minus lambda t.
+
+And then if we see that, if you're told that at t equals zero, n is equal to n
+
+zero, then that means that c is equal to ln n zero.
+
+So then that becomes ln n equals minus lambda t plus ln n zero.
+
+And what we're going to do is we're going to take the exponential of each side
+
+so we get n with respect to t is equal to the exponential of minus lambda t plus
+
+ln n zero.
+
+And if you remember your log laws, then that should see that you get n zero
+
+exponential minus lambda t,
+
+which is exactly the solution that you were asked to differentiate a few weeks
+
+ago out there, right?
+
+So hopefully now we're going to start seeing that you're reversing it.
+
+So you just have to do this technical separation of variables, which is where
+
+you have to disassemble the differential equation,
+
+move all of the things on the numerator onto one side and move all the stuff on
+
+the denominator on the right hand side.
+
+Jink it about a little and you'll get an integral of your equation and get
+
+something out at the end.
+
+So in terms of the hydrostatic equation, just to kind of wrap up very quickly,
+
+hopefully you'll be able to look at it.
+
+We're going to finish this off in the actual practical in a second.
+
+So we're going to take these hydrostatic equation, which is to tell us about air
+
+pressure and it depends on temperature,
+
+the ideal gas law, which is gravity and some constants.
+
+And again, a few weeks ago I gave you the solution, which is to p zero
+
+exponential minus g over alpha t z.
+
+We're going to actually solve this again and we're going to use the separation
+
+of variables.
+
+So what we need to do is that g divided by r alpha t is all constant.
+
+So all we really have to do now is move the p onto the left hand side, dz onto
+
+the left and the right hand side.
+
+And then we can actually integrate this.
+
+So we're going to divide both sides by p multiplied by both sides by dz.
+
+And then we end up with the integrals of one over p dp is equal to minus g r
+
+alpha t dz.
+
+Remember, this is all constant.
+
+This is all a constant.
+
+So actually, we're going to end up in a very similar form.
+
+The hydrostatic equation in this form, ODE in this form, is going to give you a
+
+very, very similar result to the radioactive equation.
+
+And then you're going to complete this example in the practical in a second.
+
+So I think that wraps up everything I had to say on the introduction to
+
+integration.
+
+So as I said, we're going to do many, many different examples now in the
+
+practical.
+
+And I shall see you over there in about five, ten minutes.
+
+So please ask us any questions you have in there.
+
+And I'll see you guys next week to carry on integrating Newton's laws.
+
+Thank you.
+
+Yeah, if you can find me in the next room and I'll show you that.
