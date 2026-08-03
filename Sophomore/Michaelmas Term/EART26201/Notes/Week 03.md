@@ -126,37 +126,23 @@
 
 ⚠️ 转写在总结这一点时把话说反了（说 "that number refers to how many intensive variables are **fixed**"），正确说法是这个数字指**可以自由变化**的强度量个数。见勘误表第 8 条。
 
-**三类几何要素（用 H₂O 相图讲解）**：
-| 位置 | Φ | F | 名称 |
-|---|---|---|---|
-| 相区内部（如液态水场） | 1 | 2 | **双变区 divariant field** |
-| 相界线（如水–冰边界） | 2 | 1 | **单变线 univariant curve** |
-| 三相点 | 3 | 0 | **不变点 invariant point** |
+**三类几何要素**（详细算例见「三、公式与图表」第 2 条的 H₂O 相图）：相区内部 Φ=1、F=2，称**双变区 divariant field**；相界线上 Φ=2、F=1，称**单变线 univariant curve**；三相点 Φ=3、F=0，称**不变点 invariant point**。
 
 ### 11. 杠杆定律（lever rule）
 
-用来**定量计算两相共存时各相的比例**。
-
-设体系总成分点位于 I，两个共存相 A（左）与 B（右）在同一等温线（tie line，连结线）上，a、b 为线段长度：
+用来**定量计算两相共存时各相的比例**。设体系成分点位于两个共存相 A（左）与 B（右）之间的同一等温线（tie line，连结线）上，a、b 为线段长度：
 
 > **X_A = a / (a + b)**　　**X_B = b / (a + b)**　　**X_A + X_B = 1**
 
-比例可以用**重量百分比 wt.%** 或**摩尔百分比 mol.%** 表示（Slide 21 原文 "Expressed in wt.% or mol.%"）。
+比例用**重量百分比 wt.%** 或**摩尔百分比 mol.%** 表示（Slide 21 原文 "Expressed in wt.% or mol."）。
 
-⚠️ **方向是最大陷阱**：某一相的比例，等于**从体系成分点量到「对面那个相」的线段长度**除以总长——线段离哪一相越远，那一相越多。用 Practical 的数字验证见「三、公式与图表」第 6 条。
-
-（老师在课上把 X_A + X_B 等于多少留作提问 "And XA plus XB equals what? This will come in on Wednesday"——答案是 1，即 100%。）
+⚠️ **方向是最大陷阱**：某一相的比例 = **从体系成分点量到「对面那个相」的线段长度** ÷ 总长——离哪一相越远，那一相越多。数值验证见「三」第 6 条。（老师把 X_A + X_B 等于多少留作课堂提问，答案是 1。）
 
 ### 12. 平衡过程 vs 分离过程（equilibrium vs fractional processes）
 
-Slide 23 原文（三种情形）：
-- **平衡熔融 / 平衡结晶（equilibrium melting and crystallisation）**：**固体与液体始终保持相互平衡**，不断彼此调整成分。
-- **分离熔融（fractional melting）**：熔体一旦形成就被**移出体系**，不再与残余固体平衡。
-- **分离结晶（fractional crystallisation）**：晶体一旦形成就被**移出体系**，不再与残余液体平衡。
+Slide 23 原文（三种情形）：**平衡熔融/平衡结晶**——固体与液体**始终保持相互平衡**，不断彼此调整成分；**分离熔融（fractional melting）**——熔体一旦形成就被**移出体系**，不再与残余固体平衡；**分离结晶（fractional crystallisation）**——晶体一旦形成就被**移出体系**，不再与残余液体平衡。
 
-**两者的关键区别在于"什么是体系"**（转写讲得很清楚）：
-- 平衡情形下，**体系的总成分始终不变**（成分点在图上不动，只是分成两相）；
-- 分离情形下，**被移走的相不再算体系的一部分**，因此**体系成分点会沿相界线漂移**。
+**关键区别在于"什么是体系"**：平衡情形下**体系总成分始终不变**（成分点在图上不动，只是分成两相）；分离情形下**被移走的相不再算体系的一部分**，因此**体系成分点会沿相界线漂移**。
 
 ### 13. 固溶体（solid solution）与斜长石
 
@@ -304,61 +290,47 @@ Slide 24 提示 "Think back to Lecture 1: element partitioning and Goldschmidt's
 
 ### （0）先说材料缺口 ⚠️
 
-**`EART26201_Practical3_feedback_diagrams-1.md` 仅 59 词，是纯图件转换的残骸**。它的全部可提取内容只是一张被压扁的表格，里面散落着坐标轴刻度（1600 / 1400 / 1200 / 1000、0 / 0.2 / 0.4 / 0.6 / 0.8 / 1）、轴标签（*T* °C、*X*An）、端元化学式（Ab; NaAlSi₃O₈ / An; CaAl₂Si₂O₈）、相区标签（L、L+plag、plag），以及从 e) 到 m) 若干答案的标注文字。**图上的液相线、固相线的实际形状与曲率、答案标注所指的具体位置、以及第二题的 5 张 G–X 图和构建好的 T–X 相图，全部丢失，无法从 md 恢复**。
+**`EART26201_Practical3_feedback_diagrams-1.md` 仅 59 词，是纯图件转换的残骸**。可提取内容只有一张被压扁的表格：坐标轴刻度（1600/1400/1200/1000；0–1）、轴标签（*T* °C、*X*An）、端元化学式、相区标签（L、L+plag、plag），以及 e)–m) 若干答案的标注文字。**液相线/固相线的实际形状与曲率、标注所指的具体位置、以及第二题的 5 张 G–X 图和构建好的 T–X 相图，全部丢失，无法从 md 恢复**。
 
-这意味着：
-- **无法从材料中重建液相线/固相线的精确形状**，只能依靠 feedback 给出的几个离散读数（1460、1400、1250/1270 °C 与对应成分）来锚定。
-- **Practical Q2 的苯–甲苯 G–X 图与答案相图完全缺失**，只能靠 feedback 文字答案倒推。
-- 同样地，讲义 `EART26201_Lecture3-1_RT-1.md` 中 Slide 6（Lecture 3 synopsis）、Slide 8（Thermodynamics）、Slide 9–14（状态变量表、三大定律公式）、Slide 16（相律）、Slide 31（G–X 图）等，**转换后只剩标题和页脚，正文公式/表格/图形全部丢失**。本笔记中这些公式的具体形式，**几乎全部是从转写的口述里还原出来的**——这也说明为什么本周必须精读 transcript。
+后果：**无法重建液相线/固相线的精确形状**，只能靠 feedback 的几个离散读数（1460、1400、1250/1270 °C 与对应成分）锚定；**Q2 的苯–甲苯 G–X 图与答案相图完全缺失**，只能靠文字答案倒推。同样地，讲义中 Slide 6、8、9–14、16、31 等**转换后只剩标题和页脚，公式/表格/图形全部丢失**——本笔记里这些公式的具体形式**几乎全部是从转写的口述还原出来的**，这正是本周必须精读 transcript 的原因。
 
 ### （1）老师对本节课的定位与"坦白"
 
-开场就说："today's content at times probably will feel a bit dry, but there's not many ways to make that very interactive, but we'll just get through it and see how we go."（今天内容会有点枯燥，没什么办法讲得很互动，我们撑过去。）——**这是明确信号：本周是纯理论周，理论密度最高，练习全部压在周三的 practical**。
-
-同时说明本课的节奏：**"today is a lecture, so it's the theory, and Wednesday, we'll do the practical"**——周一理论 / 周三实践。
-
-以及："I believe you've all been introduced to phase diagrams last year, we'll go a little bit further this year"——**假定你大一已学过相图基础**，本周是拔高，不是从零开始。
+开场坦言："today's content at times probably will feel a bit dry, but there's not many ways to make that very interactive."——**明确信号：本周是纯理论周，理论密度最高，练习全部压在周三的 practical**。节奏是 "today is a lecture, so it's the theory, and Wednesday, we'll do the practical"。另有一句定位："I believe you've all been introduced to phase diagrams last year, we'll go a little bit further this year"——**假定大一已学过相图基础**，本周是拔高。
 
 ### （2）三次明确的"不要求背"提示（考试相关）
 
-老师在整节课里**三次**强调符号和公式不需要背：
-- Slide 9 旁白："I do not expect you to memorise them!"
-- 第一定律讲完后："Again, you're not expected to remember all of those. We're just going through those because they're important, but you don't have to remember them."
-- 讲状态变量时："you're not expected to remember all these letters for all these different terms."
+老师整节课**三次**强调符号和公式不需要背："I do not expect you to memorise them!"（Slide 9）；"you're not expected to remember all these letters"；"you don't have to remember them. We're just going through those because they're important."
 
-**如何理解**：不要求背符号≠不要求理解。考试更可能考的是**会用**（相律代入、杠杆定律计算、路径描述），而不是默写 dU = TdS − PdV。Slide 10 提到会提供 "summary of key symbols"，说明可能有符号表可查。
+**如何理解**：不要求背符号≠不要求理解。考试更可能考**会用**（相律代入、杠杆定律计算、路径描述），而不是默写 dU = TdS − PdV。Slide 10 提到会提供 "summary of key symbols"，说明有符号表可查。
 
 ### （3）熵的"摔盘子"比喻（老师自创，幻灯片上没有）
 
-> "One way I like to think of when I think about entropy is a pile of plates. If it falls down onto the ground, it will break in many small pieces. You rarely see the opposite... **From a physics point of view, there is no reason why it can't happen. It's just very unlikely.** All systems tend to go to their more disordered state."
+> "a pile of plates. If it falls down onto the ground, it will break in many small pieces. You rarely see the opposite... **From a physics point of view, there is no reason why it can't happen. It's just very unlikely.** All systems tend to go to their more disordered state."
 
-这个比喻的精髓在最后一句被强调的部分：**熵增不是物理禁令，而是概率压倒性**。碎片自发拼回完整盘子在物理上并不被禁止，只是概率低到不可能观察到。这是对"第二定律是不是绝对的"这类常见困惑的正面澄清。
+精髓在被强调的那句：**熵增不是物理禁令，而是概率压倒性**。碎片自发拼回完整盘子在物理上并不被禁止，只是概率低到观察不到。这是对"第二定律是不是绝对的"这类困惑的正面澄清。
 
 ### （4）体系是任意定义的——反复强调
 
-> "a system is something we define arbitrarily, depending on the questions we're interested in... it can be a mineral grain... a magma reservoir... different rocks from a single granite... a whole planet... the solar system. It can be anything."
+> "a system is something we define arbitrarily, depending on the questions we're interested in... a mineral grain... a magma reservoir... a whole planet... the solar system. It can be anything."
 
-这一点幻灯片只有一张图，全靠口头展开。**做题时第一步永远是"我把什么定义为体系"**——这直接决定了 C 和 Φ 怎么数。
+幻灯片只有一张图，全靠口头展开。**做题第一步永远是"我把什么定义为体系"**——它直接决定 C 和 Φ 怎么数。
 
 ### （5）结晶速率与玻璃（幻灯片只有图，没有文字）
 
-> "when it crystallizes fairly slowly, it will form different crystals... you've got here a sequence from **1170 degrees to 1020 degrees**, and you can see different crystals forming in a basaltic magma. **If a lava crystallizes very, very quickly, it won't have time to form crystals, and you can get glass.**"
+> "when it crystallizes fairly slowly, it will form different crystals... a sequence from **1170 degrees to 1020 degrees**... **If a lava crystallizes very, very quickly, it won't have time to form crystals, and you can get glass.**"
 
-这段对应 Slide 4 的 Wright & Okamura (1977) Makaopuhi 熔岩湖图。要点：
-- 玄武质岩浆在 **1170 → 1020 °C** 区间依次结晶出不同矿物（结晶序列）；
-- **玻璃 = 动力学上来不及结晶的产物**，是平衡热力学的反例，预告 Lecture 5 的失衡/动力学主题。
+对应 Slide 4 的 Wright & Okamura (1977) Makaopuhi 图。要点：玄武质岩浆在 **1170 → 1020 °C** 区间依次结晶出不同矿物（结晶序列）；**玻璃 = 动力学上来不及结晶的产物**，是平衡热力学的反例，预告 Lecture 5。
 
-### （6）热力学的两个"实用价值"论证（口头展开）
+### （6）热力学的两个"实用价值"案例（口头展开）
 
-老师给出的"为什么地球科学要学热力学"，除了幻灯片上抽象的 "Predictive power" 与 "Applications"，口头给了两个具体案例：
+幻灯片只有抽象的 "Predictive power" 与 "Applications"，口头给了两个具体案例：
 
-**a) 找矿（prospecting for ore deposits）**：康沃尔（Cornwall）Cligga Head 花岗岩曾开采**锡（tin）与钨（tungsten）**。"because we know of the thermodynamics of that system that we can go and locate these potential deposits in some granitic [massifs]."
+**a) 找矿（prospecting for ore deposits）**：康沃尔 Cligga Head 花岗岩曾开采**锡与钨**——"because we know of the thermodynamics of that system that we can go and locate these potential deposits in some granitic [massifs]."
+📎 背景补充：康沃尔的 Sn–W 矿化属于**花岗岩相关的岩浆热液（magmatic-hydrothermal）成矿系统**，本课后段的 "Hydrothermal systems"（大纲 Week 11）会回到这类体系；对 Energy and Resources 方向，这也是 EART26001 能源与资源的直接接口。
 
-📎 背景补充：康沃尔的 Sn–W 矿化属于**花岗岩相关的岩浆热液（magmatic-hydrothermal）成矿系统**，本课后段的"Hydrothermal systems"（大纲 Week 11）会回到这类体系；对 Energy and Resources 方向的学生，这也是 EART26001 能源与资源的直接接口。
-
-**b) 碳捕集（carbon capture）**：冰岛 **Carbfix** 项目。"Because we know the thermodynamics of the system, we can try and work out what's the best solution to put carbon back into the ground."
-
-📎 背景补充：Carbfix 的原理是把 CO₂ 溶于水后注入玄武岩，利用玄武岩中的 Ca、Mg、Fe 使 CO₂ 矿化为碳酸盐固定下来——**这正是"矿物–流体反应"的工程化应用**，也预告本课后段的碳酸盐化学（大纲 Week 9）。材料只提了项目名称，未展开机理。
+**b) 碳捕集（carbon capture）**：冰岛 **Carbfix** 项目——"we can try and work out what's the best solution to put carbon back into the ground."
+📎 背景补充：Carbfix 的原理是把 CO₂ 溶于水后注入玄武岩，利用其中的 Ca、Mg、Fe 使 CO₂ 矿化为碳酸盐固定——**"矿物–流体反应"的工程化应用**，也预告后段的碳酸盐化学（大纲 Week 9）。材料只提了项目名，未展开机理。
 
 ### （7）"melt" 与 "liquid" 完全同义
 
@@ -418,11 +390,9 @@ Slide 24 提示 "Think back to Lecture 1: element partitioning and Goldschmidt's
 
 ### 组织方式与"评分"性质
 
-- feedback 原文："I strongly encourage you to **discuss your work with each other** as you go."（鼓励讨论）
-- "Demonstrators will be available throughout the practical class, and I will provide a **short round-up at the end**."（全程有助教，结束时统一小结）
-- "I suggest **typing your answers into this document** as well as **annotating the associated blank phase diagrams**."（答案打进文档 + 在空白相图上标注）
-- 另有 **Blackboard quiz** 覆盖本周其他主题（"Other themes relevant to this week's content are reviewed in a Blackboard quiz."）
-- 📎 背景补充：本 practical 属于**形成性（formative）**练习，材料未标注分值。课程大纲显示本课的 20% report 是 Week 5 发、Week 7 交的那一份；Week 2 发、Week 4 交的 formative report 才是当前时段的书面作业。因此本 practical 的"评分要点"实际是**能力目标（Goals）达成度**，见下。
+feedback 原文要点：鼓励互相讨论（"I strongly encourage you to discuss your work with each other"）；全程有助教（demonstrators），结束时老师做 short round-up；答案打进文档 + **在空白相图上标注**（"annotating the associated blank phase diagrams"）；另有 **Blackboard quiz** 覆盖本周其他主题。
+
+📎 背景补充：本 practical 属**形成性（formative）**练习，材料未标注分值。课程大纲显示 20% 的 summative report 是 Week 5 发、Week 7 交；当前时段的书面作业是 Week 2 发、Week 4 交的 formative report。因此本 practical 的"评分要点"实为**能力目标（Goals）达成度**。
 
 ### 五条能力目标（feedback 原文 Goals，即自测清单）
 
@@ -456,7 +426,7 @@ Slide 24 提示 "Think back to Lecture 1: element partitioning and Goldschmidt's
 
 ### Question 2：从 G–X 图构建相图（60 min）——**苯–甲苯体系**
 
-**为什么用有机溶剂？** feedback 原文解释得很清楚："Although we are primarily concerned with high-T geochemical processes in my part of the course, remember that the thermodynamic principles we have been discussing are **widely applicable**. Benzene (Ben) and toluene (Tol) are organic solvents that **mix when liquid but vaporise at different temperatures**; this behaviour is **not unlike that exhibited by olivine and plagioclase solid solutions**."
+**为什么用有机溶剂？** feedback 原文："Although we are primarily concerned with high-T geochemical processes... remember that the thermodynamic principles we have been discussing are **widely applicable**. Benzene (Ben) and toluene (Tol) are organic solvents that **mix when liquid but vaporise at different temperatures**; this behaviour is **not unlike that exhibited by olivine and plagioclase solid solutions**."
 
 即：**液–气二元体系的数学结构与固–液固溶体体系完全相同**，只是把「固相/液相」换成「液相 L / 气相 V」、把「固相线/液相线」换成「液相线 liquidus / 露点线 vaporus」。
 
@@ -475,13 +445,13 @@ Slide 24 提示 "Think back to Lecture 1: element partitioning and Goldschmidt's
 
 ### 常见错误与得分要点（依据 feedback 的设问方式归纳）
 
-1. **液相线/固相线读反**——液相成分永远读**液相线**，固相成分永远读**固相线**。e) 用液相线（开始结晶），l) 用固相线（开始熔融）。
-2. **杠杆定律方向反**（把 35% 和 65% 写颠倒）——记住「离得越远，含量越多」。
-3. **分离结晶的体系成分点忘了移动**——分离情形下体系 ≠ 原始成分，体系就是残余相。
-4. **相律里 +2 / +1 用错**——本 practical 全部是等压图，一律 **+1**。feedback 特意把公式印在 d) 题干里，说明这是易错点。
-5. **d) 中 Φ 数错**——1000 °C（固相区）只有 1 个相，很多人会误以为固溶体是"两个组分所以两个相"；**固溶体是单一相**。
-6. **不带尺子**——h) 明写 "requires the lever rule and **a ruler**"，没有尺子这题做不了。
-7. **不标注图**——feedback 明确要求 "annotating the associated blank phase diagrams"，图上标注本身就是答案的一部分。
+1. **液相线/固相线读反**——液相成分永远读**液相线**，固相成分永远读**固相线**；e) 用液相线（开始结晶），l) 用固相线（开始熔融）。
+2. **杠杆定律方向反**（35% 与 65% 写颠倒）——记住「离得越远，含量越多」。
+3. **分离结晶时忘了移动体系成分点**——分离情形下体系 ≠ 原始成分，体系就是残余相。
+4. **相律 +2 / +1 用错**——本 practical 全部是等压图，一律 **+1**；feedback 特意把公式印在 d) 题干里，说明这是易错点。
+5. **d) 中 Φ 数错**——1000 °C 的固相区只有 1 个相；很多人误以为"两个组分就是两个相"，但**固溶体是单一相**。
+6. **不带尺子**——h) 明写 "requires the lever rule and **a ruler**"。
+7. **不标注图**——图上标注本身就是答案的一部分。
 
 ---
 

@@ -31,7 +31,7 @@
 
 ### 1. 基础复习：原子、amu 与摩尔
 
-- 以 **¹²C = 12.00000 amu** 为参照定义原子质量单位。转写强调这是**人为约定**："carbon-12 is what we're going to use as our whole number of mass units, and everything else is referenced to that"——所以只有 ¹²C 是整数，其他核素都不是。
+- 以 **¹²C = 12.00000 amu** 为参照定义原子质量单位。转写强调这是**人为约定**，所以只有 ¹²C 是整数，其他核素都不是。
 - **1 mole = 6.02252 × 10²³ 个原子**（Avogadro's number），作用是把「原子个数」和「克」互换：1 mol ¹²C = 12 g，1 mol H = 1 g。
 - 讲义粒子表（原文数值）：
 
@@ -41,22 +41,22 @@
 | Neutron 中子 | N | 0 | 1.008665 |
 | Electron 电子 | e | −e = 1.6021 × 10⁻¹⁹ | 0.0005486 |
 
-- **核结合能（binding energy）**：把 6 个质子 + 6 个中子 + 6 个电子的质量加起来，得 12.098931 amu，比 12.00000 多出 **Δm = 0.098931 amu**，这就是**质量亏损**，对应结合能 E = mc²。老师明说这个不必担心，"whenever you do calculations using atomic masses... you can just get them out of the book"。（⚠️ 表中质子质量数值有问题，见勘误表第 1 条。）
+- **核结合能（binding energy）**：6 质子 + 6 中子 + 6 电子的质量之和为 12.098931 amu，比 12.00000 多出 **Δm = 0.098931 amu**，即**质量亏损**，对应 E = mc²。老师说不必担心，做题"you can just get them out of the book"。（⚠️ 表中质子质量有问题，见勘误 1。）
 
 ### 2. 化学计量：gram-formula mass、molarity 与 molality
 
-- **克式量（gram-formula mass）**：1 mol 物质的质量（g）在数值上等于其式量（amu）。讲义算例 NaCl：22.9 + 35.45 = 58.35 amu → 58.35 g/mol。转写补了一个有用的细节：**Cl 的 35.45 不是整数，是因为约 3/4 的氯是 ³⁵Cl、1/4 是 ³⁷Cl 的加权平均**（同位素丰度平均）。
-- **Molarity（体积摩尔浓度，大写 M）**：每**升溶液**中溶质的摩尔数。做法：把 1 mol 溶质放进 1 L 容量瓶，加水**定容到 1 L 刻度**。
-- **Molality（质量摩尔浓度，小写 m）**：每**千克溶剂**中溶质的摩尔数。做法：称 1 kg 水，再加入 1 mol 溶质。
-- **两者的区别与何时可以混用**：溶剂是水时，室温下 1 L 水 ≈ 1 kg，所以 M ≈ m；但转写特别强调 **"if you were dissolving something in alcohol, for example, then it would be quite a big discrepancy"**——非水溶剂时二者差别很大。地球化学惯例：**活度用 molality 表示**（mol/kg H₂O）。
+- **克式量（gram-formula mass）**：1 mol 物质的克数在数值上等于其式量（amu）。讲义算例 NaCl：22.9 + 35.45 = 58.35 → 58.35 g/mol。转写补充：**Cl 的 35.45 来自 ³⁵Cl 约 3/4、³⁷Cl 约 1/4 的丰度加权**。
+- **Molarity（体积摩尔浓度，大写 M）**：每**升溶液**中溶质的摩尔数（1 mol 溶质入容量瓶，加水**定容到 1 L**）。
+- **Molality（质量摩尔浓度，小写 m）**：每**千克溶剂**中溶质的摩尔数（称 1 kg 水，再加 1 mol 溶质）。
+- **何时可混用**：溶剂是水时室温下 1 L ≈ 1 kg，故 M ≈ m；但换成酒精等非水溶剂"it would be quite a big discrepancy"。地球化学惯例：**活度用 molality**（mol/kg H₂O）。
 
 ### 3. 水作为溶剂：为什么水这么特殊
 
-水是地球上最丰富的液体，是"the medium in which chemical reactions take place in nature"。转写里老师花了很长时间说服学生**水控制地下的一切化学反应**：
+水是地球上最丰富的液体，是"the medium in which chemical reactions take place in nature"。转写里老师花了很长篇幅论证**水控制地下的一切化学反应**：
 
 > "as soon as you go underground, unless you're above a water table, everything is saturated with water... inside the earth, everywhere is wet. There's no gaps."
 
-你在野外／手标本／显微镜下看到的是"干"的岩石，但地下孔隙全是水；**是水提供了参与反应的原子，也是水把原子搬来搬去**，矿物才能溶解和沉淀。
+野外／手标本／显微镜下看到的是"干"岩石，但地下孔隙全是水；**是水提供参与反应的原子、也是水把原子搬来搬去**，矿物才能溶解和沉淀。
 
 **水的四个反常性质（讲义原文四条）**：
 
@@ -74,21 +74,17 @@
 
 ### 4. 电解质溶液（electrolyte solutions）
 
-NaCl 溶于水：**NaCl(s) ⇌ Na⁺(aq) + Cl⁻(aq)**，得到水合阳离子和水合阴离子。推论链条：
-
-水极强的溶解离子化合物能力 → **自然界的水几乎总含溶解离子**（aqueous solution）→ 溶解离子是带电粒子＝**电解质（electrolytes）**，能导电 → **天然水溶液都是电解质溶液**。纯水只在化学实验室里才有。
+NaCl 溶于水：**NaCl(s) ⇌ Na⁺(aq) + Cl⁻(aq)**，得到水合阳离子与阴离子。推论链条：水极强的溶解能力 → **自然界的水几乎总含溶解离子**（aqueous solution）→ 溶解离子是带电粒子＝**电解质（electrolytes）**，能导电 → **天然水溶液都是电解质溶液**。纯水只在化学实验室里才有。
 
 ### 5. 理想溶液 vs 非理想溶液：活度（activity）
 
-这是本周最核心的新概念。逻辑链（讲义原文＋转写）：
+本周最核心的新概念，逻辑链如下：
 
 - **极稀溶液中离子彼此不相互作用**——这就是水溶液中离子的**标准态（standard state）／理想溶液（ideal solution）**。
-- 浓度升高后，离子开始相互作用 → **非理想溶液**；**某个离子的化学势（chemical potential）会取决于其他离子的浓度**。
-- 相互作用分两类：
-  - **专属性的（specific）**：离子对（ion pairs）、络合物（complexes）——这正是本周实验的主题；
-  - **非专属性的（non-specific）**：**长程库仑相互作用（long-range coulombic interactions）**。
-- 结果：**水溶液中离子和分子间的化学反应往往不是其浓度的直接函数**。
-- 📎 背景补充：这与 Week 4 相图里固溶体的「理想混合 vs 非理想混合」是同一个思想——理想＝只有构型熵、无额外相互作用能；非理想＝需要引入活度系数把"有效浓度"修正回来。转写里老师直接用**理想气体定律**作类比："If you've got a small number of gas atoms floating around in a particular volume, it will behave ideally. But when you get lots of higher gas pressure, it behaves non-ideally."
+- 浓度升高后离子开始相互作用 → **非理想溶液**；**某个离子的化学势（chemical potential）取决于其他离子的浓度**。
+- 相互作用分两类：**专属性的（specific）**——离子对（ion pairs）、络合物（complexes），正是本周实验的主题；**非专属性的（non-specific）**——**长程库仑相互作用（long-range coulombic interactions）**。
+- 结果：**水溶液中的化学反应往往不是其浓度的直接函数**。
+- 📎 背景补充：这与 Week 4 相图里固溶体的「理想混合 vs 非理想混合」是同一思想——理想＝只有构型熵、无额外相互作用能。转写用**理想气体**作类比：少量气体分子行为理想，压力一高就非理想。
 
 **活度与活度系数**：
 
@@ -102,37 +98,26 @@ NaCl 溶于水：**NaCl(s) ⇌ Na⁺(aq) + Cl⁻(aq)**，得到水合阳离子�
 
 ### 6. 离子强度（ionic strength, I）
 
-- 定义：**溶液中离子浓度与电荷的综合量度**；转写口述式定义为"所有离子浓度乘以其电荷平方之和的一半"。
-- **典型数值（讲义原文）**：
-  - 大多数天然水：**I < 0.1 mol/kg**
-  - 恒河河水（Ganges）：**I = 0.0034 mol/kg**
-  - **海水：I = 0.685（讲义另一处写 0.7）mol/kg**
-  - **油田卤水（oilfield brines）：可达海水的 5 倍**（≈ 3.5 mol/kg）
-- **H⁺ 与 OH⁻ 通常不计入**：因为中性溶液中它们的浓度只有 10⁻⁷ mol/kg，贡献可忽略。
-- 转写补充：海水里 **Na 接近 0.5 mol/kg**（"almost half a mole of sodium per kilogram of seawater"），主要就是 Na⁺ 和 Cl⁻ 把 I 顶上去的；地下流体（subsurface fluids）还会富集各种金属离子和阳离子。
+- 定义：**溶液中离子浓度与电荷的综合量度**；转写口述为"所有离子浓度乘以其电荷平方之和的一半"。
+- **典型数值（讲义原文）**：大多数天然水 **I < 0.1**；恒河河水（Ganges）**I = 0.0034**；**海水 I = 0.685**（讲义另一处写 0.7）；**油田卤水（oilfield brines）可达海水的 5 倍**（≈ 3.4）。单位均为 mol/kg。
+- **H⁺ 与 OH⁻ 通常不计入**：中性溶液中它们只有 10⁻⁷ mol/kg，贡献可忽略。
+- 转写补充：海水里 **Na 接近 0.5 mol/kg**，主要是 Na⁺、Cl⁻ 把 I 顶上去；地下流体（subsurface fluids）还会富集各种金属阳离子。
 
 ### 7. γ 与 I 的关系（本周最重要的定量结论）
 
-**两条关键规律（讲义 Key points）**：
-
-1. **γ 随离子电荷增大而减小**（z 越大，修正越狠）；
-2. **γ 随离子强度 I 增大而减小**。
-
-直观理解：**离子"干扰（interference）"**——溶液里离子越多，彼此干扰越强，"你得到的是表观浓度而不是真实浓度"。
-
-**定量算例（讲义 + 转写反复强调）**：
+**两条关键规律（讲义 Key points）**：①**γ 随离子电荷增大而减小**；②**γ 随离子强度 I 增大而减小**。直观理解为**离子"干扰（interference）"**——离子越多干扰越强，你测到的是表观浓度而非真实有效浓度。
 
 | 水体 | I (mol/kg) | γ(Ca²⁺) | 含义 |
 |---|---|---|---|
 | 恒河河水 | 0.0034 | ≈ **0.80** | 有效浓度比实际**低 20%** |
 | 海水 | 0.685 | ≈ **0.26** | 有效浓度比实际**低 74%**（只剩 26%） |
 
-老师强调："it can be a really, really big effect... if you were doing these calculations from first principles, you have to make that correction." 但随即又说，后面的课里"we'll just assume that we've done that"（默认已经改正过了）。
+老师强调："it can be a really, really big effect... you have to make that correction"，但随后又说后面的课里默认"we'll just assume that we've done that"。
 
 ### 8. 平衡常数与质量作用定律（Law of Mass Action）
 
-- **反应是双向的**：A + B → C + D 的同时 C + D → A + B；当**正逆反应速率相等**时达到**平衡（equilibrium）**，宏观上看不出变化，但微观上仍在双向进行。老师强调流体中"this will always be the case"。
-- 对 **aA + bB ⇌ cC + dD**，平衡常数 **K = [C]^c[D]^d / ([A]^a[B]^b)**；a、b、c、d 是配平方程中的**化学计量系数**；方括号是**平衡时**的浓度（严格说应为活度）。
+- **反应是双向的**：A + B → C + D 的同时 C + D → A + B；**正逆反应速率相等**时即**平衡（equilibrium）**，宏观静止而微观仍在双向进行。老师强调流体中"this will always be the case"。
+- 对 **aA + bB ⇌ cC + dD**：**K = [C]^c[D]^d / ([A]^a[B]^b)**；小写字母是**化学计量系数**，方括号是**平衡时**的浓度（严格应为活度）。
 - 讲义例子：**H₂(g) + I₂(g) ⇌ 2HI(g)**，**K = [HI]² / ([H₂][I₂])**——指数 2 来自配平系数。
 
 ### 9. 酸碱：Arrhenius 定义与解离常数
@@ -156,19 +141,11 @@ NaCl 溶于水：**NaCl(s) ⇌ Na⁺(aq) + Cl⁻(aq)**，得到水合阳离子�
 
 ### 10. pKa、ladder diagram 与 Henderson–Hasselbalch
 
-- **pKa = −log Ka**，**pH = −log[H⁺]**。转写解释了 "p" 就是取负对数，并顺带解释了 **pH 为什么"反着走"**："when you get more hydrogen ions, the pH goes down because it's the minus log."
-- **符号规则（讲义原文）**：
-  - Ka < 1 → pKa 为**正**
-  - Ka = 1 → pKa = 0
-  - Ka > 1 → pKa 为**负**
-  - **Ka 越大 → 解离程度越高 → 溶液越酸**
-- **Ladder diagram（阶梯图）**：教科书里以 pKa 为唯一纵轴刻度的图。**顶端是负 pKa 的强酸**（解离得最彻底），往下 pKa 增大、酸性变弱，中段是常见天然水的 "normal pH range"。老师给的算例：Ka = 10 → pKa = −log(10) = −1。
-- **Henderson–Hasselbalch 方程**：
-
-  **pH = pKa + log([A⁻]/[HA])**
-
-  推导思路（转写口述）：把 Ka = [H⁺][A⁻]/[HA] 解出 [H⁺]，两边取负对数，利用 **−log(A/B) = log(B/A)** 把比值翻过来即得。老师说这条对数规则"just accept it"。
-- ⭐ **地球化学用途（老师明确点出这是本周最有用的工具）**：野外采样时**测得 pH**，再从书上**查 pKa**，就能算出某个分子**有没有解离、解离到什么程度**——"if it has split up and ions are in solution, it's those ions that can then go on to react with different things."
+- **pKa = −log Ka**，**pH = −log[H⁺]**。"p" 即取负对数；这也解释了 **pH 为什么"反着走"**："when you get more hydrogen ions, the pH goes down because it's the minus log."
+- **符号规则（讲义原文）**：Ka < 1 → pKa 为**正**；Ka = 1 → pKa = 0；Ka > 1 → pKa 为**负**；**Ka 越大 → 解离程度越高 → 溶液越酸**。算例：Ka = 10 → pKa = −log(10) = −1。
+- **Ladder diagram（阶梯图）**：以 pKa 为唯一纵轴刻度的图。**顶端是负 pKa 的强酸**（解离最彻底），往下 pKa 增大、酸性变弱，中段标 "normal pH range"。
+- **Henderson–Hasselbalch 方程：pH = pKa + log([A⁻]/[HA])**。推导（转写口述）：把 Ka = [H⁺][A⁻]/[HA] 解出 [H⁺]，两边取负对数，用 **−log(A/B) = log(B/A)** 把比值翻过来即得。这条对数规则老师说"just accept it"。
+- ⭐ **地球化学用途（老师点明这是本周最有用的工具）**：野外**测 pH** + 查表得 **pKa** → 算出某分子**有没有解离、解离到什么程度**——"if it has split up and ions are in solution, it's those ions that can then go on to react with different things."
 
 **讲义例题——酚酞（phenolphthalein）**
 
@@ -177,7 +154,7 @@ pKa = 9.3（室温）；A⁻ 为**粉红色**，HA 为**无色**。
 - pH 8.2：8.2 = 9.3 + log(A⁻/HA) → log(A⁻/HA) = −1.1 → A⁻:HA = 10^(−1.1) = **0.08 : 1**（即 8 : 100）
 - pH 10：10 = 9.3 + log(A⁻/HA) → log(A⁻/HA) = +0.7 → A⁻:HA = 10^0.7 = **5.01 : 1**（即 501 : 100）
 
-结论：pH 8.2 时粉色分子只占极少数（几乎无色）；pH 10 时粉色分子是无色的 5 倍，**所以随 pH 升高显粉红**。老师强调这套算法"can apply to any ions in solution"。
+结论：pH 8.2 时粉色分子极少（几乎无色）；pH 10 时粉色是无色的 5 倍，**所以随 pH 升高显粉红**。老师强调这套算法"can apply to any ions in solution"。
 
 ### 11. 矿物的酸碱性质
 
@@ -191,22 +168,21 @@ pKa = 9.3（室温）；A⁻ 为**粉红色**，HA 为**无色**。
 
 - 黄钾铁矾（jarosite）：KFe₃(SO₄)₂(OH)₆ + 3H₂O → K⁺ + 3Fe(OH)₃ + 2SO₄²⁻ + 3H⁺
 
-老师总结："in fluids in the subsurface, **most reactions will tend to produce alkaline solutions rather than acidic solutions**"；同时预告 **"carbonate geochemistry is a little bit more complicated than I've given it credit for here"**（碳酸盐体系留到 Week 8／Week 9 细讲）。
+老师总结："in fluids in the subsurface, **most reactions will tend to produce alkaline solutions rather than acidic solutions**"；同时预告 **"carbonate geochemistry is a little bit more complicated than I've given it credit for here"**（碳酸盐体系留到后面细讲）。
 
-📎 背景补充：黄钾铁矾产酸正是**酸性矿山排水（acid mine drainage, AMD）**的核心反应之一，硫化物氧化 → Fe³⁺ 水解 → 释放 H⁺；这条线索会在 Week 9 氧化还原和 EART26001 的矿床／环境部分再出现。
+📎 背景补充：黄钾铁矾产酸正是**酸性矿山排水（acid mine drainage, AMD）**的核心反应之一（硫化物氧化 → Fe³⁺ 水解 → 释放 H⁺），这条线索会在 Week 9 氧化还原与 EART26001 的矿床／环境部分再出现。
 
-### 12. 📎 背景补充：水的自解离与 pH 的定义基准（讲义未讲、小测考了）
+### 12. 📎 背景补充：水的自解离（讲义未讲、小测考了）
 
 转写里老师在小测环节自己承认 **"I didn't really talk about this, but water itself actually does slightly dissociate"**——**讲义正文没有讲水的自解离**，但小测考了。补齐：
 
-- **H₂O ⇌ H⁺ + OH⁻**（严格写作 2H₂O ⇌ H₃O⁺ + OH⁻）
-- **Kw = a(H⁺)·a(OH⁻) = 1.0 × 10⁻¹⁴（25 °C）**，故 pKw = 14
-- 纯水中 [H⁺] = [OH⁻] = 10⁻⁷ mol/kg → **中性 pH = 7**（这也解释了讲义为何说"中性溶液中 H⁺、OH⁻ 浓度只有 10⁻⁷ mol/kg，可不计入离子强度"）
-- ⚠️ Kw 随温度显著变化：100 °C 时 pKw ≈ 12.3，中性 pH ≈ 6.1。**"pH 7 = 中性" 只在 25 °C 成立**，在热液体系中不成立——这一点对 Week 10（热液系统）很关键。
+- **H₂O ⇌ H⁺ + OH⁻**（严格写作 2H₂O ⇌ H₃O⁺ + OH⁻）；**Kw = a(H⁺)·a(OH⁻) = 1.0 × 10⁻¹⁴（25 °C）**，pKw = 14。
+- 纯水中 [H⁺] = [OH⁻] = 10⁻⁷ mol/kg → **中性 pH = 7**（也解释了讲义为何说中性溶液中 H⁺、OH⁻ 可不计入离子强度）。
+- ⚠️ Kw 随温度显著变化：100 °C 时 pKw ≈ 12.3，中性 pH ≈ 6.1。**"pH 7 = 中性" 只在 25 °C 成立**，在热液体系中不成立。
 
 ### 13. 📎 背景补充：络合（complexing）预告
 
-转写中老师说 "there's things called long range Coulomb interactions and **ion complexing**, which is sort of complicated bonding between water and cations in solution. We'll do a complexing experiment in the practical." **本周讲义没有展开络合理论**，它是 Week 7 的正题，但**本周实验先做**。基本概念见第五段。
+转写："there's things called long range Coulomb interactions and **ion complexing**... We'll do a complexing experiment in the practical." **本周讲义没有展开络合理论**（那是 Week 7 的正题），但**实验先做**，基本概念见第五段。
 
 ---
 
@@ -247,17 +223,17 @@ pKa = 9.3（室温）；A⁻ 为**粉红色**，HA 为**无色**。
 **图 1：γ 对 log I 的关系图（本周最重要的图）**
 横轴为**离子强度 I 的对数坐标**，范围约 **0.001 → 1**；纵轴为**活度系数 γ**，从 1 向下递减。图上有一族曲线，每条对应一种离子（Na⁺、Ca²⁺、Al³⁺ 等）。所有曲线都**自左上向右下倾斜**：I 越大 γ 越小。**曲线按电荷分层**——**Na⁺（+1）位置最高、下降最慢；Ca²⁺（+2）居中；Al³⁺（+3）最低、下降最快**（老师原话：铝"suffered the most"）。图上标了两条竖虚线：**恒河河水 I = 0.0034** 与 **海水 I = 0.685**；在恒河线上读 Ca²⁺ 曲线得 γ ≈ 0.80，在海水线上读得 γ ≈ 0.26。**读图的两个结论就是 Key points：γ 随电荷增大而降、随 I 增大而降。**
 
-**图 2：海水中离子的种态（ion speciation in seawater）表／图**
-讲义给出海水主要溶解组分的**质量摩尔浓度（molalities）**清单，用来演示离子强度计算。转写点明关键读数：**Na 接近 0.5 mol/kg**；正是 Na⁺ 与 Cl⁻ 的高浓度使海水成为强烈非理想的溶液。📎 背景补充：海水（S = 35）主要组分约为 Cl⁻ 0.566、Na⁺ 0.486、Mg²⁺ 0.055、SO₄²⁻ 0.029、Ca²⁺ 0.0106、K⁺ 0.0106 mol/kg，代入 I = ½Σmz² 得 I ≈ 0.72，与讲义的 0.685–0.7 一致。
+**图 2：海水中离子的种态（ion speciation in seawater）表**
+讲义列出海水主要溶解组分的**质量摩尔浓度（molalities）**，用来演示离子强度计算。转写点明关键读数：**Na 接近 0.5 mol/kg**；正是 Na⁺ 与 Cl⁻ 的高浓度使海水强烈非理想。📎 背景补充：海水（S = 35）主要组分约 Cl⁻ 0.566、Na⁺ 0.486、Mg²⁺ 0.055、SO₄²⁻ 0.029、Ca²⁺ 0.0106、K⁺ 0.0106 mol/kg，代入 I = ½Σmz² 得 I ≈ 0.72，与讲义的 0.685–0.7 一致。
 
 **图 3：水分子极性与水合示意（取自 Misra 教材）**
-一个"米老鼠头"形的水分子：两个 H 端标 **δ⁺**，O 端标 **δ⁻**。多个水分子之间用虚线连接 O···H，表示**氢键**。另一幅卡通图中，中心是一个 **阳离子（cation）**，周围一圈水分子把**带负电的 O 端朝向阳离子**；阴离子周围则相反，H 端朝内。这幅图同时解释了：解离、水合、防止复合、氢键导致的高沸点与冰的疏松结构。
+水分子两个 H 端标 **δ⁺**、O 端标 **δ⁻**；分子之间用虚线连 O···H 表示**氢键**。另一幅卡通图中心是一个**阳离子**，周围水分子把**带负电的 O 端朝向它**（阴离子则相反，H 端朝内）。这组图同时解释了解离、水合、防止复合、以及氢键造成的高沸点与冰的疏松结构。
 
 **图 4：pKa ladder diagram（阶梯图）**
-纵轴为 pKa 的一维刻度。**顶端标 "strong acids"，pKa 为负**（Ka > 1，解离彻底）；向下 pKa 递增、酸性递减；中段标注 **"Normal pH range"**（天然水的常见 pH 区间）。旁注三条判据：Ka<1→pKa 正；Ka=1→pKa=0；Ka>1→pKa 负。
+纵轴为 pKa 的一维刻度。**顶端标 "strong acids"、pKa 为负**（Ka > 1，解离彻底）；向下 pKa 递增、酸性递减；中段标 **"Normal pH range"**。旁注三条判据：Ka<1→pKa 正；Ka=1→pKa=0；Ka>1→pKa 负。
 
-**图 5：Ca²⁺ 质量摩尔浓度换算算例（恒河）**
-讲义演示了从水化学分析报告到 molality 的换算：Ca²⁺ 含量 25.4（mg/L）→ 25.4/1000 = **0.0254 g/L** → 除以 Ca 的原子量 40.08 → **6.34 × 10⁻⁴ mol/kg**。旁注 "(electrons have no mass)" 意思是**算 Ca²⁺ 的质量时可以直接用中性 Ca 原子的原子量**，少两个电子的质量可忽略。
+**图 5：Ca²⁺ molality 换算算例（恒河）**
+从水化学分析报告到 molality：Ca²⁺ 25.4（mg/L）→ **0.0254 g/L** → 除以 Ca 原子量 40.08 → **6.34 × 10⁻⁴ mol/kg**。旁注 "(electrons have no mass)" 意为算 Ca²⁺ 质量时可直接用中性 Ca 的原子量。
 
 ---
 
