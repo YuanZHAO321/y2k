@@ -212,30 +212,27 @@ Q3 代入：凝灰岩 t_v = 200 ft，δ = 6° → t = 198.9 ft，差 0.55%（**�
 | 英文 | 中文 | 备注 |
 |---|---|---|
 | orientation of surfaces | 面的产状 | 本周图件抬头 `(2)` |
-| strike / dip / dip direction | 走向 / 倾角 / 倾向 | 走向三位数；倾角一至两位；倾向 = 走向 ± 90°，三位数不折算 |
+| strike / dip / dip direction | 走向 / 倾角 / 倾向 | 倾向 = 走向 ± 90°，三位数不折算 |
 | strike line = stratum contour | 走向线 = 地层等高线 | 地质面上的等高线，本周作图基础 |
 | topographic contour | 地形等高线 | Q2 为 10 m，Q3 为 100 ft |
-| map spacing / vertical spacing | 图上间距 / 高程间距 | 主方程中的 x 与 y |
-| contact | 接触面 / 界线 | 两填图单元间的界面 |
-| outcrop / exposure / unexposed | 露头 / 出露 / 未出露 | 空白区 = 没有露头，不是没有岩石 |
-| outcrop pattern | 露头图案 | 界线与各单元在地表的分布 |
+| map spacing / vertical spacing | 图上间距 / 高程间距 | 主方程的 x 与 y |
+| contact / outcrop pattern | 接触面（界线）/ 露头图案 | 界面及其在地表的分布 |
+| exposure / unexposed | 出露 / 未出露 | 空白区 = 没有露头，不是没有岩石 |
 | uniformly dipping | 均匀倾斜 | 等距平行外推的前提 |
 | V-shaped outcrop pattern / V-rule | V 字形露头图案 / V 字法则 | 本周核心 |
-| upstream / downstream | 上游 / 下游 | V 尖指向的判据 |
-| stream gradient | 河床坡降 | 倾角等于它时无 V |
-| blunter / sharper than contours | 比等高线钝 / 尖 | 区分「向上游倾」与「向下游缓倾」 |
+| upstream / downstream / stream gradient | 上游 / 下游 / 河床坡降 | 倾角等于坡降时无 V |
+| blunter / sharper than contours | 比等高线钝 / 尖 | 分辨「向上游倾」与「向下游缓倾」 |
 | structurally beneath / lower unit | 结构下方 / 下伏单元 | 涂阴影对象，位于**上倾侧** |
 | vertical (V) | 直立 | 记作 `090/V`、`030/V` |
 | borehole / collar elevation | 钻孔 / 孔口标高 | Q3 的 X 点，标高 400 ft |
-| succession | 地层序列 | 钻孔揭示的自上而下岩性顺序 |
-| stratigraphic column | 地层柱状图 | Q3(a) 的答案形式 |
+| succession / stratigraphic column | 地层序列 / 柱状图 | Q3(a) 的答案形式 |
 | datum / sea level | 基准面 / 海平面 | 高程零点，图上标 `sea` |
-| vertical thickness / true thickness | 垂直厚度 / 真厚度 | t = t_v · cos δ |
-| apparent dip | 视倾角 | tan α = tan δ · sin θ；W1 注明 pitch 形式上等同于 apparent dip |
-| cross section / vertical exaggeration | 剖面 / 垂直放大 | Q3 为无放大（`vertical = horizontal scale`） |
-| interpolation / extrapolation | 内插 / 外推 | 三点法定走向线用内插，补全等高线族用外推 |
-| three-point problem | 三点法 | 由三个不共线已知高程点定产状 |
-| lava / tuff / coarse sst / mudstone / marl / limestone / fine sst | 熔岩 / 凝灰岩 / 粗砂岩 / 泥岩 / 泥灰岩 / 灰岩 / 细砂岩 | Q3 七单元，代号 g/f/e/d/c/b/a |
+| vertical / true thickness | 垂直厚度 / 真厚度 | t = t_v · cos δ |
+| apparent dip | 视倾角 | tan α = tan δ · sin θ（W1 注明 pitch 等同于此） |
+| cross section / vertical exaggeration | 剖面 / 垂直放大 | Q3 无放大 |
+| interpolation / extrapolation | 内插 / 外推 | 三点法定走向线用内插，补全线族用外推 |
+| three-point problem | 三点法 | 三个不共线已知高程点定产状 |
+| lava / tuff / coarse sst / mudstone / marl / limestone / fine sst | 熔岩 / 凝灰岩 / 粗砂岩 / 泥岩 / 泥灰岩 / 灰岩 / 细砂岩 | Q3 七单元 = g/f/e/d/c/b/a |
 | sandstone / mudstone | 砂岩 / 泥岩 | Q1 的两个填图单元 |
 
 ---
