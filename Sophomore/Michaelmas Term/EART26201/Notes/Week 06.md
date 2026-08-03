@@ -122,22 +122,15 @@ NaCl 溶于水：**NaCl(s) ⇌ Na⁺(aq) + Cl⁻(aq)**，得到水合阳离子�
 
 ### 9. 酸碱：Arrhenius 定义与解离常数
 
-**Arrhenius 定义（讲义原文）**：
+**Arrhenius 定义（讲义原文）**：**酸（Acid）**是含 H 的化合物，溶于水解离 → 释放 **H⁺（质子）** → **降低 pH**（H⁺ 与水结合成**水合氢离子 H₃O⁺**）；**碱（Base）**是含 OH 基团的化合物，解离 → 释放 **OH⁻（氢氧根）** → **升高 pH**。
 
-- **酸（Acid）**：含 H 的化合物，溶于水时解离 → 释放 **H⁺（质子）** → **降低 pH**；H⁺ 与水结合形成**水合氢离子 H₃O⁺(aq)（hydronium）**。
-- **碱（Base）**：含 OH 基团的化合物，溶于水时解离 → 释放 **OH⁻（氢氧根）** → **升高 pH**；OH⁻ 与水结合形成水合离子。
-
-**解离常数（dissociation constants）**：
-
-- 酸 HₘAₙ ⇌ mH⁺ + nA^(...)：**Ka = [H⁺]^m[A]^n / [HₘAₙ]**
-- 碱 B_pOH_q ⇌ pB + qOH⁻：**Kb = [B]^p[OH]^q / [B_pOH_q]**
+**解离常数（dissociation constants）**：酸 HₘAₙ ⇌ mH⁺ + nA：**Ka = [H⁺]^m[A]^n / [HₘAₙ]**；碱 B_pOH_q ⇌ pB + qOH⁻：**Kb = [B]^p[OH]^q / [B_pOH_q]**。
 
 **强弱酸碱**：
 
-- **强酸**（如 HCl）在水中**几乎完全解离**；**弱酸**（如乙酸 CH₃COOH）只有小部分解离（**Ka ≪ 1**）。碱同理。
-- ⚠️ **不要把"强度（strength，解离程度）"和"浓度（concentration，溶解量）"混为一谈**。转写讲得最清楚："a strong acid is something that splits up a lot, but it might be low in concentration, whereas a **high concentration of something that doesn't split up very easily still won't give you a low pH**."
-- **解离度 %D = (已解离量 / 原始溶解量) × 100**
-- **pH 量度溶液的酸度**（取决于酸碱的浓度和种类）；**pKa 量度酸的强度（解离能力）**（碱用 pKb）。
+- **强酸**（如 HCl）在水中**几乎完全解离**；**弱酸**（如乙酸 CH₃COOH）只小部分解离（**Ka ≪ 1**）。碱同理。
+- ⚠️ **不要把"强度（strength，解离程度）"和"浓度（concentration，溶解量）"混为一谈**。转写："a strong acid is something that splits up a lot, but it might be low in concentration, whereas a **high concentration of something that doesn't split up very easily still won't give you a low pH**."
+- **解离度 %D = (已解离量 / 原始溶解量) × 100**；**pH 量度溶液酸度**，**pKa 量度酸的强度（解离能力）**（碱用 pKb）。
 
 ### 10. pKa、ladder diagram 与 Henderson–Hasselbalch
 
@@ -160,13 +153,11 @@ pKa = 9.3（室温）；A⁻ 为**粉红色**，HA 为**无色**。
 
 **大多数矿物与水反应会升高 pH（产生 OH⁻）**：
 
-- 正长石 → 高岭石：2KAlSi₃O₈ + 2H₂O → Al₂Si₂O₅(OH)₄ + 2OH⁻ + 2K⁺（⚠️ 讲义此式未配平，见勘误第 9 条）
-- 橄榄石 → 蛇纹石（叶蛇纹石 chrysotile）：2Mg₂SiO₄ + 3H₂O → Mg₃Si₂O₅(OH)₄ + Mg²⁺ + 2OH⁻
+- 正长石 → 高岭石：2KAlSi₃O₈ + 2H₂O → Al₂Si₂O₅(OH)₄ + 2OH⁻ + 2K⁺（⚠️ 此式未配平，见勘误 9）
+- 橄榄石 → 蛇纹石（chrysotile）：2Mg₂SiO₄ + 3H₂O → Mg₃Si₂O₅(OH)₄ + Mg²⁺ + 2OH⁻
 - 方解石：CaCO₃ + H₂O → HCO₃⁻ + Ca²⁺ + OH⁻
 
-**少数矿物与水反应会降低 pH**：
-
-- 黄钾铁矾（jarosite）：KFe₃(SO₄)₂(OH)₆ + 3H₂O → K⁺ + 3Fe(OH)₃ + 2SO₄²⁻ + 3H⁺
+**少数矿物与水反应会降低 pH**：黄钾铁矾（jarosite）KFe₃(SO₄)₂(OH)₆ + 3H₂O → K⁺ + 3Fe(OH)₃ + 2SO₄²⁻ + 3H⁺
 
 老师总结："in fluids in the subsurface, **most reactions will tend to produce alkaline solutions rather than acidic solutions**"；同时预告 **"carbonate geochemistry is a little bit more complicated than I've given it credit for here"**（碳酸盐体系留到后面细讲）。
 
@@ -210,30 +201,30 @@ pKa = 9.3（室温）；A⁻ 为**粉红色**，HA 为**无色**。
 
 ### 📎 背景补充：Debye–Hückel 公式（讲义只给了名字和参考章节 Misra 7.2.3，未给式子）
 
-考试若要求算 γ，最可能用到以下三式之一（25 °C）：
+算 γ 最可能用到以下三式之一（25 °C）：
 
-- **极限定律（Debye–Hückel limiting law）**：**log γᵢ = −A zᵢ² √I**，A ≈ 0.5085 (kg/mol)^½。适用 **I < 0.005 mol/kg**（极稀）。
-- **扩展式（extended Debye–Hückel）**：**log γᵢ = −A zᵢ² √I / (1 + B åᵢ √I)**，B ≈ 0.3281 Å⁻¹(kg/mol)^½，åᵢ 为离子的**有效水合半径**（Ca²⁺ 约 6 Å）。适用 **I < 0.1 mol/kg**（涵盖绝大多数天然河水、地下水）。
+- **极限定律（limiting law）**：**log γᵢ = −A zᵢ² √I**，A ≈ 0.5085 (kg/mol)^½；适用 **I < 0.005 mol/kg**。
+- **扩展式（extended）**：**log γᵢ = −A zᵢ² √I / (1 + B åᵢ √I)**，B ≈ 0.3281 Å⁻¹(kg/mol)^½，åᵢ 为**有效水合半径**（Ca²⁺ 约 6 Å）；适用 **I < 0.1 mol/kg**，涵盖绝大多数天然河水与地下水。
 - **Davies 方程**：**log γᵢ = −A zᵢ² [√I/(1+√I) − 0.3 I]**，可用到 **I ≈ 0.5 mol/kg**。
 
-用扩展式验算讲义的恒河数据：I = 0.0034 → √I = 0.0583 → log γ = −0.5085 × 4 × 0.0583 / (1 + 0.3281×6×0.0583) = −0.106 → **γ(Ca²⁺) ≈ 0.78**，与讲义的 0.80 吻合良好。海水 I = 0.685 已超出上述公式的可靠范围（Davies 算得约 0.31，实测约 0.26），**这正是为什么海水需要专门的 Pitzer 模型**。
+用扩展式验算恒河数据：I = 0.0034 → log γ = −0.5085×4×0.0583/(1+0.3281×6×0.0583) = −0.106 → **γ(Ca²⁺) ≈ 0.78**，与讲义 0.80 吻合。海水 I = 0.685 已超出可靠范围（Davies 得 ≈0.31，实测 0.26），**所以海水需要专门的 Pitzer 模型**。
 
 ### 图表描述
 
 **图 1：γ 对 log I 的关系图（本周最重要的图）**
-横轴为**离子强度 I 的对数坐标**，范围约 **0.001 → 1**；纵轴为**活度系数 γ**，从 1 向下递减。图上有一族曲线，每条对应一种离子（Na⁺、Ca²⁺、Al³⁺ 等）。所有曲线都**自左上向右下倾斜**：I 越大 γ 越小。**曲线按电荷分层**——**Na⁺（+1）位置最高、下降最慢；Ca²⁺（+2）居中；Al³⁺（+3）最低、下降最快**（老师原话：铝"suffered the most"）。图上标了两条竖虚线：**恒河河水 I = 0.0034** 与 **海水 I = 0.685**；在恒河线上读 Ca²⁺ 曲线得 γ ≈ 0.80，在海水线上读得 γ ≈ 0.26。**读图的两个结论就是 Key points：γ 随电荷增大而降、随 I 增大而降。**
+横轴为**离子强度 I 的对数坐标**（约 0.001 → 1），纵轴为**活度系数 γ**（自 1 向下递减）。一族曲线各对应一种离子（Na⁺、Ca²⁺、Al³⁺ 等），全部**自左上向右下倾斜**：I 越大 γ 越小；且**按电荷分层**——**Na⁺（+1）最高、下降最慢；Ca²⁺（+2）居中；Al³⁺（+3）最低、下降最快**（老师原话：铝"suffered the most"）。图上两条竖虚线标 **恒河 I = 0.0034** 与 **海水 I = 0.685**，读 Ca²⁺ 曲线分别得 γ ≈ 0.80 与 ≈ 0.26。**读图结论就是 Key points 两条。**
 
 **图 2：海水中离子的种态（ion speciation in seawater）表**
-讲义列出海水主要溶解组分的**质量摩尔浓度（molalities）**，用来演示离子强度计算。转写点明关键读数：**Na 接近 0.5 mol/kg**；正是 Na⁺ 与 Cl⁻ 的高浓度使海水强烈非理想。📎 背景补充：海水（S = 35）主要组分约 Cl⁻ 0.566、Na⁺ 0.486、Mg²⁺ 0.055、SO₄²⁻ 0.029、Ca²⁺ 0.0106、K⁺ 0.0106 mol/kg，代入 I = ½Σmz² 得 I ≈ 0.72，与讲义的 0.685–0.7 一致。
+列出海水主要溶解组分的**质量摩尔浓度（molalities）**，用来演示离子强度计算；关键读数是 **Na 接近 0.5 mol/kg**，正是 Na⁺、Cl⁻ 使海水强烈非理想。📎 背景补充：海水（S = 35）约 Cl⁻ 0.566、Na⁺ 0.486、Mg²⁺ 0.055、SO₄²⁻ 0.029、Ca²⁺ 0.0106、K⁺ 0.0106 mol/kg，代入 I = ½Σmz² 得 I ≈ 0.72，与讲义 0.685–0.7 一致。
 
 **图 3：水分子极性与水合示意（取自 Misra 教材）**
-水分子两个 H 端标 **δ⁺**、O 端标 **δ⁻**；分子之间用虚线连 O···H 表示**氢键**。另一幅卡通图中心是一个**阳离子**，周围水分子把**带负电的 O 端朝向它**（阴离子则相反，H 端朝内）。这组图同时解释了解离、水合、防止复合、以及氢键造成的高沸点与冰的疏松结构。
+水分子两 H 端标 **δ⁺**、O 端标 **δ⁻**，分子间虚线连 O···H 表示**氢键**；另一幅卡通图中心是**阳离子**，周围水分子把**带负电的 O 端朝向它**（阴离子则 H 端朝内）。这组图同时解释解离、水合、防止复合，以及氢键造成的高沸点与冰的疏松结构。
 
 **图 4：pKa ladder diagram（阶梯图）**
-纵轴为 pKa 的一维刻度。**顶端标 "strong acids"、pKa 为负**（Ka > 1，解离彻底）；向下 pKa 递增、酸性递减；中段标 **"Normal pH range"**。旁注三条判据：Ka<1→pKa 正；Ka=1→pKa=0；Ka>1→pKa 负。
+以 pKa 为一维纵轴刻度。**顶端标 "strong acids"、pKa 为负**；向下 pKa 递增、酸性递减；中段标 **"Normal pH range"**。旁注三条判据：Ka<1→pKa 正；Ka=1→pKa=0；Ka>1→pKa 负。
 
 **图 5：Ca²⁺ molality 换算算例（恒河）**
-从水化学分析报告到 molality：Ca²⁺ 25.4（mg/L）→ **0.0254 g/L** → 除以 Ca 原子量 40.08 → **6.34 × 10⁻⁴ mol/kg**。旁注 "(electrons have no mass)" 意为算 Ca²⁺ 质量时可直接用中性 Ca 的原子量。
+Ca²⁺ 25.4（mg/L）→ **0.0254 g/L** → 除以 Ca 原子量 40.08 → **6.34 × 10⁻⁴ mol/kg**。旁注 "(electrons have no mass)" 意为算 Ca²⁺ 质量可直接用中性 Ca 的原子量。
 
 ---
 
@@ -243,28 +234,18 @@ pKa = 9.3（室温）；A⁻ 为**粉红色**，HA 为**无色**。
 
 ### 1. 课程结构与实验安排（务必记住）
 
-- 本单元**50/50 拆给两位老师**：前五讲固体／岩石地球化学，后五讲（本周起）流体地球化学，由 Greg Holland 讲。老师强调二者"complementary"——合起来才是完整的地球化学。
-- 部分内容与 **environmental chemistry** 单元重叠，"maybe one lecture's worth"；其余对所有人都是新内容。
-- **上课节奏**：讲约 30 分钟 + 课末 Kahoot 小测。理由是内容"theory heavy"，"rather than just drone on for 50 minutes"。**每周都有小测，且会越来越难**，本周是最简单的入门周。
-- **Practical 新格式**（与前五周完全不同）：
-  - 被分到周三／周四（两场）／周五中的**一场**；没被分到的发邮件给老师。
-  - **注意检查二年级 tutorial 是否与实验时段冲突**——老师说另一个单元已经出过冲突问题。
-  - 地点：**Williamson 楼一楼化学实验室 1.18**。
-  - 节奏：**本周做实验 → 下周跟老师做 write-up（答题＋作图）→ 再隔一周做第二次实验 → 之后再 write-up → 最后一周在 G12 做纸笔练习**。
-- 行政通知：Earth & Environmental Sciences 的 **work experience 问卷**（用于专业认证材料），**截止 11 月 21 日**，**做过或没做过的都要填**。另外老师答疑时说，申请 placement 的同学只需发邮件告知申请方向，**英国本土学生不必提前改学位注册，等 5 月拿到 offer 再改即可**；国际学生因签证可能需提前。
+- 本单元**50/50 拆给两位老师**，二者"complementary"；部分内容与 **environmental chemistry** 单元重叠（"maybe one lecture's worth"），其余是新内容。
+- **上课节奏**：讲约 30 分钟 + 课末 Kahoot 小测（内容"theory heavy"，"rather than just drone on for 50 minutes"）。**每周都有小测且会越来越难**，本周是最简单的入门周。
+- **Practical 新格式**：被分到周三／周四（两场）／周五中的**一场**（没被分到的发邮件给老师）；**注意检查二年级 tutorial 是否与实验时段冲突**；地点 **Williamson 楼一楼化学实验室 1.18**；节奏为**本周做实验 → 下周 write-up（答题＋作图）→ 隔周第二次实验 → 再 write-up → 最后一周在 G12 做纸笔练习**。
+- 行政通知：EES 的 **work experience 问卷**（用于专业认证），**截止 11 月 21 日**，**做过或没做过的都要填**；申请 placement 者发邮件告知方向即可，**英国本土学生等 5 月拿到 offer 再改学位注册**，国际学生因签证可能需提前。
 
 ### 2. "从最基础讲起"的用意
 
-老师专门说明："I've always had feedback previously that I haven't started at the beginning. So even though we're halfway through a unit, I'll just start with the very fundamentals of some chemistry." 所以幻灯片前几页的 amu／mole／stoichiometry 是**刻意的复习页**，不是新知识点，但**摩尔／molarity／molality 的区分在实验计算里必用**。
+老师说明："I've always had feedback previously that I haven't started at the beginning." 所以幻灯片前几页的 amu／mole／stoichiometry 是**刻意的复习页**，但**摩尔／molarity／molality 的区分在实验计算里必用**。
 
 ### 3. 讲授中的额外解释与举例（幻灯片上没有）
 
-- **carbon-12 的任意性**："The humanities just said carbon-12 is what we're going to use"——参照点是人为约定，所以只有 ¹²C 是整数。
-- **氯的 35.45 从哪来**：³⁵Cl 约占 3/4、³⁷Cl 约占 1/4 的丰度加权（幻灯片只给数字、无解释）。
-- **核结合能**：6p+6n+6e 加总得不到 12，差额被结合能"吃掉"；但**不会考**，做题直接查表取原子量。
-- **molarity vs molality 的实际影响**："for you it won't make any difference in your lab experiments, but if we were using other solvents, then you would have to distinguish between the two."（本周实验中体积正比于摩尔数，靠的就是这个近似。）
-- **"地下到处是湿的"**（见二 §3）——老师用来立论"流体地球化学是地球化学主场"的核心论证，很可能作为简答题的开场。
-- **纯水绝缘**的浴室充电手机例子——考点是"导电的是离子不是水"；**理想气体类比**用来理解理想／非理想溶液。
+- **carbon-12 的任意性**、**氯 35.45 的丰度加权来源**、**核结合能**（不会考，做题直接查表取原子量）、**molarity vs molality 换成非水溶剂就差别巨大**、**"地下到处是湿的"**（老师用来立论"流体地球化学是地球化学主场"，很可能是简答题的开场）、**纯水绝缘的浴室充电手机例子**（导电的是离子不是水）、**用理想气体类比理解理想／非理想溶液**——详见二 §1–§5。
 - 老师自嘲式的诚实："ions start interacting with each other in all sorts of ways that we're not going to go into the detail of. **And I don't understand them either**." → 呼应下面的考试提示。
 
 ### 4. ⭐ 考试提示（转写中明确说的）
@@ -364,7 +345,7 @@ pKa = 9.3（室温）；A⁻ 为**粉红色**，HA 为**无色**。
    - **记录所用 KBr 体积**，同时**记录混合液的总体积**；
    - 滴完用去离子水冲洗烧杯；
    - **建议先做一次粗滴定（rough trial titration）**，摸清大致用量以及终点前后溶液外观的变化。
-5. 重复步骤 1–4，但氨的用量改为 **10 ml 2 M NH₃**（数据表还要求做 **30 ml** 和 **15 ml** 两组，见勘误 19）。**务必补加足量去离子水，使总体积接近步骤 4 中首次记录的总体积。**
+5. 重复步骤 1–4，但氨的用量改为 **10 ml 2 M NH₃**（数据表还要求做 **30 ml** 和 **15 ml** 两组，见勘误 18）。**务必补加足量去离子水，使总体积接近步骤 4 中首次记录的总体积。**
 6. **废液倒入通风橱中的收集烧杯。绝对不许把溴化银（AgBr）倒进水槽。**
 
 #### 6. 数据记录表（讲义 DATASHEET 原样，括号为标称加入体积）
@@ -376,7 +357,7 @@ pKa = 9.3（室温）；A⁻ 为**粉红色**，HA 为**无色**。
 | (20) | (15) | 2.5（示例） | 113.5（示例） |
 | (20) | (10) | 待测 | 待测 |
 
-⚠️ 中间两行是**讲义印好的示例数据**，其余需自己测。示例的总体积与"稀释到 100 ml 后滴定"不自洽（见勘误 18），但斜率是自洽的：log(10.6/2.5)/log(30/15) = 0.627/0.301 = **2.08**，已暗示 n ≈ 2。
+⚠️ 中间两行是**讲义印好的示例数据**，其余需自己测。示例的总体积与"稀释到 100 ml 后滴定"不自洽（见勘误 17），但斜率是自洽的：log(10.6/2.5)/log(30/15) = 0.627/0.301 = **2.08**，已暗示 n ≈ 2。
 
 #### 7. 数据处理（讲义要求）
 
@@ -498,8 +479,8 @@ pKa = 9.3（室温）；A⁻ 为**粉红色**，HA 为**无色**。
 | 13. 同上 — Slide 3 "7- Quiz" | "The log of **V** is" | OCR 把数字 "1" 认成字母 "V" | 应为 "**The log of 1 is**"，答案 **0**（转写："What is the log of 1? … It was either 0 or 10. Yes."） |
 | 14. 同上 — Slide 2 与 Slide 3 的题号 | Slide 2 给出 Q4、Q5；Slide 3 直接跳到 Q7 | **Q6 整题在 OCR 中缺失**；且 2024 版把"Water releases H⁺ …"编为 Q5，而 2025 转写的顺序是 Q5 =「水解离成什么」、Q6 =「水释放 H⁺ 会怎样」 | 缺失题按转写补：**水会轻微自解离成 H⁺ 与 OH⁻**；**水释放 H⁺ 会降低 pH** |
 | 15. `EART26201 - 10-Nov-transcript.md` — 全文 | ASR 误听：`amol`(= a mole)、`one oil carbon has mass of`(= one mole of carbon)、`one liter of blood`(= one litre **flask**)、`Miseratec`(= the **Misra** text)、`phenol failing`(= **phenolphthalein**)、`a minus 2Ha`(= **A⁻ to HA**)、`kaO`(= **Ka**)、`Romant`(= 另一位讲师姓名)、`Seats code`(= **Kahoot** code)、`the log of A minus over H`(= over **HA**) | 自动转写的识别错误，非授课内容错误 | 阅读转写时按左列还原；本笔记正文已按还原后的意思引用 |
-| 17. `EART26201 - 10-Nov-transcript.md` — 活度段 | "activity is that coefficient multiplied by m, **the molar concentration**, where that's expressed in moles per kilogram of water" | 口误：mol/kg 是 **molal**（质量摩尔浓度），不是 molar（体积摩尔浓度）；同一句里自相矛盾 | 应为 "the **molal** concentration"。讲义写的 "Activities are expressed as molalities" 是正确的 |
-| 18. `EXPERIMENT 1 2025-1.md` — DATASHEET 示例数据 | 第 2 行 KBr 10.6 ml / 总体积 **115.6** ml；第 3 行 KBr 2.5 ml / 总体积 **113.5** ml | 与步骤 4.3–4.4 不自洽：稀释到 100 ml 后再滴入 10.6 ml 应为 **110.6** ml，滴入 2.5 ml 应为 **102.5** ml。两行的"总体积 − KBr 体积"分别是 105 与 111，也彼此不等，违反了本实验"各次滴定终点总体积必须相同"的核心前提 | 示例数据仅供参考斜率（log 比值给出 n ≈ 2.08，方向正确）。**实际操作时必须自己记录真实总体积，并靠补加去离子水把各次总体积调到一致** |
-| 19. `EXPERIMENT 1 2025-1.md` — 步骤 4.5 | "Repeat steps 4.1 to 4.4 however this time using only **10 ml** of the 2M NH₃ solution." | 只写了重复**一次**（10 ml），但 DATASHEET 有 **四行**（40、30、15、10 ml），且两点无法可靠拟合直线 | 应重复至覆盖数据表全部四个氨用量（**40 / 30 / 15 / 10 ml**）；若时间不够，至少完成表中留白的 40 ml 与 10 ml 两行，配合已给的 30、15 ml 示例值凑成四点 |
-| 20. `EXPERIMENT 1 2025-1.md` — 第 2.2 节 | Ksp 处写 "[ ] refers to the **concentration** of the enclosed species"，Kn 处写 "[ ] refers to the **moles** of the enclosed species" | 同一份讲义内 [ ] 的定义前后不一致 | 严格意义上平衡常数用**浓度（活度）**；本实验因**各次滴定终点总体积相同**，摩尔数与浓度成固定比例，故可以用摩尔数代入而不影响斜率 n。讲义在第 2.2 节末已说明这一点，但两处标注应统一 |
-| 21. `lecture 6 ions in solution 2025.md` — Activity Coefficient 页 | "determined using the **DebyeHukel** theory" | 拼写与连字缺失 | 应为 **Debye–Hückel theory**。另：讲义**全程未给出 Debye–Hückel 公式本身**，只给参考章节 Misra 7.2.3；本笔记「三、公式与图表」中的三条公式为 📎 补充，非材料原文 |
+| 16. 同上 — 活度段 | "activity is that coefficient multiplied by m, **the molar concentration**, where that's expressed in moles per kilogram of water" | 口误且同句自相矛盾：mol/kg 是 **molal**，不是 molar | 应为 "the **molal** concentration"。讲义写的 "Activities are expressed as molalities" 正确 |
+| 17. `EXPERIMENT 1 2025-1.md` — DATASHEET 示例数据 | 第 2 行 KBr 10.6 ml / 总体积 **115.6** ml；第 3 行 KBr 2.5 ml / 总体积 **113.5** ml | 与步骤 4.3–4.4 不自洽：稀释到 100 ml 后滴入 10.6 ml 应为 **110.6**、滴入 2.5 ml 应为 **102.5**；两行的"总体积 − KBr"分别为 105 与 111，彼此不等，违反"各次终点总体积必须相同"的核心前提 | 示例数据只可用来看斜率（n ≈ 2.08，方向正确）。**实操时必须自记真实总体积，并靠补水把各次总体积调到一致** |
+| 18. 同上 — 步骤 4.5 | "Repeat steps 4.1 to 4.4 however this time using only **10 ml** of the 2M NH₃ solution." | 只写了重复**一次**（10 ml），但 DATASHEET 有 **四行**（40/30/15/10 ml），两点无法可靠拟合直线 | 应覆盖数据表全部四个氨用量；时间不够时至少补齐留白的 40 ml 与 10 ml 两行，配合已给的 30、15 ml 凑成四点 |
+| 19. 同上 — 第 2.2 节 | Ksp 处写 "[ ] refers to the **concentration**"，Kn 处写 "[ ] refers to the **moles**" | 同一份讲义内 [ ] 的定义前后不一致 | 平衡常数严格用**浓度（活度）**；因各次终点总体积相同，摩尔数与浓度成固定比例，故代入摩尔数不影响斜率 n。讲义第 2.2 节末已说明，但两处标注应统一 |
+| 20. `lecture 6 ions in solution 2025.md` — Activity Coefficient 页 | "determined using the **DebyeHukel** theory" | 拼写与连字缺失 | 应为 **Debye–Hückel theory**。另：讲义**全程未给出该公式本身**，只给参考章节 Misra 7.2.3；本笔记「三」中的三条公式为 📎 补充，非材料原文 |

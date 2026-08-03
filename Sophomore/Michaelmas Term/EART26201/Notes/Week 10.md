@@ -8,11 +8,11 @@
 
 ## 一、本周主题
 
-本周是 **EART26201 的最后一讲**，主题是**稳定同位素（stable isotopes）在水文循环与古气候中的应用**。老师在课上明确说："this week's the final week. No lectures, no practicals next week. We've just got this lecture on stable isotopes and then there's associated practical on Wednesday."
+本周是 **EART26201 的最后一讲**，主题是**稳定同位素（stable isotopes）在水文循环与古气候中的应用**。老师："this week's the final week. No lectures, no practicals next week. We've just got this lecture on stable isotopes and then there's associated practical on Wednesday."
 
-**本周在课程骨架中的位置。** 全课四大块是：热力学与相图 / 反应动力学与扩散 / 酸碱溶解度与氧化还原 / 放射性与稳定同位素。本周属于第四块的后半段——前面 Week 2 讲的是**放射性（radiogenic）同位素**（定年、物源），本周讲的是**稳定（stable）同位素**（分馏、温度计、示踪）。老师开场就做了这个切割："We're not going to touch on radiogenic isotopes, things like rubidium strontium and hafnium. We're just going to look at stable isotopes."
+**本周在课程骨架中的位置。** 全课四大块：热力学与相图 / 反应动力学与扩散 / 酸碱溶解度与氧化还原 / 放射性与稳定同位素。本周属第四块后半段——Week 2 讲的是**放射性（radiogenic）同位素**（定年、物源），本周讲**稳定（stable）同位素**（分馏、温度计、示踪）。老师开场即做切割："We're not going to touch on radiogenic isotopes, things like rubidium strontium and hafnium. We're just going to look at stable isotopes."
 
-同时，本周也是**课程后半段「流体地球化学」（fluid geochemistry）子模块的收官**。Week 6 的幻灯片上列出的 part 2 大纲共五条：(1) Water as a solvent – ions；(2) Solubility and complexing；(3) Acids and bases；(4) Redox reactions；(5) **Stable isotopes in the hydrologic cycle**。本周正是第 5 条。老师也强调，本周内容和前面几周的教材来源不同："All the other lectures have kind of been based on one textbook … it was all linked to Misra, which is kind of like a physical chemistry textbook. This is a little bit different, but something that is worth covering, kind of in the context of low temperature geochemistry."
+同时本周也是**后半段「流体地球化学」子模块的收官**：Week 6 幻灯片列出的 part 2 大纲五条为 (1) Water as a solvent – ions；(2) Solubility and complexing；(3) Acids and bases；(4) Redox reactions；(5) **Stable isotopes in the hydrologic cycle**——本周正是第 5 条。老师也提醒本周教材来源不同："All the other lectures … was all linked to Misra, which is kind of like a physical chemistry textbook. This is a little bit different, but something that is worth covering, kind of in the context of low temperature geochemistry."
 
 📎 **背景补充（全课十周脉络整合）**：以下十周主线由我根据各周文件夹内的讲义标题与 Week 6 幻灯片上的 part 2 大纲整合而成，**不是本周任何一份原文里的现成段落**，仅供收尾复习串线使用。
 
@@ -158,39 +158,30 @@
 
 **核心观测**：深海（**底栖 benthic**）有孔虫记录显示，末次冰盛期（**LGM**，约 2 万年前）相对今天有 **+1.5‰ 的 δ¹⁸O 偏移**。
 
-**SPECMAP**（Spectral Mapping Project）：汇编大量深海岩心底栖有孔虫 δ¹⁸O，本意是做**全球地层对比**（用于给未知年龄的海洋沉积定年），也可用来看冰期–间冰期变化。曲线特征：
-- 时间跨度约 70 万年到现今；
-- **锯齿状（sawtooth）**：缓慢的冰量累积 + 快速的冰消（老师描述见勘误表，转写有前后矛盾）；
-- 明显的 **约 10 万年周期** = **米兰科维奇周期（Milankovitch cycles）**，源于地球**偏心率与轨道参数**变化；虽有多个周期，但最显著的是 10 万年。
+**SPECMAP**（Spectral Mapping Project）：汇编大量深海岩心底栖有孔虫 δ¹⁸O，本意是做**全球地层对比**（给未知年龄的海洋沉积定年），也可看冰期–间冰期变化。曲线特征：跨度约 70 万年至今；呈**锯齿状（sawtooth）**——缓慢建冰 + 快速冰消（转写此处有前后矛盾，见勘误表）；有明显的**约 10 万年周期 = 米兰科维奇周期（Milankovitch cycles）**，源于地球**偏心率与轨道参数**变化，虽有多个周期但 10 万年最显著。
 
 **三大问题（quiz 第 10 题答案是"以上全部"）**：
-1. **壳体死后可能重结晶（recrystallise）**——所有沉积物都有一定程度重结晶，会改变原始 δ¹⁸O。→ 对策：**仔细挑选没有蚀变迹象的壳体**。
-2. **不同年龄的壳体可能被混合**（生物扰动 bioturbation），在**沉积速率低**的地区尤其严重。→ 对策：**选沉积速率高的站位**，让壳体一落底就被埋藏隔离。
-3. **水体中的生活深度影响记录到的温度**——浮游（**planktonic**）有孔虫会随季节在不同深度游动（夏浅冬深），把不同温度积分在一起。→ 对策：**用底栖（benthic）有孔虫**，因为**洋底温度在全球都相当一致**。浮游种与底栖种因生态环境特异而容易区分。
+1. **壳体死后可能重结晶（recrystallise）**，改变原始 δ¹⁸O。→ 对策：**仔细挑选无蚀变迹象的壳体**。
+2. **不同年龄的壳体被混合**（生物扰动 bioturbation），**沉积速率低**的地区尤甚。→ 对策：**选沉积速率高的站位**，壳体一落底即被埋藏隔离。
+3. **水柱中的生活深度影响记录温度**——浮游（**planktonic**）有孔虫随季节改变深度（夏浅冬深），把不同温度积分在一起。→ 对策：**用底栖（benthic）有孔虫**，洋底温度全球相当一致。浮游种与底栖种因生态特异而易区分。
 
 ### 13. 冰量效应（the "ice volume" effect）
 
-这是本周最核心的概念难点。
+本周最核心的概念难点。冰期时**轻同位素被蒸发走、以雪的形式锁进大陆冰盖**；把"海洋 + 冰盖"看作**封闭系统（closed system）**，冰盖 δ¹⁸O 更负且冰**量**更大 → **剩下的海水必然变重**。于是有孔虫记录的 +1.5‰ 里**混合了两件事**：(a) 海水**温度**变化（分馏随温度变）与 (b) 海水**本身成分**（δ¹⁸O）变化。
 
-- 冰期时，**轻同位素被从海洋中蒸发走、以雪的形式锁进大陆冰盖**。
-- 把"海洋 + 冰盖"看作一个**封闭系统（closed system）**：冰盖的 δ¹⁸O 更负、且冰**量**更大 → **剩下的海水必然变重**。
-- 于是有孔虫记录的 +1.5‰ 里，**混合了两件事**：(a) **海水温度变化**（冰期冷、间冰期暖，分馏本身随温度变）与 (b) **海水本身成分（δ¹⁸O）的变化**。
-- **关键问题（幻灯片原文标题：the really big question in paleoceanography）**：这 1.5‰ 里有多少来自冰量（海平面变化），多少来自温度？
-- 老师的重要澄清（quiz 第 8 题）：**冰本身的同位素成分基本不变，变的是冰的量**——"It's kind of equally as light, but there's more of it. Therefore, it's the ocean（变的是海水成分）"。
+**关键问题（幻灯片原文标题：the really big question in paleoceanography）**：这 1.5‰ 里有多少来自冰量（海平面），多少来自温度？
+
+老师的重要澄清（quiz 第 8 题）：**冰本身的同位素成分基本不变，变的是冰的量**——"it's kind of equally as light, but there's more of it. Therefore, it's the ocean."
 
 ### 14. 孔隙流体（pore fluids）——独立约束
 
-- 深海沉积物中滞留着 **pore fluids**，那是**被困住的真实海水样品**，可以**直接**测量过去海水的 δ¹⁸O，从而把"水成分变化"这一项单独拿出来。
-- **为什么必须建模而不能直接读**（幻灯片）：沉积物压实时**平流（advection）**把水挤出去，**扩散（diffusion）**又不断抹平信号脉冲；因此**只对末次冰盛期（LGM）到现今这一段有效**。
-- **结果**：大西洋两个 ODP（Ocean Drilling Program）站位的孔隙流体剖面中存在一个正异常"鼓包"（**glacial enrichment**，冰期的重水），向浅部（现今）变轻。最佳拟合给出冰期–间冰期海水 δ¹⁸O 变化 = **+0.7‰（一个岩心）与 +0.8‰（另一个岩心）**，即约 **0.7–0.8‰**。
-- **quiz 第 9 题**：孔隙流体提供的是对**海洋 δ¹⁸O** 的独立确认（不是温度、不是压力、不是冰的 δ¹⁸O）。
+深海沉积物中滞留的 **pore fluids** 是**被困住的真实古海水样品**，可**直接**测过去海水 δ¹⁸O，把"水成分变化"这一项单独分离出来。**为什么必须建模**（幻灯片）：压实时**平流（advection）**把水挤出、**扩散（diffusion）**又抹平信号脉冲，因此**只对 LGM 至今这一段有效**。
+
+**结果**：大西洋两个 ODP 站位的剖面上有一个正的"鼓包"（**glacial enrichment**），向浅部变轻；最佳拟合给出冰期–间冰期海水 δ¹⁸O 变化 = **+0.7‰ 与 +0.8‰**，即约 **0.7–0.8‰**。quiz 第 9 题：孔隙流体确认的是**海洋 δ¹⁸O**（不是温度、压力或冰的 δ¹⁸O）。
 
 ### 15. 拆分结果：一半冰量、一半温度，约 4 °C
 
-- 有孔虫总位移 **1.5‰**；孔隙流体给出的水成分变化 **≈ 0.75‰**。
-- 因此**约 50% 来自水成分（冰量）变化，约 50% 来自温度变化**。
-- 把剩下的 0.75‰ 代入碳酸盐–水分馏曲线：曲线大致从 **100 °C 到 20 °C**（跨度约 **80 °C**）对应约 **15‰** 的 1000·lnα 变化，近似线性 → 0.75‰ × (80/15) = **约 4 °C**。
-- **交叉验证**：另一支岩心也给出碳酸盐值与实测水值差约 0.7‰；**Mg/Ca 温度计**在同一时段给出约 **23 °C → 27 °C**，同样是约 4 °C。老师："there's various lines of evidence to suggest that 4 degrees C isn't far off."
+有孔虫总位移 **1.5‰**，孔隙流体给出的水成分变化 **≈ 0.75‰** → **约 50% 冰量、50% 温度**。把剩下的 0.75‰ 代入碳酸盐–水分馏曲线（约 100→20 °C 即 **80 °C** 跨度对应约 **15‰**，近似线性）：0.75 × 80/15 = **约 4 °C**。**交叉验证**：另一支岩心碳酸盐值与实测水值也差约 0.7‰；**Mg/Ca 温度计**同期给出 **23 °C → 27 °C**，同样约 4 °C。老师："there's various lines of evidence to suggest that 4 degrees C isn't far off."
 
 ### 16. 团簇同位素（clumped isotopes / rare isotopologues）
 
@@ -214,20 +205,18 @@
 
 $$\alpha = \frac{R_A}{R_B}$$
 
-- **R_A、R_B**：两个相（phase）中的**同位素比值**，例如 ¹⁸O/¹⁶O。A、B 可以是"碳酸盐与水"、"水汽与液态水"、"云与雨"。
-- **单位**：**无量纲**。
-- **典型值**：**非常接近 1**（"α is close to 1 because ratios differ by parts per thousand"）。25 °C 液–汽体系：α(¹⁸O) = **1.0092**，α(D/H) = **1.074**。
-- **适用条件**：严格说 α 描述的是**两相平衡**时的比值关系；动力学过程也常沿用 α 记号但含义是速率比。
+- **R_A、R_B**：两个相中的**同位素比值**（如 ¹⁸O/¹⁶O）。A、B 可以是"碳酸盐与水""水汽与液态水""云与雨"。**单位：无量纲**。
+- **典型值**：**非常接近 1**（"ratios differ by parts per thousand"）。25 °C 液–汽：α(¹⁸O) = **1.0092**，α(D/H) = **1.074**。
+- **适用条件**：严格说 α 描述**两相平衡**的比值关系；动力学过程也沿用 α 记号但含义是速率比。
 
 ### 公式 2：δ 定义式
 
 $$\delta = \left(\frac{R_{\text{sample}}}{R_{\text{standard}}} - 1\right) \times 1000\ ‰$$
 
-- **R_sample / R_standard**：样品与国际公认标准物中重/轻同位素的比值。
-- **单位**：**‰（per mil，千分号）**——写法是"百分号再多一个零"。
+- **R_sample / R_standard**：样品与国际公认标准物中重/轻同位素的比值。**单位：‰（per mil）**，写法是"百分号再多一个零"。
 - **符号规则**：正 = 富重同位素（isotopically heavy）；0 = 与标准相同；负 = 富轻同位素（isotopically light）。
-- **典型值范围**：氧同位素体系的分馏"a few per mil to a few tens per mil"。全球降水 δ¹⁸O 从赤道约 0‰ 到南极约 −30‰。
-- 📎 背景补充：这个展开式本身在幻灯片上被 PDF 转换吞掉了（原页只剩文字说明），此处按标准形式补回；转写中老师的口头定义"the point of the delta is just to multiply it by a thousand"与之一致。
+- **典型范围**：氧体系分馏"a few per mil to a few tens per mil"；全球降水 δ¹⁸O 从赤道约 0‰ 到南极约 −30‰。
+- 📎 背景补充：展开式本身在幻灯片 PDF 转换中被吞掉（原页只剩文字说明），此处按标准形式补回；与老师口头定义"the point of the delta is just to multiply it by a thousand"一致。
 
 ### 公式 3：δ 差与 1000 lnα 的等价关系
 
@@ -245,11 +234,9 @@ $$\Delta_{A-B} \equiv \delta_A - \delta_B \approx 1000\ln\alpha_{A-B}$$
 
 $$\frac{R}{R_0} = f^{(\alpha - 1)}$$
 
-- **R**：残余储库当前的同位素比值；**R₀**：初始比值。
-- **f**：**残余分数（fraction remaining）**，即还留在储库里的质量分数，0 < f ≤ 1。
-- **α**：产物与残余之间的分馏系数（此处 = α_(liquid−vapour)）。
-- **适用条件**：**产物一形成就立刻被移出体系**（瑞利式开放系统 / 蒸馏），且 α 在过程中保持常数。
-- 老师的口头版："the ratio will change by a certain amount, which is equal to … the fraction that is rained out or separated from, to the power of this alpha."
+- **R / R₀**：残余储库当前 / 初始的同位素比值。**f**：**残余分数（fraction remaining）**，0 < f ≤ 1。**α**：产物与残余之间的分馏系数（此处 = α_(liquid−vapour)）。
+- **适用条件**：**产物一形成就立刻被移出体系**（瑞利式开放系统 / 蒸馏），且 α 全程为常数。
+- 老师口头版："the ratio will change by a certain amount, which is equal to … the fraction that is rained out or separated from, to the power of this alpha."
 
 **练习用的对数线性形式**（practical 中实际使用）：
 
@@ -266,11 +253,9 @@ $$\delta_{\text{rain}} = \delta_{\text{vapour}} + \varepsilon$$
 
 $$1000\ln\alpha = \frac{17599}{T} - 29.64$$
 
-- **T**：**绝对温度（K）**。
-- **左边**：碳酸盐与水之间的 1000·lnα，等价于 δ¹⁸O_carbonate − δ¹⁸O_water，单位 ‰。
-- **来源**：Epstein et al. (1953) 经验测定，Craig (1965) 修正。
-- **数值检验**：T = 297 K（24 °C）→ 17599/297 − 29.64 = **29.6‰**，与课上说的"约 28‰"量级一致；T = 363 K（90 °C）→ 48.5 − 29.6 = **18.8‰**，与"约 17–19‰"一致。**温度升高，分馏减小**。
-- 📎 背景补充：Past Papers 中 `EART26201 Jan 2025 exam with answers.md` 第 2 题的标准答案给出的是另一种常见形式 **10³lnα = 2.78(10⁶·T⁻²) − 2.89（O'Neil, 1969）**，属于 T⁻² 形式的标定。**两式都是方解石–水体系的经验标定，写哪一个都可以，但不要把常数记串**。
+- **T**：**绝对温度（K）**；**左边**为碳酸盐与水之间的 1000·lnα，等价于 δ¹⁸O_carb − δ¹⁸O_water，单位 ‰。**来源**：Epstein et al. (1953) 经验测定，Craig (1965) 修正。
+- **数值检验**：T = 297 K（24 °C）→ **29.6‰**，与课上"约 28‰"量级一致；T = 363 K（90 °C）→ **18.8‰**，与"约 17–19‰"一致。**温度升高，分馏减小**。
+- 📎 背景补充：Past Papers 中 `EART26201 Jan 2025 exam with answers.md` 第 2 题标准答案用的是另一常见形式 **10³lnα = 2.78(10⁶·T⁻²) − 2.89（O'Neil, 1969）**（T⁻² 形式）。两式都是方解石–水的经验标定，写哪一个都可以，**但不要把常数记串**。
 
 ### 公式 6：把 δ 差换算成温度差（课堂速算法）
 
@@ -441,31 +426,31 @@ $$f = e^{-0.06757} = \mathbf{0.9347}$$
 
 ## 六、易错点 / 重点难点
 
-1. **δ 与 R 混淆**。R 是**绝对比值**（如 ¹⁸O/¹⁶O ≈ 0.002），δ 是**相对于标准的千分偏差**。Quiz 第 1 题的四个选项里，"absolute ratio of oxygen isotopes"和"concentration of the heavy isotope"都是陷阱——δ 既不是绝对比值，也不是浓度。
+1. **δ 与 R 混淆**。R 是**绝对比值**（¹⁸O/¹⁶O ≈ 0.002），δ 是**相对标准的千分偏差**。Quiz 第 1 题的干扰项"absolute ratio of oxygen isotopes"与"concentration of the heavy isotope"都是陷阱——δ 既不是绝对比值，也不是浓度。
 
-2. **α 与 ε/Δ 的单位**。**α 无量纲且 ≈ 1.00x**；**ε ≈ (α−1)×1000、Δ ≈ δ_A − δ_B ≈ 1000 lnα，单位是 ‰**。写"α = 9.4‰"或"ε = 1.0094"都是错的。practical 里的 9.4‰ 对应 α = 1.0094。
+2. **α 与 ε/Δ 的单位**。**α 无量纲且 ≈ 1.00x**；**ε ≈ (α−1)×1000 ≈ 1000 lnα ≈ Δ，单位 ‰**。写"α = 9.4‰"或"ε = 1.0094"都是错的（practical 的 9.4‰ 对应 α = 1.0094）。
 
-3. **"重同位素富集"的方向判反**。牢记链条：**蒸发 → 水汽轻 → 液相/雨相对重 → 剩余云越来越轻 → 极地降水最轻**。以及**固相（碳酸盐）几乎总比与之平衡的水重**。Quiz 第 5 题的关键在于：云比海水轻是显然的，但**雨也比海水轻**——因为蒸发这一步的动力学效应把体系整体拉轻了，而"雨比云重 9.4‰"不足以补回来。
+3. **"重同位素富集"的方向判反**。牢记链条：**蒸发 → 水汽轻 → 雨相对云重 → 剩余云越来越轻 → 极地降水最轻**；以及**固相（碳酸盐）几乎总比与之平衡的水重**。Quiz 第 5 题的关键：云比海水轻是显然的，但**雨也比海水轻**——蒸发这一步的动力学效应把体系整体拉轻了，"雨比云重 9.4‰"补不回来。
 
-4. **平衡分馏与动力学分馏的温度依赖弄反**。**平衡分馏随温度升高而减小**（24 °C 碳酸盐–水约 28‰，90 °C 只有约 17–19‰；Δ47 也是低温大、高温小）。所以"高温体系同位素差异小"是通则。别记成"越热分馏越大"。
+4. **平衡分馏与动力学分馏的温度依赖弄反**。**平衡分馏随温度升高而减小**（24 °C 碳酸盐–水约 28‰，90 °C 仅约 17–19‰；Δ47 同样低温大、高温小）。"高温体系同位素差异小"是通则，别记成越热分馏越大。
 
-5. **哪一步是平衡、哪一步是动力学**。**云→雨 = 平衡**；**海面蒸发 = 平衡 + 动力学**。GMWL 是**平衡线**，所以**海水本身反而落在线外**、强蒸发湖泊沿更缓的蒸发线偏离。这个"反直觉"点很容易在论述题里丢分。
+5. **哪一步是平衡、哪一步是动力学**。**云→雨 = 平衡**；**海面蒸发 = 平衡 + 动力学**。GMWL 是**平衡线**，所以**海水本身反而落在线外**、强蒸发湖泊沿更缓的蒸发线偏离——这个反直觉点很容易在论述题丢分。
 
-6. **VPDB 与 VSMOW 混用未换算**。水的 δ¹⁸O 报 VSMOW，碳酸盐的 δ¹⁸O 常报 VPDB。讲座里对 SPECMAP 曲线说"it's got a different standard, but it doesn't make any difference, it's just an offset"——那是在**只看相对变化**的语境下才成立；**若要代入 1000lnα = 17599/T − 29.64 求绝对温度，两个 δ 必须在同一标度上**。
+6. **VPDB 与 VSMOW 混用未换算**。水的 δ¹⁸O 报 VSMOW，碳酸盐常报 VPDB。讲座对 SPECMAP 说"it's just an offset"只在**看相对变化**时成立；**若代入 1000lnα = 17599/T − 29.64 求绝对温度，两个 δ 必须在同一标度上**。
 
-7. **1.5‰ ≠ 温度信号**。这是本周最核心的考点。**有孔虫的 1.5‰ = 冰量效应（≈0.75‰）+ 温度效应（≈0.75‰ ≈ 4 °C）**。直接把 1.5‰ 全算成温度会把温度变化算成两倍（约 8 °C），把它全算成冰量则会把海平面下降算成 248 m（观测只有 120 m）。practical 第 2 题就是专门让你踩这个坑再爬出来。
+7. **1.5‰ ≠ 温度信号**（本周最核心考点）。**1.5‰ = 冰量效应（≈0.75‰）+ 温度效应（≈0.75‰ ≈ 4 °C）**。全算成温度会得到约两倍（约 8 °C）；全算成冰量则把海平面下降算成 248 m（观测仅 120 m）。practical 第 2 题就是专门让你踩坑再爬出来。
 
-8. **冰量效应里"变的是量不是成分"**。冰盖的 δ¹⁸O 冰期与间冰期差不多（都很负），改变的是**冰的体积**；因为体系封闭，冰多了 → 剩下的海水变重。Quiz 第 8 题考的就是这一点。
+8. **冰量效应"变的是量不是成分"**。冰盖 δ¹⁸O 冰期与间冰期差不多（都很负），改变的是**冰的体积**；体系封闭，冰多了 → 海水变重。Quiz 第 8 题考的就是这点。
 
-9. **米兰科维奇周期只有冰芯档案够长**。虽然地下水、树轮也是合法的古气候档案，但**时间跨度不够覆盖 10 万年周期**。课上老师口头说了"all three"，**2025 版答案页已更正为 ice cores only**——以答案页为准。
+9. **米兰科维奇周期只有冰芯档案够长**。地下水、树轮虽是合法档案，但**时间跨度不够覆盖 10 万年周期**。课上老师口头说"all three"，**2025 版答案页已更正为 ice cores only**。
 
-10. **瑞利分馏中 f 的定义与 ln f 的符号**。f 是**残余分数**（不是已经反应掉的分数！），f ≤ 1 所以 **ln f ≤ 0**。若把 f 记成"已降雨的比例"，整条曲线方向就反了。
+10. **瑞利分馏中 f 是残余分数**（不是已反应掉的分数！），f ≤ 1 故 **ln f ≤ 0**；记反则整条曲线方向都错。
 
-11. **底栖 vs 浮游有孔虫**。**benthic = 底栖 = 洋底 = 温度稳定 = 首选**；planktonic = 浮游 = 随季节改变深度 = 温度被积分、不可靠。别记反。
+11. **底栖 vs 浮游**。**benthic = 底栖 = 洋底温度稳定 = 首选**；planktonic = 浮游 = 随季节改变深度、温度被积分、不可靠。
 
-12. **团簇同位素的独立性来源**。Δ47 之所以不需要知道水的成分，是因为它是**分子内部**的信息（¹³C–¹⁸O 成键概率相对随机分布的超出量），而不是"样品对参照物"的比较。写成"团簇同位素精度更高所以更好"是 Quiz 第 11 题的错误选项。
+12. **团簇同位素的独立性来源**是**分子内部信息**（¹³C–¹⁸O 成键概率超出随机分布的量），不是"精度更高"——后者是 Quiz 第 11 题的错误选项。
 
-13. **速算温度时的除法**。0.75‰ 换算成温度是 **0.75 ÷ (15/80)**，也就是 **0.75 × 80/15 = 4 °C**；幻灯片印成 "0.75/(15\*80)" 会得到 0.000625，是排版错误。
+13. **速算温度的除法**：0.75‰ → **0.75 ÷ (15/80) = 0.75 × 80/15 = 4 °C**；幻灯片印成 "0.75/(15\*80)" 得 0.000625，是排版错误。
 
 ---
 
