@@ -337,16 +337,12 @@ Ca²⁺ 25.4（mg/L）→ **0.0254 g/L** → 除以 Ca 原子量 40.08 → **6.3
 
 #### 5. 操作步骤（可照做流程）
 
-1. 台上的塑料瓶里有约 **60 ml 0.01 M AgNO₃**。倒入**小烧杯**，用**注射器取 20 ml 分装液（aliquot）**放入 **250 ml 烧杯**。
-2. 从通风橱取 **40 ml 2 M 氨水**，加入上述 250 ml 烧杯中的 20 ml 银溶液。
+1. 台上塑料瓶中约 **60 ml 0.01 M AgNO₃**，倒入**小烧杯**，用**注射器取 20 ml 分装液（aliquot）**放入 **250 ml 烧杯**。
+2. 从通风橱取 **40 ml 2 M 氨水**，加入该 20 ml 银溶液中。
 3. 用**去离子水**把银—氨混合液稀释到**总体积 100 ml**。
-4. 用滴定管中的 **0.02 M KBr** 滴定，直到**首次出现永久性浑浊（first permanent turbidity）**为止。
-   - 技巧：**把烧杯衬在深色背景前观察**；
-   - **记录所用 KBr 体积**，同时**记录混合液的总体积**；
-   - 滴完用去离子水冲洗烧杯；
-   - **建议先做一次粗滴定（rough trial titration）**，摸清大致用量以及终点前后溶液外观的变化。
-5. 重复步骤 1–4，但氨的用量改为 **10 ml 2 M NH₃**（数据表还要求做 **30 ml** 和 **15 ml** 两组，见勘误 18）。**务必补加足量去离子水，使总体积接近步骤 4 中首次记录的总体积。**
-6. **废液倒入通风橱中的收集烧杯。绝对不许把溴化银（AgBr）倒进水槽。**
+4. 用滴定管中的 **0.02 M KBr** 滴定至**首次出现永久性浑浊（first permanent turbidity）**。要点：**把烧杯衬在深色背景前观察**；**记录 KBr 体积与混合液总体积**；滴完用去离子水冲洗烧杯；**建议先做一次粗滴定（rough trial titration）**摸清用量与终点前后的外观变化。
+5. 重复步骤 1–4，氨量改为 **10 ml**（数据表还要求 **30 ml**、**15 ml** 两组，见勘误 18）。**务必补加足量去离子水，使总体积接近步骤 4 首次记录的总体积。**
+6. **废液倒入通风橱中的收集烧杯；绝对不许把溴化银（AgBr）倒进水槽。**
 
 #### 6. 数据记录表（讲义 DATASHEET 原样，括号为标称加入体积）
 
@@ -361,21 +357,17 @@ Ca²⁺ 25.4（mg/L）→ **0.0254 g/L** → 除以 Ca 原子量 40.08 → **6.3
 
 #### 7. 数据处理（讲义要求）
 
-1. **纵轴 log(moles KBr)，横轴 log(moles NH₃)** 作图。
-   ⚠️ 讲义特别强调：**必须先手算出各点的对数值再作图**，"You do this by calculating the log of the moles of KBr and NH₃ **not by plotting the molar data then using the log function to display the graph**"（不许直接画摩尔数再把坐标轴切成对数显示）。
-   - 摩尔数换算：n = C × V(L)。例：0.02 M × 6.7 ml = **1.34 × 10⁻⁴ mol**；2 M × 40 ml = **0.08 mol**；0.01 M × 20 ml = **2 × 10⁻⁴ mol**（AgNO₃，恒定）。
-2. 用**目测或手算／计算机拟合**求**最佳拟合直线**。
-3. **写出最佳拟合直线的方程**。
-4. **写出所求 n 值，并据此写出主导银氨络合物的化学式**（n 必须是整数）。
-5. **思考题**：若滴定**越过沉淀终点**继续加 KBr，并把这个体积用于计算 n，则第 2 节中的**哪个方程会失效？为什么？**
-6. **计算题**：已知 **20 °C 时 AgBr 的溶度积 Ksp = 5 × 10⁻¹³**（Fritz and Schenk, 1979），据此**估算主导银氨络合物的生成常数 Kn**。（提示：**只用一次滴定的数据、或最佳拟合线上的一个点**即可。）
-   - 变形式：**Kn = (moles KBr × moles AgNO₃) / ((moles NH₃)ⁿ × Ksp)**
+1. **纵轴 log(moles KBr)、横轴 log(moles NH₃)** 作图。⚠️ 讲义强调**必须先手算各点的对数值再作图**——"not by plotting the molar data then using the log function to display the graph"。摩尔数换算 n = C × V(L)，例：0.02 M × 6.7 ml = **1.34 × 10⁻⁴ mol**；2 M × 40 ml = **0.08 mol**；0.01 M × 20 ml = **2 × 10⁻⁴ mol**（AgNO₃ 恒定）。
+2. 用**目测或手算／计算机拟合**求**最佳拟合直线**，并**写出其方程**。
+3. **写出 n 值（必须是整数）与主导银氨络合物的化学式**。
+4. **思考题**：若**越过沉淀终点**继续加 KBr 并用该体积计算 n，第 2 节中的**哪个方程会失效？为什么？**
+5. **计算题**：已知 **20 °C 时 AgBr 的 Ksp = 5 × 10⁻¹³**（Fritz and Schenk, 1979），**估算生成常数 Kn**（提示：只用一次滴定或拟合线上的一个点）。变形式：**Kn = (moles KBr × moles AgNO₃) / ((moles NH₃)ⁿ × Ksp)**。
 
 #### 8. 预期结果
 
 📎 背景补充（讲义未给答案，以下为标准化学知识 + 量纲检查）：**主导物种应为二氨合银(I)离子 Ag(NH₃)₂⁺**，即 **n = 2**，拟合直线斜率应接近 2。代入一组典型数据（NH₃ 0.08 mol；KBr 6.7 ml → 1.34×10⁻⁴ mol；AgNO₃ 2×10⁻⁴ mol）得 **Kn ≈ 8 × 10⁶**，量级合理——银与氨的络合能力很强。
 
-**第 5 题答题方向** 📎：越过终点后溶液持续变浑，说明已析出**大量固体 AgBr**，体系不再处于"刚开始沉淀"的临界平衡；此时 **AgBr(s) ⇌ Ag⁺ + Br⁻ 及其 Ksp 关系失效**——多加的 Br⁻ 直接进了沉淀而不再通过 Ksp 对应溶液中剩余的 Ag⁺，"moles KBr"不再是终点平衡量，整条推导链断裂。
+**思考题（上列第 4 项）答题方向** 📎：越过终点后溶液持续变浑，说明已析出**大量固体 AgBr**，体系不再处于"刚开始沉淀"的临界平衡；此时 **AgBr(s) ⇌ Ag⁺ + Br⁻ 及其 Ksp 关系失效**——多加的 Br⁻ 直接进了沉淀而不再通过 Ksp 对应溶液中剩余的 Ag⁺，"moles KBr"不再是终点平衡量，整条推导链断裂。
 
 #### 9. 安全注意事项
 
@@ -468,7 +460,7 @@ Ca²⁺ 25.4（mg/L）→ **0.0254 g/L** → 除以 Ca 原子量 40.08 → **6.3
 | 2. 同上，粒子表 | Electron … "**-e = 1.6021 x 10-19**"；脚注 "Atomic mass (A) = Z + N (**amu**)" | ①电子电荷的负号在排版中丢失（正负两行数值写法相同）；②A 是**质量数**，为无量纲的核子数，不该带 amu 单位；③"Symbol: Proton = Z" 不严谨，Z 是原子序数 | ①电子电荷 = −1.602177 × 10⁻¹⁹ C；②应写 "Mass number A = Z + N（无量纲）"，"Atomic mass" 才以 amu 计 |
 | 3. 同上，"Basic revision: Stoichiometry" | "atomic mass Na = 22.9 … molecular mass NaCl = 22.9+35.45 = **58.35** amu"（转写中老师照读） | Na 的标准原子量是 **22.990**，不是 22.9 | NaCl 式量应为 **22.99 + 35.45 = 58.44 g/mol**。误差约 0.15%，对本课计算无实质影响，但答题写 58.44 更稳妥 |
 | 4. 同上，"Electrolyte solutions" | "**NaCl + Cl⁻ (s) = Na⁺**" | 方程被 PDF 转换打乱，物种与状态标注全部错位，字面完全不成立 | 应为 **NaCl(s) ⇌ Na⁺(aq) + Cl⁻(aq)** |
-| 5. 同上，"Relationship between ionic strength (I) and activity" | "Ganges river water (I = 0.0034) **the activity of Ca²⁺ is 0.80** and in seawater (I = 0.685) it is about 0.26" | 0.80 与 0.26 是**活度系数 γ**（无量纲），不是**活度 a**。活度 a = γm，量纲是 mol/kg，恒河 Ca²⁺ 的活度应约 0.8 × 6.34×10⁻⁴ = 5.1×10⁻⁴ mol/kg | 应写 "the **activity coefficient** of Ca²⁺ is 0.80"。转写中老师口述"effective concentration … 20% less"是对的 |
+| 5. 同上，"Relationship between ionic strength (I) and activity" | "Ganges river water (I = 0.0034) **the activity of Ca²⁺ is 0.80** and in seawater (I = 0.685) it is about 0.26" | 0.80 与 0.26 是**活度系数 γ**（无量纲），不是**活度 a**。a = γm 的量纲是 mol/kg，恒河 Ca²⁺ 的活度应约 0.8 × 6.34×10⁻⁴ = 5.1×10⁻⁴ mol/kg | 应写 "the **activity coefficient** of Ca²⁺ is 0.80"；转写口述的"effective concentration … 20% less"是对的 |
 | 6. 同上，"Ionic strength" 与 "Relationship…" 两页 | 一处写 "Seawater has an ionic strength of **0.7** mol/Kg"，另一处写 "seawater (I = **0.685**)" | 同一材料内两个数值不一致 | 二者不矛盾（0.7 是 0.685 的取整），但计算题请统一用 **I = 0.685 mol/kg** |
 | 7. 同上，"Activity Coefficient" 页 | "**Values of γ are <1** which means the effective concentration … is less than their actual concentration" | 过度概括。在 I ≳ 0.5 mol/kg 的浓盐水中，因"盐析效应"（离子把自由水分子占用），许多离子的 γ 会回升并**超过 1** | 应表述为"在天然水常见的离子强度范围内 γ 通常 < 1"。油田卤水（I ~3.4）就是 γ > 1 的典型场景，而讲义自己提到了油田卤水 |
 | 8. 同上，Ca²⁺ molality 算例 | "grams of Ca²⁺ = **25.4/1000** = 0.0254 g/L … = 0.634 × 10⁻³ **mol/kg**（electrons have no mass）" | ①25.4 的单位未标（反推应为 **mg/L**）；②起算是 g/**L**，结果却标 mol/**kg**，M 与 m 被默认等同而未说明；③"electrons have no mass" 说法错误——电子有质量，只是可忽略 | 应写 "25.4 **mg/L**"，并注明"稀水溶液中 1 L ≈ 1 kg，故 M ≈ m"；括注改为"电子质量可忽略"。计算本身正确：0.0254/40.08 = 6.34 × 10⁻⁴ |
