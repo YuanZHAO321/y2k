@@ -1,0 +1,1327 @@
+---
+title: "EART21202 - 12-Feb-transcript"
+source: "Sophomore/Hilary Term/EART21202/Week 2/EART21202 - 12-Feb-transcript.txt"
+type: transcript
+---
+
+'EART21202 - 12-Feb', automated transcript
+03/08/2026
+---
+
+Hello, everyone. Hi, we've all made a start.
+
+Welcome to week two of Global Climate Change.
+
+Hopefully you can hear me at the back.
+
+It's a bigger room than last week, thankfully.
+
+And if you're at the back and if you can't hear me during the lecture,
+
+just give me a little wave
+
+and make sure I try and raise my voice as much as possible.
+
+So today we're going to be thinking about the natural variability of climate.
+
+So before starting to think about the anthropogenic impacts
+
+that we're now having on our air system,
+
+we want to think about how naturally our climate change
+
+would vary without those additional inputs.
+
+So that's really the thought of today,
+
+to try and understand what might be happening if we weren't here today.
+
+So I'm going to give a short lecture to start over to our session,
+
+give you an opportunity for a break afterwards,
+
+and then we'll move into the workshop style questions.
+
+All of the workshop style questions should now be available on Canvas for you.
+
+I will upload the answers to the workshop
+
+to the second half of the workshop hour,
+
+just so you can test your understanding.
+
+The workshop is really there to help guide your revision,
+
+but also to test your understanding of each week as you progress through the
+
+course.
+
+So there's going to be a slight change to the running order.
+
+Next week, Simon will give his anthropogenic impacts talk,
+
+so it won't be me presenting next week, it will be Simon.
+
+It makes sense that once we understand what's going to happen naturally,
+
+we start to dive into what might happen
+
+and what is driving the change we're seeing outside just of greenhouse gases.
+
+So it's great that Simon can join you next week,
+
+and he will be giving the lecture here again.
+
+So as I say, it will be an hour lecture followed by an hour workshop.
+
+The workshop is designed to be done during the second hour of the session,
+
+but always feel free to take that away.
+
+The answers will be uploaded to Canvas.
+
+The answers, I should say, are not always complete.
+
+Some of the questions are quite descriptive and some are quite discussion-based,
+
+so if you bring up points that aren't captured in the answers that I give,
+
+that doesn't necessarily mean that they're wrong.
+
+So please do feel free to come chat with me during the workshop
+
+and we can test your understanding of each question in any more detail.
+
+So, before we move on to this week's material,
+
+I thought it was useful just to recap what we talked about last week,
+
+which is really nicely captured by this figure here,
+
+which shows the drivers, changes and impacts of climate change.
+
+So in the middle we've got the drivers of climate change,
+
+which as you hopefully now know are greenhouse gases,
+
+and some of the warming is offset by aerosol emissions into the atmosphere.
+
+There's also a land use change component,
+
+which is going to be talked to about next week by Simon O'Meara,
+
+so I thought it was useful for him to come in next week
+
+to address some of those land use changes
+
+before we start diving into the physics of greenhouse gas emissions.
+
+We also started to think about some of the changes in the climate system
+
+that might be elicited by the changes in the Earth system,
+
+and they were mostly environmental.
+
+There were some obvious ones like changes in global average temperatures,
+
+but also things like changing ocean circulation patterns,
+
+global greening, changing the hydrological cycle,
+
+which ultimately have a range of impacts.
+
+When we talk about impacts, we can either think about those impacts
+
+as global aggregate impacts,
+
+or we can start to think about them as how they influence our day-to-day lives.
+
+In the UK that might not be massive,
+
+but for certain parts of the world and certain communities,
+
+some of those impacts could be really quite important
+
+in terms of their daily lives, habits and how they make a living.
+
+So things like localised flooding and fishery
+
+is something that we'll dive into in more detail in later parts of the course.
+
+So this should hopefully encapsulate what we learnt last week,
+
+which is a lot of the changes we are seeing now are human-driven,
+
+largely by the key greenhouse gases that are long-lived,
+
+once emitting into the atmosphere.
+
+There's other forces that Simon will talk to you about next week,
+
+and that has important implications for different projections
+
+of what things might look like into the future.
+
+So moving on to this week's course,
+
+by the end of this week you should be able to tell us what natural variability
+
+of climate is,
+
+and start to think about the differences between the natural variability
+
+that we learned about this week,
+
+and the human influence changes to the climate system that we are seeing today.
+
+We're going to cover four main causes of natural variability,
+
+and that ranges from changes in the solar output,
+
+which also covers how the earth interacts with the sun through different orbital
+
+changes.
+
+We'll also cover volcanoes and different changes in ocean circulation patterns.
+
+So this was a figure that I showed you last week
+
+to show you that the climate through global temperatures
+
+has changed quite rapidly and cyclically over the last million years.
+
+You have strong periods of warming,
+
+followed by consistent strong periods of cooling.
+
+And we picked up last week that this is quite cyclical in nature,
+
+and hopefully by the end of this week you'll be able to tell me why that is.
+
+But largely these processes dictate the global energy flows.
+
+One of the primary ones that we're going to be talking about today
+
+is the incoming solar radiation that can either be modulated through variations
+
+in the sun's output,
+
+or through interactions or changes in their interactions
+
+of how the earth interacts with the sun in terms of its orbit.
+
+But ultimately the natural variations can be driven by a range of factors
+
+that are shown in this global energy flow diagram,
+
+all the way down from formation of clouds, ocean circulation,
+
+and downwind radiation through greenhouse gases.
+
+And one of the key drivers of natural variation
+
+are changes either to the earth-sun system or alterations through solar output
+
+changes.
+
+Variations in the sun-earth systems can lead to seasonal variations,
+
+they can lead to prolonged periods of cooler or warmer climates,
+
+and they can lead to variation in daylight hours.
+
+Solar output changes can also lead to changes in atmospheric chemistry
+
+in terms of the incoming wavelengths and their distribution across the surface
+
+of the earth.
+
+They can lead to decadal heating cycles and prolonged period of cooler or warmer
+
+periods,
+
+both of which we will touch on today.
+
+So the key question of what we're going to answer today
+
+is what drives our natural variability
+
+and how does that manifest through the global average temperatures
+
+over the last million years or so.
+
+The first one we're going to look at is orbital variation,
+
+second one solar variability,
+
+third volcanic activity,
+
+and fourth ocean circulation.
+
+So in terms of the earth-sun system changes,
+
+these are driven by cycles that were identified by an astrophysicist in the
+
+1920s,
+
+and named after him they were called the Melancholic cycles.
+
+There are three Melancholic cycles,
+
+one is eccentricity,
+
+second is obliquity,
+
+third is procession.
+
+I'm going to go through each one of these in detail,
+
+ultimately these three cycles are happening at the same time
+
+and act to modulate the distribution and amount of incoming solar radiation.
+
+They can both affect seasons,
+
+into annual seasons,
+
+and they can affect the total incoming solar radiation as well.
+
+As these three cycles are interacting with one another,
+
+at certain points in our history,
+
+these cycle movements can induce as much as a 25% change
+
+in incoming solar radiation across an annual cycle,
+
+and it also changes the distribution of incoming solar radiation.
+
+So hopefully already you can start to see that this 25% change
+
+in incoming solar radiation can have massive impacts
+
+on our global incident radiation,
+
+and therefore the temperature of our Earth.
+
+So, Melancholic was a serving astrophysicist,
+
+and he studied the effects of solar radiation on the effects of ice age.
+
+All of his work was purely theoretical at the time,
+
+but he started to build up pictures using his astrophysicist background
+
+to understand that there are three changes in orbital variations
+
+that I've listed, but are eccentricity, procession and obliquity.
+
+What you'll hopefully notice from the figures is that these happen
+
+over incredibly long time periods.
+
+So these are not happening over the last couple of hundred years.
+
+These are changes that exist and are operating over tens to hundreds of
+
+thousands of years.
+
+Some of these cyclical variations can combine at the same time
+
+and therefore could be responsible for major changes in the incoming solar
+
+radiation,
+
+both as an annual average, but also as a hemispheric effect also.
+
+So, eccentricity refers to the shape of the Earth's orbit around the Sun.
+
+It can either be relatively circular, or it can be more elliptical.
+
+These orbits vary cyclically over time,
+
+and these changes can operate over tens of thousands of years up to hundreds of
+
+thousands of years.
+
+And are primarily driven by other large planets like Jupiter and Saturn and the
+
+gravitational pull of them.
+
+So, big changes in our orbits which can elicit the change,
+
+the average distance to the Sun across an entire year.
+
+So we have a video hopefully that will work here,
+
+which is going to show how that orbit might change over a course of around a
+
+hundred thousand years.
+
+And that will change the distance of the Earth to the Sun quite considerably as
+
+an annual average.
+
+So you can see how that moves and is modulated by the gravitational pull of
+
+Jupiter and Saturn.
+
+When the Earth's orbit is at its most elliptic,
+
+around 23% or 25% of incoming solar radiation reaches our at the closest
+
+approach.
+
+The minimum and maximum eccentricities vary over about a hundred thousand years,
+
+but given that they operate over such long time periods,
+
+they're not responsible for the changes that we've seen rapidly over the last
+
+hundred years or so, which I showed you last week.
+
+The second Milankovitch cycle is obliquity.
+
+Obliquity refers to the tilt of the Earth's axis relative to its orbital plane
+
+around its Sun.
+
+That axis is not fixed in time.
+
+It can vary between 22.1 degrees and 24.5 degrees,
+
+over a cycle that lasts around 41,000 years.
+
+Unlike eccentricity, obliquity does not impact the global incoming solar
+
+radiation,
+
+but instead it affects the distribution of the incoming solar radiation across
+
+the planet.
+
+So it effectively increases or decreases seasonal contrasts.
+
+So again, there's a video which isn't particularly exciting,
+
+but it shows you how the axis can wobble over a period of around 41,000 years.
+
+Ultimately, the greater the tilt, the greater the difference between seasons,
+
+and as that angle decreases, there's less of a difference between seasons.
+
+And this just reiterates that the obliquity does not modulate the incoming solar
+
+radiation
+
+as a total across the surface of the Earth,
+
+but it does impact seasonal cycles in the northern and southern hemispheres.
+
+This is not so much influenced by the gravitational pulls of Jupiter and Saturn,
+
+but it's more by gravitational pulls between the Earth and the Moon that drives
+
+this change.
+
+Procession is the third Milankovitch cycle.
+
+Procession refers to the gradual wobble of the Earth's rotational axis over
+
+time.
+
+So you can imagine the spinning top falling down, and you can see that wobble as
+
+it goes down.
+
+This procession operates over a period of around 26,000 years,
+
+and is similar in the effect of obliquity,
+
+and it does not impact the total amount of incoming solar radiation,
+
+it impacts the seasonal distribution of incoming solar radiation.
+
+So, again, this influences the timing of the Earth's seasons
+
+and the distribution of solar radiation across different latitudes.
+
+So you can see that spinning and wobbling down over time.
+
+And what's important to know is that these three Milankovitch cycles are all
+
+operating simultaneously,
+
+so they can either counterbalance or exacerbate the effect in terms of incoming
+
+solar radiation.
+
+And again, this just shows that there's differences in variability as a result
+
+of this.
+
+So this was all fairly theoretical in the 1920s,
+
+and Milankovitch developed this mathematical model,
+
+which showed how these three different cycles will interact with one another
+
+to modulate the amount of incoming solar radiation and the distribution across
+
+the surface of the Earth.
+
+And essentially, he built a sort of climate time machine,
+
+which allowed different cycles and different relationships between cycles to be
+
+explored
+
+and correlated with the instance of Ice Age.
+
+He suggested from his early calculations that Ice Ages appeared every 40,000
+
+years or so,
+
+but there was no existing data to support some of that work in its initial
+
+stages.
+
+So this was all very theoretical at the time.
+
+So these sort of cycles were initially overlooked from climate scientists,
+
+but the first study to verify these cycles was Hayes' study in the late 70s,
+
+which used icicle data for the first time and allowed extrapolation back in time
+
+using icicle data of CO2 records, temperature records, methane records,
+
+to verify these Milankovitch cycles and the influence that it has on the Earth
+
+system.
+
+So up until the ability to use icicle data to backtrace both global temperature
+
+records and global CO2 records,
+
+it wasn't until then that these theories gained any recognition.
+
+So that covers changes in the Earth-Sun system, but how does the Sun change
+
+itself?
+
+So through its lifetime, the Sun, relatively recently we've established that the
+
+Sun naturally goes through changes in energy output,
+
+and this happens on very quick time scales, on the order of minutes,
+
+but typically we think about this as a fairly regular 11-year cycles,
+
+where we have periods of high solar output followed by much lower periods.
+
+During the Sun's strong cycles, the solar maximum is about 0.1% brighter than
+
+its solar minimum.
+
+What is this driven by?
+
+Sunspots develop through the polarity swapping in the Sun, and that happens over
+
+a 22-year magnetic cycle.
+
+During this pole switch, there's a prevention of the hot core to the surface,
+
+which produces sunspots which appear darker than the surface around it.
+
+So what are sunspots?
+
+Sunspots are regions of the Sun where the magnetic field is very strong, and it
+
+blocks the heat flow to the surface.
+
+As a result, you see these sort of black spots on the Sun, which can be observed
+
+through telescopes.
+
+That has been done since around the 1600s, and these are some early drawings
+
+using telescopes of the Sun and the appearance of sunspots in 1613.
+
+Up until relatively recently, it was assumed that when there was a large
+
+occurrence of sunspots, that the solar output was reduced.
+
+But in fact, using satellite data, more recently we've established that when
+
+there's increased sunspots, there is increased solar energy and solar output
+
+from the Sun.
+
+So there's all types of solar energy that we will learn about in week four are
+
+modulated by this cycle.
+
+So this varies both the total output, but also the wavelengths that output as
+
+well.
+
+And this figure here shows the daily solar, incoming solar radiation over
+
+different Sun cycles.
+
+So we started measuring this using satellites in the late 70s, and you can see
+
+how that repeatable 11-year cycle has been seen through to today.
+
+What you will also notice is that on top of these 11-year cycles, there is also
+
+very sharp, quick modulations in the output.
+
+But typically we think about having a period of high solar irradiance in periods
+
+like here, moving to a low period here.
+
+So we would have high sunspot activity here and lower here.
+
+What does this mean in terms of the climate effects? More incoming radiation
+
+leads to warming, hopefully that's fairly obvious.
+
+There's increases of absorption of gases at particular wavelengths again leads
+
+to warming.
+
+And it also leads to increased stratospheric ozone production as a result of the
+
+increased UV radiation, which again warms the stratosphere.
+
+Using telescopes, we now have details of the sunspot observations over the last
+
+400 years, and these have been pieced together here.
+
+What you can see, hopefully, from 1750 is very repeatable 11-year cycles, which
+
+are very obvious.
+
+But before that, there was a period from more than the minimum where sunspots
+
+became completely absent.
+
+This also overlaps somewhat with the Little Ice Age, although the occurrence of
+
+the Little Ice Age is still disputed to this day.
+
+How can we relate sunspot activity from 1600s to calculated solar irradiance?
+
+Well, we now have four decades of overlapping solar irradiance measurements from
+
+satellites, and we also have the backdated sunspot data.
+
+So we can back-calculate now the watts per square meter emitted that hits the
+
+Earth from over the last 400 years or so.
+
+And what you can see is this period of the more than the minimum where sunspots
+
+became completely absent.
+
+But we are now at a modern maximum of 1950, and over the period of warming we've
+
+seen over the last 50 years, the solar output change has been relatively stable
+
+within that 11-year cycle.
+
+So can changes in solar output be related to the warming that I showed you last
+
+week?
+
+Ultimately, the answer is no.
+
+So we can see the total solar irradiance over the last 400 years combined with
+
+temperature records from around 1900s.
+
+And what you can see is that there's no correlation with the increase in
+
+temperature that we've seen on the surface of the troposphere with total solar
+
+irradiance over the last 100 years or so.
+
+If we compare to the pre-industrial, the IPCC reckon that it's around 1% of the
+
+total warming can be attributed to changes in solar output.
+
+So it's making a very, very small change to the warming that we're seeing today.
+
+So hopefully we can start to put together a feeling for how natural variability
+
+might be compared to that of what we're seeing today.
+
+This just reiterates this, this is a more recent plot which shows the solar
+
+irradiance over the last 150 years or so, and the global average temperature
+
+change.
+
+And what you can see, particularly over the last 50 years or so, there's been a
+
+net reduction in solar irradiance, but a very clear positive trend in the global
+
+temperature.
+
+And this is really sort of the smoking gun that shows that it is not changes in
+
+solar output that is responsible for the climate change we're seeing today.
+
+It's also true that our stratosphere, which is the upper part of the atmosphere,
+
+is currently cooling.
+
+If the Sun, or indeed interactions between the Sun and the Earth through
+
+different Langford cycles, were responsible for the change we're seeing in the
+
+troposphere today, you would expect linear rises with the stratosphere.
+
+So you would expect the stratosphere to be warming at the same rate as the
+
+troposphere should it be either the Langford cycle or the Sun that is promoting
+
+the change that we're seeing today.
+
+That isn't true because the stratosphere is currently cooling and the
+
+troposphere is warming rapidly.
+
+And that's also sort of backed up by this IPCC figure which shows the, which is
+
+a variation of the one that I introduced you to last week, which shows the
+
+change in effective radiative forcing from the pre-industrial to today.
+
+You can see that the major drivers of the climate change and the positive
+
+radiative forcing is through long-lived greenhouse gases, which is somewhat
+
+offset by the presence of aerosols in the atmosphere.
+
+But at the bottom here you can see that the solar, the effect of solar output
+
+changes either modulated by the Sun itself or through interactions of the Sun
+
+-Earth system is not responsible for the change that we're seeing today.
+
+At most one percent is the estimate.
+
+So, hopefully that gives a clear picture of how orbital variations and the solar
+
+output might impact climate.
+
+The third one we're going to talk about today is volcanic activity.
+
+So I guess the question is what do volcanoes have to do with climate change?
+
+Typically the first thought is volcanoes emit CO2 and so could they be
+
+contributing to warming that we're seeing today?
+
+Volcanoes do indeed emit CO2, but if we compare that to the total anthropogenic
+
+inputs of carbon into our system, it's at most one percent of total carbon that
+
+is being inputted.
+
+So it has a very minor effect in terms of greenhouse gas emissions.
+
+You'd need very, very, very large eruptions, some of the largest eruptions that
+
+we've seen in the last couple thousand years to happen every day effectively to
+
+have a measurable effect on climate.
+
+So volcanoes are not an important source of greenhouse gases into the
+
+atmosphere, but we are interested in volcanoes through their cooling effects.
+
+Why do volcanoes have cooling effects in terms of our climate system?
+
+They emit large amounts of sulfur dioxide into the atmosphere, particularly
+
+large eruptions which emit gases straight into the stratosphere.
+
+You'd have to have a very explosive volcano for that to happen.
+
+Sulfur dioxide is rapidly oxidized once it's emitted into the atmosphere and
+
+that turns into sulfuric acid.
+
+That sulfuric acid can then form sulfate aerosol.
+
+Sulfate aerosols are white, they are bright, and if they are emitted into the
+
+stratosphere they can last in the stratosphere for a couple of years.
+
+Because they are white, bright aerosols that can last if in the stratosphere for
+
+a couple of years, they can scatter and absorb a significant amount of incoming
+
+solar radiation.
+
+So for that reason volcanoes can be important in terms of their cooling
+
+properties if they are large enough to emit sulfur dioxide into the
+
+stratosphere.
+
+What can be the impacts of very large eruptions?
+
+Global average temperatures can be affected, as can ocean temperatures, which I
+
+will show you, and hemispheric impacts can also be greater than the global
+
+aggregate impacts as well.
+
+So we're really interested in their cooling effects from a global climate change
+
+perspective.
+
+This shows the mechanisms in which the sulfate aerosol can interact and
+
+influence climate.
+
+The most important one is this scattering of incoming solar radiation back to
+
+space.
+
+So these bright white aerosols can have a significant impact on the amount of
+
+solar radiation that passes through the atmosphere and hits the surface.
+
+So if we have a lot of sulfate aerosols, that cooling effect can be quite
+
+significant.
+
+In the troposphere, sulfate aerosols can also act to seed brighter and more long
+
+-lived clouds, as you can see here.
+
+So more polluted clouds with sulfate aerosols, which acts as cloud conversation
+
+nuclei, can make brighter clouds, which reflect more incoming solar radiation.
+
+And they live longer, so those clouds remain for longer when concentrations of
+
+sulfate aerosol is higher.
+
+And that ultimately leads, again, to more reflection of incoming solar radiation
+
+back to space.
+
+So these are the two indirect and direct mechanisms in which aerosols can cool
+
+the planet.
+
+This is summarized by this figure here, where we have a significant amount of
+
+sulfur dioxide being emitted directly from volcanoes.
+
+You can see that sulfur dioxide is readily oxidized to sulfuric acid, which can
+
+then form sulfate aerosol,
+
+which then has the effects I've just described.
+
+Yes, there is some CO2 being emitted into the atmosphere, but that has a
+
+relatively small effect compared to the anthropogenic emissions of CO2, as we
+
+see today.
+
+How do we know that volcanoes have an effect?
+
+This is a figure that I showed you last week, which shows modeling studies in
+
+red with anthropogenic radiative forcing,
+
+and the blue shows the model impacts without radiative forcing.
+
+So this is effectively what is the climate doing without any anthropogenic force
+
+or human-induced changes.
+
+So you can see over the last 120 years or so, there have been four or five major
+
+volcanic eruptions.
+
+The largest was Mount Pinatubu.
+
+But you can see all modeling studies agree that there is considerable cooling
+
+effect following a large eruption as a result of the sulfate aerosol that is
+
+produced.
+
+You can see that that has a measurable reduction in global average temperatures
+
+on the order of a few tenths of degrees.
+
+And you can also see that that has an effect for around one or two years,
+
+which is how long some of these aerosols might stick around in the stratosphere
+
+if they make it up there.
+
+So just looking at the natural changes modeled gives you a good idea of their
+
+effect.
+
+But you can also start to look at the observations and you can see measurable
+
+changes in the observations as well following each large eruption.
+
+It's not just global average surface temperatures that are affected.
+
+It's also the temperatures of the oceans that can be affected as well.
+
+And this shows data over the last 70 years across the global ocean, the Atlantic
+
+Ocean, the Pacific Ocean and the Indian Ocean,
+
+all showing measurable effects in surface temperatures as a result of volcanic
+
+eruptions over the last 70 years or so.
+
+This is still up for the debate.
+
+So we know pretty well the effect of large eruptions, but we know there are 50
+
+to 70 volcanic eruptions per year.
+
+And some friends in Cambridge University have found that the cooling effects of
+
+volcanic eruptions,
+
+these small magnitude consistent volcanic eruptions, are likely underestimated
+
+in global models.
+
+So this is still an active area of research and one that needs to be understood.
+
+The last natural variability that we're going to talk about today is ocean
+
+circulation.
+
+And the dominant ocean circulation phenomenon that we're going to talk about is
+
+the El Nino Southern Oscillation,
+
+which is often called the Enzo Cycle.
+
+This is a large scale sort of coherent fluctuations of temperature rainfall both
+
+in the ocean and in the atmosphere that's driven by changes in trade winds.
+
+I've got a video that hopefully describes that shortly.
+
+It's incredibly important because it has the ability to affect global average
+
+temperatures,
+
+even though it's just happening in the Pacific Ocean, it can have a significant
+
+impact on global average temperatures,
+
+which is why it's very important to study.
+
+This is very much a coupled ocean atmosphere process,
+
+and it was one that was not readily captured in climate models until relatively
+
+recently.
+
+The reason for that is that climate models typically used to have,
+
+there was an atmospheric model, there was an ocean model, there was a chemistry
+
+model,
+
+and all of these models would not interact with one another.
+
+And that was largely due to the complexity of some of these models.
+
+Relatively recently there's been a coupler that's been developed that allows
+
+these models to be built and overlapped with one another.
+
+So you can see a change in the ocean, what does that mean for atmospheric
+
+emissions?
+
+Those sorts of questions can now be answered.
+
+And that shows hopefully the importance of coupling different processes and
+
+different systems to get a better understanding of what is happening
+
+holistically.
+
+So the ENSO cycle is a recurring pattern that happens over three to seven years,
+
+and it can elicit changes in the ocean from anywhere from one to four or five
+
+degrees, depending on where you are.
+
+This is an oscillating cooling and warming pattern.
+
+El Nino is the extreme phase of the warming, and La Nina is the extreme phase of
+
+cooling.
+
+So you can cycle between these, and these are, you hit a period of extreme
+
+warming followed by an extreme cooling.
+
+And you can see the global average temperature change as a result of the El
+
+Nino.
+
+You can see just how much of the oceans that this covers.
+
+During El Nino you can see a warming of anywhere up to three or four degrees,
+
+and during La Nina you can see cooling of anywhere between three to four
+
+degrees.
+
+So these are big changes, and the reason for that is shown in this video here.
+
+I did want to test this before I started the lecture, but I'm not sure that this
+
+is going to work.
+
+Every few years the El Nino phenomenon kicks into life in the Pacific Ocean
+
+around the equator.
+
+It can affect weather around the world, changing the odds of floods, drought,
+
+heat waves, and cold seasons for different regions, even raising global
+
+temperatures.
+
+But what is El Nino, and how does it happen?
+
+Firstly we need to know what's normally happening in the tropical Pacific.
+
+This vast stretch of ocean sees consistent winds, called trade winds, that blow
+
+from east to west.
+
+These winds push warm water near the surface in their direction of travel,
+
+so the warm water tiles up on the western side of the ocean around Asia and
+
+Australasia.
+
+On the other side of the ocean, around South and Central America, as the warmer
+
+water gets pushed away from the coast,
+
+it's replaced by cold water which is pulled up from deeper down in the ocean, a
+
+process called upwelling.
+
+This creates a temperature difference across the tropical Pacific, with warmer
+
+water piled up in the west, and cooler water in the east.
+
+Warmer water adds extra heat to the air, which causes the air to rise with more
+
+vigor,
+
+and it's this rising air that creates an area of more unsettled weather, with
+
+more cloud and rainfall.
+
+That rising air in the west sets up atmospheric circulation across this part of
+
+the world,
+
+with warm moist air rising on one side of the ocean and cooler, drier air
+
+descending on the other.
+
+This circulation reinforces the easterly winds, so this part of the world sits
+
+in a self-perpetuating state until El Nino begins.
+
+If conditions are right, tropical Pacific weather systems, or slow changes in
+
+the ocean around the equator,
+
+can set off a chain of events which weaken or even reverse the usual trade
+
+winds.
+
+With weakened trade winds, there's less push of warm surface water to the
+
+western side of the ocean,
+
+and less upwelling of cold water on the eastern side.
+
+This allows the usually colder parts of the ocean to warm, cancelling out the
+
+normal temperature difference.
+
+Because the area of warmest water moves, so does the associated wet and
+
+unsettled weather.
+
+This changes rainfall patterns over the equatorial Pacific, as well as the large
+
+-scale wind patterns.
+
+It's this change in winds which has a knock-on effect, changing temperature and
+
+rainfall in locations around the world.
+
+The main impacts are around the tropics, where you see an increase in the risk
+
+of floods in Peru,
+
+and droughts in Indonesia, India and parts of Brazil.
+
+But virtually wherever you are in the world, El Nino has the potential to affect
+
+you directly via the weather,
+
+or indirectly via socio-economic impacts.
+
+There's another impact from El Nino which happens because of all the extra heat
+
+at the surface of the tropical Pacific.
+
+This releases vast amounts of energy into the atmosphere, which can temporarily
+
+push up global temperatures.
+
+This is why El Nino years often feature among the warmest on record.
+
+Each El Nino event is different, so the global impacts can change.
+
+You can find out more about the different impacts of El Nino on our website.
+
+El Nino peaks around Christmas time and lasts for several months.
+
+It can die back to neutral conditions, but sometimes reverses into La Niña.
+
+This is the flipside of the oscillation which sees a strengthening of the normal
+
+trade winds.
+
+This pushes the warmest water to the far western part of the tropical Pacific,
+
+and increases the upwelling of cold water in the east.
+
+This cooler water extends out from the coast of the Americas towards the central
+
+part of the ocean.
+
+La Niña also impacts global weather, and tends to have opposite effects to El
+
+Nino.
+
+Okay, so that should be embedded in the PowerPoint that is on canvas,
+
+so if you want to watch that again, the link is on there also.
+
+So this sort of gives a description of both El Nino and La Niña,
+
+and why it's going to be important both for local emissions, but also for global
+
+aggregate temperatures.
+
+This ENSO cycle is mapped through the Southern Ocean Oscillation Index, or the
+
+SOI,
+
+and this essentially maps pressure differentials between Tahiti and Darwin.
+
+And it does that with a distributed network of sensors across the Pacific Ocean.
+
+We'll talk more about this in week five when we look at the observational
+
+evidence,
+
+but this really shows that a distributed network of different types of sensors
+
+are required to understand different processes that are happening in the climate
+
+system.
+
+You need static sensors giving real-time information that's perhaps less
+
+detailed
+
+than you might be able to achieve on something like an observing ship
+
+which regularly operates out of this area.
+
+The video talked about temperature changes,
+
+but what we were particularly interested in is how these temperature changes
+
+might change emissions from the ocean.
+
+So the ocean emits a whole range of compounds that are going to be important
+
+atmospherically,
+
+and we're interested in how in a warming environment those emissions might
+
+change.
+
+These distributed networks of sensors can be used to build up a picture
+
+of what the Southern Ocean Oscillation Index has looked like since the early
+
+50s,
+
+and you can see it's a relatively repeatable pattern that occurs over periods of
+
+three to seven years.
+
+It's relatively repeatable, and for that reason we can target different periods
+
+of El Niño,
+
+during the warming periods, to understand how our ocean emissions might change
+
+in a warming future environment.
+
+One way of doing that is with the ship wall measurements, which I showed in the
+
+previous slide,
+
+but the other way of doing that is using the atmospheric research aircraft that
+
+I introduced last week.
+
+This allows us to track and understand processes and make measurements over the
+
+ocean
+
+in a way that isn't possible with existing equipment.
+
+This allows us to understand how different emissions from the oceans might
+
+change into the future,
+
+and one of the main findings was that different halogen species that are emitted
+
+from the ocean
+
+are going to increase into the future, and ultimately this will impact chop,
+
+stroke, ozone formation.
+
+That's more relevant to the third year course that I teach,
+
+but in terms of today, the impact of Enzo on the global surface temperature
+
+when overlaid with the SOI becomes really quite obvious.
+
+You can see prolonged periods of warming, if I pick different parts out,
+
+that correlate very nicely with extended El Niño cycles.
+
+This shows measurable changes as a result of this El Niño cycles
+
+and the effect that this has on global average temperatures.
+
+We've reached the hour perfectly.
+
+The key points of natural variability is that there are four main drivers of
+
+natural variability
+
+that are going to be important to understand and take in throughout the course.
+
+They are changes in solar variability, changes in orbital variations,
+
+changes in volcanic activity and ocean circulation.
+
+One of the important things to think about is the time scales on which they
+
+operate.
+
+The orbital variations that we talked about happen over tens of thousands of
+
+years.
+
+Solar variability changes can happen on the order of 10 to 11 years.
+
+Volcanic activity is clearly not one you can predict,
+
+but ocean circulation and different patterns are.
+
+The workshop will start to think about how we map the different natural
+
+variations
+
+to this picture of estimated global average temperature over the last million
+
+years,
+
+and hopefully you should get a good feel for what might be driving those
+
+changes.
+
+In terms of the lecture summary, I'll let you read that in your own time,
+
+and as always as promised, there's some example exam questions to supplement
+
+what is asked in the workshop.
+
+Next week is a slight change to the programming that Simon will be teaching you
+
+next week
+
+on the anthropogenic impacts of climate change,
+
+which will start to feed in to some of the discussions we've had today.
+
+As always, please feel free to use this Mentor Meets link as much as you like.
+
+It's an anonymous way to provide feedback, ask questions,
+
+and with that I will thank you for the lecture today.
+
+So, what happens now?
+
+You should also, you should, within the lecture material that I've uploaded
+
+to Canvas, be able to see a series of questions that look like this.
+
+The idea of the next hour is you can stick around and work through these
+
+questions as a group.
+
+I will do my best to filter around the room.
+
+I will upload the answers to the questions, which will look like this,
+
+throughout and towards the end of the lecture.
+
+So, anything that you see that is purple is an answer to a question that hasn't
+
+been uploaded yet,
+
+and the questions that you have been provided should help you with your revision
+
+and your understanding of the lecture.
+
+Are there any questions?
+
+Yes.

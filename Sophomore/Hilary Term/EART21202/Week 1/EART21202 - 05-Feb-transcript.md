@@ -1,0 +1,1839 @@
+---
+title: "EART21202 - 05-Feb-transcript"
+source: "Sophomore/Hilary Term/EART21202/Week 1/EART21202 - 05-Feb-transcript.txt"
+type: transcript
+---
+
+'EART21202 - 05-Feb', automated transcript
+03/08/2026
+---
+
+Maybe a bit too much to start with, but first thing I'll say is apologies for
+
+the seating.
+
+I was promised that this was going to be all right.
+
+I think we've just about worked it out for today.
+
+Keep an eye on your timetables because this might need to be resolved for next
+
+week,
+
+so please keep an eye on your timetables, and if there's changes in rooms,
+
+what I'll do is I'll email you on Canvas just to make sure that you're aware of
+
+any change that might.
+
+Sorry to the guys that are just arriving.
+
+We're short on seats, I'm afraid.
+
+This will be an hour's lecture, so please feel free to make yourself as
+
+comfortable as possible.
+
+I apologize. This is not ideal, so I'm sorry.
+
+Well, welcome to Climate Change.
+
+I hope it'll be a little bit more organized than this throughout the course.
+
+Today is really to give you an introduction and a feel for the sorts of things
+
+that we'll be covering through the entire lecture series.
+
+There are 11 contact weeks.
+
+This will just be an introductory lecture, but most lectures are going to be a
+
+lecture
+
+followed by a workshop element, and we're going to have to work out how to do
+
+that,
+
+given the numbers in the seating, but that's for me to worry about this week.
+
+So really today is just to give you a feel for what to expect over the next 11
+
+weeks together.
+
+I'm going to give you an idea of what to expect from the lectures, the
+
+workshops,
+
+the course expectations, and the assessments in the first couple of minutes.
+
+All of this information is on Canvas, but I think it's useful to reiterate in
+
+person
+
+in case you guys have any questions.
+
+I'm going to give a lecture that I'll try and keep brief, given that people are
+
+sitting down
+
+on the floor, overview of the key concepts of some of the things that we're
+
+going to be talking about
+
+in global climate change and how this might link to some important policy
+
+decisions moving forward.
+
+And then I'll be around for the remainder of the time.
+
+So if you've got any questions, I'll be around.
+
+So it's probably first right to introduce myself.
+
+So I'm Tom Bannon. I'm a senior lecturer in the Environmental Science
+
+Department.
+
+I did an Environmental Science degree here at Manchester.
+
+So I took this lecture course when I was a student.
+
+At the time, it was taught by this guy, Carl Percival, who's now at JPL and
+
+NASA.
+
+But at the end of the course, he said, who wants to turn up for a third year
+
+project?
+
+So I took my hand up and ended up doing my third year dissertation with Carl,
+
+who was the group lead at the time.
+
+Carl was really interested in field work measurements of air quality and
+
+atmospheric composition.
+
+And I was two at the time.
+
+So I did my third year dissertation with him in the lab.
+
+That went well. I got on well with Carl.
+
+And he invited me to do a PhD with him, which started in 2012.
+
+Most of my PhD was working on this research aircraft.
+
+So we spent a lot of time flying around, trying to understand different
+
+atmospheric processes,
+
+how greenhouse gas emissions change in different parts of the world.
+
+And I sort of followed on that work after my PhD here
+
+and had an academic position here for the last couple of years.
+
+So if that sort of is interesting to any of you guys,
+
+I'm really happy to work out and have a chat about how I transition from the
+
+course
+
+that a lot of you guys are doing to a research career.
+
+I'm always happy to chat about that.
+
+Half my day job is teaching. The other half is research.
+
+And we continue to work on the atmospheric research aircraft,
+
+trying to track sort of important processes within different parts of the world.
+
+The aircraft gives us a really unique capability to obviously assess different
+
+parts of the atmosphere,
+
+but areas which are difficult to get to on land, like ocean emissions and things
+
+like that.
+
+So we spend a lot of time on the aircraft making measurements
+
+of some of the greenhouse gases that we're going to be talking about in this
+
+course.
+
+I'm really interested in not just climate change.
+
+I'm sorry for those just arriving.
+
+I'm going to try and keep this as brief as possible. So sorry.
+
+So as well as climate change and measuring things like greenhouse gases and
+
+aerosols,
+
+which affect climate significantly,
+
+we're also interested in understanding the impacts of the air that we breathe
+
+and how it impacts our health.
+
+So we're doing that for a number of projects here at the moment in Manchester,
+
+which basically looks like going into real people's homes,
+
+particularly pregnant women and people with cystic fibrosis.
+
+So we can understand how their exposure either during pregnancy or through their
+
+life
+
+affects either birth outcomes or their exacerbations through cystic fibrosis.
+
+As we push towards net zero, which is something we'll talk about extensively
+
+through this course,
+
+housing conditions are going to change significantly.
+
+That's something that we're addressing through this future homes project,
+
+which is essentially test houses built in controlled environment warehouses.
+
+As we move to net zero, houses are going to be more airtight to try and keep the
+
+heat in.
+
+What that also does is keep air pollution inside as well.
+
+So all the personal care products, cooking emissions, cleaning emissions,
+
+all of that essentially gets trapped inside a home.
+
+So as we move towards net zero, we need to think about better housing.
+
+We also need to think about the impact that that might have on indoor air
+
+quality.
+
+So these are the sorts of projects that we work on and I'm working on in the
+
+department now,
+
+and many of which relate closely to this Global Climate Change course,
+
+but also the Atmospheric Composition course that I teach in the third year.
+
+So very happy to chat about any of these outside of lectures as well.
+
+So what should you guys expect over the next 11 weeks together?
+
+This course is sort of taught in two blocks.
+
+The first five weeks are really about natural climate change
+
+and the effect that we're now having on our climate and how we look to
+
+understand that.
+
+There's a mid-semester test on the 10th of March, which I'll cover in the next
+
+couple of slides.
+
+And then after the mid-semester test, we move into the second block of teaching,
+
+which starts to look at predictions of climate into the future
+
+and what we might start to think about doing to reduce...
+
+Hi, sorry, we're short on seats, sorry.
+
+What we might start doing in future climates where we know we're moving to a
+
+much warmer climate.
+
+What are the sorts of adaptations or mitigations we might want to put in place?
+
+So weeks one to five are really thinking about what's happened in the past and
+
+what's happening now.
+
+And the second component of the course is really thinking about what might
+
+happen into the future
+
+and how we should react to the changes that we've seen.
+
+The other thing I'll say is this is the first year that I've fully taken this
+
+course.
+
+So the guy that took this course previously, Professor Martin Gallagher, he's
+
+just retired.
+
+So this is the first year I've taken this course in its entirety.
+
+So every single slide you see in this course will be brand new.
+
+So I do welcome sort of comments, questions, anything that isn't particularly
+
+clear.
+
+All of this is new, so please feel free to make either positive or negative
+
+comments about things
+
+so that I can improve it through the course rather than just waiting till the
+
+end.
+
+So please feel free to use this Mentimeter link.
+
+I will show it every class. It's on the slides that you have.
+
+And all of the comments, questions, and feedback is all anonymous, so please do
+
+feel free to use that.
+
+I will be giving the vast majority of the lectures, but we will have a guest
+
+lecture in week four, Simon O'Meara.
+
+He works for the National Centre for Atmospheric Science,
+
+and he leads a whole range of work in the anthropogenic climate change space.
+
+So it sort of makes sense for him to continue to give that lecture, as he has
+
+done in the past with Martin.
+
+So in week four it will be Simon, but I'll be teaching you guys the remainder.
+
+In terms of the assessment, the important bit I guess, it will be split into two
+
+elements.
+
+The first is the mid-semester test, which accounts for 30% of your total mark.
+
+It always goes wrong here, but you have to turn up in person to complete this
+
+test.
+
+It's an online Canvas test, but it will be done in exam conditions, so it's not
+
+something you can do from home.
+
+So please do mark that in your diaries as a date you need to be around for.
+
+That should be reflected in your timetable. If it is not, please tell me, and I
+
+will do something about it.
+
+So the Canvas test is 25 multiple choice questions, and the summer final exam is
+
+longer answer questions.
+
+I think there's five questions that are longer answer, but we'll talk loads more
+
+about that in detail.
+
+The examination format has remained the same over the last couple of years, so
+
+past exam papers are going to be useful.
+
+Any questions, I'm the person to come to.
+
+So I'll go through this again in week five, and all of this information is
+
+available on Canvas,
+
+but it's important to reiterate that you guys do need to turn up for the test,
+
+even though it's an online multiple choice exam.
+
+Tenth of March at two o'clock, and the rooms are listed there, so if your
+
+allocation isn't right,
+
+or it isn't reflected in your timetable, please do shout, and I'll sort that out
+
+with timetabling.
+
+The test will start at two o'clock on the dot, so please do turn up early, but
+
+as I say, it's a bit early to be talking about this,
+
+but please do note the 10th of March in your diaries.
+
+As I said, this feedback link is very much welcome to be used as a discussion
+
+page set up on Canvas already,
+
+so that can, any changes to the course material that I make, probably very small
+
+ones throughout the course,
+
+will be uploaded to the discussion page, but that also gives you the opportunity
+
+to ask questions that are visible to the entire cohort.
+
+So either feel free to use the Mentimeter link, or use the discussion Canvas
+
+page as much as you wish.
+
+Generally, we will have an hour lecture followed by an hour workshop.
+
+We'll have to work out how we do the workshop given the seating arrangements,
+
+but I'll work that out during the next week and let you guys know if there's
+
+going to be any changes.
+
+There'll be a little break in the middle, just grab a coffee, and there'll be
+
+workshop with exam style questions.
+
+So really, this is about getting you ready for the final exam,
+
+giving you a feel for the sorts of questions that I might ask in the final exam.
+
+This is all here to help you, essentially.
+
+You'll see this on Canvas.
+
+This is what you ultimately see on Canvas. Each week, there'll be a description.
+
+You can see all of the descriptions for each week already.
+
+A couple of days before the lecture, I will upload the workshop material and the
+
+lecture material.
+
+And then just preceding the workshop, I'll upload the workshop answers and the
+
+lecture summary.
+
+So that should give you a nice, clear, organized approach to both your learning
+
+during the lectures, but also your revision as well.
+
+The other thing that I do in my lectures is I always try and give you example
+
+questions that I could ask in the exam.
+
+And this gives you sort of a targeted approach to your revision rather than a
+
+more scattergun approach.
+
+So this should help you guide your revision practices.
+
+I will always give you the answers to the workshop questions, but I won't
+
+necessarily give you the answers to these questions.
+
+You'll end up with about 250 questions that you could be asking the exam by the
+
+end of it.
+
+But these are really here just to guide your revision and really to help you.
+
+So you don't need to be able to answer every one of them.
+
+But if you can answer most of them with a fair level of detail, you'll do very
+
+well in the final exam.
+
+The reading list is available through the Canvas site, but it's basically based
+
+around the IPCC reports.
+
+The IPCC is a collection of world-leading climate scientists that come together
+
+to deliver on three different work packages.
+
+One being the physical science basis.
+
+The second work package is impacts, adaptation, and identifies particularly
+
+vulnerable groups who might be particularly vulnerable to a specific impact of
+
+climate change.
+
+And then the third is mitigation of climate change.
+
+How should we mitigate and what decisions should we make now so that we don't
+
+cause as many problems?
+
+This is broken down into three reports, the full report, the technical summary,
+
+and the summary for policymakers.
+
+Probably the most relevant one for you guys is the technical summary.
+
+You don't need all of the detail for the full report.
+
+The summary for policymakers is very much a layperson's report, which might help
+
+your understanding in places.
+
+But the technical summary gives them a nice overview of the key concepts that
+
+we're going to be addressing throughout the course.
+
+They're available through the IPCC website or available through Canvas,
+
+whichever YouTube.
+
+OK, so that's really the basis of this course.
+
+Before I move on to the lecture material for today, are there any questions
+
+about the course itself?
+
+No? OK, cool.
+
+So today is really to give you an idea of the sorts of themes that we'll address
+
+throughout the course.
+
+So if you don't understand a particular aspect fully yet, don't worry.
+
+Hopefully we'll develop your understanding throughout the course and our weeks
+
+together.
+
+By the end of this week, hopefully you'll be able to understand some of the
+
+climate change basics.
+
+I believe you guys might have an understanding of this already to a certain
+
+level.
+
+But hopefully you'll be able to explain some of the key concepts of climate
+
+change, including the role of greenhouse gases,
+
+aerosols and the impact that we're having on our climate today and might have
+
+into the future.
+
+There's a range of climate change impacts that go outside just the environmental
+
+impacts, so we start to think about those.
+
+And you've probably guessed from my research that the information I gave you on
+
+my research activities,
+
+I'm really interested in sort of the interplay between air quality, climate
+
+change and health.
+
+So that will be a theme throughout the course, but we'll start to develop that
+
+today.
+
+This gives a sort of relatively nice overview of what we're going to be talking
+
+about today.
+
+Climate has varied naturally and will continue to vary naturally.
+
+And we have evidence to suggest that over the last million.
+
+But we know now that there's a range of human activities that are having
+
+significant impacts
+
+that's leading to unprecedented rates of change at this time.
+
+Some of those human activities are releasing of greenhouse gases, which
+
+hopefully you'll know already,
+
+carbon dioxide, methane, N2O and others.
+
+And there's a range of other short-lived climate forcing agents, that's the
+
+SLCF,
+
+other land use change and albedo changes that have been driven by our
+
+activities.
+
+We're going to focus on the greenhouse gas elements today and the other elements
+
+on this figure.
+
+Here will be really covered in week four by Simon.
+
+The emissions figure and the concentrations figures that you can see here
+
+give concentration and emission pathways for methane and CO2,
+
+both over the last 50 years, but what that might look like into the future.
+
+So you can see measurements and concentrations of CO2 since the 1950s have
+
+steadily increased
+
+and are rapidly increasing today.
+
+And ultimately, depending on the decisions that we make,
+
+the decisions dictate which colour path we will take through to 2100.
+
+So if we continue to emit as we are today, the concentrations of CO2 will reach
+
+very scary levels
+
+of 100 ppm by 2100 and that will have detrimental effects on our climate and
+
+earth system.
+
+But if we take a much more stringent and aggressive emission route,
+
+we might follow this blue line at which point CO2 emissions become negative by
+
+2100.
+
+And we're going to talk about the role of negative emission technologies a
+
+little bit today,
+
+but more towards the end of the course.
+
+But ultimately, the decisions that we make now have important influences
+
+on which way radiative forcing will go through to 2100
+
+and ultimately the global warming that we will see through to 2100.
+
+So if we continue to act and emit as we are today,
+
+future predictions could mean a global average temperature change of anywhere up
+
+to 7 degrees C,
+
+which would have significant impacts on the earth system.
+
+So ultimately, this is something that we need to do something about
+
+and how we do that will be addressed throughout this course.
+
+Depending on which path we take, the temperature rises
+
+and the impacts will be very different and to different magnitude.
+
+But really that's how this figure sort of calculates how I've sort of decided to
+
+design this course.
+
+We're going to start first with natural variability next week.
+
+I think it's important to understand how the climate would change naturally
+
+without our impacts
+
+before we can start thinking about how we are adding to that effect today.
+
+We're going to talk about some of the physical basis of climate change,
+
+including why greenhouse gases are important in terms of global warming
+
+and the physical properties behind that.
+
+And the thing that I do on a day-to-day basis is build measurements,
+
+and we're going to look at that in week five before we start to think about
+
+what we could do about it and how we might adapt to the climate change
+
+that we've already committed to later in the course.
+
+But ultimately, this is all underpinned by different areas of fundamental
+
+science,
+
+one being fieldwork measurements, the other being laboratory studies,
+
+and the other atmospheric modeling.
+
+In this course, we're really going to focus on the fieldwork aspect and the
+
+atmospheric modeling aspect,
+
+but that's not to say that laboratory studies aren't an important component of
+
+this.
+
+Fieldwork studies are about going out and getting measurements,
+
+and that can be either measurements of what's happening now
+
+or through using either climate proxies or ice core data,
+
+we can start to build up a picture of what happened in the past.
+
+Fieldwork studies and atmospheric modeling work together.
+
+If models recreate either the composition of the atmosphere, the impacts,
+
+or the environment very well compared to the measurements,
+
+you've got a good idea that you understand the processes that are eliciting that
+
+change.
+
+If fieldwork studies and modeling studies start to disagree,
+
+you need to start to look at the processes within that model.
+
+So a lot of the work that we do in the atmospheric science department
+
+is working with atmospheric modelers to verify models today
+
+so that they can accurately predict into the future.
+
+And ultimately, that allows us to make good decisions.
+
+So with good models, good predictions,
+
+we can better understand the impacts under different emission scenarios
+
+so that we can make good decisions today
+
+and ultimately move to a more sustainable environment.
+
+As I say, there is a significant amount of natural variability in climate,
+
+and this shows the estimated average global temperature over the last million
+
+years.
+
+What you can see, hopefully, from this figure,
+
+is that dating back to a million years ago,
+
+the climate has varied significantly with prolonged periods of warming
+
+followed by prolonged periods of cooling.
+
+The estimated average global temperature can reach anywhere as warm as 15
+
+or anywhere as cool as 9.
+
+That doesn't sound like a big range, but that elicits a big response.
+
+The other thing that you should be able to pull out from this figure
+
+is it looks fairly cyclic in nature.
+
+It looks like it goes through periods of cooling and warming
+
+on a couple of hundred thousand years rotation.
+
+So in weeks two and weeks five, we'll better understand
+
+what's driving this cyclic nature here within the natural system.
+
+But we're now in a place where the IPCC recommend
+
+that we limit global warming to 1.5 and no more than 2 degrees C.
+
+Looking back to that natural variability,
+
+I guess that 1.5 degrees doesn't sound like much,
+
+but we're going to build an understanding of why the IPCC
+
+have landed at this 1.5 degree limit
+
+or target for global average temperature increases
+
+relative to pre-industrial temperatures.
+
+But we're already starting to breach that.
+
+This is a news article from last year,
+
+but we're now consistently in a place where these limits are being approached
+
+and in some cases breached.
+
+I guess the question is why 1.5 degrees C?
+
+So a quote from the IPCC report is that there's been increased trends
+
+in intensity and frequency of some climate and weather extremes
+
+that have been detected over spans of only 0.5 degrees of warming.
+
+So even over 0.5 degrees of warming,
+
+we're measuring statistically significant increases
+
+in climate and weather extremes.
+
+The other thing to say is that climate models predict robust differences
+
+than if we go for a 1 degree warming compared to a 2 degree warming.
+
+So there will be measurable increases in impacts
+
+as a result of just that 0.5 degree additional increase.
+
+So for this reason, the IPCC have come together
+
+to say this 1.5 to 2 degree limit is one that we should be striving for.
+
+And to give you an idea of what that's looked like
+
+over a relatively small global average increase over 0.5 degrees,
+
+wildfires is a clear example of that.
+
+We saw really devastating fires across LA last year,
+
+which have a big environmental impact,
+
+but of course has a big economic impact as well.
+
+So we won't just be thinking about the environmental aspects of this in this
+
+course,
+
+we'll also be thinking about what the impacts are
+
+on things like livelihoods and economic impacts.
+
+But what this figure shows is that the area burned,
+
+and this is in the scale of million acres,
+
+has almost been multiplied by 5 over a relatively short time period.
+
+This of course has devastating impacts,
+
+both environmentally and economically.
+
+And the key drivers of this are warmer springs,
+
+longer summer dry seasons,
+
+and of course increased temperature and increased drought
+
+in certain parts of the world.
+
+So this is a very obvious example of how our climate has changed
+
+over a relatively short time period,
+
+and indeed the impacts that that has had.
+
+We're going to be thinking about more of that in week 6.
+
+So looking at the natural variability of global average estimated temperature
+
+over the last million years,
+
+again 1.5 degrees C doesn't sound like much,
+
+but the most recent ice age was 20,000 years ago.
+
+On average, the world is about 5 degrees cooler than it is today.
+
+But even with that relatively small average temperature change,
+
+Canada and parts of Northern Europe were completely covered with ice,
+
+and sea levels were around 120 metres lower than they are today.
+
+So these have really significant impacts on the Earth system.
+
+And going back to what I was saying about the IPCC
+
+in terms of the level of additional risk,
+
+you can see that as you start to approach 2 degrees C,
+
+the level of additional risk due to climate change
+
+for both local and global outcomes goes from high to very high.
+
+So we are seeing a measurable change in impacts as a result of that.
+
+As I say, this interplay between climate change, air quality and health
+
+is one that I'm particularly interested in.
+
+Using the wildfire examples as we move to increase severity and frequency
+
+of wildfires, particularly around urban regions,
+
+we know that wildfires emit a whole range of pollutants
+
+like particulate matter, black carbon, NOx
+
+and a range of a whole suite of other pollutants
+
+that we know to be detrimental to our health.
+
+We know that particulate matter affects our respiratory health
+
+and cardiovascular disease
+
+and can even have an impact on pre-time birth.
+
+So the interplay between increased severity of wildfires
+
+and air quality and health is one that's very obvious.
+
+And we can give examples for that for the energy industry,
+
+the transport industry, housing, which I'll give an example of at the start.
+
+So these are things that we can think about rather than individually.
+
+We should start to be thinking about these as one and the same thing.
+
+And there's also benefits in tackling climate change and air qualities together
+
+as you start to think about reducing emissions of carbon dioxide, for example,
+
+from vehicles or industry.
+
+You might also be reducing things like nitrogen oxide,
+
+which are important from an air quality perspective.
+
+So the thought of tackling these two things together can be very important.
+
+So what are the key drivers of the climate change that we see today?
+
+This is going to be a very important figure for this course.
+
+So we're going to spend a bit of time going through it.
+
+This might be something that you've seen before,
+
+but it essentially gives you the radiative forcing terms.
+
+And the definition of radiative forcing is the change in radiation balance
+
+at the tropopause between the incoming solar radiation and the outgoing solar
+
+radiation.
+
+So it's the balance between what's going in versus out.
+
+An example of a positive radiative forcing is as greenhouse gases have
+
+increased,
+
+those greenhouse gases have reduced the amount of outgoing long wave radiation
+
+leaving the troposphere and that therefore leads to warming
+
+and is therefore seen as a positive radiative forcing.
+
+So anything we see on this positive radiative forcing is leading to warming.
+
+So what you can pull out from this straight away is that CO2 is the major driver
+
+of the warming and radiative forcing that we're seeing today.
+
+That's followed by methane, N2O and a range of them.
+
+These are long-lived once they're emitted into the atmosphere.
+
+So many decades once emitted.
+
+So they stick around for long periods of time.
+
+They're very unreactive once emitted into the atmosphere.
+
+So they're very long-lived once emitted and have a large warming effect.
+
+Ozone is a complicated one.
+
+There's good and bad ozone effectively.
+
+There's good ozone in the stratosphere that blocks the incoming UV radiation.
+
+There's bad ozone in the troposphere, which is the lowest level of the
+
+atmosphere
+
+because tropospheric ozone is a greenhouse gas and therefore leads to warming.
+
+But it's also respiratory irritant and it reduces crop yields.
+
+So we need to think about different types of ozone and where it is situated
+
+and the effect that it might have in those locations.
+
+Not all of the anthropogenic things that we're doing are leading to warming.
+
+You'll notice down here there's the total aerosol effect.
+
+So aerosols are solid and liquid particles that are suspended in the air
+
+and they have important air quality implications
+
+because breathing in high concentrations of aerosol is not good for you.
+
+But they offset some of the warming that we're seeing from greenhouse gases.
+
+So you can see that the direct effect of aerosols,
+
+which is the scattering and reflecting of incoming solar radiation,
+
+or the indirect effect, which is the cloud albedo effect,
+
+both have significant warming properties within our atmosphere.
+
+So there's a balance to be struck here, right?
+
+We know that aerosols are detrimental to our health,
+
+but they're also limiting some of the warming that we're seeing today.
+
+The other thing that you should take away,
+
+well there's lots of things you should take away from this figure,
+
+but one of the things you can additionally take away from this figure
+
+is understanding the error associated with the radiative forcing.
+
+You can see that the radiative forcing from CO2,
+
+the error associated with that is relatively small
+
+compared to the cloud albedo effect.
+
+So that necessitates that a large amount of research is put into place,
+
+both nationally and globally,
+
+to better understand the cloud albedo effect
+
+and how that might vary into the future
+
+and indeed how we might be able to manipulate that ourselves.
+
+The RF values, I'm not going to ask you to ever remember these RF values,
+
+but I will expect you to understand and rank the radiative forcing effects.
+
+So you will need to know, for example,
+
+that CO2 is the largest radiative forcing followed by methane,
+
+but I won't ever ask you to report these radiative forcing values.
+
+The LOSU is the level of scientific understanding,
+
+so you can see that we are very confident in our understanding
+
+of the effect of long-lived greenhouse gases.
+
+But as we move to the cloud albedo effect,
+
+as scientists we're less sure of the error effects,
+
+so that necessitates research into understanding this problem in more detail.
+
+We'll come back to this figure lots throughout the course.
+
+Ultimately these radiative forcings are impacting the global energy flows
+
+and how they're distributed throughout the Earth system.
+
+So we have a relatively set amount of incoming solar radiation,
+
+that does vary and we'll talk about that next week.
+
+Some of that incoming solar radiation is reflected by the clouds in the
+
+atmosphere,
+
+and obviously that's dictated by the amount, thickness, brightness of clouds.
+
+Some of that incoming solar radiation is reflected by the surface,
+
+which is directly impacted by the surface albedo,
+
+which we are modifying through our activities in real time.
+
+And some of that incoming solar radiation is absorbed by the surface.
+
+The surface, the Earth, also emits radiation,
+
+and it does so in the longer wavelength in the infrareds,
+
+and that is shown here where we have surface radiation.
+
+Some of that outgoing infrared radiation interacts with greenhouse gases
+
+and leads to this downwelling radiation,
+
+and that's the principle in which global warming,
+
+and that dictates ultimately how much energy is leading through the tropics.
+
+So just to break that down in a little bit more detail,
+
+we have visible and UV radiation coming in from the Sun.
+
+Most of that solar radiation passes into the atmosphere
+
+and is absorbed by the surface.
+
+Some of that is reflected by clouds and gases,
+
+and the Earth emits longwave radiation in the form of infrared,
+
+and those infrared radiations can be absorbed
+
+and then re-emitted by greenhouse gases,
+
+which is dictated by the concentration of those greenhouse gases,
+
+which ultimately leads to surface warming.
+
+We're going to spend a lot of time in week three
+
+understanding this in more detail,
+
+including why the Sun emits shortwave radiation
+
+and the Earth emits longwave radiation
+
+and why greenhouse gases interact with that longwave radiation
+
+to lead to warming.
+
+So lots of detail to come on that.
+
+A lot of our understanding of both past natural variation,
+
+the change that we're eliciting now and might elicit into the future,
+
+is underpinned by measurements particularly of greenhouse gases
+
+and particularly of temperature.
+
+We've had direct measurements of both, but only relatively recently,
+
+so we need to rely on ice core data and climate proxies
+
+to date back both the temperature record and greenhouse gas record,
+
+and we can do that really quite effectively.
+
+Obviously, as you go back in time,
+
+the accuracy and the precision of those measurements becomes reduced,
+
+but we do a relatively good job with ice core data
+
+to backtrack what's happened in the past.
+
+There's a number of sites that are critical to this.
+
+The Muna Loa site and the South Pole Atmospheric Research Observatory
+
+are basically background sites.
+
+The site in Hawaii is situated, I think, at 11,000 foot,
+
+so it's not near any anthropogenic sources of greenhouse gases,
+
+so it can be used as a baseline of what's happening across the world
+
+in a really unique way,
+
+and these sites have provided baseline measurements since 1958,
+
+and ice core data can now be used to retrieve data both of temperature records,
+
+because we can look at the oxygen isotopes, which is dictated by temperature,
+
+or we can use the ice bubble data to retrieve CO2 from a particular time point.
+
+You can see the stratification of the ice core,
+
+and you can see here there's probably been some sort of volcanic eruption here
+
+at this time,
+
+and that can be used then to date key processes at set times in our past,
+
+and as I say, that dates back now, I think, as far as 800,000 years, which is...
+
+We do a range of laboratory studies to understand basically the lifetimes of
+
+greenhouse gases,
+
+so how are greenhouse gases interacting with other pollutants once they're
+
+emitted into the atmosphere,
+
+and as I say, field work measurements both on the atmospheric research aircraft,
+
+but also long-term ground-based studies are vital to understanding the processes
+
+and emissions in different parts of the world.
+
+The aircraft is vital to surveying different questions in different regions.
+
+An example of this is flights that we did in East Africa.
+
+One of the outstanding questions in climate science is why we're seeing an
+
+increase in methane concentrations now.
+
+That's a sort of unanswered question in our field,
+
+but one particular area of interest is the possibility of wetland emissions
+
+contributing more methane than is thought.
+
+So the aircraft becomes really useful when surveying.
+
+You can see there's a wetland region. We can start to survey different emissions
+
+from different areas in fairly unique ways.
+
+OK, so hopefully you know some of this already,
+
+but our atmosphere is a really complicated soup of gas and particle phase
+
+pollutants.
+
+Some of these are greenhouse gases, and some of these are thought about from an
+
+air quality perspective.
+
+But essentially, our atmosphere is mostly made up of nitrogen, around 80%.
+
+The remaining proportions made up of oxygen, argon, and the fourth most abundant
+
+trace gas in the atmosphere is CO2, around 400 parts per million.
+
+Breaking that down in a little bit more detail,
+
+trace gases are really the ones that are driving the climate change that we're
+
+seeing today
+
+and create a load of the air quality issues that we also see, particularly in
+
+urban centres, but also in indoor environments.
+
+These pollutants make up much, much, much less than 0.1% of the earth's
+
+atmosphere,
+
+yet they have profound impacts on our climate and on our air quality.
+
+And trace gases, there's many hundreds of thousands of trace gases in the
+
+atmosphere,
+
+but the most abundant ones under that 0.1% limit is carbon dioxide,
+
+and then we move to things like methane, helium and nitrous oxide, which have
+
+important air quality implications.
+
+We're going to talk a lot about different concentrations and different emissions
+
+of different gas and particle phase species throughout this course,
+
+so it's important to understand the units in which they will be communicated.
+
+For particulates, we typically report aerosol concentrations in micrograms per
+
+metre cubed,
+
+and for gases, we typically report them in either parts per million, parts per
+
+billion or parts per trillion.
+
+Micrograms per cubic metre are essentially how much mass is in one cubic metre
+
+of air,
+
+and that's typically reported in one millionth of a gram.
+
+Or you can report gas phase species in parts per million,
+
+which is the unit mass of gases pollutant per one million or one billion or one
+
+billion.
+
+Typically for carbon dioxide, we think about parts per million.
+
+Typically for methane, we would think about parts per billion.
+
+And what we'll see, and what we've seen over the last 150 years,
+
+is really dramatic rises in these key greenhouse gases in our atmosphere.
+
+You can see the concentrations of CO2 have rose from 280 parts per million from
+
+pre-industrial times,
+
+to somewhere around 420 today.
+
+We've seen similar rises in methane and similar rises in N2O.
+
+On this figure here, you can see both dots and straight lines.
+
+The straight lines represent real-time observations, and the dots represent
+
+icicle data.
+
+Clearly, we've only had real-time measurements of CO2 and methane over the last
+
+maybe 60 or 70 years,
+
+but we do have icicle data, of course, that can be extracted
+
+and used to build up a picture of what has happened since the Industrial
+
+Revolution.
+
+Despite being able to continually measure these greenhouse gases using online
+
+measurement techniques,
+
+we have continued to extract icicle data,
+
+and you'll notice that the dots perfectly align the real-time observations,
+
+which gives you some confidence in starting to go back in time using these sorts
+
+of methods.
+
+If there was disagreements between the icicle data and real-time observations,
+
+there would be less trusting of the icicle data, but actually it looks like it
+
+does a pretty good job.
+
+I guess the question is where do these increases and concentrations come from,
+
+and hopefully that's relatively obvious.
+
+For CO2, you can see the global emissions in gigatons of carbon per year,
+
+and you can see, particularly since the 1950s, we've seen really big jumps in
+
+greenhouse gas emissions,
+
+which are responsible for the increasing global concentrations that we're seeing
+
+today.
+
+And that is also coincident with the global average temperature rise.
+
+You can see that, particularly since the 1950s, you've seen a steady positive
+
+increase
+
+in globally average combined land, ocean, and sea temperatures relative to the
+
+pre-industrial.
+
+That isn't always true, right? You can see this hump in temperature here from
+
+1920 and then the leavening off,
+
+but this sort of shows the complexity of the Earth system
+
+and how the ocean and air might interact with these processes a little bit
+
+differently,
+
+but we'll come onto that in more detail throughout the course.
+
+How do we know that the climate change we are seeing today is not just natural
+
+variability?
+
+One way of answering that question is to run global climate models
+
+with and without the anthropogenic relative forcing factors.
+
+So a typical protocol would be to run a global climate model without the
+
+relative forcing factors
+
+and see how that aligns with the observations, and you can see that here.
+
+The small thin blue lines are 35 different climate models that are run,
+
+and the dark blue line is the aggregate of those models.
+
+The black line is the observations of globally averaged temperature,
+
+and what you can see is that from 1960, the models with no anthropogenic
+
+relative forcing
+
+start to disagree quite heavily with the observations.
+
+So that gives you a fairly clear picture that the climate change we're seeing
+
+today
+
+is not just driven by natural changes.
+
+You can then rerun those same models with change in enforcing, such as the
+
+greenhouse gas effect,
+
+and then we can start to see that the model starts to agree very nicely with
+
+what has been observed today.
+
+Because those models do a relatively good job at what we call hindcasting,
+
+so predicting what has happened in the future, that allows us to then compare
+
+with the observations.
+
+As they compare relatively well, that gives us some confidence to start
+
+extrapolating out into the future
+
+under different emission scenarios, which is an important part of the work that
+
+we do.
+
+When you're thinking about global average temperature, it hides some of the
+
+detail,
+
+so it's better to look at spatially distributed temperature change,
+
+and that's exactly what this figure does here.
+
+So you can see the temperature change in the last 50 years,
+
+and what you can see is that there's much greater temperature increases over
+
+land
+
+and in the northern hemisphere than over the ocean.
+
+So this starts to give you an idea of where the impacts might be felt most
+
+strongly.
+
+So it's important just not to look at the globally average temperature,
+
+it's also to understand the spatial distribution of the effects as well.
+
+And this modelling figure represents what I've just shown in the previous
+
+slides,
+
+where models were run without the anthropogenic radiative forcing effects in
+
+blue here,
+
+they were rerun with both natural and anthropogenic forcings in purple,
+
+and then the observations are in black,
+
+and you can see the globally average temperature change is much more significant
+
+over land than it is over ocean.
+
+So these are the sorts of things that are really important
+
+when we start to make decisions about what we should do about it.
+
+Clearly we're in a period of sort of unprecedented change,
+
+since 1880 you can see the temperature anonymity
+
+and how that has developed over time with this relatively simple plot,
+
+and we've seen some of the warmest years in the last hundred and very recently.
+
+And essentially what this looks like is we're shifting this distribution of
+
+temperatures
+
+from the current climate, as you can see in this bell curve here,
+
+and by moving the average temperature to warmer conditions,
+
+not only are we shifting the average temperature to the right,
+
+we're also moving to a world where there's more extreme hot temperature,
+
+and that has huge impacts on our health,
+
+but also things like agriculture, crop yields,
+
+which are going to be particularly important for communities
+
+who rely on those as a source of income or even a source of food for themselves.
+
+So this can become a really big problem for different communities around the
+
+world.
+
+It's not just temperature that's important,
+
+we're also going to start to think about the cryosphere and sea ice extent.
+
+As you can see in the Arctic, the sea ice extent has reduced quite significantly
+
+and the speed of reduction has increased over the last 30 to 40 years.
+
+What's interesting is that in the Antarctic we haven't seen that sea ice extent
+
+loss,
+
+so this starts to show you some of the complexity,
+
+if not just thinking about it as a global aggregate system,
+
+we need to start thinking about global climate change and its impacts more
+
+locally as well.
+
+The reason why we think the Antarctic has remained stable
+
+is because of change in precipitation patterns in the Antarctic,
+
+slightly increased rainfall has led to that sea ice extent remaining relatively
+
+constant.
+
+Snow in glaciers have reduced significantly
+
+and that's led to significant ice losses,
+
+particularly in glaciers but also in other parts of the world as well.
+
+That of course has impacts on ocean sea levels,
+
+I think the ocean sea levels are riding around 3 mm per year currently,
+
+but you've seen global average sea level rise fairly consistently
+
+and fairly steadily over the last 100 years or so.
+
+I guess the question is where that's come from,
+
+around 50% of that comes from the sea ice loss that I showed on the previous
+
+slide.
+
+Due to thermal expansion, warm water expands
+
+and that accounts for 40% of the elevated sea level that we've seen
+
+and around 10% from land water storage.
+
+If you want to think about these in more detail,
+
+the AR5 report gives a full breakdown of each component.
+
+It's not just the sea level that we're interested in,
+
+it's also the composition of the sea level that we're also interested in.
+
+So as CO2 concentrations have risen,
+
+the ocean has uptaken more CO2
+
+which leads to the production of carbonic acids
+
+and therefore reduces the pH of the ocean.
+
+This can play a key role in changing various biological systems
+
+but can also have big impacts on communities that rely on
+
+either fishing or tourism for their primary source of income.
+
+So again, this is thinking about the disproportionate effects
+
+that climate change impacts might have on different groups of people
+
+and not just thinking about it as a whole.
+
+Not all indicators of global climate change are particularly clear-cut
+
+and precipitation is an example of that.
+
+You can see on this figure here that some areas
+
+have seen a slight increase in precipitation
+
+and other areas have seen a decrease.
+
+It's also true that areas that are perhaps less well able to cope
+
+with reduced rainfall have also seen reduced rainfall for those areas.
+
+So again, this is about having real impacts for real people in real time.
+
+Again, this observed change in annual precipitation
+
+hides some of the detail that's important to understand
+
+because it's not just the average annual rainfall we're interested in,
+
+it's also how often it rains and how much it rains on those days.
+
+So the precipitation intensity has increased
+
+and will increase through to 2100 but so will the number of dry days.
+
+So essentially we're moving to an area, a world where
+
+particularly certain parts of the area will see much fewer wet days
+
+but when it does rain it will have heavier
+
+and that is clearly not ideal for people growing food for example.
+
+So thinking about the detail behind some of these globally average
+
+indicators is going to be very important.
+
+And there's some interesting feedbacks to think about in here.
+
+So as we move to periods of increased temperature,
+
+air can hold more water vapour and that can lead to a more intense hydrological
+
+system.
+
+That can ultimately have two effects.
+
+One, it can lead to more evaporation and more droughts.
+
+Two, it can lead to more water within storms and more extreme precipitation.
+
+As we saw in that last figure, those two are not mutually exclusive
+
+so it means that you can have prolonged periods of drought
+
+and then in the same location have extended
+
+and more extreme precipitation events when it does in fact rain.
+
+Which in combination with sea level rise can increase flooding
+
+which is going to be particularly important for coastal regions for example.
+
+As a final indicator of climate change we're also thinking about extreme weather
+
+events.
+
+So like the figure that I showed at the start with increased wildfire severity
+
+and prevalence
+
+droughts, flooding, landslides, storms have all increased
+
+and over the last 40-50 years we've seen a fivefold increase in those numbers.
+
+This is data collected by the World Meteorological Organisation.
+
+They don't associate a reason for this, they're just reporting the data
+
+but the IPCC start to attribute this to climate change through their reports.
+
+So we thought a little bit about natural variability
+
+but what is happening today and what might happen into the future.
+
+This gives a nice feel for whether we're in an unprecedented point of change
+
+and the answer is yes.
+
+So you can see a reconstructed temperature profile over the last 2,000 years
+
+up to 1850 which is when CO2 concentrations started to rise significantly
+
+and you can see both the rate and the absolute temperature are unique in the
+
+last 2,000 years
+
+and are probably unique in the last 100,000 years.
+
+So this is a period that is unique in our...
+
+and this is also coincident with the concentration of CO2.
+
+Using ice core data we can look at the last 800,000 years of CO2 data
+
+and you can see that on average you see this cyclic nature
+
+which is also reflected in the temperature record
+
+but never before has the concentration of CO2 gone above 300 parts per million.
+
+It did so in 1950 and you can see essentially from this very horizontal line
+
+that the rate of change of CO2 concentration is unique in our history.
+
+So the combination of observed temperature rise and increasing greenhouse gases
+
+is a little bit of a smoking gun as to the changes that we're seeing today.
+
+This gives a nice figure of the drivers, the impacts or the drivers,
+
+the changes to the climate system and the impacts.
+
+I won't go into this in any detail but the drivers as hopefully you know now
+
+are the impacts of greenhouse gases.
+
+The changes to the climate system can be diverse.
+
+Environmentally the obvious ones are warmer land surface temperatures, warmer
+
+oceans
+
+but there's also more obscure ones like more extreme weather
+
+and ocean acidification to consider.
+
+And that starts to have some quite wide-ranging impacts
+
+that can be felt both globally and on a person-to-person basis.
+
+We'll develop that more in week eight.
+
+And I guess the question is where are we going
+
+and what might this look like into 2100?
+
+And there's a range of different model outputs which will give slightly
+
+different answers
+
+but ultimately if we don't introduce any climate policy and continue as we are
+
+today
+
+we will see at least a four or five degree rise in global average temperatures.
+
+With the current policies that we have in play
+
+we will see a 2.8 to 3.2 degrees C
+
+which hopefully you realise is more than what the IPCC suggests we should be
+
+aiming for.
+
+Current pledges and targets are currently not enough to hit the IPCC targets.
+
+In order to do that we need to implement aggressive mitigation strategies
+
+to reduce climate change in our system.
+
+And to get to 1.5 degrees C by 2100
+
+what you'll notice is looking at the y-axis
+
+we will need to go into negative emissions of carbon to get to that target.
+
+What that means is we need to develop technologies quickly and rapidly
+
+that can be used at scale to remove carbon from our atmosphere.
+
+Those don't yet exist at the scale required to be useful
+
+so we're really hedging our bets that these are going to be developed.
+
+But we're going to look at what this might look like into the future in more
+
+detail.
+
+But given that we are going to need to do some quite extreme things
+
+to mitigate our climate change moving forward
+
+we are now at a point where humans are starting to have real conversations about
+
+geo-engineering
+
+and modifying their climate through different strategies.
+
+This can range from carbon capture storage
+
+and modification of clouds to increase their lifetime
+
+or their brightness to increase reflectivity.
+
+So there's all sorts of things on the table to start that can be either sensible
+
+or not sensible
+
+depending on who you speak to.
+
+But some of these are identified in the Lawrence et al 2018 paper.
+
+But we'll talk about this more in week 10.
+
+But this is definitely something that's on people's minds
+
+and people are actively working on this.
+
+So I've really rushed through that because I'm very conscious that people are
+
+sitting on the floor at the back.
+
+So apologies to you guys at the back.
+
+But hopefully that gives you a feel for the sorts of things that we're going to
+
+be covering throughout the course.
+
+We know that we're driving a lot of change
+
+and we need to think about what we're moving on to the future.
+
+Hopefully you can start to think about checking your understanding
+
+relative to the intended learning outcomes.
+
+These are the questions I could ask you in an exam.
+
+Let's see if you can answer them.
+
+If you can't answer them yet, don't worry.
+
+Next week we're going to be starting to think about natural climate variability.
+
+What is driving the changes that I've seen over the last million years?
+
+Please use this feedback session and thank you.
+
+Next week we will have an hour lecture followed by an hour workshop.
+
+Particularly for the guys at the back, I'm sorry.
+
+I will try and get this sorted for you moving forward.
+
+So thank you. I'll be here for questions.

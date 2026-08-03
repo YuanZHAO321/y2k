@@ -1,0 +1,1451 @@
+---
+title: "EART22201 - 13-Oct-transcript"
+source: "Sophomore/Michaelmas Term/EART22201/Lecture/Week 2/EART22201 - 13-Oct-transcript.txt"
+type: transcript
+---
+
+'EART22201 - 13-Oct', automated transcript
+03/08/2026
+---
+
+The first thing that I want to do is just to point out to you on Canvas where
+
+you can
+
+find some solutions and feedback to last week's practical.
+
+Hopefully you found this already, but the solutions are in the Module 1 folder,
+
+so if
+
+you want to go back over last week's work and check your understanding, that's
+
+all
+
+in there.
+
+This week's practical solutions will be available in the Module 2 folder after
+
+the practical
+
+is finished.
+
+I also just wanted to take this opportunity to give you a flag on what the
+
+online learning
+
+looks like next week.
+
+So today is probably one of the more mind-bending lectures of the course, don't
+
+panic, it will
+
+be all right, but next week we're going to be building on these first two weeks
+
+and doing
+
+quite a lot of microscopy.
+
+I will use some digital resources to talk you through all of the different rock
+
+-forming
+
+minerals that you're going to be working with over the course of the semester.
+
+So next week's online learning looks pretty intimidating.
+
+You definitely need to watch this pre-learning video 3.
+
+Then, in the Canvas folder, you'll also find a set of videos and online
+
+resources for what's
+
+supposed to function for you as an online mineral atlas, and I'll just open one
+
+of
+
+those and show what it looks like.
+
+There's a short video where I chat about some of the crystallography, optics,
+
+appearance
+
+of the particular mineral, and then a whole bunch of online resources.
+
+You are not expected to work through every single one of these minerals in
+
+preparation
+
+for next week's class.
+
+This is intended to function as a resource that you can pop into and pop out of
+
+over
+
+the course of this whole semester.
+
+If you want to view any of them in advance, that's great.
+
+If you don't get round to it, don't worry, because we'll be going through all of
+
+that
+
+in the class next week.
+
+That make sense to everyone?
+
+Perfect.
+
+Okay.
+
+So this week, the online learning was optics and mineralogy, and you had a
+
+fairly long
+
+video, apologies about that, to work through in advance of this class.
+
+So I introduced the concept of the optical indicatrix and the fact that light
+
+can pass
+
+through minerals at different speeds depending on the orientation that it's
+
+passing through
+
+the crystal lattice.
+
+I imagine that there may be some questions from you about what it is that you're
+
+supposed
+
+to learn from that.
+
+Does anybody have anything that they would like me to go over again or something
+
+that
+
+you didn't understand?
+
+A silence from the room indicates that you've all had a chance to look at it and
+
+you're
+
+pretty happy with your understanding.
+
+So I'll go over some of the edited highlights.
+
+Do stop me if there's something that you want me to go over again.
+
+So the first bit was just reintroducing you to the polarizing light microscope.
+
+It's probably a while since you last looked at these in your first year
+
+practicals, but
+
+you'll have a chance today to do some more work with the polarizing microscope.
+
+But the really important things to notice are that polarized light means the
+
+light is
+
+vibrating in a particular direction.
+
+And there are two polarizers on the microscopes that we use.
+
+All of the light coming into the microscope and passing through the thin section
+
+is polarized
+
+in the east-west direction, and the east-west thing is going to be important
+
+later on.
+
+Then when you put the analyzer in and you look at the thin section under cross
+
+-polarized
+
+light, the analyzer is polarized north-south.
+
+So if you think about putting just a plain glass slide or nothing onto the
+
+stage, light
+
+will be coming in an east-west polarized direction.
+
+If you put the analyzer in and say only north-south vibrating light can pass
+
+through, none of
+
+that will come through and you will see nothing when you look down the optic,
+
+down the oculus.
+
+I then talked about the concept of the refractive index.
+
+Hopefully this is familiar to many of you from GCSE or from A-level.
+
+And how that expresses itself in minerals is this property called relief.
+
+So something that's high relief is a mineral that's got a high refractive index
+
+contrast
+
+with the glue that's sticking the rock to the slide, and it looks like a crystal
+
+that
+
+has dark outlines.
+
+Something that's low relief, the mineral has a very low refractive index
+
+contrast with
+
+the glue, and that means that we can't really see the edges of the crystal.
+
+So here are some examples.
+
+This is a high relief mineral.
+
+You can see clearly the edges of the crystal.
+
+It's got quite a dark outline.
+
+These ones are low relief.
+
+You can't see the crystal edges.
+
+So the way that this refractive index concept kind of works out in conjunction
+
+with the
+
+seven crystal systems that we looked at last week is that light passing through
+
+minerals
+
+also has a symmetry.
+
+We can think about light if it passes through the mineral at the same speed in
+
+all directions
+
+no matter how you orient your crystal, then it's isotropic.
+
+And relatively few minerals have this property.
+
+Most minerals are anisotropic, which means that the speed of the light passing
+
+through
+
+the mineral is different depending on how you arrange it on the slide.
+
+And this gives rise to these concepts of the indicatrix.
+
+So a uniaxial indicatrix is where there are two possible speeds of light, and
+
+the biaxial
+
+indicatrix is where there are three possible speeds of light.
+
+This is the most complicated scenario.
+
+If you can remember that, isotropic is one refractive index, uniaxial is two
+
+refractive
+
+indices, and biaxial is three refractive indices, then you're basically set up
+
+for what we
+
+need to do next.
+
+Much of the rest of this is just an added explanation.
+
+And these fit with our crystal systems in particular ways.
+
+So if you've got a uniaxial indicatrix with these two permitted refractive
+
+indices, that
+
+lines up with our crystal systems that have a high degree of rotational
+
+symmetry.
+
+When you lose that rotational symmetry, then the optical symmetry also starts
+
+disappearing.
+
+And so these lower symmetry crystal classes have lower degrees of optical
+
+symmetry.
+
+Everybody with me so far?
+
+Pretty much.
+
+So then I just talked you through the simplest case of an isotropic mineral
+
+under thin section,
+
+and we can see how that looks.
+
+If we look at a mineral just with plain polarised light, remember the lights
+
+vibrating in an
+
+east-west polarised direction, this mineral looks the same no matter how we
+
+rotate the
+
+stage.
+
+And if we put the analyser in and polarise that light north-south, well now none
+
+of that
+
+light is reaching our eye, the mineral is black no matter how we rotate the
+
+stage, and
+
+this property is called extinction.
+
+So we don't describe this as black, we describe this as extinct.
+
+Happy?
+
+Perfect.
+
+So I think this is where we got to in the online learning.
+
+We're now going to start looking at what happens when we look at anisotropic
+
+minerals in plain
+
+polarised light and then in the cross polarised light.
+
+And I'm going to build this up.
+
+We'll start with the uniaxial mineral where there are two permitted refractive
+
+indices
+
+and then we'll build it up to a more complicated case.
+
+And I'm going to illustrate this using two of my favourite minerals, the first
+
+of which
+
+is tourmaline.
+
+Tourmaline is a uniaxial mineral, so there are two permitted refractive indices.
+
+There's one that runs along the z-axis of the crystal and one that's
+
+perpendicular
+
+to the z-axis of the crystal.
+
+It belongs to the trigonal crystal system, so when we look down this z-axis onto
+
+a cross
+
+section, it's got a sort of triangular shape.
+
+And if we slice it, so that's this optic axis or basal section.
+
+Don't worry about the terminology, but we're basically looking down onto the
+
+plane that's
+
+got very high degree of rotational symmetry.
+
+And if we slice it perpendicular to that, we get the prismatic section.
+
+What you can notice in this section is that as we rotate the stage, we have a
+
+change in
+
+the colour of the mineral.
+
+And this property is called pleochroism.
+
+There's going to be quite a lot of words in this talk, but pleochroism is one of
+
+the
+
+ones that you're going to want to learn.
+
+So why do we get this?
+
+When we are looking down the optic axis or the basal section, we're looking down
+
+onto
+
+a plane where the refractive index is the same in all directions.
+
+And we call this the ordinary ray.
+
+I don't need to remember that particular word, but this is how it works.
+
+So when we look down onto this section, we're taking a slice through the mineral
+
+that has
+
+similar properties to an isotropic mineral.
+
+And that means that we would expect, as we rotate the stage, this should look
+
+the same
+
+in all directions, no matter how we rotate the stage.
+
+And if I go back to this little video here, you can see that as we rotate the
+
+stage, this
+
+doesn't change colour.
+
+It remains the same, no matter what the rotation.
+
+If we look at the prismatic section, the colour that we see then depends on
+
+which one of these
+
+two permitted refractive indices is oriented parallel to the east-west
+
+polariser.
+
+So remember, light is always vibrating in an east-west direction.
+
+So when the light is vibrating in the mineral and the indicatrix or the
+
+refractive indices
+
+are oriented in this arrangement, the light is going to be sampling this
+
+ordinary ray.
+
+So we would expect to see the same colour that we see over here where everything
+
+is
+
+sampling the ordinary ray.
+
+So when this crystal is oriented north-south like this, we're sampling the
+
+ordinary ray
+
+and we're seeing the same colour as in the optic axis or the basal section.
+
+Now if I rotate that by 90 degrees, now I've got the extraordinary refractive
+
+index parallel
+
+to the east-west polariser.
+
+And so the light is going to be sampling the refractive index associated with
+
+that permitted
+
+vibration direction in the crystal.
+
+And that's associated with a different colour.
+
+So how does this look in a real example?
+
+This is a resource called the virtual microscope.
+
+I'll show you a lot more of this next week, but it's a wonderful resource
+
+showing you
+
+the optical properties of various minerals.
+
+So if you keep your eye on this plain polarised light section, what I can do
+
+here is use this
+
+as effectively a microscope and you can see the playochroic colours starting to
+
+pop out
+
+in this tourmaline crystal here.
+
+So if you keep your eye on this area here, you can see that it goes blue.
+
+Oh, this is actually a very good example.
+
+Keep your eye on this area here.
+
+It's going slightly colourless to yellow, to washed out and colourless to
+
+yellow.
+
+And that colour changes at every 90 degree interval and that's because our two
+
+permitted
+
+refractive indices are oriented at 90 degrees to one another.
+
+If we get an intermediate angle, then we ought to see a kind of intermediate
+
+colour.
+
+And you can sort of pick that out in the virtual microscope example.
+
+So that area of the crystal there, it doesn't just go yellow, blue, yellow,
+
+blue, yellow, blue.
+
+The colour changes gradually as we go around.
+
+So again, keep your eye on that.
+
+So what we're always doing is sampling the size of the refractive index that's
+
+oriented
+
+parallel to the east-west polariser.
+
+And we can define this in terms of a playochroic scheme.
+
+So we can say we've got two refractive indices denoted by these two letters and
+
+the ordinary
+
+ray denoted by the letter omega is always going to be associated with this
+
+particular
+
+blue-green colour and the extraordinary ray is always going to be associated
+
+with this
+
+yellow colour.
+
+So we can play this game looking at if we slice the crystal at a slightly odd
+
+angle.
+
+We would again just expect to sample the colour will be associated with the size
+
+of the refractive
+
+index that's oriented parallel to the east-west polariser.
+
+So now we can play exactly the same game with a biaxial mineral where instead of
+
+having
+
+two permitted refractive indices, we have three.
+
+And I'm going to illustrate this with another of my favourite minerals,
+
+ribokite, which
+
+is one that you're probably never going to come across ever again, but I've
+
+picked it
+
+because it's got a particularly beautiful set of playochroic colours.
+
+So it's got three different refractive indices denoted by these three Greek
+
+letters, alpha,
+
+beta and gamma, and each of those is associated with a different playochroic
+
+colour.
+
+And you can see all three of these colours expressed in these thin-section
+
+images.
+
+So how does this actually work?
+
+So this gets complicated because it depends on exactly how you slice through the
+
+mineral.
+
+But take it as read, I can prove this to you if you wish in the practical, but
+
+take it as read
+
+that beta is if you slice the mineral so that you're looking down what's called
+
+the optic
+
+axis, you will always end up with this beta intermediate refractive index.
+
+And there are exactly two ways that you can slice one of these minerals in order
+
+to get this section.
+
+Here we've got a single refractive index, so we'd expect that this slice through
+
+the mineral
+
+would have isotropic properties.
+
+What happens if we slice the mineral perpendicular to one of these three
+
+vibration directions
+
+that are orthogonal to one another?
+
+So imagine that you're looking straight down this alpha axis.
+
+What you're going to be seeing is the plane that's got beta and gamma in it.
+
+And they have these two colours, yellow and dark blue.
+
+And so with the same way that we did with the tourmaline crystal,
+
+when you have a particular vibration direction oriented east-west against the
+
+polariser,
+
+that's the colour that you're going to see.
+
+So when beta is oriented east-west, we'll see yellow.
+
+When gamma is oriented east-west, we'll see dark blue.
+
+And we can play the same game with the other refractive indices.
+
+So if you're looking down beta, you'll be looking onto the plane that contains
+
+alpha and gamma.
+
+And now our section should show playachroism associated with alpha, light blue,
+
+and gamma, the dark blue.
+
+And if you look down gamma, you're going to be looking down onto the plane that
+
+contains alpha and beta,
+
+and we should see those two colours.
+
+So the colour that we see is going to be dependent on how we slice the mineral.
+
+If we slice the mineral at a slightly odd angle to one of these refractive
+
+indices,
+
+then we'll see a slightly intermediate colour.
+
+So again, I can just show you how this looks on the virtual microscope.
+
+I think it's this one.
+
+So here is our crystal of ribokite.
+
+And again, keep your eye on that.
+
+So in this orientation, we've got a slightly yellowy colour.
+
+As I rotate the stage, we go to this very dark inky blue colour.
+
+90 degrees, we go back to the yellow colour, and so on.
+
+But this crystal only shows two of the three colours.
+
+To see the third colour, we're going to need to find a different crystal
+
+that's got the third vibration direction in it.
+
+So here's a slice that's got the right colours.
+
+This one's got the dark blue.
+
+And this one's a very slightly different purpley blue.
+
+The contrast is quite difficult to see here, but these are an inky blue colour
+
+and a slightly more purpley colour.
+
+People don't look particularly convinced, but I can give you this and you can
+
+have a play with it.
+
+So this concept of playachroism is very useful because particular minerals will
+
+show this property
+
+and we can use it to identify them.
+
+A word of caution, not all minerals display this property.
+
+It is possible to have biaxial minerals where all three of those permitted
+
+vibration directions are colourless.
+
+So this property is useful in some minerals and useless in others.
+
+Now what happens when we introduce the analyser?
+
+So we need to think about the optical properties of anisotropic minerals
+
+when we introduce this north-south polariser at the top of the microscope.
+
+And to set this up, I'm going to talk to you a little bit about how light passes
+
+through these anisotropic minerals.
+
+So here is a diagram that's supposed to illustrate a thin section.
+
+Thin sections always have a particular thickness.
+
+They're always 30 micrometres in thickness.
+
+And we keep that standard for a reason that I'll show you in a couple of slides'
+
+time.
+
+So what's happening in our microscope is that light is passing through the lower
+
+polariser, polarised east-west.
+
+It then passes through some thickness, 30 microns, of our mineral of interest.
+
+And it has to make its way through that mineral.
+
+And what we can think of is that the light is going to split up into two
+
+components
+
+and it's going to travel along the two refractive indices that we've just
+
+identified.
+
+Now, when that light comes back out of the mineral, the light's going to
+
+recombine into a single ray.
+
+And when we just look under the microscope without the analyser in, we see a
+
+colour.
+
+But when we introduce the analyser, it matters that there's been this splitting
+
+and recombination of light
+
+as it's gone through the mineral and then passed back out the other side.
+
+And that is because the light's travelling at different speeds depending on
+
+which vibration direction it passed along.
+
+And that creates a path difference between these two rays.
+
+So when they recombine, we can have interference in these path differences.
+
+And that interference can be either constructive or it can be destructive.
+
+So we've got light exiting the mineral with a path difference.
+
+What does that do? I'm just going to skip this one for a second.
+
+So constructive interference is when the two light rays emerge in phase with one
+
+another.
+
+And we get a resultant that has the same wavelength but a greater intensity.
+
+If we've got completely destructive interference where there's half a wavelength
+
+path difference,
+
+then we'll see kind of no resultant.
+
+And mostly we'll see something in between where there's some increment of path
+
+difference
+
+and we get something that's between completely destructive interference and
+
+completely constructive interference.
+
+So if we've got destructive interference, that basically means that no light's
+
+going to enter the eye.
+
+Let me just go backwards a little bit and now think about this.
+
+So why does this happen?
+
+So let's think about our light passing through our mineral.
+
+So we've split it into two components and our light is going to pass through the
+
+mineral along the fast ray or along the slow ray.
+
+Here I've got the fast ray and there's a component of that that we can think of
+
+that's in terms of the east-west polariser
+
+and a component that's in terms of the north-south polariser.
+
+And we can do the same with the components of the slow ray.
+
+So there's some little bits of this slow ray that's vibrating kind of parallel
+
+to the north-south polariser
+
+and some that's parallel to the east-west polariser.
+
+And it's these bits that are doing the constructive or destructive interference.
+
+So when we put the analyser in, the north-south polarised components of this ray
+
+can't get through.
+
+But the east-west polarised bits can.
+
+Those can then recombine and enter the eye.
+
+So the take home here is that if you orient your mineral so that the permitted
+
+refractive indices
+
+are exactly parallel to your east-west polariser and to your north-south
+
+polariser,
+
+no light's going to get through.
+
+But if they are at an angle, then some component of the light can get through
+
+the north-south polarised analyser.
+
+They can recombine with constructive or destructive interference and enter the
+
+eye.
+
+So this magnitude of path difference matters to us.
+
+And the path difference and the thickness are related to one another by this
+
+little property here.
+
+So in a thin section, we keep this number here the same.
+
+And so this little property here describes the size of the refractive index
+
+difference
+
+between our fast ray and our slow ray.
+
+And this property is called the birefringence.
+
+So for each mineral that has a particular set of refractive indices,
+
+it will have this particular property called birefringence that's related to the
+
+path difference.
+
+And if we know what the size of these refractive indices are,
+
+then we can predict the size of this property birefringence,
+
+which is useful to us because we can use that property.
+
+It's something we can actually see.
+
+And we can use a thing called the Michel Levy chart,
+
+which relates these three properties, the path difference, the birefringence and
+
+the thickness.
+
+So for a standard thin section, we always use a thickness of 30 microns.
+
+I'm just going to draw a solid line across our chart that indicates 30 microns.
+
+Now what you see is a set of colours as you progress from left to right across
+
+this chart.
+
+They start black, yellow, and then you end up with this pink colour,
+
+which has the name sensitive tint.
+
+Don't ask me why, you're not expected to remember that.
+
+But that sensitive tint pink colour recurs again and again.
+
+And it splits this chart into what we call orders.
+
+So first order is everything underneath that first pink colour.
+
+Second order is the next increment.
+
+Third order is the next increment and so on.
+
+And in general, the second order colours are quite bright and intense.
+
+Third order colours are slightly more washed out.
+
+And as we go to fourth and higher order, the colours become increasingly washed
+
+out
+
+and more like kind of pinks and greens.
+
+So what we then do is the birefringence is listed as numbers along the top and
+
+the sides of the chart.
+
+So if you're given a piece of information that says,
+
+my minimal of interest has a birefringence of 0.02,
+
+you find that number at the top and then you follow these diagonal lines down
+
+to the thickness of the thin section in question.
+
+And then the colour at that point gives you the colour that you'd expect to see.
+
+And this works in reverse as well.
+
+So you could say, I see a colour that I think is here.
+
+What's the birefringence?
+
+Follow the nearest diagonal line up and I'll read that number off the top of the
+
+chart.
+
+And that works again with the numbers on the side.
+
+For each mineral, there is a characteristic birefringence
+
+that describes the maximum refractive index difference
+
+between the fastest and the slowest speeds that light can pass through our
+
+mineral.
+
+So the maximum birefringence of that mineral is its diagnostic property.
+
+In reality, what we actually see is dependent on how you slice that mineral.
+
+So if I've got a mineral that's got a birefringence of, I think that says 0.022,
+
+the maximum birefringence might be this bluey colour here,
+
+but I could also see any of the colours to the left of that.
+
+So when you're looking at a thin section, you have to look at lots of different
+
+slices
+
+through the mineral in order to find what the maximum one is.
+
+So here's an example. This is quartz. It's got two different refractive indices.
+
+The way that we can slice this mineral to see the maximum refractive index
+
+contrast
+
+is to take a slice straight down the centre of the prism,
+
+and if we take a slice perpendicular to the prism,
+
+we'll see a slice that's got no refractive index contrast.
+
+This mineral has refractive indices with these two sizes,
+
+so if I want to find the magnitude of the birefringence,
+
+all I have to do is subtract one of these numbers from the other.
+
+So the maximum birefringence here is 0.09.
+
+So I think that should be 0.009.
+
+So how might this look?
+
+Well, that maximum birefringence, that value there,
+
+will correspond to a colour that's kind of whitish-yellow,
+
+and our minimum birefringence will be zero,
+
+that will correspond to black or extinct in all directions.
+
+And we would expect to see all of the different colours in between,
+
+depending on exactly how we slice through the mineral.
+
+And when we look at that in a thin section,
+
+this explains why we see lots of different shades of grey
+
+when we look at a random population of randomly oriented quartz crystals.
+
+Some of these will have that maximum interference colour,
+
+some of them will have been sliced very close to the isotropic section,
+
+and we'll have all of the different orientations in between.
+
+Does that make sense? Yes.
+
+Yes, if you have a biaxial mineral, you take gamma minus alpha or alpha minus
+
+gamma.
+
+The actual magnitude doesn't matter because it all comes out in the wash.
+
+Okay, so that's how interference colours work.
+
+So what would we expect to see if we apply this to our two case study minerals,
+
+tourmaline and ribokite?
+
+We'll start with the simple case tourmaline.
+
+So when we look at this optic axis basal section,
+
+we've got the same refractive index in all directions.
+
+Light can always pass through this.
+
+There's no asymmetry here.
+
+And so what we would expect is that when we put the analyser in,
+
+this particular slice through the mineral will be extinct in all directions.
+
+It's behaving as though it were isotropic.
+
+So when we look at that in a thin section,
+
+if we look for this triangular prismatic cross section,
+
+that should always look dark, black and extinct.
+
+If we're slightly off axis,
+
+then we'll see darkish colours that are near to the left end of the Michel Levy
+
+chart,
+
+so blacks and greys, but it won't be completely extinct.
+
+And that's what you're seeing in this section here.
+
+You can see the triangular prismatic shape, but it's not perfectly extinct.
+
+And that would be because the Z axis is not pointing directly upwards into your
+
+eye.
+
+It's just slightly off angle.
+
+What happens if we look at the prismatic section?
+
+Well, if we orient this so that either one of our permitted refractive indices
+
+is parallel to either one of our polarisers,
+
+no light's going to get through here.
+
+If we rotate that 90 degrees, no light's getting through here.
+
+Anisotropic minerals have a property that they will go extinct every 90 degrees.
+
+This is something that you will see in the thin sections,
+
+but in terms of figuring out what the mineral is,
+
+it's not a useful observation because all anisotropic minerals have this
+
+property.
+
+The interesting property is the interference colour,
+
+which is what best expressed when our two permitted vibration directions
+
+are at 45 degrees to our polarisers.
+
+So the interference colour is going to be brightest and best when these are at
+
+45 degrees.
+
+And this is the colour that you would then take to the Michel Levy chart
+
+and say, I've seen that colour, what is the birefringence?
+
+And start reading off the chart.
+
+So here's an example.
+
+And we say this mineral has the property of straight extinction
+
+because when we orient the crystal faces parallel to our polarisers,
+
+the mineral's in extinction.
+
+When we rotate that 45 degrees, we see the interference colour
+
+and then we can go to the Michel Levy chart,
+
+figure out the size of the birefringence.
+
+So this just illustrates to you that every mineral going extinct every 90
+
+degrees concept.
+
+And these little arrows are showing you the kind of components of light
+
+associated with the two vibration directions that are passing through.
+
+So the maximum illumination is always at 45 degrees.
+
+At 0, 90, 180 degrees, we see the extinction.
+
+Biaxial minerals are going to follow exactly the same rules.
+
+So when we get our optic axis section that behaves as though it were isotropic,
+
+that section there is going to be extinct in all orientations.
+
+So where this gets complicated is what happens when we view this in different
+
+orientations.
+
+So we'll start by looking down the alpha vibration direction.
+
+We'll see the plane associated with beta and gamma.
+
+So we'll see a nice cross section through our optical indicatrix.
+
+When the vibration directions are oriented parallel to our east, west and north,
+
+south polarisers,
+
+we get extinction.
+
+And if we rotate that 45 degrees, we'll see an interference colour.
+
+And the size of that interference colour should be the difference between beta
+
+and gamma.
+
+If we look down the beta vibration direction, same thing.
+
+When alpha and gamma refractive indices are parallel to our polarisers, no light
+
+comes through.
+
+When we rotate it 45 degrees, we get maximum illumination.
+
+And the interference colour we see will have a birefringence of alpha minus
+
+gamma.
+
+And if we look down gamma onto the plane that contains alpha and beta,
+
+when the vibration directions are parallel to the polarisers, no light comes
+
+through.
+
+When we rotate 45 degrees, we get maximum illumination.
+
+And the interference colour will correspond to the birefringence that is alpha
+
+minus beta.
+
+So this one here will be our diagnostic property of the mineral.
+
+That is the maximum birefringence colour that we can see in this mineral.
+
+But depending how we slice it, we could see a whole range of interference
+
+colours
+
+in between this and the far left end of the Michel Levy chart.
+
+So this is the view parallel to the vibration directions.
+
+But in this particular mineral, the vibration directions or the refractive
+
+indices
+
+are not always parallel to our crystallographic axes.
+
+So to make this additionally complicated, I'm just going to show you what
+
+happens
+
+if we do the same experiment but we consider looking down one of the
+
+crystallographic axes.
+
+The easiest one to think about is looking down the crystallographic y-axis
+
+because alpha, z, beta and x are all going to be in the same plane.
+
+So here I've got the z-axis and the x-axis, which is not, this angle is not 90
+
+degrees.
+
+Our alpha vibration direction is at a slight angle to z
+
+and our beta vibration direction is at some larger angle to z.
+
+Now in order to get this mineral into extinction, we have to rotate it
+
+so that alpha and beta are parallel to the polarisers.
+
+But in this case, we're rotating the mineral so that the crystal faces are now
+
+not aligned with our polarisers.
+
+So this face here is not orientated north-south, nor is it east-west.
+
+And we call this property inclined extinction.
+
+And the angle there between our north-south polariser and our crystal face of
+
+interest
+
+is actually a useful property that is different between different minerals
+
+and you can actually measure that using the stage of the microscope.
+
+You're going to have a go at that in the practical.
+
+If we look at it down one of the other axes, let's take the x-axis.
+
+That's going to be a plane that contains some projection of z.
+
+So in this diagram here, the z-axis is actually pointing slightly downwards into
+
+the page
+
+and the y-axis is pointing off to the right.
+
+That also means that the alpha refractive index is also pointing slightly
+
+downwards into the page
+
+and gamma is pointing off to the right.
+
+But that kind of doesn't matter for our purposes because we can still orient a
+
+mineral
+
+that gamma and this projection of alpha can be oriented parallel to our east
+
+-west and north-south polarisers.
+
+And when we get it into this orientation, we'll see extinction.
+
+No light is coming through.
+
+And again, when we rotate 45 degrees, we'll see maximum illumination.
+
+And you can do the same trick looking down the z-axis.
+
+So here x is pointing slightly down into the page.
+
+Notice that in both of these cases, the mineral has straight extinction.
+
+That is, the crystal faces, the elongate crystal faces, are parallel to one of
+
+our polarisers.
+
+And that is a useful property of minerals that, again, you can observe in the
+
+thin section.
+
+So this property of inclined or straight extinction is something that you'll
+
+hear me talk about
+
+quite a bit next week when we look at lots of different minerals.
+
+Everybody with that so far?
+
+Fantastic.
+
+So just to re-emphasize these types of extinction, how that relates to
+
+crystallographic symmetry,
+
+these are the kinds of extinction that you'll see described, so straight
+
+extinction.
+
+Extinction is where the mineral appears black under the cross-polars.
+
+And we can describe this as being extinct with respect to the crystal edges
+
+or with respect to cleavage traces.
+
+Having both of these things is useful because sometimes minerals will not grow
+
+in their ideal habit.
+
+These diagrams assume that we're looking at a tabular mineral that has nice,
+
+well-formed crystal faces.
+
+So we could describe the extinction with respect to the crystal faces that we
+
+see.
+
+These are nice, u-hedral, well-formed shapes.
+
+If we have an an-hedral crystal that has grown randomly or has experienced some
+
+kind of chemical reaction
+
+with its surroundings and now has a rounded or irregular shape,
+
+you can no longer describe extinction with respect to the crystal edges
+
+because you can't see any crystal edges.
+
+Sometimes cleavage steps in to save us.
+
+If the mineral has cleavage traces, we can instead use the cleavage traces
+
+to describe whether the thing has inclined, straight, or symmetrical extinction
+
+where you can see the extinction angle bisects the angle of the cleavages.
+
+But this, again, only works if you can see the cleavages.
+
+So when you're describing extinction, it's useful to say straight extinction
+
+with respect to what
+
+or inclined extinction with respect to what.
+
+Are you comparing it to a well-formed crystal face or to a cleavage trace?
+
+And if you can't see either of those, then you're not actually able to describe
+
+the type of extinction.
+
+So these are things to look for as you navigate around the thin section.
+
+Not every crystal will be perfectly formed.
+
+Not every crystal will have the properties that you're looking for.
+
+Often you can find one or two really good examples,
+
+and that, if I were doing a thin section drawing for my practical work,
+
+would be what I would draw down, the best example of the thing that I can find.
+
+But if you can't find it, then I would be writing down on my practical work,
+
+I can see that this mineral has a birefringence colour of such and such,
+
+but it also has an anhydrous shape, and I am unable to determine the type of
+
+extinction.
+
+How does this all then relate to the crystal systems?
+
+Well, our most symmetrical crystal system, the cubic crystal system, is the only
+
+one that's isotropic.
+
+It has one defining refractive index, and when you look at this under cross
+
+-polarised light,
+
+that mineral will always be in extinction.
+
+The trick with cubic minerals is that they're easily confused with holes in the
+
+thin section.
+
+So imagine a pumice. It's got lots of bubbles.
+
+When you look at a bubble in thin section, that will also be always in
+
+extinction,
+
+because glass is an isotropic material,
+
+and so when you're just looking at light bouncing straight through the glass
+
+slide into your eye,
+
+that will look like an isotropic mineral.
+
+So when you see these areas that are always in extinction, it's worth asking
+
+yourself,
+
+is this a bubble, is this a hole or an imperfection in a thin section, or am I
+
+really looking at a mineral?
+
+And one of the ways that you can tell that is to go back to plain polarised
+
+light and see,
+
+am I looking at an area that's got some relief, or it's got some colour,
+
+or am I looking at something that just looks a bit vague with some specks in it
+
+that could be glue?
+
+That's a really common question that we get asked as teaching assistants going
+
+around the practical.
+
+Is this glue or is this a real mineral? And if you're not sure, definitely ask.
+
+Our crystal systems with a high degree of rotational symmetry are uniaxial.
+
+They have two defining refractive indices,
+
+and one of their properties is that they always have straight extinction with
+
+respect to the crystallographic z-axis.
+
+They almost always have straight extinction with respect to an axial cleavage as
+
+well.
+
+When we get to our lower symmetry crystal systems that have biaxial endicatrix
+
+and three permitted,
+
+or three defined refractive indices, things get a little bit more complicated.
+
+But in these two very low symmetry crystal systems, this is where we start
+
+getting inclined extinction coming.
+
+So this is how the optical symmetry and the crystallographic symmetry start to
+
+interact with one another.
+
+You don't necessarily need to be able to reproduce all of this or explain it for
+
+a particular mineral,
+
+but I think it's worth you as future earth and planetary scientists who might be
+
+using this in an employment context
+
+to have heard this at least once in your career so that when you're looking at
+
+new minerals,
+
+you have a framework for figuring out what's going on.
+
+That is pretty much all I wanted to say. Are there any questions that you want
+
+to ask?
