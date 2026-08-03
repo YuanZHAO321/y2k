@@ -31,7 +31,7 @@
 
 ---
 
-## 二、核心概念：褶皱与断层叠加时的图面判据对照表
+## 二、核心概念
 
 📎 **背景补充：本节几乎全部为补充内容。** 本周材料只给出了答案数值和一句「It is not possible to say, based on the map, which came first - folding or faulting」，并未给出判据清单。以下对照表是我把 W3–W5、W8 的规则整合成的速查表，供考前直接用。
 
@@ -87,7 +87,7 @@ W5 讲义原文：「the offset of a contact along a fault shown on a map does *
 
 ---
 
-## 三、公式与图表（本课几何关系总汇 + 剖面构建流程）
+## 三、公式与图表
 
 📎 **背景补充：本节的公式清单与流程描述均为整合补充**，本周材料只提供了可供验算的数值答案。为了让公式有「抓手」，我在每条公式后都用本周的真实数字做了验算。
 
@@ -95,16 +95,9 @@ W5 讲义原文：「the offset of a contact along a fault shown on a map does *
 
 $$\tan\delta = \frac{\Delta h}{d}$$
 
-- $\Delta h$：相邻两条地层等高线（stratum contour / strike line）的**高差**；
-- $d$：这两条线在图上的**垂直间距换算成的实地水平距离**；
-- $\delta$：该面的**真倾角**（true dip）；倾向垂直于地层等高线，指向**高程降低**的一侧。
+$\Delta h$ = 相邻两条地层等高线的高差；$d$ = 二者在图上的垂直间距换算成的实地水平距离；$\delta$ = 真倾角。倾向垂直于等高线、指向**高程降低**一侧。
 
-📎 **本周验算（比例尺 1:40000，等高距按 100 m）：**
-- 缓翼 δ = 14° → $d = 100/\tan 14° = 401$ m → 图上约 **1.0 cm**；
-- 陡翼 δ = 19° → $d = 100/\tan 19° = 290$ m → 图上约 **0.73 cm**；
-- 断层 δ = 34° → $d = 100/\tan 34° = 148$ m → 图上约 **0.37 cm**。
-
-这组数字的用处：作图时如果你画出来的等高线间距明显偏离上述量级，说明连线连错了。
+📎 **本周验算（1:40000，等高距 100 m）：** 14° → $d=401$ m ≈ 图上 1.0 cm；19° → 290 m ≈ 0.73 cm；34° → 148 m ≈ 0.37 cm。作图时若间距明显偏离这个量级，说明连线连错了。
 
 ### 3.2 断距三兄弟：throw / heave / dip-slip
 
@@ -119,7 +112,7 @@ $$\boxed{\text{heave} = \frac{\text{throw}}{\tan\delta}}$$
 - heave $= 120\cos34° = 99.5 \approx$ **100 m**
 - 校验：$67.1/\tan34° = 99.5$ ✓
 
-W5 讲义还给了一族相关术语（**separation** 家族）：strike separation（= 图上视错距）、dip separation、vertical separation、stratigraphic separation、hade（= 90° − dip，从竖直起算的倾角）。**cut-off line** 是目标界面与断层面的交线，上盘、下盘各一条，**两条 cut-off line 在图上的间距就是 heave**。
+W5 讲义还给了 **separation** 家族：strike separation（= 图上视错距）、dip separation、vertical separation、stratigraphic separation、hade（= 90° − dip）。**cut-off line** 是目标界面与断层面的交线，上下盘各一条，**两条 cut-off line 在图上的间距就是 heave**。
 
 ### 3.3 滑移矢量的分解（一般斜滑情形）
 
@@ -138,8 +131,9 @@ $$|S| = \sqrt{(\text{dip-slip})^2+(\text{strike-slip})^2}$$
 
 $$\sin(\text{plunge}) = \sin(\text{dip of plane}) \times \sin(\text{pitch})$$
 
-- W6 的做法是在赤平网上量：把面画成大圆，从走向端沿大圆数进 pitch 度得点，再把该点转到 E–W 线上读 plunge。
-- 📎 **本周 EPQ2 的特例：** 断层竖直（dip = 90°），$\sin90° = 1$，故 **plunge = pitch = 71°**。这就是为什么在竖直断层的断层面剖面上，可以**直接用量角器量出滑移矢量的倾伏角**，不必再上赤平网。竖直断层是最省事的一类，考试常拿来出题。
+W6 的做法是在赤平网上量：把面画成大圆，从走向端沿大圆数进 pitch 度得点，再把该点转到 E–W 线上读 plunge。
+
+📎 **本周 EPQ2 的特例：** 断层竖直（dip = 90°），$\sin90°=1$，故 **plunge = pitch = 71°**。这就是为什么竖直断层的断层面剖面上可以**直接用量角器量出滑移矢量的倾伏角**，不必上赤平网——竖直断层是最省事的一类，考试常拿来出题。
 
 ### 3.5 视倾角与真倾角
 
@@ -153,50 +147,43 @@ $\theta$ 为**剖面线走向与该面走向之间的夹角**。$\theta = 90°$ 
 
 ### 3.6 真厚度换算
 
-📎 **背景补充：** 三种常用情形——
-1. 地形平坦、露头宽度 $w$（垂直走向量）：$t = w\sin\delta$；
-2. 用地层等高线：上、下界面同一高程的等高线之间的水平距 $x$ → $t = x\sin\delta$；上、下界面在同一垂线上的高差 $v$ → $t = v\cos\delta$；
-3. W9 的 Marlborough 题就是这个套路：分别在 Middle Chalk 上、下界面画等高线，再量厚度；材料还提醒厚度会横向变化——**判据是上、下界面的等高线不严格平行/等距**。
+📎 **背景补充：** 地形平坦、露头宽 $w$（垂直走向量）→ $t=w\sin\delta$；上下界面同高程等高线的水平距 $x$ → $t=x\sin\delta$；上下界面在同一垂线上的高差 $v$ → $t=v\cos\delta$。W9 的 Marlborough 题即此套路（在 Middle Chalk 上、下界面各画一套等高线再量厚度）；材料提醒厚度会横向变化——**判据是上下界面的等高线不严格平行/等距**。
 
 ### 3.7 **综合垂直剖面的构建流程（本课最核心的操作规程）**
 
 📎 **背景补充：以下八步流程为整合补充**，本周材料只呈现了成品剖面（`Q1soln2`），并未列出步骤。但成品图上的每一项细节都反过来印证了这些步骤。
 
-**第 0 步 — 定剖面产状与比例。** 在图上量出 A→B 的方位，写成剖面标题，本周是 **`000/V`**（走向 000 的竖直剖面）。**明确标注哪端是 N、哪端是 S**（本周剖面标了 A、B 与南北）。选比例：`Q1soln2` 明确写 **horizontal scale = vertical scale**，即**垂直放大率 = 1**。
-> ⚠️ 只要剖面要用来**量角度或量滑移矢量长度**，垂直放大率**必须是 1**，否则量出来的倾角和滑移量全是错的。W9 那种为了「看清楚」而用 ×5 垂直放大的剖面，只能用于**图示**，不能用于**测量**。
+**第 0 步 — 定剖面产状与比例。** 量出 A→B 的方位写成标题（本周 **`000/V`**，走向 000 的竖直剖面），**标注哪端是 N/S**。`Q1soln2` 明确写 **horizontal scale = vertical scale**，即**垂直放大率 = 1**。
+> ⚠️ 只要剖面要用来**量角度或量滑移矢量长度**，VE **必须 = 1**，否则量出的倾角与滑移量全错。W9 那种 ×5 垂直放大的剖面只能用于**图示**，不能用于**测量**。
 
-**第 1 步 — 画地形剖面（topographic profile）。** 沿 A–B 把纸边（或坐标纸）压在剖面线上，逐条地形等高线在纸边上打点并记高程，转到剖面坐标系上，连成平滑地形曲线。本周剖面纵轴 0–1000 m。
+**第 1 步 — 画地形剖面（topographic profile）。** 把纸边压在剖面线上，逐条地形等高线打点并记高程，转到剖面坐标系连成平滑曲线。本周纵轴 0–1000 m。
 
-**第 2 步 — 投影地质界线与断层的**出露点**。** 沿同一条剖面线，把地质界线（砂岩/泥岩接触面、泥岩/砾岩接触面）和断层迹线与剖面线的交点也打到纸边上，投到地形曲线**上**的对应位置。
+**第 2 步 — 投影出露点。** 沿同一纸边，把各地质界线与断层迹线跟剖面线的交点也打上去，投到地形曲线**上**的对应位置。
 
-**第 3 步 — 用地层等高线定倾角，不要目测。** 在每个出露点处，按该处**地层等高线**给出的产状确定倾角；若剖面线不垂直于走向，先用 3.5 的公式换成**视倾角**再画。本周：断层画 34°（真=视），褶皱翼画约 14° 与 19°。
+**第 3 步 — 用地层等高线定倾角，不要目测。** 按该处等高线给出的产状定倾角；剖面线不垂直于走向时先按 §3.5 换成**视倾角**。本周：断层 34°（真=视），褶皱翼约 14° 与 19°。
 
-**第 4 步 — 向深部延展界面。** 假设界面在剖面深度范围内**保持平面**（除非等高线显示它弯曲），把每条界线按定好的倾角向下延伸。褶皱部分则按「两翼 + 转折端」的形态连接，**转折端要圆滑，不能画成尖角**（除非确证是尖棱褶皱）。
+**第 4 步 — 向深部延展界面。** 除非等高线显示界面弯曲，否则按平面向下延伸；褶皱部分按「两翼 + 转折端」连接，**转折端要圆滑**（除非确证是尖棱褶皱）。
 
-**第 5 步 — 处理断层。** 先把断层面按 34°N 画到底，再分别在上盘、下盘把地层画完；**上盘、下盘的同一界面在断层面上必须错开一个等于 throw 的高差**（本周 throw ≈ 67 m）。断层两侧的地层不能画成连续的。
+**第 5 步 — 处理断层。** 先把断层面按 34°N 画到底，再分别画上、下盘的地层；**同一界面在断层两侧必须错开一个等于 throw 的高差**（本周 ≈ 67 m），两侧地层绝不能画成连续。
 
-**第 6 步 — 检查地层厚度守恒。** 同一地层在剖面上任何位置、任一盘、任一褶皱翼上的**垂直于层面的厚度必须一致**（除非题目告诉你厚度变化）。这是最有效的自查手段：厚度变了，说明某处倾角或界线位置画错了。
+**第 6 步 — 检查地层厚度守恒。** 同一地层在任一盘、任一褶皱翼上的**垂直层面厚度必须一致**。厚度变了 → 某处倾角或界线位置画错了。这是最有效的自查。
 
-**第 7 步 — 补齐规范要素。** 参照 W9 Cover 的明确要求：
-(a) 标题写明剖面产状（strike/dip）；(b) 标出两端方位；(c) 水平与垂直比例尺；(d) **按比例画的地层柱（stratigraphic column）**含颜色与字母图例；(e) 剖面上各岩性单元的着色与字母。本周剖面用了 **a = Grit（最老）、b = Mudstone、c = Sandstone（最新）**。
-（**注意**：地层新老由此确定 —— 砾岩最老、砂岩最新。判断背形/向形与背斜/向斜时要用到。）
+**第 7 步 — 补齐规范要素（W9 Cover 的明确要求）。** (a) 标题写剖面产状；(b) 两端方位；(c) 水平 + 垂直比例尺；(d) **按比例的地层柱**含颜色与字母图例；(e) 剖面本体着色 + 字母。本周用 **a = Grit（最老）、b = Mudstone、c = Sandstone（最新）**——地层新老由此确定，判断背斜/向斜时要用。
 
-**第 8 步 — 界面延伸到地形面以上。** W9 明确要求把界面**用虚线延伸到地形面之上**（表示被剥蚀掉的部分）以及地形面之下。本周剖面纵轴到 1000 m 而地形最高约 900 m，正是为了容纳这段虚线。
+**第 8 步 — 界面用虚线延伸到地形面之上**（表示已被剥蚀的部分）以及之下。本周纵轴到 1000 m 而地形最高约 900 m，正是为容纳这段虚线。
 
 ### 3.8 **断层面剖面（fault plane section / juxtaposition section）的构建流程**
 
 📎 **背景补充：以下为流程整合补充**，本周 `EPQ2soln` 只给出成品图与最终数值。这是求**斜滑（oblique-slip）**滑移矢量的通用方法（W5 讲义原文：「the magnitude and orientation of the slip vector must be obtained by drawing a fault plane (juxtaposition) section, that is, a cross-section drawn **in the plane of the fault** showing **both the hanging wall and the footwall on the same section**」）。
 
-1. **在断层两侧分别给每个被错断的界面画地层等高线**（本题是两条 vein：A 090/60S、B 090/70N，断层两侧各有一套）。
-2. **求 cut-off line 上的点**：某界面的第 $h$ 米等高线与**断层迹线**的交点，就是该界面 cut-off line 上高程为 $h$ 的一个点。两个点即可定出一条 cut-off line。
-3. **建立断层面坐标系**：横轴 = 沿断层走向的距离，纵轴 = 高程。断层竖直时（`000/V`），这个"面"就是一个真正的竖直 N–S 剖面，长度不失真，**可以直接量**。
-4. **把四条 cut-off line 都画上去**：vein A(E)、vein A(W)、vein B(E)、vein B(W)。因为断层走向 000 且竖直、而两条 vein 走向 090（与断层正交），vein 与断层的交线**倾伏方向就在 N–S 方向、倾伏角等于 vein 的真倾角**：
-   - vein B (090/70N) → cut-off line 倾伏 **70° 向 N**；
-   - vein A (090/60S) → cut-off line 倾伏 **60° 向 S**。
-5. **求两个刺穿点（piercing points）**：东盘上 A(E) 与 B(E) 的交点、西盘上 A(W) 与 B(W) 的交点。这两点在断裂前原本是**同一个点**。
-6. **连接两个刺穿点 = 滑移矢量**。量它的长度（→ 329 ft）、量它与走向线的夹角（→ pitch 71°，因断层竖直故 plunge 也是 71°），读方向（→ 倾伏向 180）。
+1. **断层两侧分别给每个被错断的界面画地层等高线**（本题两条 vein：A 090/60S、B 090/70N，两侧各一套）。
+2. **求 cut-off line 上的点**：某界面的第 $h$ 米等高线与**断层迹线**的交点，即该界面 cut-off line 上高程为 $h$ 的一点；两点定一线。
+3. **建立断层面坐标系**：横轴 = 沿断层走向的距离，纵轴 = 高程。断层竖直（`000/V`）时它就是一个真正的竖直 N–S 剖面，长度不失真，**可直接量**。
+4. **画上四条 cut-off line**：A(E)、A(W)、B(E)、B(W)。因断层走向 000 竖直、两条 vein 走向 090 与之正交，交线**倾伏方向即 N–S、倾伏角等于 vein 的真倾角**：B(090/70N) → 倾伏 **70° 向 N**；A(090/60S) → 倾伏 **60° 向 S**。
+5. **求两个刺穿点（piercing points）**：东盘 A(E)∩B(E)、西盘 A(W)∩B(W)。这两点在断裂前原本是同一点。
+6. **连接两个刺穿点 = 滑移矢量**：量长度（329 ft）、量与走向线的夹角（pitch 71°，竖直断层故 plunge 亦 71°）、读方向（倾伏向 180）。
 7. **分解**：竖直分量 = dip-slip = 311 ft；水平分量 = strike-slip = 107 ft。
-8. **判断运动方向**：西盘相对东盘**向下且向南** → dip-slip 为 **down to the W**；strike-slip 为 **sinistral（左行）**（站在东盘朝西看，对面的西盘向你的左手边即南方移动）。
+8. **判断运动方向**：西盘相对东盘**向下且向南** → dip-slip **down to the W**；strike-slip **sinistral（左行）**（站东盘朝西看，西盘向左手边即南移动）。
 
 ---
 
@@ -364,48 +351,38 @@ $\theta$ 为**剖面线走向与该面走向之间的夹角**。$\theta = 90°$ 
 | 英文 | 中文 | 说明 / 本周出处 |
 |---|---|---|
 | stratum contour / strike line | 地层等高线 / 走向线 | 面上的水平线；本课贯穿始终的核心工具 |
-| strike / dip | 走向 / 倾角 | 面的产状，记法 `100/14N` |
-| dip direction | 倾向 | 记法 `14/010`；三位数不折算 |
+| strike / dip / dip direction | 走向 / 倾角 / 倾向 | 面的产状，记法 `100/14N` 或 `14/010` |
 | plunge / plunge direction | 倾伏角 / 倾伏向 | 线的产状，记法 `34/000` |
-| pitch | 侧伏角 | 在给定面内、自走向线量起；形式上等同 apparent dip |
+| pitch | 侧伏角 | 面内自走向线量起；形式上等同视倾角 |
 | apparent dip | 视倾角 | $\tan\delta_{app}=\tan\delta\sin\theta$ |
 | V-shaped outcrop pattern / veeing | V 字形露头型式 | Q1 的解题入口（HINT） |
-| fold axis | 褶皱轴 | 本周 `0/100` |
-| axial plane / axial trace | 轴面 / 轴迹 | 本周轴面 `100/88N` |
+| fold axis | 褶皱轴 | 本周 `0/100`，非倾伏 |
+| axial plane / axial trace | 轴面 / 轴迹 | 本周轴面 `100/88N`（upright 直立） |
 | bisector | 角平分面 | 两翼等厚时 = 轴面 |
-| interlimb angle | 内翼角 | 本周 147°（gentle） |
+| interlimb angle | 内翼角 | 本周 147°（gentle 平缓） |
 | limb | 褶皱翼 | 本周 `100/14N` 与 `100/19S` |
-| antiform / synform | 背形 / 向形 | 按闭合方向定义（形态） |
+| antiform / synform | 背形 / 向形 | 按闭合方向（形态）定义 |
 | anticline / syncline | 背斜 / 向斜 | 按核部新老定义 |
 | cylindrical fold | 圆柱状褶皱 | 平行剖面上形态恒定 |
-| non-plunging | 非倾伏的 | 倾伏 0–10°，本周即是 |
-| upright fold | 直立褶皱 | 轴面倾角 80–90°，本周 88° |
-| fault plane / fault surface | 断层面 | 本周 `090/34N`、`000/V` |
+| fault plane | 断层面 | 本周 `090/34N`、`000/V` |
 | slip vector | 滑移矢量 | 断裂前重合的两点连线 |
 | dip-slip / strike-slip component | 倾滑分量 / 走滑分量 | 本周 311 ft / 107 ft |
 | normal / reverse fault | 正断层 / 逆断层 | 本周 Q1 为 normal |
 | sinistral / dextral | 左行 / 右行 | 本周 EPQ2 为 sinistral |
 | hanging wall / footwall | 上盘 / 下盘 | 竖直断层无此分别 |
-| throw / heave | 落差 / 平错 | heave = throw / tan δ |
-| hade | 断层倾斜角（自竖直起算） | = 90° − dip |
-| separation | 分离量 | 与 slip 不同，见 W5 |
-| strike separation | 走向分离量 | 即图上视错距 |
+| throw / heave / hade | 落差 / 平错 / 自竖直起算的倾角 | heave = throw / tan δ；hade = 90° − dip |
+| separation（strike separation） | 分离量（走向分离量 = 图上视错距） | 与 slip 不同，见 W5 |
 | cut-off line | 截切线 | 目标面与断层面的交线，上下盘各一条 |
-| piercing point | 刺穿点 | 两条 cut-off line 的交点；两盘各一 |
+| piercing point | 刺穿点 | 两条 cut-off line 的交点，两盘各一 |
 | fault plane / juxtaposition section | 断层面剖面 / 并置剖面 | 求斜滑滑移矢量的通用方法 |
-| pure dip-slip fault | 纯倾滑断层 | 本周 Q1 的给定条件 |
-| unconformity | 不整合 | W3 |
-| angular unconformity | 角度不整合 | 下伏被褶皱/倾斜 |
-| disconformity / paraconformity | 假整合（可见侵蚀面）/ 平行不整合（仅靠化石带缺失识别） | W3 |
-| nonconformity | 非整合 | 上覆沉积岩伏于火成岩/变质岩之上 |
-| hiatus / diastem | （大的）沉积间断 / （小的）沉积间断 | W3 |
+| unconformity（angular / non- / dis- / para-） | 不整合（角度 / 非 / 假 / 平行） | W3 |
+| hiatus / diastem | 大的 / 小的沉积间断 | W3 |
 | overstep / onlap / offlap | 超覆 / 上超 / 退覆 | W3 |
-| sequence of events | 事件序列 | W8，从老到新 + 证据 |
+| sequence of events | 事件序列 | W8，从老到新 + 逐条列证据 |
 | cross-cutting relationship | 切割关系 | 判定相对年代的基本原则 |
 | vertical exaggeration (VE) | 垂直放大率 | 量数值时必须 = 1 |
 | stratigraphic column | 地层柱 | 剖面的必备图例 |
-| stereonet / stereographic projection | 赤平投影网 / 赤平投影 | W6–W7 |
-| great circle / pole | 大圆 / 极点 | 面的两种赤平表达 |
+| stereonet / great circle / pole | 赤平投影网 / 大圆 / 极点 | W6–W7 |
 | vein | 岩脉 / 细脉 | EPQ2 的被错断对象 |
 | extra practice question (EPQ) | 课后额外练习题 | 本周 EPQ2 的全称 |
 
