@@ -105,6 +105,17 @@
 > - Hilary Term：EART21202、EART23202、EART25102、EART28202、EART29102
 > - 跨学期（直属 `Sophomore/`，不在任何 Term 下）：EART29200
 
+### 排除规则：非教学文件夹一律跳过（用户 2026-08 指示）
+大二文件夹中，**名为 `Exam(s)` / `Past Paper(s)` / `Assessment(s)` / `Coursework(s)` 的文件夹一律忽略**：
+- 不计入任何周单元，**不派子 Agent**；
+- 判定在**文件夹层**。Week 文件夹内部的文件即使名字带这些字样，仍属该周材料，正常读（大二实际零命中——`EART26001/Practical/Week 10/example questions.md` 只是 "**exam**ple" 撞子串，是教学材料）；
+- 正常口径仍是「**有内容的每个 Week 派 1 个 Agent**」。
+
+大二命中的 10 个文件夹（18 个 md / 19,033 词，已在 `manifest.md` §G 单列）：
+EART21202 `Past Papers/`；EART22201 `Lecture/Past Papers/`、`Practical/Past Papers/`、`Practical/Exams/`；EART23202 `Lecture/Past Papers/`、`Practical/Assessment/`、`Practical/Coursework/`；EART26001 `Practical/Exams/`；EART26201 `Lecture/Past Papers/`、`Practical/Assessments/`。
+
+> 这些材料**不是废弃**，只是不进周笔记流程；阶段二做课程笔记时可用于校验知识点覆盖度。
+
 ### 关键差异：课程笔记延后统一制作
 大一是「一门课的周笔记做完 → 立刻做该课的课程总纲 → 停顿」。**大二改为两阶段**：
 
