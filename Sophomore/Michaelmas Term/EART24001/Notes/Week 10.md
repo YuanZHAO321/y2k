@@ -193,22 +193,17 @@ $\theta$ 为**剖面线走向与该面走向之间的夹角**。$\theta = 90°$ 
 
 📎 **以下各条均为从答案格式反推出的规范，非材料明文。**
 
-**(1) 答案的书写格式就是评分点。** 三份答案里所有产状都严格遵守 W1 讲义的记法：
-- 面：`100/14N`、`090/34N`、`000/V` —— 走向写**三位数**、倾角写**一两位数**、再加倾向的大致方位；**竖直面写 `V`**（这是本周新出现的写法，`000/V` 表示走向 000 的竖直面）。
-- 线：`0/100`、`34/000`、`71/180` —— 倾伏角在前、倾伏向写**三位数且不折算到 000–180 区间**。
-- **只写数字不写单位/不写正断层还是逆断层，会丢分**：答案写的是 `34/000 ; 120 m (normal)`，即 **方位 + 数值 + 单位 + 运动性质**，三样齐全。
+**(1) 答案的书写格式就是评分点。** 三份答案的产状全部严守 W1 记法：面写 `100/14N`、`090/34N`、`000/V`（走向三位数、倾角一两位数、加倾向方位；**竖直面写 `V`**——`000/V` 即走向 000 的竖直面，是本周新出现的写法）；线写 `0/100`、`34/000`、`71/180`（倾伏角在前、倾伏向三位数且不折算）。滑移矢量写作 `34/000 ; 120 m (normal)`，即 **方位 + 数值 + 单位 + 运动性质**，缺一样就丢分。
 
-**(2) 褶皱几何必须报满四项。** `Q1soln1` 和 `Q1soln2` 两次列出同一组四项：
-`Limbs` → `Fold axis` → `Bisector (→ axial plane)` → `Interlimb angle`。
-这正是 W4 讲义列的「完整描述一个圆柱状褶皱需要的四件事」。**注意答案用的词是 bisector（角平分面）并注明「→ axial plane」**——W4 讲义解释过：只有当两翼地层**厚度相同**时，角平分面才等于轴面；厚度不同时二者不重合。答案里加这个箭头，就是在提醒你这一步用的是「等厚假设」。
+**(2) 褶皱几何必须报满四项。** 两份答案都按同一顺序列出：`Limbs` → `Fold axis` → `Bisector (→ axial plane)` → `Interlimb angle`，正是 W4 讲义「完整描述圆柱状褶皱需要的四件事」。**注意用词是 bisector 并注明「→ axial plane」**——W4 讲义说明只有两翼**等厚**时角平分面才等于轴面。这个箭头就是在提醒你用了等厚假设。
 
-**(3) 提示语暴露了解题入口。** Q1 的 HINT 原文：「use the V-ing of the contacts in the valleys to determine the approximate orientation of the stratum contours **before** trying to draw them」。答案图上也另注了一句「approximate dip direction given by veeing」。**规范：先用 V 字法则定出大致倾向，再动手连地层等高线**——不要盲连。
+**(3) 提示语暴露了解题入口。** Q1 的 HINT 原文：「use the V-ing of the contacts in the valleys to determine the approximate orientation of the stratum contours **before** trying to draw them」，图上另注「approximate dip direction given by veeing」。**规范：先用 V 字法则定大致倾向，再动手连等高线**，不要盲连。
 
-**(4) 剖面必须注明产状与比例约定。** `Q1soln2` 标题即「Vertical cross-section along line A-B (**000/V**)」，图内明写「**horizontal scale = vertical scale**」，两轴都标了 metres，并附 a/b/c 岩性图例。这三项（产状、比例约定、图例）是剖面的固定得分点。
+**(4) 剖面必须注明产状与比例约定。** `Q1soln2` 标题即「Vertical cross-section along line A-B (**000/V**)」，图内明写「**horizontal scale = vertical scale**」，两轴标 metres，附 a/b/c 岩性图例。产状、比例约定、图例是剖面的固定得分点。
 
-**(5) 「答不出来」也是标准答案。** `Q1soln2` 写着：「**It is not possible to say, based on the map, which came first - folding or faulting**」。这是本周最重要的示范——**当证据不足时，正确答案是明确写出"证据不足以判断"，并说明为什么**，而不是硬猜一个顺序。W8 的事件序列答案里也有同样的示范：「dip of Unit A unknown − possibility of late tilting cannot be excluded」。
+**(5) 「答不出来」也是标准答案。** `Q1soln2` 写着「**It is not possible to say, based on the map, which came first - folding or faulting**」。**证据不足时，正确答案是明确写出「不能判断」并说明理由**，不是硬猜。W8 事件序列答案里有同样示范：「dip of Unit A unknown − possibility of late tilting cannot be excluded」。
 
-**(6) 比例尺与单位要看清。** Q1 是 **1:40000、等高线以 metres 计**；EPQ2 是 **contours in feet、比例尺条 0–500 ft**。同一周两题两套单位，答案也分别用 m 和 ft。**混单位是低级失分。**
+**(6) 比例尺与单位要看清。** Q1 是 1:40000、等高线以 **metres** 计；EPQ2 是 contours in **feet**、比例尺条 0–500 ft。同一周两题两套单位，混用是低级失分。
 
 ---
 
