@@ -281,15 +281,14 @@ pKa = 9.3（室温）；A⁻ 为**粉红色**，HA 为**无色**。
 
 老师专门说明："I've always had feedback previously that I haven't started at the beginning. So even though we're halfway through a unit, I'll just start with the very fundamentals of some chemistry." 所以幻灯片前几页的 amu／mole／stoichiometry 是**刻意的复习页**，不是新知识点，但**摩尔／molarity／molality 的区分在实验计算里必用**。
 
-### 3. 讲授中的额外解释与举例
+### 3. 讲授中的额外解释与举例（幻灯片上没有）
 
 - **carbon-12 的任意性**："The humanities just said carbon-12 is what we're going to use"——参照点是人为约定，所以只有 ¹²C 是整数。
-- **氯的 35.45 从哪来**：³⁵Cl 约占 3/4、³⁷Cl 约占 1/4 的丰度加权（幻灯片上只有数字，没有解释）。
-- **核结合能**：加总 6p+6n+6e 得不到 12，差额被结合能"吃掉"了，"there is an energy-mass equivalent"——但**不会考**，做题直接查表取原子量。
-- **molarity vs molality 的实际影响**："for you it won't make any difference in your lab experiments, but if we were using other solvents, then you would have to distinguish between the two."（本周实验里体积与摩尔数成正比就是靠这个近似。）
-- **"地下到处是湿的"**（见第二段第 3 节）——这是老师用来立论"流体地球化学是地球化学的主场"的核心论证，很可能作为简答题的开场论述。
-- **纯水绝缘**的浴室充电手机例子——考点是"导电的是离子不是水"。
-- **理想气体类比**理解理想／非理想溶液。
+- **氯的 35.45 从哪来**：³⁵Cl 约占 3/4、³⁷Cl 约占 1/4 的丰度加权（幻灯片只给数字、无解释）。
+- **核结合能**：6p+6n+6e 加总得不到 12，差额被结合能"吃掉"；但**不会考**，做题直接查表取原子量。
+- **molarity vs molality 的实际影响**："for you it won't make any difference in your lab experiments, but if we were using other solvents, then you would have to distinguish between the two."（本周实验中体积正比于摩尔数，靠的就是这个近似。）
+- **"地下到处是湿的"**（见二 §3）——老师用来立论"流体地球化学是地球化学主场"的核心论证，很可能作为简答题的开场。
+- **纯水绝缘**的浴室充电手机例子——考点是"导电的是离子不是水"；**理想气体类比**用来理解理想／非理想溶液。
 - 老师自嘲式的诚实："ions start interacting with each other in all sorts of ways that we're not going to go into the detail of. **And I don't understand them either**." → 呼应下面的考试提示。
 
 ### 4. ⭐ 考试提示（转写中明确说的）
