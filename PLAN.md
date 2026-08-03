@@ -116,7 +116,7 @@
 - [x] 7. Practical Skills (MT) — 执行顺序第 5 位，10 周周笔记 + 课程总纲已完成（Opus）。注：Week 3 原始材料缺失；W2 图片型幻灯片转换后仅剩标题、W7 讲义引用的公式全学期不存在、W11 无标准答案，均已在各周笔记中标注。
 - [ ] 8. A Dynamic Planet (HT)
 - [ ] 9. A Sustainable Planet (HT)
-- [ ] 10. Computer Programming (HT)
+- [x] 10. Computer Programming (HT) — 执行顺序第 9 位，9 周周笔记 + 课程总纲已完成（Opus，9 个周 Agent 一次派齐）。课程总纲含**全课勘误表 47 条**（含 5 条「看似能跑实则有问题」的隐蔽代码 bug）、语法与函数速查索引、调试排错速查表。
 - [x] 11. Mathematics and Physics (HT) — 执行顺序第 8 位，12 周周笔记 + 课程总纲已完成（Opus，12 个周 Agent 一次派齐）。主手册按 `Handbook Index.md` 分章到各周；主手册第 9 章 Integration by Parts 未被拆入任何周，裁定归 Week 8 作选读（非考纲）；自 Week 9 起周版章号比主手册小 1。⚠️ 本课 PDF→md 转换损耗极重（公式多为图片），课程总纲含**全课勘误表 62 条** + 13 项「由答案反推重建」清单。
 - [ ] 12. Practical Skills (HT)
 - [ ] 13. 2025 Field Trip (HT)
