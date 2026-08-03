@@ -1,0 +1,2781 @@
+'EART26201 - 24-Nov', automated transcript
+03/08/2026
+---
+
+Yeah.
+
+Can we go sit in the back?
+
+Oh.
+
+Can we please?
+
+Hello.
+
+I think I sleep on the walk table for a while.
+
+Hello.
+
+How do you say that in English?
+
+How do you say that in English?
+
+No, it's so true.
+
+How do you say that in English?
+
+How do you say that in English?
+
+So maybe in the penel.
+
+that are in the same area.
+
+Same area.
+
+Same city.
+
+I just think that
+
+the
+
+the
+
+the
+
+the
+
+I don't know
+
+don't worry. I'm okay.
+
+The student service
+
+development manager and head of
+
+education.
+
+Not you.
+
+Right.
+
+Good morning. Oh afternoon. Sorry.
+
+Everybody.
+
+I'll put this back up at the end
+
+if you haven't got it.
+
+So
+
+Just to remind you this week you're back
+
+on practicals where you're doing
+
+one of the sessions
+
+out of the four or five with Jordan.
+
+Okay. So it's not me Wednesday
+
+morning. It's whichever one worked for you
+
+last week. And if you have to change
+
+stick with the one that you did change to.
+
+But this
+
+week we'll be doing some
+
+experiments to do with buffering
+
+and alkalinity. So now's a good
+
+time to sort of say a few words about
+
+it.
+
+This is one of those lectures where I've just kind of lumped
+
+three things sorted together
+
+or two things together because neither
+
+of them are kind of big enough on
+
+their own. Do you see what I mean? So
+
+it's a little bit of a
+
+mismatch of things but
+
+I just wanted to say a little bit about
+
+essentially
+
+carbonates and silica in
+
+solution. This is what it amounts to.
+
+So it's kind of too hard to do it.
+
+So this is
+
+kind of hopefully familiar
+
+in week one. This should be sort of
+
+revision. We talked about this right at the start.
+
+We said that acidity
+
+of a solution is
+
+its ability and capacity to donate
+
+protons.
+
+In the context of you doing
+
+practical work you can work out
+
+the acidity by titrating
+
+with the base.
+
+And that's what you will be doing this week.
+
+We'll be doing acid based titrations.
+
+Similarly alkalinity
+
+you can think of it as the opposite. It's the
+
+capacity to accept those electrons
+
+that acids
+
+are able to donate. And likewise
+
+you can titrate an acid
+
+into that to work out concentrations
+
+of an alkaline.
+
+Generally
+
+acids tend to dissolve things better.
+
+Particularly metal ions.
+
+So the reason why we do worry about
+
+acidity in acids is because
+
+it's a
+
+driver behind environmental problems.
+
+Where you have acid waters
+
+you tend to get what's called
+
+high total dissolved solids.
+
+Which means that unless
+
+you clean that water up it's not
+
+suitable to drink.
+
+We also said that we defined
+
+what strong and weak acids were.
+
+We said that strong acids
+
+readily release H plus
+
+into water. I.e. they dissociate.
+
+We talked about the idea of dissociation.
+
+Things splitting up when they go into water.
+
+And likewise strong bases
+
+do exactly the same but they release
+
+OH.
+
+But the strength is not the same
+
+thing as the concentration. You could have
+
+something that's a very low
+
+strength acid but lots of it.
+
+And equally you could have something
+
+that's quite a weak acid but at a high concentration.
+
+You might end up with the same
+
+amount of H plus if you like.
+
+But for different reasons. So remember
+
+that those two things are not the same.
+
+And we talked about this as well in the
+
+first lecture. The idea that
+
+when you dissolve an acid
+
+in water you split it up into
+
+two components.
+
+The positive charge bit and the negative charge bit.
+
+And we have this idea of
+
+K, the equilibrium constant.
+
+Which is in this case the
+
+products. Bits on the right
+
+over the bits on the left the
+
+undissociated acid.
+
+And we give it that little subscript A because we're talking
+
+about acids in that particular case.
+
+Or B with bases.
+
+And we also said
+
+we introduced this idea of
+
+pKa
+
+which was the minus log of the base
+
+pen of the Ka value.
+
+So therefore
+
+because it's a log the lower the
+
+pKa value the stronger
+
+the acid or base.
+
+We've only talked actually
+
+previously about single step reactions.
+
+It's worth just remembering that
+
+some acids have more than one
+
+H plus. So this is phosphoric acid.
+
+There's three H plus
+
+here. They don't all go
+
+in one step. There's actually
+
+an equilibrium constant for
+
+each stage of that.
+
+So it's not an instantaneous reaction.
+
+It has to go through these different steps.
+
+And when we look at silica in about
+
+20 minutes time we'll look at how
+
+we have to look at these individual steps
+
+to understand what's happening
+
+in a particular situation.
+
+So where you have stepwise release
+
+of H plus each of those steps
+
+will have its own
+
+equilibrium constant associated
+
+with it.
+
+What you might be a bit less familiar
+
+with because I haven't really
+
+mentioned it in one lecture
+
+but you probably haven't thought
+
+of water in this way is that
+
+actually water itself does
+
+dissociate a little bit.
+
+So the vast majority
+
+of water stays at H2O
+
+but some of it does
+
+naturally split up into H plus
+
+and now H minus. Even when it's just
+
+water on its own. Pure water.
+
+And it has a K
+
+like everything else. It has an equilibrium constant
+
+K which is a very small
+
+number. One times 10 to the minus
+
+14. So not very much splits
+
+up. Most of that water stays
+
+as water molecules but
+
+the pK
+
+therefore for water at 25
+
+degrees C and one atmosphere
+
+is actually 14.
+
+Because we're talking about water and obviously
+
+this is water in water
+
+the bottom number here
+
+in this K is one. So
+
+a bit like last week when we talked about
+
+having a solid in an equilibrium constant
+
+with the solubility product. That was essentially
+
+one because it was a solid. For a
+
+slightly different reason here we ignore it.
+
+It's one because it's water. We're
+
+just talking about water. So all you're
+
+left with then is the two concentrations
+
+of H plus and then H minus
+
+which therefore must be
+
+one times 10 to the minus 7
+
+moles per litre. Under those
+
+conditions at 25 degrees C
+
+and one atmosphere.
+
+And we talked about pH
+
+before being the minus log of H plus
+
+in the same way that pK is the minus
+
+log of kA.
+
+So you can
+
+see that because
+
+the pH
+
+minus log of the H plus is
+
+talking about this H plus here
+
+if you change the K of water
+
+you do actually change
+
+pH. So if you
+
+change the temperature because equilibrium
+
+constants are dependent on temperature
+
+the natural pH of water
+
+will change which you might
+
+not really come across before. But
+
+pure water therefore
+
+has a pH of 7 at
+
+25 degrees C. But only at
+
+25 degrees C. Because
+
+if you change the temperature you generate
+
+either more or less
+
+H plus ions. And seeing as pH
+
+is just the definition of concentration
+
+of H plus ions. Then
+
+it will change.
+
+So for example at 0
+
+degrees C pure water is actually
+
+slightly alkaline. So
+
+we could do the same thing for pOH
+
+and come up with this little
+
+term here. pK is
+
+the pOH plus the pH which
+
+equals 14 under these
+
+conditions.
+
+These ones.
+
+And we'll come back to that when we
+
+use that in a calculation in a minute.
+
+So there's the idea of pH
+
+buffers then. If you add
+
+an acid or a base to something
+
+it should change the pH.
+
+Hopefully that's fairly
+
+intuitive, fairly obvious.
+
+But some solutions
+
+will resist that pH change because
+
+they'll react with that H plus or that
+
+OH minus. Those dissolved
+
+ions. So if you have
+
+a solution that's able to either reduce
+
+the pH change you would expect or
+
+even essentially stop it.
+
+Then that solution is called
+
+the pH buffer.
+
+And it has something called the buffering capacity
+
+which is a measure of
+
+how many H plus ions or
+
+OH minus ions it can
+
+take up before it actually
+
+gives up and the pH changes.
+
+To some
+
+degree all water
+
+is a little bit of a buffer because it's got
+
+dissolved ions in it that might
+
+act in this way. But by far the
+
+biggest one in the earth's system
+
+is seawater.
+
+And in seawater
+
+we have kind of a pairing
+
+of
+
+calcium carbonate
+
+and then the dissolved
+
+HCO3, that's the bicarbonate
+
+ion or hydrogen carbonate ion
+
+that comes from that calcium carbonate.
+
+And it's that
+
+supply of bicarbonate ions from
+
+calcium carbonate that actually
+
+does the buffering.
+
+Bicarbonate ions are actually a bit special.
+
+There's something called amphoteric
+
+which means they can actually react with H plus
+
+or OH minus.
+
+So they can actually work in both directions.
+
+But from our perspective
+
+the presence of these
+
+act as a buffering in
+
+seawater. Which is actually really important
+
+because we all know that CO2 is going
+
+up in the atmosphere.
+
+I'll show you an equation that
+
+takes that on board in a minute.
+
+But the upshot of that is that the seawater
+
+would be expected to get more acidic
+
+as time goes on.
+
+But actually
+
+it's not changed too much.
+
+Pre-industrial
+
+CO2 levels
+
+pH of seawater
+
+was about 8.2.
+
+It's now about 7.9.
+
+So this buffering process
+
+is actively ongoing
+
+and it's actually working
+
+in the sense that the pH isn't
+
+changing as much as we might expect.
+
+The problem with that though
+
+is that obviously
+
+these calcium carbonate particles
+
+grains
+
+calcium carbonate is used
+
+by creatures that live in the oceans
+
+to build their shells.
+
+So particularly things like plankton
+
+take up calcium carbonate
+
+and use it to keep all their body parts
+
+within.
+
+So if you're adding
+
+essentially adding H plus which is what
+
+having CO2 from the atmosphere is doing
+
+trying to make the ocean
+
+more acidic
+
+you can see that it's a bit of a problem
+
+for things that live in the oceans
+
+and use calcium carbonate
+
+because that H plus is going to react with that calcium carbonate
+
+generated
+
+by carbonate ions
+
+but ultimately you are using
+
+up calcium carbonate.
+
+So creatures that live in the oceans
+
+and make their homes
+
+in calcium carbonate shells
+
+are actively being dissolved here
+
+by this process.
+
+So they're sort of working against
+
+but in chemical terms they're working against
+
+the chemical gradient as we're adding H plus.
+
+So alkalinity then is
+
+as a definition is the capacity of the solution
+
+to neutralise
+
+or bump up an acid.
+
+As I said in nature
+
+almost all of it is
+
+due to this carbonate
+
+ion which is the CO3 2 minus
+
+and the bicarbonate.
+
+So in practical case
+
+in all practical cases
+
+what's called total alkalinity
+
+is actually just coming from
+
+carbonate.
+
+Occasionally you get something
+
+a little bit from OH. Specific minerals
+
+do produce OH but
+
+in a sort of a
+
+mass balance sense globally
+
+it's generated by
+
+bicarbonate and carbonate ions.
+
+So this is essentially saying
+
+the same thing as the previous slide.
+
+The upshot of dissolving calcium carbonate
+
+is that you're generating OH.
+
+It's that OH that can react
+
+with H plus to prevent
+
+acidity or if there isn't any extra
+
+H plus, dissolving calcium carbonate
+
+will actually cause the pH
+
+to rise a bit because it is generating
+
+OH ions.
+
+So that's all very qualitative. What I've just said
+
+would be useful to actually be able to
+
+look at this quantitatively. Is there a way
+
+that we can actually calculate
+
+how the offering might work
+
+in a particular system?
+
+Yes there is and
+
+it's using this equation that we've come across
+
+before. I think it was in the first lecture
+
+we had where it related pH,
+
+pK and the
+
+ratio of dissociated to undissociated
+
+ions. You can use that
+
+in this context here
+
+to understand quantitatively what would
+
+what we might expect to happen.
+
+So as a couple of rules
+
+then, if your acid or base
+
+is added to something
+
+a buffering system and the pH
+
+is near the pK
+
+then the pH won't change
+
+very much. But if the pH and the
+
+pK as values, defined values
+
+are quite different, then
+
+the pH will change a lot. So
+
+I'll show you in a minute why that is
+
+in my calculations.
+
+So let's look at an example of
+
+dissolution of a feldspar or
+
+feldspar all-bytes
+
+which I think we've probably come across before.
+
+It's what's called the base generating
+
+reaction because it produces
+
+OH. It produces other things as well
+
+but for now we're only really concerned
+
+about that OH. So one all-byte
+
+molecule gives you four
+
+OHs.
+
+In terms of titrations then we can think of
+
+that as a certain
+
+amount of all-byte titrating
+
+four
+
+OHs. So let's say we've
+
+got 20 millimoles
+
+of all-byte that produces
+
+it all dissolves 80 millimoles
+
+of OH.
+
+We put that as a
+
+pOH, 80
+
+millimoles is 0.08
+
+moles, minus log
+
+0.08, the pOH
+
+is 1.1.
+
+I said a couple of slides ago that the pK
+
+is the pH plus the pOH.
+
+If you rearrange that then the pH
+
+under those conditions
+
+is the pK minus the
+
+pOH which is 14 minus
+
+1.1. Therefore if you just
+
+put 20 millimoles
+
+of all-byte and dissolve it in water
+
+the pH you will get in pure
+
+water is 12.9.
+
+Just using
+
+that simple pH-pOH
+
+relationship. So what happens
+
+if we put something that's a buffer in that
+
+water first, something that's
+
+slightly acidic that can react with those
+
+OH ions.
+
+So let's add say 100 millimoles
+
+of H2CO3.
+
+H2CO3 is carbonic acid
+
+so that's the
+
+thing that makes water acidic when you've got
+
+extra CO2. Dissolve CO2
+
+in water, you generate
+
+carbonic acid which is this here.
+
+Carbonic acid has a pK
+
+of 6.35.
+
+I should have written the conditions there, I haven't.
+
+I'll say it's 25 degrees
+
+C and one ounce.
+
+So
+
+in terms of reaction then
+
+we can plug those into the Anderson-Hasselbalck
+
+equation. This is the carbonic
+
+acid.
+
+This is what it dissociates into.
+
+I should have written the equation on there,
+
+sorry. But essentially you've got one
+
+carbonic acid here reacting
+
+with one OH.
+
+It loses an H+.
+
+It becomes HCO3-
+
+and that H plus reacts with that OH
+
+just to give you water.
+
+So it's a one to one reaction to neutralise
+
+so one of those carbonic acids is
+
+neutralising one OH from
+
+the dissolution of the albite.
+
+So let's say for example
+
+that 12.5 millimoles
+
+of albite
+
+is dissolved. That gives you
+
+4 times that which is 50 millimoles of OH.
+
+Because it's one to one
+
+and we started with 100 millimoles
+
+of carbonic acid,
+
+the equation becomes that.
+
+pH is 6.35 which is the pK
+
+plus the log
+
+of 50 over 50 because half of
+
+our 100 is
+
+converted from carbonic acid
+
+into bicarbonate ions to react
+
+with this. So
+
+the log of 50 over 50 is 0.
+
+The log of 1 is 0.
+
+So pH
+
+at that point is 6.35.
+
+If we keep dissolving it,
+
+so this is now dissolving all of the
+
+albite that we've got,
+
+that's generating 80 millimoles of OH
+
+so that must be 80 over 20
+
+because it's used up
+
+80% of that carbonic acid.
+
+The log of 4
+
+is 0.6, so you add that to the
+
+6.35 just in that Henson
+
+Hasselbalch equation and you get
+
+6.95. And you can
+
+do that for all the different amounts
+
+of albite that you might add.
+
+And you can see what
+
+the pH is for a given amount of
+
+albite to dissolve.
+
+And as I said just as a fact on the previous slide
+
+where you have pH
+
+the same as pK, so this dotted line
+
+here is pK,
+
+where those are similar,
+
+you can see that the pH change
+
+isn't very much. So this is a linear
+
+addition of albite, but in this
+
+region here you're not really
+
+changing the pH much, you're changing it by
+
+kind of one unit
+
+between 5 and 20
+
+only. Whereas on either side of that
+
+you get a big pH change
+
+with a small amount of albite added.
+
+So you can use that Henson Hasselbalch
+
+equation then to quantify
+
+buffering and how it progresses
+
+in a particular system.
+
+Why does it matter?
+
+Well, from an
+
+environmental point of view,
+
+and I guess most of this is looking at
+
+this as an environmental
+
+geochemistry,
+
+if you don't have
+
+alkalinitium water
+
+it can be susceptible to rapid changes
+
+in pH. And if you get that
+
+you get something called acid shock, which
+
+is not good
+
+for aquatic organisms generally.
+
+When I was your age
+
+this used to be
+
+all the rage, the big problem,
+
+acid rain. We always used to talk about acid rain
+
+as being the next terrible thing.
+
+It is still an issue
+
+in some places, but it's not as big an issue
+
+as it used to be. But it is an example
+
+of
+
+a localised process that can give you
+
+acid shock. It tends to
+
+be industrial in our region.
+
+I think these days the bigger
+
+issue is perhaps general ocean acidification.
+
+That's why
+
+ongoing alkalinity is important.
+
+But if you only take
+
+one bit
+
+of what I've said today
+
+away in terms of carbonate
+
+systems and alkalinity, it's this
+
+equation here.
+
+This equation sums up
+
+basically everything I've just said
+
+and these statements here
+
+just relate to this. This has got all
+
+the equilibrium that you need to consider.
+
+So you can think of it on this end here
+
+as being
+
+CO2 gas, so this is
+
+CO2 produced
+
+put into the atmosphere,
+
+reacts with water to give you
+
+carbonic acid.
+
+That carbonic acid dissociates
+
+to provide H plus ions
+
+and bicarbonate, so it's making the water
+
+acidic.
+
+There's another step, because there's still another H
+
+here, you can get another H plus out of that
+
+and get the carbonate ions here.
+
+So these two steps
+
+going left to right are making things more
+
+acidic. On the other end
+
+here though, you've got carbonate ions that
+
+come directly from calcium carbonate.
+
+Calcium carbonate dissolves, you get CO2
+
+plus and then CO3 2 minus.
+
+So there's two competing
+
+things happening here. On the left
+
+you've got CO2 input from
+
+the atmosphere, because that's
+
+CO2 levels are increasing, and
+
+over here you've got carbonate
+
+ion input from dissolution of
+
+calcium carbonate.
+
+They're both sort of working against each other.
+
+You add stuff in at the left, all the equilibria
+
+go to the right, and it makes things more acidic.
+
+You add stuff at the right, pushes everything
+
+back to the left again.
+
+And it's that battle, if you like,
+
+between CO2 and calcium carbonate
+
+that is sort of global
+
+alkalinity story.
+
+So that's all I'll say about that, I'll stop
+
+for the final, how long have we got?
+
+15 minutes or so, just to talk
+
+a little bit about silica, because
+
+although carbonate is important in
+
+certain environments, globally
+
+silica is more important, because there's a lot
+
+more silicates around
+
+and silica in general, than there is
+
+carbonate.
+
+When I talk about silica, I'm talking
+
+about silicon dioxide,
+
+SiO2.
+
+If it's a crystal, it's usually
+
+quartz, you'll have come across quartz
+
+before. There are other
+
+crystalline forms of silicon dioxide,
+
+but it can also be
+
+amorphous, which means it's got
+
+no crystalline structure at all,
+
+it's just like a blob.
+
+And it's generally
+
+this amorphous
+
+silica, as we call it,
+
+that reacts with water to produce
+
+something called silicic acid, rather than
+
+quartz. Quartz doesn't react,
+
+doesn't dissolve very
+
+readily.
+
+So, yeah, very little
+
+silicic acid is actually generated from quartz,
+
+most of it either comes from weathering of
+
+silicates, things like feldspars and micas,
+
+or
+
+from this amorphous silica.
+
+So,
+
+you may have come across
+
+amorphous silica in a different form
+
+in some of your practicals.
+
+When it does start to precipitate,
+
+it tends to precipitate as a gel,
+
+like a genetically
+
+goo, which, over time,
+
+as that gets squished when it's
+
+being lithified, squeezes all the water
+
+out, and you end up with a chert.
+
+So, if you ever wonder what chert is,
+
+it's actually amorphous silica
+
+that's precipitated from water
+
+without the water
+
+with it. Okay, so it's squeezed
+
+all the water out.
+
+In terms of
+
+dissolutions and the details of dissolution
+
+of amorphous silica,
+
+this is the simple first step.
+
+Okay, so
+
+2 plus water gives you silicic acid.
+
+That step there
+
+produces
+
+1.82 times 3
+
+moles times 60,
+
+which is the molecular mass,
+
+is 0.1 grams per kilogram
+
+of water.
+
+So 109 ppm is the
+
+saturation of amorphous silica
+
+in water.
+
+But amorphous silica is actually a little bit
+
+more complicated than that, because
+
+it's one of those reactions
+
+that has these different step-wise
+
+parts to it.
+
+So it doesn't just stop the production of silicic acid.
+
+That silicic acid can also
+
+lose H plus and turn into
+
+something else.
+
+So you can see from the K values that these are all
+
+quite small numbers compared to this, so they're not
+
+important
+
+at this point,
+
+but we do need to consider the
+
+effect of converting some of
+
+that into some of that. Because obviously
+
+if that
+
+is turned into this, then this has essentially
+
+disappeared, that number's gone down,
+
+so it will allow more
+
+solution of the original
+
+silica.
+
+So we can quantitatively do
+
+that. We can look at
+
+this first step, for example, so this
+
+K1 reaction.
+
+The K for that is
+
+the product over the reactants.
+
+We know some of these numbers.
+
+We know the K1 value is 1.95
+
+10 to the minus 10.
+
+At pH 7,
+
+so we're looking at this in neutral conditions,
+
+we know the H plus is 1 times 10 to the
+
+minus 7.
+
+We've just said that the
+
+silicic acid, this one here,
+
+is 1.8 times 10 to the minus
+
+3. So if you chuck all those numbers into
+
+this equation here,
+
+and rearrange it so
+
+that you've got the H3SiO4
+
+on the left-hand side, so you're just
+
+multiplying both sides by silicic acid
+
+and dividing both sides by H plus,
+
+you get this term here,
+
+with the H plus on the bottom,
+
+which is 3.55 times 10 to the minus
+
+6.
+
+So at pH 7,
+
+that's not very important.
+
+That number is much smaller than that number.
+
+By a factor of about 500.
+
+So at pH 7,
+
+we're okay with just
+
+using this first step as our
+
+approximation of the dissolution
+
+of amorphous silica.
+
+But that's not true if you keep
+
+increasing the pH.
+
+Go back again.
+
+If the pH is 8, then that number becomes
+
+1 times 10 to the minus 8.
+
+Yeah.
+
+If that number is 1 times 10 to the minus 8,
+
+that's
+
+10 times smaller, so that becomes
+
+10 times bigger.
+
+3.55 times 10 to the minus 5.
+
+So as you increase the pH,
+
+the dissolution of amorphous silica
+
+increases. So that's why
+
+you get
+
+strange figures like this.
+
+We won't worry about this one,
+
+we'll just look at the amorphous silica one.
+
+pH is
+
+4 to the
+
+8, maybe 9.
+
+It doesn't really change very much,
+
+it's all driven by that first step,
+
+that first solidic acid production
+
+reaction. But once you increase the
+
+pH towards 10, you rapidly
+
+this is log scale,
+
+you rapidly increase the
+
+silica solubility.
+
+And that's just a function of the fact that this
+
+number here is getting smaller and smaller,
+
+so this one is getting bigger.
+
+It is also actually
+
+temperature dependent, amorphous silica
+
+solubility, but not
+
+as strongly as it is pH
+
+dependent. This is a
+
+linear scale, this is a log scale.
+
+The effect is much bigger for pH.
+
+So when you have alkaline solutions,
+
+amorphous silica, much
+
+more soluble.
+
+So if you have a relatively
+
+small decrease going the other way from a high
+
+pH down, then you will
+
+slightly reduce the solubility
+
+of
+
+this acid, of amorphous
+
+silica, and then you'll precipitate it.
+
+So for example, if you just reduce the pH
+
+by 0.1 pH units,
+
+from 8.5 to 8.4,
+
+that will produce 1.37
+
+milligrams per litre
+
+of silica. Which might not sound
+
+like very much, but a
+
+lot of water has got silica in it.
+
+So if you multiply
+
+that by volumes of groundwater
+
+flow and flow rates,
+
+it is a very efficient way of moving
+
+silica and silica around
+
+the earth system.
+
+Very quickly, especially if you're looking at industrial
+
+processes and things like that where you don't want
+
+silica precipitating,
+
+it can rapidly become a problem
+
+if silica ends up in places where you don't want it
+
+to be. So it's something you need
+
+to keep an eye on.
+
+You want to
+
+calculate and quantify
+
+the silica
+
+dissolution.
+
+Quartz
+
+is not
+
+as important, as I've said before,
+
+as a source of silicic acid,
+
+mainly because it's less soluble.
+
+About 20 times less
+
+soluble than amorphous silica.
+
+Quartz solubility
+
+is about 6 part per million.
+
+Amorphous silica is about
+
+110. So if we look
+
+at a table of silica,
+
+silica dioxide, silica
+
+concentrations in
+
+river water and seawater,
+
+you can see that in river water,
+
+it's actually super saturated
+
+with respect to quartz,
+
+but undersaturated
+
+with respect to amorphous silica.
+
+So, from a
+
+geochemical point of view, you should expect
+
+quartz to just precipitate out of river
+
+water, which isn't what we see at all.
+
+And the reason for that, and I've mentioned
+
+this before, is kinetics. It's just
+
+not a very kinetically favourable
+
+reaction. It doesn't happen faster
+
+than after practice. But from
+
+an equilibrium chemistry point of view,
+
+really, we should get precipitation of quartz
+
+in all our rivers,
+
+because they've all got
+
+super saturated
+
+with respect to quartz.
+
+However, seawater has
+
+less dissolved silica than river water,
+
+which isn't what you'd expect, because
+
+we know that seawater has a pH
+
+of about 8, which is slightly alkaline.
+
+River water tends to be more
+
+like rainwater, which is slightly acidic,
+
+something like pH 6.
+
+So, it's actually the wrong way round
+
+in the sense that we would probably
+
+expect to have more dissolved silica
+
+in
+
+the oceans compared to
+
+the rivers. So, quick question
+
+for you, Choke, to
+
+death. Why is that? Why have we got
+
+less silica in the ocean?
+
+Anyone want to hazard a guess?
+
+No? Just checking your hair.
+
+OK, fair enough.
+
+It's to do with
+
+things that live
+
+in the oceans. Have you heard of diatoms?
+
+I hope you might have done.
+
+Diatoms are various creatures that actually
+
+that live in the oceans that use silica
+
+in their shells. So, the reason why
+
+we actually have less dissolved
+
+silica in the oceans
+
+than we do in the rivers is because
+
+of the uptake of silica
+
+by various microscopic
+
+creatures. So, a bit like
+
+various creatures use calcium carbonate
+
+in their shells, some creatures use
+
+silica. So, that's why we've got less silica
+
+than we expected.
+
+Right, so for the
+
+final
+
+five minutes or so, I just want to
+
+show an application of
+
+silica solubility
+
+and what we can do with
+
+some of these reactions.
+
+Those of you who are geochemists, you'll have seen
+
+this bit in environmental chemistry
+
+which I'll show you.
+
+It doesn't hurt to have a quick refresher.
+
+So, amorphous silica
+
+and silicic acid is
+
+part of what we call potassium
+
+aluminium silicon water
+
+system, which is a very common
+
+system in geochemistry
+
+and kind of incorporates all
+
+sorts of silicates, bells, bars,
+
+micas, you name it. They're all
+
+potassium aluminium silicates.
+
+So, we'll start with
+
+one reaction
+
+that involves
+
+these elements, and we'll kind of
+
+build it into something called a mineral
+
+stability diagram, because that's the point
+
+as part of the lecture. I want to show you where
+
+mineral stability diagrams come from
+
+and how you can use them
+
+for least qualitatively to understand
+
+and predict what would happen
+
+in fluid systems. So,
+
+let's take this reaction
+
+here of microfine, which is a fairly
+
+complex part.
+
+In water, it turns
+
+into this thing, kaolinite, which is a clay.
+
+So, it's just converting
+
+feltify into a clay. In the process
+
+it
+
+produces potassium ions in solution
+
+and this silicic acid that we were
+
+talking about before.
+
+As always, we can write a K,
+
+an equilibrium reaction
+
+constant for it, which is
+
+what we know.
+
+Hopefully we're familiar with this by now. It's concentration
+
+to the power of whatever that number
+
+is before that particular
+
+molecule in the equation.
+
+So, if it's four silicic acids,
+
+it's silicic acid to the power
+
+of four, and so on. Same
+
+for K plus, LH plus.
+
+We can log
+
+that
+
+to give you this.
+
+So, this is very similar to what we did in
+
+practical, where you had
+
+something to the power of two, but
+
+you wanted to have log values
+
+to be able to plot a log-log plot,
+
+which you had a straight line on,
+
+if you remember
+
+last week, those when you came to practical.
+
+So, if you log this
+
+term, you get these
+
+values here, then you can see that the numbers
+
+that were to the power of are now
+
+in front of those concentrations.
+
+As I say, very similar to what we did in practical.
+
+There's some rules of log involved
+
+here. Log rules.
+
+Don't learn them. Please don't learn them. I don't
+
+know them either. I will never ever ask you
+
+to reproduce or anything
+
+about it. But some people like to know exactly
+
+how you get from one point to another point.
+
+Using these rules here,
+
+you can get from this
+
+equation here to this one.
+
+That's all you need to know.
+
+So, what we've done is we've taken
+
+an actual chemical reaction and
+
+reduced it to this equation
+
+here, which is actually the equation of
+
+a straight line.
+
+So, this is just a
+
+y equals mx plus c straight line equation
+
+with log terms in it
+
+in the same way that you had in practical
+
+last week. Exactly the same
+
+idea. So,
+
+on the y-axis, y
+
+we have log over potassium
+
+and hydrogen equals minus
+
+two. So, minus two is the slope
+
+multiplied by
+
+x, which is the acidic acid,
+
+log of the acidic acid concentration,
+
+plus log k over two. So, the intercept
+
+in this equation is that bit here.
+
+So, we've converted
+
+that top equation
+
+into a straight line.
+
+You might go, well, why? Why
+
+indeed?
+
+There's lots of other reactions that occur
+
+in that same potassium, aluminium,
+
+silicon space. They're all kind of
+
+interrelated. And they all
+
+have, obviously, a different equation
+
+for them. But you can do the same thing for
+
+all of these. You can convert them
+
+into a straight line
+
+equation. These final parts
+
+are here.
+
+We've numbered these one to six. So,
+
+if you do that, you end up with
+
+this diagram on the right. This is
+
+what we call a mineral
+
+stability diagram. This one is
+
+for the potassium, aluminium, silicon,
+
+but you can make mineral stability diagrams
+
+for all sorts of different
+
+elemental systems,
+
+molecular systems that you want.
+
+So,
+
+I've numbered one, two, three, four, five,
+
+six as those six equations on
+
+the previous slide. So, the one that we actually
+
+just went through as an example was one.
+
+It's this line here
+
+with a slope of
+
+minus two. It was converting
+
+microclime into k over 90.
+
+So, mineral stability diagrams,
+
+they serve two purposes,
+
+really. One is to show you
+
+with particular concentrations
+
+of dissolved ions
+
+which minerals are stable.
+
+So, these
+
+fields here, let's say gibbsite,
+
+muscovite, microclime,
+
+are the areas on
+
+this diagram where that particular mineral
+
+is stable and will exist.
+
+So,
+
+in this case, it's dependent on
+
+the concentration of silicic acid
+
+and the potassium to hydrogen ratio.
+
+So, it tells you where minerals are stable.
+
+It tells you which minerals are stable
+
+with respect to each other. So,
+
+where you've got a boundary between
+
+two different minerals,
+
+they can both coexist.
+
+So, you can see, for example, you have situations
+
+where muscovite and microclime
+
+can coexist
+
+but not microclime and gibbsite.
+
+So, it tells you something fundamental
+
+about a particular mineral assemblage.
+
+Is it at equilibrium or is it not?
+
+Because these are the ones that can exist
+
+at equilibrium.
+
+And the third thing it can do
+
+is allow you to predict what would happen
+
+with a particular
+
+fluid rock system,
+
+which is what we're going to step through
+
+quickly here.
+
+And I think that's probably the most useful
+
+thing to do, try and actually predict,
+
+given a particular environment,
+
+a particular fluid, a particular mineral
+
+assemblage, what will happen?
+
+If you run that forward in time,
+
+what reactions will occur?
+
+So, let's say
+
+we have
+
+a rock
+
+made out of microclime.
+
+This is what we've just talked about.
+
+So, the rock is up here
+
+but the fluid we've introduced
+
+is this fluid of composition
+
+X1 down here.
+
+That fluid is not touching
+
+the boundary or within
+
+that field of microclime.
+
+So, it is not stable. That fluid is not
+
+in equilibrium with that mineral.
+
+So, what happens first then?
+
+If we react
+
+microclime with water,
+
+we use up some H plus ions,
+
+we generate potassium ions
+
+and we make
+
+hydroxide,
+
+which is gibbsite here.
+
+So, because that fluid is in the gibbsite
+
+field, it will produce gibbsite
+
+and salicylic acid as well,
+
+as it dissolves
+
+microclime.
+
+So, that process will occur
+
+until it hits that boundary
+
+at minus
+
+5 log
+
+salicylic acid concentrations.
+
+OK?
+
+So, we know to start with it will evolve
+
+towards
+
+the gibbsite kaolinite bank.
+
+At that point
+
+at X2
+
+microclime will continue to react
+
+but because the fluid composition is changing
+
+it will start to produce
+
+kaolinite
+
+instead of gibbsite.
+
+So, our new mineral that's being produced
+
+is kaolinite.
+
+So, the fluid is kind of
+
+trying to move into the
+
+go in the same direction
+
+it's still increasing the amount of
+
+salicylic acid here
+
+and it's still increasing the potassium
+
+to hydrogen ratio, so the arrow
+
+should carry on up in this direction
+
+here, but once it starts doing that
+
+it's no longer the boundary between the
+
+gibbsite and the kaolinite field, it's just
+
+in the kaolinite field.
+
+So, that means the gibbsite
+
+is no longer stable because the fluid is
+
+moving out of that, it's trying to
+
+move off this line
+
+where both gibbsite and kaolinite
+
+are in equilibrium
+
+and both are stable.
+
+So, what happens is actually the gibbsite
+
+then reacts with that extra
+
+salicylic acid to drive the fluid
+
+composition directly upwards.
+
+So, whenever one of these reactions
+
+happens to produce the salicylic acid
+
+because that drives it out of
+
+away from that boundary
+
+you then, the gibbsite
+
+then uses up some of those
+
+salicylic acids. So, fluid
+
+evolves up, keeps
+
+going up to a point x3
+
+x3 is where
+
+all of the gibbsite that you made
+
+going from x1 to x2
+
+has then dissolved. If you've got no gibbsite
+
+left, you can't consume
+
+any of that salicylic acid that's being produced
+
+so then the fluid begins
+
+it's evolution in that same direction
+
+again, with the original reaction
+
+where you're generating salicylic acid
+
+and increasing the potassium to hydrogen ratio.
+
+And that will keep
+
+evolving
+
+until you reach
+
+the kaolinite
+
+boundary
+
+at kaolinite
+
+intersection there
+
+at fluid composition x4.
+
+So, at composition x4
+
+you've got some kaolinite
+
+and you've got some kaolinite
+
+and that fluid
+
+is in equilibrium with both of those
+
+so the whole reaction
+
+process will stop
+
+and that fluid will happily sit there in equilibrium
+
+with both of those two points.
+
+So, you can work that out
+
+at least qualitatively like this
+
+without actually having to do that
+
+just by using
+
+the chemical reactions
+
+of the different parts
+
+of this system, as defined by
+
+whichever
+
+that slide there.
+
+So, it's another use
+
+essentially of
+
+equilibrium reaction
+
+constants. And that's
+
+where I'm going to stop today, I think.
+
+There's a couple of summary slides
+
+which I won't go through
+
+because we'll get on with our quiz.
+
+We've got eight minutes left to
+
+dash through
+
+a quick quiz
+
+just to see if any of that sunk in.
+
+Where are we?
+
+We're week eight.
+
+Yeah, is that the right week?
+
+Yeah.
+
+Okay.
+
+Right, today
+
+at stake we have
+
+this might be the same as the first week, I can't remember.
+
+We've got
+
+little Rolos and
+
+Munchies.
+
+I don't know if that means you all don't want to play
+
+with that.
+
+Okay.
+
+Is that everyone?
+
+No, not yet.
+
+I think we've got five, ten
+
+ten, twenty-five
+
+twenty-five.
+
+We've probably got forty.
+
+Is that everyone?
+
+Yep, all happy?
+
+Three, two,
+
+one, go.
+
+Right.
+
+Hopefully some of these are easy
+
+if they're not all easy.
+
+Nice, easy ones
+
+to start with.
+
+What do acids do?
+
+Yeah, not too bad
+
+I guess.
+
+Yes.
+
+Acids donate protons.
+
+Provide H+.
+
+Dan J.
+
+is in the lead.
+
+Siddiq Grant
+
+what a house.
+
+It's another one of those
+
+dreaded all three options.
+
+I think there's a few all
+
+threes in this one.
+
+I guess you're all right in a sense aren't you
+
+because it is all three.
+
+High H plus
+
+is always low pH
+
+and it almost always will have high
+
+dissolves.
+
+Okay, next one.
+
+If H plus is higher than that
+
+the solution is what?
+
+I know, I will tell you, but I don't.
+
+Yeah, if it was exactly one
+
+time synchronized then it would be neutral.
+
+But if it's more
+
+then it's going to be acidic.
+
+Oh, Dan's still
+
+out front.
+
+Good buffering capacity.
+
+Metals,
+
+A, pH change.
+
+Causes precipitation of minerals
+
+or resists pH change.
+
+Oh, very good.
+
+Nice easy one that one.
+
+Manuel's a high one.
+
+Okay, buffering capacity
+
+highest in.
+
+I actually don't know.
+
+Are they acid?
+
+Or this thing?
+
+The question is essentially which of those
+
+has got the most carbon in.
+
+Yeah, that's right.
+
+See, well it's definitely not deionized water because that's got
+
+nothing in it at all. So that's the worst
+
+of all of those.
+
+And you'll do experiments
+
+with deionized water to show actually
+
+that it's not very good at buffering capacity.
+
+Okay, halfway through.
+
+Which of these comes with carbon
+
+limiting?
+
+Oh, oh!
+
+Yes!
+
+Some of you didn't write on three,
+
+right?
+
+Yeah.
+
+All of them do?
+
+Well done.
+
+Dan's still leading.
+
+He helps with the first question.
+
+I might have to read this a bit slow.
+
+pH is given to you,
+
+temperature is given to you,
+
+temperature is given to you,
+
+temperature is given to you.
+
+It's a bit of a tricky question
+
+but I don't think I've worded it very well.
+
+Yeah, it definitely doesn't do that.
+
+You could argue that it does that.
+
+But the answer I was after
+
+was actually that one.
+
+It relates to dissociation
+
+pH.
+
+Oh, Dan's
+
+Dan's still
+
+up there.
+
+Maximum buffering occurs
+
+when?
+
+pH is high, pH is low,
+
+pH is high
+
+pH is similar to pKm.
+
+When is the buffering effect strongest?
+
+Or most efficient, should we say?
+
+Yes.
+
+Yeah?
+
+Well done, Mr. Yip.
+
+Oh, Dan's increasing his lead.
+
+He's very quick on that,
+
+on the buzzer.
+
+Right, that wrong equation,
+
+what does it explain?
+
+Which of those things does it explain?
+
+Does it explain
+
+why corals are dissolving,
+
+why the ocean is warming,
+
+why the atmosphere of CO2 is rising
+
+or all of that?
+
+Oh, you've all fallen
+
+into the trap.
+
+Okay, that's just
+
+the chemical reaction, right?
+
+It's the one where I explain that
+
+the atmosphere of CO2 over here
+
+and this is carbonates,
+
+the things that use carbonate over here.
+
+So, all that explains
+
+is why corals are dissolving
+
+because you're adding CO2,
+
+generates these ions, which essentially
+
+react with calcium carbonate.
+
+It doesn't tell you anything about why things
+
+are getting warmer, it doesn't tell you
+
+about why the atmosphere of CO2 is rising.
+
+It's just that one.
+
+Oh, I didn't trick Dan,
+
+no, did I?
+
+There's no tricking Dan today.
+
+What principle
+
+controls precipitation still at check?
+
+So that's to do with the stepwise bit
+
+that we went through today.
+
+I couldn't put all three,
+
+so I put the opposite.
+
+Yeah, well done.
+
+It is temperature dependent, but it's that pH
+
+that makes the biggest difference.
+
+Right, who's won then?
+
+Third, sorry, no prize
+
+for third, Victor, sorry.
+
+Second is Abby.
+
+First presumably is
+
+whoever it was, Dan J.
+
+Where's Dan J?
+
+Which one is Dan J?
+
+Take the road.
+
+I won't throw it.
+
+Okay, thanks everyone.
+
+Yeah, you won't see me this week,
+
+I'll see you next Monday
+
+for different things.
+
+If anyone wants the seats back up,
+
+I'll just put the seats back on.
+
+And then yesterday,
+
+me and Abby won.
+
+Just three,
+
+I didn't use it
+
+because of the rain.
+
+Thanks.
+
+See you soon.
+
+Thank you.
+
+I have marked them all.
+
+I was just waiting to see
+
+if anybody who was DAS had got an extra
+
+week extension, which was on Friday.
+
+So I'll check them this afternoon
+
+and can you see the comments?
+
+I haven't seen that
+
+yet, it's been graded.
+
+Nobody knows how it works, I don't know how it works
+
+because it's new. You might be able to see the comments
+
+but at the moment you can't see the marks.
+
+But I will do it tomorrow.
+
+I have marked them all.
+
+Most people have done really well.
+
+It's like 78%.

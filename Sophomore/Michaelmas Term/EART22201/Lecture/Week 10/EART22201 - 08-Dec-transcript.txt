@@ -1,0 +1,1397 @@
+'EART22201 - 08-Dec', automated transcript
+03/08/2026
+---
+
+This concept of magma viscosity being critically important in how magmas flow is
+
+one that you
+
+really, really need to know about.
+
+And the key things that control magma viscosity are the silica content.
+
+So the more silica in the magma, the higher its polymerization, therefore the
+
+higher its
+
+viscosity, therefore the more likely you are to have an explosive eruption of
+
+that particular
+
+magma composition.
+
+The second thing that's of really critical importance is the magma water
+
+content, because
+
+dissolving water into a silicate liquid can cause these polymerized silica
+
+chains to be
+
+broken up.
+
+And so the more water you can dissolve into a magma, the more you can reduce its
+
+viscosity
+
+Does that mean that you're less likely to have an explosive eruption?
+
+Well, perhaps, because there you have a trade-off between how viscous the magma
+
+is and how much
+
+gas it contains.
+
+And once you've got your water out of being in the dissolved silicate liquid and
+
+into the gas
+
+phase, it can obviously undergo expansion in the conduit under the ideal gas
+
+law, which could
+
+promote an explosive eruption.
+
+So we also then looked at vesiculation, which is this process of volatiles,
+
+particularly
+
+water but also carbon dioxide, sulfur dioxide, fluorine and chlorine, coming out
+
+of solution,
+
+forming bubbles, and then those bubbles expanding and coalescing.
+
+So we have two important horizons on this diagram, the vesiculation horizon,
+
+that's
+
+when you start to nucleate bubbles of gas, and then the fragmentation horizon,
+
+which
+
+is where you go from having a liquid with dispersed bubbles to having a gas with
+
+dispersed
+
+particles.
+
+So what do these bubbles look like in thin section?
+
+You've seen some of these previously, but we haven't really focused on them.
+
+They are void spaces.
+
+The shapes of those void spaces are ideally, they should be bubble shaped and
+
+round, but
+
+in practice, it depends somewhat on the magma viscosity and the mode of ejection
+
+of the
+
+clast.
+
+So in a low viscosity magma, you're more likely to preserve nice rounded
+
+bubbles, but in a
+
+high viscosity magma, you're more likely to preserve elongate bubbles because
+
+the magma
+
+will have been shearing while it was cooling down.
+
+What are you looking for in a thin section?
+
+These vesicles are transparent, colorless in plain polarized light, and they are
+
+isotropic,
+
+always black under cross-polars.
+
+You may see speckly textures in these holes in the plain polarized light.
+
+That's basically the glue that sticks the rock to the microscope slide.
+
+If you're confused, look to see if you've got any relief on the edge of the
+
+crystal
+
+or the space that you're looking at.
+
+If there's no relief, chances are it's a bubble.
+
+And look at the cross-polarized light because all of the low, the colorless, low
+
+interference
+
+color minerals that we looked at last week, quartz, alkali, feldspar, and
+
+plagioclase,
+
+they all have interference colors.
+
+Therefore, they are not isotropic.
+
+Therefore, they can't be these vesicles.
+
+So, vesicles are isotropic where other low relief colorless minerals are not
+
+isotropic.
+
+Great.
+
+I then talked you through some of the products of effusive eruptions.
+
+Hopefully, this was just a nice set of pictures for you,
+
+things that you've seen before with some terminology attached.
+
+So, we looked at how the magma viscosity controls the appearance of lava flows.
+
+Important here is the aspect ratio.
+
+So, low viscosity magmas will create long but thin lava flows.
+
+High viscosity magmas will create short and thick lava flows or domes or spires.
+
+So, the viscosity fundamentally affects the kind of geometry of the effusion of
+
+these magmas.
+
+Then I looked at some of the explosive eruption terminology.
+
+And again, hopefully, this was just a nice picture festival
+
+with terms that are fairly familiar to you.
+
+And what I've landed on here is this concept of the volcanic explosivity index.
+
+Historically, in volcanology, we've used these very descriptive terms
+
+like Hawaiian, Strombolian, Plinian to describe the styles of eruptive activity.
+
+And in earthquake seismology, they use a quantitative scale that's a logarithmic
+
+scale
+
+to describe the magnitude of the event.
+
+And so, the volcanologists thought, hang on, that's a very good idea.
+
+We should do that too.
+
+And the volcanic explosivity index is born.
+
+So, what you see is that there are some measurable parameters here.
+
+The height of the plume, and this is exclusively referring to the explosive part
+
+of an eruption.
+
+The volume, and again, this is exclusively referring to the volume
+
+of explosively erupted deposits, so it doesn't include the lava flow.
+
+And then the frequency of the eruption, of this type of eruption.
+
+Is it occurring constantly or daily, or does it have a repose interval of a
+
+year,
+
+a decade, a century, much longer than that, and so on and so forth.
+
+And the beauty of some of these parameters is that we don't have to observe the
+
+eruption happening
+
+to be able to go back into the geological record and come up with some idea
+
+of what that explosion might have looked like.
+
+And this volume parameter is what enables us to do that.
+
+So, we can go into the geological record.
+
+We can try to reconstruct the volume of deposits that have been preserved
+
+in the rock record, and then come back to a table like this and figure out what
+
+that eruption might have been like based on observations that we have made
+
+of historic recent eruptions.
+
+Does that make sense?
+
+Fantastic.
+
+So, one of the things to do with this is have a think about what is really good
+
+about this scale, but where there are limitations.
+
+What can we say and what can't we say, particularly if we're trying
+
+to reconstruct past events from their deposits?
+
+You'll have a think about that a bit more in the practical.
+
+Okay. So, what I want to do now is go on and talk a little bit more about the
+
+product
+
+for this explosive eruptions, and again,
+
+some of this terminology will be quite familiar to many of you.
+
+So, we use the term pyroclasts to refer to any kind of thing that is ejected by
+
+a volcano.
+
+We can also use the term tephra to refer to any kind of fragmented material
+
+that is produced by a volcano.
+
+So, it doesn't matter whether these fragments are bits of the quenched magma
+
+itself,
+
+or they are pieces of country rock that have been eroded off the walls of a
+
+conduit
+
+and entrained into the magma.
+
+So, tephra or pyroclasts, encompases, whatever.
+
+Grain size is important.
+
+We use the same kind of terminology as you'll have found in sedimentology
+
+lectures
+
+to describe volcanic sediments.
+
+So, we use the same grain size classification.
+
+You may have been using the phi scale in sedimentology.
+
+Give me a nod if that's familiar.
+
+So, these grain size bins that I've got on this table are taken out of the phi
+
+scale.
+
+So, ash is the volcanic equivalent of sand and silt.
+
+We use lapilli as a term to refer to clasts that are 2 to 64 millimetres.
+
+That's the equivalent of gravel.
+
+And then, for much larger particles, we call them blocks and bombs.
+
+And in sedimentology, that would be cobbles and boulders.
+
+So, an interesting thing about when you hear on news reports,
+
+oh, this volcano created an ash cloud.
+
+They're using ash in both a kind of colloquial word,
+
+as in the volcano produced some ash, we kind of know what they mean,
+
+but they're also using it in a specific term in that they're using ash
+
+as a very fine grain size that's been produced by the volcano.
+
+This is what's dangerous to aircraft because these kinds of particles
+
+are the ones that can be lofted high up into the atmosphere,
+
+can be ingested by aircraft engines,
+
+and can cause problems with their inner workings,
+
+which you obviously don't want if you're inside the aircraft at the time.
+
+So, we use these grain size classifications then to give pyroclastic rocks
+
+classifications.
+
+So, if you've got very, very coarse grained pyroclastic deposits,
+
+we could call those agglomerates or breccias.
+
+If you've got very, very fine grained deposits,
+
+we might call them ash tuff or just tuff.
+
+And the common recurring theme here is this word tuff,
+
+and it's just used to refer to lithified tephra in the rock record.
+
+So, the act of going from kind of disseminated particles to an actual rock.
+
+We can then think about the components of that pyroclastic rock.
+
+Is it mostly glass that's quenched magma?
+
+Is it mostly rock fragments that have been ripped off the conduit of the
+
+volcano?
+
+Is it mostly crystals or crystal fragments
+
+that might have been picked up from a solidifying magma chamber?
+
+And we can look at trying to measure the relative modal proportions
+
+of those different components and then further refine our classification.
+
+So, a vitric tuff is your kind of classic.
+
+Most of the material in this rock came from the magma itself.
+
+Okay. So, having got some words for describing pyroclastic rocks
+
+in terms of their grain size and their components,
+
+we can then think about the deposition mechanisms.
+
+So, we just subdivide our deposits into fall deposits and density current
+
+deposits.
+
+Fall deposits do what it says on the tin.
+
+When you have an eruption, there's an eruption column
+
+that is ejecting material from the vent of the volcano and lofting it into the
+
+air.
+
+If it's gone up, it's got to come back down again.
+
+So, pyroclastic fall deposit is just a gravity settling deposit
+
+where the clasts are settling through air.
+
+In terms of deposition mechanisms then,
+
+what we would expect is that this fall deposit should mantle pre-existing
+
+topography.
+
+It should be thickest nearer the vent
+
+and its thickness should decrease with size from the vent.
+
+We would expect it to be normally graded
+
+because the largest and densest particles will fall fastest
+
+and the smallest and lightest particles will fall at the end.
+
+So again, hopefully that's quite familiar from sedimentology.
+
+These are just volcanic sediments. The particles are falling through air.
+
+Pyroclastic density currents are again analogous to density current deposits
+
+that you've seen in sedimentology.
+
+So, the complicating factor here is that once you've established a volcanic
+
+eruption column,
+
+it can continue to convect very nicely
+
+and we could just carry on raining out pyroclasts.
+
+But you can also have column collapse
+
+where there isn't enough energy in the system for that column to continue
+
+convecting
+
+and the collapse of that column can result in the density current that then
+
+deposits material.
+
+The other way that you can get a pyroclastic density current is if a lava dome,
+
+that's an effusive eruption, collapses and it also then breaks apart
+
+and produces one of these density current deposits.
+
+And there are two types of pyroclastic density current deposit.
+
+Slow deposits will be channeled down pre-existing topography.
+
+Surge deposits are much lower density.
+
+They are able to overtop pre-existing topography
+
+and they often have well-preserved sedimentary structures.
+
+I'll talk a bit more about these.
+
+Okay, so if you read an old textbook on volcanology,
+
+you'll probably just see all of these classified as pyroclastic flows.
+
+If you read a more modern volcanology textbook,
+
+you'll see them referred to as pyroclastic density currents or PDCs
+
+and that is to do with the different mechanisms
+
+in forming these two different kinds of deposit.
+
+Although in reality, there is a bit of a continuum between them.
+
+So what do the deposits look like?
+
+Depends a little bit on the style of eruption and the magma viscosity.
+
+So if we're looking at a low viscosity eruption, mainly basalt,
+
+we're going to have a fairly low explosivity.
+
+We're going to have a fairly low plume height.
+
+The pyroclasts are going to be deposited pretty close to the vent.
+
+Typical Hawaiian explosive deposits are just spatter cones.
+
+So these are gobs of magma that just land close to the vent
+
+and they build up the ramparts of the volcanic cone.
+
+If we increase the explosivity a little bit more,
+
+maybe we increase the gas content or we increase the crystal content,
+
+then we can get strombolian eruptions
+
+and these will produce scoria cones or cinder cones.
+
+So again, what you can see here is that the deposit is very thick,
+
+very close to the vent, but it doesn't go very far.
+
+The clasts themselves will often look something like this.
+
+So this is basically black pumice.
+
+They are dark.
+
+They are glassy.
+
+They are often very shiny.
+
+They have preserved vesicles, so they're very frothy in texture.
+
+We can also get these things, Pelé's hair and Pelé's tears.
+
+So if you imagine flinging golden syrup or honey across your kitchen,
+
+but you filled your kitchen with liquid nitrogen and it's really cold,
+
+this is the kind of thing that you would get.
+
+So these are like stringers of this low viscosity magma
+
+that have quenched in air.
+
+So these often have a very golden texture,
+
+reminiscent of the gold or brown texture that you get on the rims of pillow
+
+lavas.
+
+Okay.
+
+If we increase the explosivity again,
+
+so these are pyroclastic fall deposits from rhyolitic eruptions.
+
+The biggest difference that you can see here really is the colour.
+
+The saltic eruptions, very dark.
+
+Rhyolitic eruptions tend to be much lighter.
+
+And here you can see this colour stratigraphy must mean
+
+that there's been some compositional cyclicity in this eruption
+
+or series of eruptions from this volcano.
+
+These deposits are very, very thick.
+
+So that tells us this eruption must have been significantly higher in volume
+
+than any of the two that I showed you on the previous slide.
+
+We can see just by looking at this image, the deposits are pretty well sorted.
+
+They're very evenly bedded.
+
+This upper deposit drapes the pre-existing topography.
+
+And so we've also got unconformities being preserved in the volcanic
+
+stratigraphy.
+
+So we can look at the relative ages of different explosive events.
+
+So fall deposits, well bedded, well sorted, draping pre-existing topography.
+
+Okay. So density currents, as I've said, they kind of fall in this matrix of
+
+continuums.
+
+I'm going to try and explain this diagram.
+
+So on the x-axis, we've got the flow density.
+
+A low density flow is very gas rich with few dispersed, probably small particles
+
+in it.
+
+A very dense flow is going to have a lot of particles in it.
+
+It will still have gas, but the proportion of particles will be higher.
+
+So that's the density of the flow.
+
+Then we want to think about the density of the clasts themselves.
+
+High density clasts will have few vesicles.
+
+These tend to be rocks that have previously solidified.
+
+They could be pieces of the country rock.
+
+They could be old magmas that had blocked up the volcanic conduit
+
+that are being now forcefully ejected out of the vent.
+
+The low density clasts are what we call juvenile pomices, juvenile vesiculated
+
+clasts.
+
+So they've got lots of bubbles. They've got a frothy texture.
+
+So if we take the gas rich flows, this is our pyroclastic surges.
+
+Pyroclastic surges can have a mixture of low density or high density clasts.
+
+Doesn't really matter. The key characteristic here is that the flow is low
+
+density.
+
+So few particles, they tend to be small particles.
+
+Once the particle size, sorry, the particle fraction gets higher,
+
+we start to get slightly different deposition behavior.
+
+And slightly annoyingly, we have different terms that refer to the flow itself
+
+versus the deposit that it leaves behind.
+
+If you've got high density flows with high density particles, the match is quite
+
+nice.
+
+We've got block and ash flows produce block and ash deposits.
+
+If you've got high density flow with low density clasts,
+
+we call these pomice flows and they deposit ignimbrites.
+
+That's the slightly less easy to remember.
+
+If you see something referred to as a pomice flow deposit, that's this thing
+
+here.
+
+This thing here is your kind of classic pyroclastic flow.
+
+They have slightly different formation mechanisms.
+
+So your classic pyroclastic flow is usually associated with the collapse of a
+
+convecting eruption column and they're always hot when they are deposited.
+
+So these are hot primary magmatic clasts being transported in an air flow
+
+density current.
+
+Block and ash flows are usually associated with the collapse of lava domes.
+
+So if a lava dome is produced by the effusion of high viscosity magma,
+
+we'd expect it to be pretty solid, to have lost most of its gas already,
+
+and perhaps have started to cool down and partially solidify.
+
+So these will have much higher density clasts and they can be hot,
+
+but they can also be cold as well if the lava dome has collapsed due to some
+
+kind of
+
+magma that's causing it to collapse.
+
+So what do these look like in the field?
+
+Oh, we can have pictures of pyroclastic density currents.
+
+The ones that are formed by column collapse and the ones that are formed by dome
+
+collapse
+
+basically look the same in terms of producing a large column
+
+and having the density currents snake down the flanks of the volcano.
+
+Okay, so high density PDCs with high density clasts,
+
+you're going to get these block and ash deposits.
+
+There's a hammer on this one for scale.
+
+These two unfortunately don't have scales,
+
+but these are trees in the background of this one
+
+and I believe that clast is going to be on the order of kind of tens of
+
+centimeters.
+
+So what you can immediately pick out from this using your sedimentology
+
+knowledge
+
+is that these are massive.
+
+They are incredibly poorly sorted
+
+and you can see the fact that these large lithic clasts
+
+coarsen upwards.
+
+So you've got large lithic clasts in a very, very fine-grained matrix coarsening
+
+upwards.
+
+And if we were to look at the lithics themselves,
+
+I think you can probably get the impression by looking at them
+
+that these look like clumps of rock rather than clumps of pumice.
+
+They're quite dense.
+
+They're not very, they're not bubbly.
+
+They're not vesiculated.
+
+The low-density PDCs with low-density clasts,
+
+this is our pyroclastic surge deposits.
+
+So looking at these images,
+
+you can see immediately the change in grain size.
+
+These are pretty well sorted.
+
+They're pretty fine-grained.
+
+And if we were to look at the clasts themselves,
+
+these would be ash particles and they would have a kind of frothy texture
+
+if there are bubbles preserved in the clasts.
+
+And you can see the prominent sedimentary structures
+
+that look a little bit like ripple cross-laminations.
+
+These are formed by the same kinds of mechanism
+
+that form ripple cross-laminations in sedimentary rocks.
+
+That's not my area of expertise,
+
+so I'm not going to pretend to know very much about it.
+
+But you can use the same kinds of terminology
+
+in terms of describing cross-bedding, ripples, climbing ripples,
+
+truncations to think about things like way up and depositioning mechanisms.
+
+High-density pyroclastic density currents with low-density clasts
+
+is where we get our kind of classic pyroclastic flow
+
+or our ignimbrite deposit.
+
+These are probably the best studied of the pyroclastic deposits
+
+in the geological record because surge deposits are fine-grained.
+
+Therefore, they have a lower preservation potential
+
+in the geological record.
+
+They're easy to erode.
+
+Whereas these ignimbrite deposits are much coarser-grained.
+
+They're often much thicker
+
+and therefore they're easier to preserve in the geological record.
+
+And they have quite a distinctive stratigraphy.
+
+So imagine your pyroclastic flow coming towards you
+
+down the flanks of the volcano.
+
+The first thing that's going to hit you is a gas-rich ground surge.
+
+And the particles that are deposited in that gas-rich ground surge
+
+are going to be very fine-grained particles.
+
+And they may have sedimentary structures,
+
+much like these surge deposits in this picture.
+
+So that will be your Unit 1 ground surge deposit.
+
+Then what would hit you is the main flow unit.
+
+So this is your mixture of poorly sorted particles
+
+that are then falling out and being deposited.
+
+This Unit 2 has two different stages.
+
+There's what we call the basal flow and then the main flow.
+
+And the main difference between that is the grading that you get within the
+
+unit.
+
+This can be tricky to see just from a field photograph.
+
+Often you might need to go and do some kind of analysis
+
+of working your way up the ignimbrite stratigraphy and logging and describing.
+
+But the key difference is that in the basal flow,
+
+everything is reverse-graded, much like you get in the block and ash flows.
+
+But when you get to the main flow unit,
+
+the lithic dense clasts start to become normally graded again.
+
+Once that main flow unit has passed,
+
+the last thing that will happen is that the fine particles
+
+will settle out of the cloud and deposit on top of the unit.
+
+So you may get an ash cloud surge,
+
+and then the very final thing will be fine ash fall.
+
+So that surge bit may have the cross bedding again,
+
+and the fall will just mantle the topography left behind by the main deposit.
+
+If we think about what it's possible to then preserve in the geological record,
+
+this Unit 2 is going to have the highest preservation potential.
+
+It's the thickest, it's pretty robust.
+
+The ground surge deposit can quite easily just be run over
+
+by the main pyroclastic flow unit.
+
+It in itself is quite an erosive flow,
+
+so it may just erode whatever's been deposited in this ground surge.
+
+So this is often poorly preserved or absent.
+
+The fine material that settles right at the end of the pyroclastic density flow
+
+will likewise be easy to erode, easy subject to wind-blown erosion.
+
+So again, this Unit 3 is often not well preserved in the geological record.
+
+What does Unit 2 look like?
+
+We have two flavors of deposit, unwelded and welded ignimbrites.
+
+So if we deal with the unwelded case first,
+
+this is just your particles get deposited, here is your rock.
+
+It's massive, it's poorly sorted,
+
+you have pumice and lithic clasps in a fine ashy matrix,
+
+and you may see the reverse grading of the lithics and the pumices,
+
+particularly at the base of the flow,
+
+and the lithics may become normally graded towards the top.
+
+But as you can see from these photographs, that is a hammer there.
+
+The grading itself is quite difficult to see.
+
+They just look a bit chaotic.
+
+Welded ignimbrites form because these deposits are hot when they are laid down.
+
+So if you imagine that you've got a very frothy piece of pumice
+
+at the base of one of your ignimbrite layers that's five meters thick,
+
+the weight of the overlying rock is going to squash the particles.
+
+So it's very easy for these deposits to kind of settle down.
+
+They're hot, they're quite, therefore, quite pliant.
+
+What's the word I'm looking for? Ductile.
+
+So you can squash the vesiculated clasps
+
+and they create these lozenge-shaped clasts.
+
+So this would originally have been a kind of rounded ellipsoid pumice clast
+
+and it's been squashed into the weight of gravity.
+
+Everything else about the deposit is similar to the unwelded case.
+
+So again, massive and poorly sorted.
+
+And it's these squashed pumices
+
+that give it this, what we call a Fiamme texture.
+
+Fiamme is the Italian word for flames.
+
+If you look at this sideways on, it looks like flames are coming through to
+
+deposit.
+
+What that looks like in thin section is that you start getting a fabric
+
+that wraps around the parts of the rock that are not easy to deform.
+
+So the crystals are not vesicular, so they're not going to get flattened.
+
+Lithic fragments are not vesicular, so they're not going to get flattened.
+
+So those provide a kind of rigid framework in the rock
+
+and then the intact pumices get flattened around them.
+
+And we also have glass shards that get flattened
+
+and welded around the crystals and the lithics.
+
+So you've got this almost banded texture and we call this a eutaxitic texture.
+
+It's pretty easy to recognise in a thin section
+
+because you've got this slightly coloured material.
+
+If you put the analyser in, most of this is made of glass,
+
+so it will go mainly isotropic.
+
+There will be tiny particles sitting within this.
+
+There may also be tiny void spaces within this.
+
+So it will look a little bit speckly and a little bit untidy.
+
+You will see some of this in the practical
+
+or you'll have an opportunity to see some of this.
+
+Okay, so now we know all of this about the deposits of modern eruptions,
+
+we can think about past eruptions.
+
+One thing that we use a lot is isopac maps.
+
+So these are contours of equal tephra thickness
+
+and if we want to reconstruct the volume of an ancient eruption,
+
+we would have to go out into the field with a shovel,
+
+dig lots of holes and measure the thickness of the deposit.
+
+This is an example of an eruption that happened during,
+
+about the time that Iceland was being settled by the first Viking pioneers
+
+and people have gone all over Iceland with their shovels
+
+and they have measured the thickness of this tephra unit.
+
+And we create this contour map, lines of equal tephra thickness
+
+and you can then add up the volume of each of these concentric circles
+
+to arrive at a total volume for the eruption.
+
+So I would like you to just turn to the person next to you for 10 seconds
+
+and say can you think of any limitations to this approach?
+
+Go.
+
+Can I have some shout out feedback?
+
+What are the limitations of this approach?
+
+Everybody is very happy to jump in their car with their shovel.
+
+It's really labour intensive.
+
+Any other limitations that people came up with?
+
+Yes.
+
+So we can only measure what's there.
+
+We have an unknown mass of eroded material.
+
+Anybody notice this line here?
+
+Iceland is an island nation.
+
+The isopac, the tephra deposit doesn't just stop.
+
+Some of that material has landed in the sea.
+
+We can't measure that and it will be incredibly expensive
+
+to try and go and collect drill cores just in order to reconstruct this
+
+eruption.
+
+So we can do a pretty good job, but there are some limitations.
+
+So knowing something about the pyroclastic deposits,
+
+what I would like you to have a look at now,
+
+turning to the person next to you and having a quick chat,
+
+is try and interpret this image for yourself.
+
+So there are four different tephra layers here.
+
+Have a think about what types of deposit might be shown.
+
+Have a punt.
+
+Have a punt at how you think this eruption might have changed over the course of
+
+time.
+
+So I'll give you a starting point.
+
+Unit one is much older and then when I say the younger eruption,
+
+I mean everything from unit two upwards.
+
+I'll give you just a minute to have a quick chat about that
+
+and then we'll come back and give you back some answers.
+
+Go.
+
+Leave my interpretation.
+
+You can see how close you were.
+
+Lots of nods.
+
+So from the bottom up, number one, I think is thinly bedded ash fall deposits.
+
+I think they're fall deposits because they're an equal thickness across the unit
+
+and because they seem to mantle pre-existing topography.
+
+I also think these are probably not one single eruption
+
+because it looks like there's some little unconformities in here.
+
+The big feature is this contact between unit one and unit two.
+
+So unit two seems to have been, it probably had a fairly erosive base
+
+or there's been some kind of erosion of unit one before unit two was deposited.
+
+Unit two I think looks pretty massive.
+
+I think its thickness is pretty even.
+
+I can't really see any sorting in there, but I think this is a pumice fall
+
+deposit.
+
+Again, mantling the pre-existing topography and pretty even thickness.
+
+Unit three, I think I can pick out some sedimentary structures within here.
+
+I think there's a little bit of cross bedding.
+
+I'd quite like to be able to get in here and see this, get my eye on the rock.
+
+But from this distance on a photograph, I think these are laminated surge
+
+deposits.
+
+I then think there's been a pause in the eruption of some kind
+
+and there's been some kind of erosion that's flattened off this surface.
+
+Now that might be that unit four itself has done the eroding,
+
+has come down and taken the top off unit three and unit two.
+
+Or it might be that there's a time gap here. I don't know.
+
+But unit four, I can see that this is quite massive
+
+and I can see that it's poorly sorted
+
+because you've got all these dark clasts hanging around in this light matrix.
+
+So I think that this is an ignombrite deposit, a pumice flow.
+
+And I think that it's unwelded because these dark clasts are still quite
+
+rounded.
+
+They're not showing the Fiammae texture.
+
+What does this tell me about how the eruption evolved?
+
+Well, we know that pumice fall deposits come from convecting eruption columns.
+
+So probably this eruption started with a well-established eruption column
+
+that was convecting happily and these pumice fall deposits just rained out.
+
+What normally happens in the course of an eruption
+
+is that the convecting column stops being stable and undergoes collapse.
+
+So I think the eruption column then became unstable and collapsed
+
+and that led to the deposition of unit three.
+
+And I think that probably what would have happened is that that cycle would have
+
+repeated.
+
+So the eruption would have either paused and restarted with a collapsing column
+
+or the convection would have been re-established for a very brief time interval
+
+and then collapsed again.
+
+And that led to the deposition of unit four.
+
+Does that make sense kind of intellectually and logistically to you?
+
+Can you see how I've arrived at that answer?
+
+So I may not be right.
+
+We would have to go out there in the field and have a look at the deposits in
+
+much more detail.
+
+But you can start to see how you can piece together the chronology of an
+
+eruption
+
+or at least a first impression just by looking at some quite straightforward
+
+images.
+
+The first thing to think about is, well, what if our volcano didn't really leave
+
+any pyroclastic deposits or they've all been taken by erosion?
+
+The largest and the most destructive eruptions do leave other kinds of evidence
+
+in the geological record.
+
+And calderas are the obvious example.
+
+So these would be kind of VEI 5, 6, 7, 8 eruptions.
+
+The Toba caldera in Sumatra is tens of kilometres in dimensions on either side.
+
+The Santorini caldera in Greece that produced these deposits
+
+is again about 10 kilometres in diameter.
+
+So often you're going to just be left with a hole in the ground, crater lake.
+
+What you'll notice in the centre of each of these calderas is that there's an
+
+island or kind of new growth.
+
+And so what happens is that your volcano erupts, leaves behind a caldera
+
+and then the resurgent activity in the centre of the caldera starts building new
+
+landmass.
+
+So that's what's happening in Santorini at the moment.
+
+And you may have seen over the past few months there have been a few news
+
+articles about Santorini
+
+where people have been detecting increased frequency of earthquakes,
+
+probably magma on the move that will eventually feed the small eruptions
+
+that are kind of growing this little volcanic island here.
+
+So how do these calderas actually collapse?
+
+Well, that depends on the size of the magma chamber that's being evacuated
+
+and the strength of the country rock.
+
+But we could start breaking this up into some kind of classifications of how the
+
+calderas form.
+
+So piston collapse is basically your crust collapses as one coherent block and
+
+falls into the hole.
+
+And we can then think about what's the orientation of the faults.
+
+If the faults are inward-dipping, then this is like trying to push a cork into a
+
+bottle,
+
+you can't get it very far until the crust gets stuck.
+
+If the faults are outward-dipping, then the block of crust will just continue to
+
+sink
+
+until either the magma chamber becomes too cold and too solid for it to sink
+
+anymore
+
+or it reaches the bottom.
+
+In both of these cases, we might envisage that the caldera fault itself
+
+is roughly kind of circular or ellipsoid in diameter.
+
+So it's connected all the way round.
+
+If the fault doesn't manage to connect all the way round, then we might get
+
+trapdoor faulting
+
+which is where one side of the caldera collapses but the other remains attached.
+
+These are all fairly simple mechanisms of collapse.
+
+If that piece of crust is tens of kilometres in radius,
+
+then probably the crust itself is going to start breaking apart.
+
+And so we can get piecemeal or chaotic collapse where you've got lots and lots
+
+of small faults
+
+with different pieces of the crust falling into the hole at the same time.
+
+In cases where the crust is very, very thick and the magma chamber is quite
+
+deep,
+
+or if the magma chamber itself is reasonably small,
+
+then instead of breaking the crust, we may get just down sag of the caldera.
+
+And so we wouldn't get faults, brittle faults that have movement on them
+
+but we would still get deformation of the land surface.
+
+And this is the kind of deformation that you might be able to pick up by
+
+satellite.
+
+So if we think about stages of a complex caldera formation,
+
+you've had the climax of Plinian activity, there's been an eruption column,
+
+it's convected, it's collapsed, it's deposited lots of pyroclastic material,
+
+the eruption is over, the overpressure in the magma chamber has dissipated,
+
+there is now some space in the magma chamber and you're going to get some kind
+
+of gravitational collapse.
+
+So in this case, we're envisaging that there's a caldera ring fault right at the
+
+margin
+
+but also that the crust itself has been like quite a large block of crust
+
+has been down faulted into the caldera and so there are these subsidiary faults.
+
+We would expect these to be normal faults rather than reverse faults.
+
+This is going to sit here quietly for a while until we get some volcanic
+
+resurgence
+
+and then the magma chamber will start inflating again.
+
+So as the magma chamber starts inflating and new material is injected into that
+
+container,
+
+we get resurgence of the caldera floor.
+
+So those normal faults are now going to get reactivated but as reverse faults
+
+because the system now wants to grow.
+
+And so we get these resurgent domes.
+
+This is like the volcanic island that I showed you in the centre of Santorini
+
+where you're getting new dome growth and this is where new magmas are likely to
+
+be extruded.
+
+We can also get magmas extruding along the caldera ring fractures
+
+or up some of these subsidiary faults.
+
+So caldera systems are quite complicated places
+
+where there are lots of possible routes for magma to get from the subsurface and
+
+back out.
+
+And so as well as the main volcanic edifice,
+
+you're going to have lots of satellite cones and subsidiary eruptions
+
+that are controlled by the geometry and distribution of these faults.
+
+So here is a kind of present-day example.
+
+This is the volcano I did my PhD on and I just want to show you a picture of it
+
+because it's really nice.
+
+But this is a major caldera that was formed in 1875.
+
+It's this lake here.
+
+And these mountains that you see in the background are these mountains here
+
+that form a much older caldera system that's probably about 10,000 years old.
+
+There's then a much older caldera system again sitting up to the north here
+
+that's much less well exposed and where the caldera faults have undergone quite
+
+a lot of erosion.
+
+What do the magmas look like then that intrude along these caldera faults?
+
+Well, when the magma chamber is inflating,
+
+what we often get are these things called cone sheets.
+
+They are dikes that are curved. They are often kind of ellipsoidal.
+
+They all dip steeply towards the magma chamber
+
+and they're often injected during the inflationary phase of a volcano.
+
+In contrast, when the volcano is kind of on the way out,
+
+the magma chamber activity is decreasing.
+
+Maybe you're having some caldera subsidence.
+
+We tend to get ring dikes.
+
+So this is where your piston of crust is sinking into the magma chamber
+
+and magma is extruding up these ring faults.
+
+What does this look like in a real life example?
+
+This is the Isle of Mull in Scotland.
+
+These turquoise blue dikes are the cone sheets.
+
+These are formed during the inflationary phase of Mull.
+
+You can see that they're quite thin and they wrap around this area here.
+
+This is where we might envisage that the main magmatic centre is.
+
+Then you've got this orange material here, the Lochbar ring dike.
+
+This is where the caldera has collapsed and magma has extruded up the walls.
+
+If you're ever looking at maps of volcanic areas
+
+or maps of eroded volcanic areas, these are things that you should look for.
+
+Great.
+
+So device is out.
+
+I would be very, very grateful if you would please
+
+give me some comments on the unit.
+
+Great.
+
+While you do that...

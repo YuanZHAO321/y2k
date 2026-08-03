@@ -1,0 +1,1375 @@
+'EART26001 - 02-Dec', automated transcript
+03/08/2026
+---
+
+So today's lecture we'll start, we'll talk about evaporites and with this topic
+
+we'll stay
+
+in the realm of surface processes and surface environments because we will be
+
+talking
+
+about processes that involve essentially marine and continental waters, so
+
+marine and meteoric waters.
+
+And the basic principles that I wanted to first just talk about is how do we
+
+form
+
+evaporite minerals in the first place and we have discussed the basic mechanism
+
+already
+
+in one of the introductory lectures earlier in the semester.
+
+So the basic mechanism is obviously the process of evaporation where we take a
+
+brine which is water
+
+that's saturated with dissolved salts and let it evaporate under the influence
+
+of temperature,
+
+basically solar evaporation, sun heating the water and then heating up the
+
+water.
+
+As a consequence those, the heated water will have vapor that will eventually
+
+leave the water
+
+so the volume of the brine is reduced and as a consequence of that reduction in
+
+brine volume reduction
+
+we see the precipitation of evaporite minerals. So that's the fundamental
+
+process that we already discussed.
+
+And also we had a look at a variation of this graph probably which basically
+
+explains what I've just said
+
+in a bit more detail in the sense that we have as a consequence of this
+
+reduction in volume,
+
+obviously we see the remaining liquid reducing, which also means that as our
+
+liquid reduces
+
+we have an increase in the concentration of the various salts that are dissolved
+
+in that liquid
+
+which means that the salinity does increase. So in this example we're starting
+
+at normal marine salinity
+
+of 35 per mil and that increases progressively to very high salinity values.
+
+As a consequence of this also because we have more concentrations or higher
+
+concentrations of the salts dissolved
+
+we have an increase in the density of the brine as we can see here, we start
+
+from these values
+
+increasing the densities as our degree of evaporation increases.
+
+So the ultimate consequence of all of this is that essentially the various
+
+minerals that are dissolved
+
+they will successively pass their thresholds of saturation and the individual
+
+minerals will start to precipitate
+
+one by one out of that brine and we first have minerals that involve alkali
+
+earth carbonates
+
+then moving on to the sulfate minerals, so gypsum and anhydrite, and eventually
+
+at higher salinities
+
+we see the precipitation of halite, NaCl, and eventually the so-called biton
+
+salts like potassium chloride
+
+like sylvite and carnalite, all sorts of minerals, they will only precipitate at
+
+the very highest salinities
+
+that we can have in these brines. So this is a process, obviously a surface
+
+process that is normally
+
+involving solar evaporation, solar irradiation at the surface, this could happen
+
+in marine settings
+
+in shallow marine settings, but it could also happen in shallow continental
+
+settings like lakes for example
+
+so that's why I said this involves surface fluids essentially. So this is what
+
+we discussed already previously
+
+in our introductory lectures, but what I wanted to spend a bit more time on
+
+today is really thinking about
+
+the controls on this process, so where could we expect this process to occur in
+
+the modern day?
+
+Okay, so where does the process happen in the modern day?
+
+Anyway, so when we're looking at this map here, this is a map of the world where
+
+we have the different climate zones
+
+superimposed onto that map, and the red dots represent the various locations on
+
+the earth where in the modern day
+
+evaporites are actually forming, and you notice that most of these places are in
+
+locations where we overall
+
+are in this sort of like colour scheme which represents the arid or semi-arid
+
+desert and steppes of the world
+
+so which are obviously places which are hot, but they're also dry in the sense
+
+that the air humidity is extremely low
+
+and that obviously has a consequence of these very dry and hot conditions which
+
+both of these actually favour
+
+the precipitation of evaporate minerals, probably more so the dryness in the
+
+sense that when the humidity of the air
+
+is too high, your requirement, or it's harder to actually evaporate the brine,
+
+so the dryness is a very fundamental
+
+probably even more so than the hot, the high temperatures to actually cause this
+
+evaporation process to go on.
+
+So effectively if you were to go to deserts, this is where you would expect
+
+evaporate precipitation to occur in the modern day.
+
+And so the distribution of deserts in the modern day has a lot to do with
+
+climate.
+
+Climate both at a global scale as we've just seen, but also at a more local
+
+scale.
+
+So the global scale and the distribution of deserts on the global scale really
+
+relates to atmospheric circulation.
+
+So where you have here a cross section of the atmosphere going from the equator
+
+towards the pole,
+
+and on the vertical axis that's the elevation above surface of the earth,
+
+and we see that around the equator, because of the high temperatures there,
+
+solar irradiation,
+
+we actually have heating up of the air masses. Because they're heated up, they
+
+will rise.
+
+But also these air masses, because they're warmer, they can contain more
+
+moisture.
+
+So these moisture-rich warm air masses, they will rise. Obviously as they rise
+
+into the atmosphere,
+
+they start to cool down, contain less moisture, you will have precipitation.
+
+So as a consequence of this precipitation around the equator, those air masses
+
+now start to become rather dry as well.
+
+And so these drier and colder air masses, they will move towards the poles and
+
+eventually start to sink down,
+
+again because of the buoyancy effect, at around 30 degrees north and south of
+
+the equator, which is exactly where the deserts are.
+
+So the location of the modern-day deserts is driven to a large extent by the
+
+sinking of these dry and colder,
+
+somewhat colder air masses that causes these very dry conditions where the
+
+modern deserts are located.
+
+So that obviously is a fundamental global scale driver for the precipitation of
+
+deserts,
+
+and by implication for the distribution of evaporites that form in these
+
+deserts.
+
+But you can also have those similar conditions at a more local scale.
+
+Probably the best example is this one here on the lower left, where you have a
+
+mountain range that's sitting basically next to an ocean.
+
+Best example that we know of is the Andes Mountains, or the Andes and the Rocky
+
+Mountains along the west coast of South America and North America,
+
+where we have moist air from the Pacific blowing towards the west.
+
+That moist air has to pass over that mountain range, and as it does so, it rains
+
+off on the west side of the mountains.
+
+Consequence, the air becomes dry, rises over the mountains and drops down on the
+
+eastern side of the mountains,
+
+and causes very dry conditions on the east side of the mountains.
+
+Hence, the distribution of many of the places in Bolivia, Chile, but also places
+
+in the western United States,
+
+which are extremely dry. So they're basically deserts and semi-deserts because
+
+of that localized air shadow effect,
+
+or rain shadow effect. So deserts in the rain shadow of the mountain belt.
+
+You can also have coastal deserts, because we have cooler air blowing onshore as
+
+a consequence of upwelling waters.
+
+We talked about upwelling last week in the context of source rock formation,
+
+but one consequence of this also is the generation of these onshore blowing
+
+winds that provide very cool air and dry air
+
+onto the coastal deserts of places like the Atacama Desert or Namibia.
+
+Consequence either way is the generation of these dry conditions.
+
+So climate major control both at the global scale, but also at a smaller local
+
+scale.
+
+But beyond the climate, there's other factors that are also very important in
+
+controlling the formation of evaporites.
+
+And one is what we refer to as restriction.
+
+So basically, again, similar to the concept that we discussed last week,
+
+when we talked about these isolated water masses that become isolated from the
+
+open ocean,
+
+limited water connection with the open ocean, leading to anoxic conditions in
+
+these basins,
+
+those same basins also very often tend to develop high salinities because of
+
+that same effect,
+
+because you have little exchange with the more normal marine conditions of the
+
+open ocean.
+
+So the surface waters become, when you are in a dry area, quite saline.
+
+And the best example, you know, you may just, this is a map of surface, sea
+
+surface salinities on the globe.
+
+And the red colors are the highest value.
+
+So 35 normal marine is here in the green colors.
+
+And you notice for yourself, if you go to the Mediterranean, that's where you
+
+actually get some of the red colors.
+
+So the Mediterranean has slightly elevated sea surface salinities
+
+because of that limited exchange of water masses between the Med and the
+
+Atlantic Ocean.
+
+And another example would be the Arabian Persian Gulf, which is this one also,
+
+which is this one over here.
+
+And this is a more detailed zoomed in map of the Arabian Persian Gulf surface
+
+salinities.
+
+The Straits of Hormuz over here on the right in the east, that separates it from
+
+the Indian Ocean.
+
+And you can see the surface salinities increase as we move away from the Straits
+
+of Hormuz
+
+into the more interior parts where it can reach 100 per mil or more.
+
+So again, that's an effect of this at least partial separation from the open
+
+ocean.
+
+So restriction is an important factor in driving up salinities in those spaces.
+
+And another factor we need to consider and that's related to this is the
+
+hydrology,
+
+where in this schematic cross section up here, we have a standing body of water,
+
+say a lake,
+
+in a coastal area that is actually separated from the open ocean by a barrier
+
+over here.
+
+So that provides that element of restriction.
+
+And then we're looking at the balance of water masses entering the body of water
+
+and leaving the body of water.
+
+So the main one of interest for us leaving the body of water is obviously
+
+evaporation.
+
+That's shown over here.
+
+But you can also have reflux of denser saline brines through the underground,
+
+through the subsurface back towards the ocean.
+
+So those are the two main elements of water masses leaving.
+
+And the ones adding water to the system are precipitation, rain.
+
+We can have rivers or just underground influx of water masses adding water into
+
+that lake.
+
+We can also have surface inflow from the ocean or through that barrier, again by
+
+process of sea pitch.
+
+So these are all adding water.
+
+And obviously the more water you add, the harder it will be to evaporate that
+
+body of water.
+
+So overall, we talk about water balance, which needs to be negative,
+
+i.e. meaning that the sum of those water masses flowing out needs to be larger
+
+than the sum of all the water masses flowing in.
+
+And that will further contribute to evaporation and increasing salinity and the
+
+formation of evaporites.
+
+So these are all driving mechanisms that control, that favor the formation of
+
+evaporites in these surface bodies.
+
+In terms of depositional environments for evaporites,
+
+we could basically at a really large scale subdivide these into two main groups.
+
+On the one hand, we have continental, interior continental basins.
+
+And I've just shown you a couple of examples here on the top.
+
+Probably one that's quite well known, that's the Dead Sea in Jordan and Israel,
+
+which is a depression that is below sea level, about 120 meters below sea level.
+
+And in the Dead Sea, we have isolation of this body of water, this lake, by
+
+topography of the mountain.
+
+There's mountain ranges all the way around.
+
+They provide obviously isolation from the open ocean.
+
+They also provide the localized very dry climate because of that rain shadow
+
+effect that we just talked about.
+
+And there is overall very little water flowing into it.
+
+So overall, the water balance here is going to be negative.
+
+You also have salt basins like this one here in the Andes.
+
+That's again related to this mountain rain shadow effect where we have just on
+
+the east side of these mountains,
+
+we actually have what's shown here in white, there's actually a salt crust
+
+forming in a lake effectively.
+
+And then there's a small salt lake in Spain over here on the left,
+
+which also undergoes evaporation and develops this little salt crust during the
+
+summer.
+
+So what these all have in common is they are basically limited to coastal areas.
+
+So where we have dry coastal conditions like in coastal deserts or in
+
+continental basins,
+
+effectively closed or semi-enclosed continental basins where we have all of
+
+those conditions met like tectonics,
+
+the hydrology and the topography provided isolation and they also provide the
+
+aridity in order for evaporation to go ahead.
+
+And in those continental basins, we can either have deposition within the soil
+
+or deposition of evaporites within the soil forming crusts of evaporites in pre
+
+-existing sediments,
+
+but you can also have the formation of evaporites in any standing body of water.
+
+These are going to be very shallow, just a few centimeters, decimeters deep
+
+lakes really,
+
+like this one here that I've shown you here from Spain,
+
+where evaporite precipitation happens in these standing bodies of water as they
+
+dry out effectively.
+
+And obviously as we've discussed in the introductory lecture,
+
+the mineralogy of the evaporites that will precipitate in these lakes or in
+
+these crusts
+
+will depend a lot on the source of the brine, so where are the waters coming
+
+from in the first place,
+
+what's the composition of that brine, so basically what's the hinterland like in
+
+terms of lithology
+
+providing those brines coming into these basins.
+
+And this is essentially where all of modern day evaporite precipitation takes
+
+place in these sorts of settings.
+
+The other big group is the formation in large marine basins
+
+and the thing is there is no place on earth today where you could go and watch
+
+this happen.
+
+You will only find evaporite precipitation at a relatively small scale in these
+
+continental basins and in the coastal deserts,
+
+nothing where an entire basin basically dries out, probably the closest we can
+
+have is the Mediterranean,
+
+because as I already said, salinity is slightly higher, but there's no
+
+evaporites forming in the Mediterranean today,
+
+but they have in the past actually.
+
+But there are places in the world where in the past this has happened,
+
+where an entire seaway has completely dried out leading to the precipitation of
+
+evaporites.
+
+And probably, well not probably, the closest example that we have to Manchester
+
+is the Permian Sechstein Basin,
+
+which basically covered much of the modern North Sea as well as Northern Europe.
+
+So here we have a map. This is a map, a reconstruction of this Permian Sechstein
+
+Basin.
+
+There's the UK, Central Europe, Norway over here.
+
+So all of this grey shaded area was basically a large marine basin that got
+
+separated from the open ocean
+
+along a barrier that was located, we think, close to what is Svalbard today.
+
+And so repeatedly that basin completely dried out.
+
+So it's a very large basin, obviously, dried out as the barrier was closed.
+
+And then when the barrier opened repeatedly due to tectonic activity, you had
+
+marine waters flooding back in.
+
+So as a consequence, you have during these marine stages, you have formation of
+
+carbonate rocks in there.
+
+When the water dried out, you have evaporite forming, opened again, carbonates
+
+forming again,
+
+evaporite, so like an alternation, cyclic alternation between carbonates and
+
+evaporites
+
+as a consequence of the basin opening and closing.
+
+And this is illustrated on the sketch here.
+
+So the blue colours represent the various carbonate units and the pink and red
+
+colours represent the various evaporite units.
+
+The result of this is the cumulative thickness of evaporites in this basin is
+
+something like four to five kilometres
+
+compared to maybe tens of metres that you might get with the modern
+
+precipitation in these continental basins.
+
+So it's a totally different ballgame in terms of just the thickness and the
+
+volume of evaporites that are being formed.
+
+So that's basically just as an overview of the main mechanisms for evaporite
+
+formation
+
+and also the broad depositional environments.
+
+The next thing I wanted to talk about is talk a little bit about exploration and
+
+production,
+
+because that's what we're interested in as well.
+
+It's not just the geological processes for forming these deposits, but also once
+
+they have been formed,
+
+how do we find them and how do we get them out of the ground?
+
+And obviously for the various reasons, evaporite minerals are an important
+
+source of many metals that we're using,
+
+not just for potassium, as we said, as a nutrient for agriculture.
+
+Lithium is the other one that's obviously being used a lot for battery
+
+technology.
+
+So it's important to know where these deposits are and how to characterise them.
+
+So when it comes to exploration, the first stage, as is so often the case, is
+
+understanding the overall context.
+
+And in this case, obviously the paleoclimatic context is going to be really
+
+important,
+
+because we have from the previous discussion some very good idea about what
+
+drives evaporite precipitation,
+
+so we can use that knowledge to identify locations and times in the Earth's
+
+history where this is most likely to have happened.
+
+So that's going to be our first stage.
+
+Seismic exploration, so shooting seismic, is going to be another one in the
+
+subsurface.
+
+And you can quite nicely see why in this example seismic line.
+
+This is from the North Sea.
+
+This one here, this pillar-like structure that on seismic doesn't actually show
+
+any reflections,
+
+as what we call transparent, because there's no reflectors within that body of
+
+rock.
+
+This is actually a salt body.
+
+So this is how you can quite easily recognise salt on seismic,
+
+because of this transparent nature compared to the nicely developed seismic
+
+reflectors either side,
+
+which could represent sandstone, shales, carbonates, so completely different
+
+lithologies,
+
+but which are typically obviously associated with salt.
+
+And then the salt just picks up by this transparent nature.
+
+So seismic is going to be really good at identifying salt.
+
+We can also do wireline logging.
+
+So basically put down a hole when we build a well,
+
+and we can use geophysical parameters like the gamma ray and the density to
+
+identify the salt.
+
+So when we have this logging, we basically, as we discussed before,
+
+we have a tool that's being dragged through the hole to measure the properties
+
+of the subsurface.
+
+So things that we can look out for is, for example, the gamma ray nature,
+
+so the natural radioactivity of the rock.
+
+And an example is shown here from a borehole in the North Sea where we have
+
+depth on the vertical axis.
+
+So the gamma ray translated into percent of potassium is shown with the green
+
+line here.
+
+And the potassium is obviously one of the three elements
+
+besides uranium and thorium that drives natural radioactivity in rocks.
+
+And sylvite, or in this case polyhalide, which is another potassium chloride
+
+mineral,
+
+is obviously containing a lot of potassium that will show up quite nicely in the
+
+gamma ray signal.
+
+And then this can then be calibrated with mineralogy.
+
+So where we actually have samples from the borehole,
+
+we can measure, or determine the actual mineralogy in terms of the various
+
+minerals contained within the rock.
+
+And this will pick up, in this case, with the red bars,
+
+this is where we have high concentrations of polyhalide, this potassium chloride
+
+mineral.
+
+And obviously that sits right where we have the high gamma ray signal.
+
+So the combination of mineralogy based on borehole samples and wireline logging
+
+allows us to identify places where a target mineral is actually going to be
+
+concentrated.
+
+So once we have identified a location, we can have a look at the mining
+
+activity.
+
+So as we know, as we've discussed, many of these deposits actually occur at the
+
+surface.
+
+So they can be easily on any of these salt lakes or these playas.
+
+They can be easily picked up by surface mining activities,
+
+which in some cases, or many cases, happens by basically manual techniques.
+
+So this is artisanal mining, like this one happens in Eritrea on the coast of
+
+the Red Sea,
+
+where in that basin, in this basin here, which is separated from the Red Sea by
+
+volcanic ridges
+
+located along the shoreline there, we have shallow depressions
+
+where waters under the very dry and hot climate there actually start to form
+
+evaporate minerals,
+
+forming these crusts, which are then being sort of like dug up.
+
+And in this case, using camels are being brought to market.
+
+Now, this is a very labor-intensive manual and backbreaking work,
+
+but this obviously is being translated in the so-called industrial salars used
+
+at an industrial scale.
+
+So the idea with these salars is to basically replicate the natural evaporation
+
+process that happens anyway,
+
+and just focus it and bring it up to scale.
+
+So this one here, this is an example from the southern shoreline of the Dead
+
+Sea, which we mentioned earlier,
+
+which the area has been separated into these individual ponds,
+
+where water from the Red Sea is being pumped into these ponds and then undergoes
+
+evaporation.
+
+So the idea here, as I said, the industrialization of a naturally occurring
+
+process.
+
+So we're just taking the process of solar evaporation and just speeding it up
+
+basically.
+
+So the basic idea is you take seawater, which is already at a seawater salinity,
+
+pump it into these ponds, into the pond where it then undergoes evaporation,
+
+minerals start to precipitate, the remaining water obviously has a very high
+
+salinity now,
+
+is then pumped onto the next pond where it can concentrate even further,
+
+the next group of minerals are being precipitated,
+
+and then that brine, again reaching a higher salinity, is moving onto the next
+
+pond.
+
+So this is what happens in these modern-day salt works.
+
+There's plenty of examples, for example, around the coast of the Mediterranean.
+
+This is some aerial shot from some salt works in Spain where you can see these
+
+individual ponds,
+
+and some of them obviously have a different color that's based on the organisms
+
+living,
+
+the only organisms actually able to live in these very saline waters.
+
+Some of them, you know, it's typically just bacteria can actually do this.
+
+And, you know, with this, you can actually go from just above normal marine
+
+salinity,
+
+eventually all the way to these bittern salts.
+
+And obviously they are then being, so whatever minerals are being precipitated,
+
+are being skimmed off, cleaned, and then processed further and brought to
+
+market.
+
+So that's the basic, it's the same process that natural does,
+
+but we are focusing it and making it at a bigger scale.
+
+So obviously the, while the process itself is relatively simple,
+
+it does involve high operational costs because obviously with all the facilities
+
+that you need to put in place,
+
+and there's lots of energy costs that are being involved,
+
+so the operational costs are quite high.
+
+And also the footprint, the physical footprint is actually quite large
+
+because obviously you need a large area to create all of these ponds,
+
+and you're using, you're creating a lot of waste heaps for all the material that
+
+you're not actually using,
+
+and you need a lot of water.
+
+And obviously with a lot of this happening in dry areas,
+
+where water is a scarcity in the first place, drinking water,
+
+consuming large volumes of water creates an additional pressure on water
+
+availability.
+
+When we have ancient evaporite deposits, like for example these Permian
+
+Sechstein deposits I mentioned earlier,
+
+they will occur in the subsurface.
+
+So they are present, they have been formed in the past,
+
+and usually underground subsurface mining is the technique that we employ to get
+
+to these.
+
+Here is a salt dome, so a structure of salt that actually has risen towards the
+
+surface
+
+because the salt is less dense than the surrounding rocks.
+
+But obviously below that there's basically kilometers of salt underneath
+
+where they've basically created an underground mine,
+
+which will initially have high costs for installation to put it in place,
+
+but then once it's operating the operational costs are actually relatively
+
+small.
+
+And because you're focusing on a relatively small area,
+
+your overall footprint is relatively small as well,
+
+but of course you're producing a lot of waste heaps as well from all the
+
+unwanted gang material
+
+that you're taking out of the ground and you don't use.
+
+The only place in the UK where evaporites are being mined is on the coast of
+
+Yorkshire,
+
+this place over here, so-called Bulby Mine in northern Yorkshire,
+
+right near to the shoreline, to the coast,
+
+which is being mined for sylvite and mainly for this mineral polyhalite.
+
+As I said before, this is actually not a chloro, it's potassium sulfate, sulfate
+
+mineral.
+
+So polyhalite, but just like potassium being used,
+
+just like sylvite being used as a feedstock for agriculture, for nutrients.
+
+Operations here are down to about one and a half kilometers depth,
+
+even includes a scientific lab at about one kilometer,
+
+and some of the operations are actually happening underneath the seabed.
+
+So with this, there's a little YouTube video, let's hope this will work.
+
+This is ICL Bulby. We are the first and only polyhalite operation in the world.
+
+At our mine, we mine, process and manufacture products of polysulfate.
+
+We provide this unique natural fertilizer to farmers here in the UK and all over
+
+the world.
+
+This is the polysulfate story.
+
+This is my part in the polysulfate story.
+
+We map out areas of the highest quality polyhalite
+
+which the mining team can then extract.
+
+And this is polyhalite, a hard rock mined here at ICL UK.
+
+This is then crushed and screened and turned into this, polysulfate.
+
+Each skip tips into a holding bin,
+
+which is then transferred via the tube conveyor up to the polyplant.
+
+Inside the polyplant, after crushing and screening,
+
+we produce three grades of polysulfate.
+
+We have the standard, the minis and the granular.
+
+Here in the lab, we work 24-7 testing polysulfate,
+
+ensuring every shipment is top quality.
+
+Every granular polysulfate fertilizer has a very important job to do somewhere
+
+in the world.
+
+Each wagon holds 59 tonne. We can load approximately 600 tonne an hour.
+
+This is the next part of the polysulfate story.
+
+Here at ICL Tea Spot, we distribute polysulfate by road and by sea.
+
+We load ships which go to UK, Europe and other parts of the world.
+
+Today, we have got the Tian Lu in, which is loading polysulfate standard,
+
+polysulfate granular and polysulfate minis for China.
+
+This is our part of the polysulfate story.
+
+We are Origin Fertilizers, a manufacturer and distributor of crop nutrition
+
+products.
+
+Here on site today, we have polysulfate that has arrived straight from the mine.
+
+It's gone through our blending plant.
+
+We've packed it and now it's dispatching to local farmers.
+
+We're seeing a tremendous increase in polysulfate demand
+
+as farmers recognize that balanced, precise fertilization is vital for their
+
+future.
+
+It's the essence of that story.
+
+In a very simple way, illustrating many of the things that happen in mining of
+
+any product,
+
+from exploration all the way through to shipping and handing it out to
+
+customers.
+
+That's what I wanted to talk about, about that mine there.
+
+Just to wrap up that bit about production and exploration,
+
+one thing which is an interesting side story is that evaporate rocks,
+
+in particular those in the subsurface,
+
+are also being used as an underground storage for a variety of things,
+
+essentially because these are very dry environments.
+
+They're very good, for example, for storage of documents.
+
+Any important documents are very often stored in the subsurface, in these large
+
+caverns.
+
+It's also being used in a number of places and studied in many others
+
+for storage of waste products, in particular nuclear waste,
+
+or munitions are being stored in these unused galleries like that one over here.
+
+Also, storage of CO2, so again carbon capture and storage schemes,
+
+is also being done or at least tested for using evaporate galleries for that.
+
+Also, emergency reserves of hydrocarbons, oil and gas, are being stored in
+
+abandoned salt mines.
+
+Lastly, one thing on environmental aspects, which we'll come back to this in a
+
+minute
+
+when we talk about lithium in a bit more.
+
+Obviously, for much of the mining, be that underground mining,
+
+be that surface production in these salars, in these industrial salars,
+
+you're using a lot of water and obviously very often,
+
+in particular when it comes to the modern salars,
+
+that's happening in places that don't have a lot of water to start with.
+
+You can also have leakage of the brine into the groundwater from any of the
+
+operations,
+
+which will obviously pollute and contaminate the groundwater and make it
+
+undrinkable
+
+because of that increase in salt content.
+
+Very often, that involves strip mining,
+
+so basically destroying entire large tracts of land for mining operations.
+
+Then finally, with underground operations, you can actually develop sinkholes,
+
+like in this case over here, this is from Cheshire,
+
+so not far from Manchester, a bit further to the west-southwest here,
+
+where there used to be a lot of underground mining for salt in the Cheshire
+
+Basin
+
+and creating big caverns and the salt is further obviously soluble,
+
+so if groundwater has access to it, you can actually create collapse of these
+
+underground caverns
+
+and then obviously that can translate into sinkholes at the surface.
+
+So the last bit that I just wanted to spend some time on for the last 10 minutes
+
+or so
+
+is to think a little bit about lithium.
+
+Obviously, lithium is, as you all know, very important for battery technologies,
+
+but it is essentially, when we are looking at these salars,
+
+it's a byproduct of evaporite mining, where, like in this case over here,
+
+this is from Bolivia, where we have, just to give you a sense of the scale of
+
+these industrial salars,
+
+these ponds, these evaporation ponds, where these various salts are being
+
+crystallized,
+
+including those that contain lithium in them.
+
+So when it comes to lithium, there is fundamentally three different types that
+
+we can,
+
+or types of deposits that we can consider.
+
+So on the one hand, we have what we refer to as brine deposits.
+
+So those are deposits of lithium from brines, surface brines, in these
+
+continental bases,
+
+so basically applying everything that we just learned in today's lecture.
+
+So we have natural and artificial brine pools,
+
+where the lithium gets concentrated by solar evaporation, mineral formation,
+
+and they are then being mined.
+
+And this constitutes about two-thirds of global reserves for lithium today.
+
+As we've learned, it's fairly easy and cheap mining,
+
+but obviously it relies a lot of water and it happens in places with a primary
+
+scarcity of water.
+
+And the lithium in here derives from a combination of sources,
+
+weathering of older igneous rocks that contain lithium in their crystals.
+
+As they weather, they provide that lithium onto surface brines
+
+that then collect in these lakes and become evaporated.
+
+You can also have subsurface brines that come up along faults,
+
+bring lithium with them, and add into the mix.
+
+You can have windblown dust that contains lithium.
+
+All of these will collect and form the composition of the brines,
+
+and obviously the mix of these sources will determine the mineralogy and the
+
+geochemistry of those brines
+
+and the mineralogy of the minerals precipitating from them.
+
+The second type of deposit is what we refer to as hard rock deposits.
+
+So where basically this is lithium-bearing minerals in any primary igneous
+
+rocks, so granites for example.
+
+And remember that lithium is one of these lithophile minerals that will stick
+
+with silicate,
+
+so it will be concentrated in silicate minerals.
+
+So that would be the rocks where the lithium could be weathered to form brine
+
+deposits.
+
+So these are what we refer to as hard rock deposits.
+
+They make up about a quarter of global production today,
+
+and mostly at the present day this happens via open pit mining,
+
+which is obviously quite time-intensive and costly because the concentrations
+
+are not very high
+
+compared to the brine deposits where they have been pre-concentrated.
+
+And then lastly, there is lithium in subsurface waters.
+
+So these brines that I've just mentioned earlier, obviously they contain
+
+lithium,
+
+and there's ways, techniques developed to extract lithium from those brines
+
+directly.
+
+So when it comes to the brine deposits, obviously that is something that
+
+basically goes parallel
+
+to what we just discussed in the previous slides,
+
+using these industrial salars to form evaporate minerals.
+
+And obviously it's not only relevant for lithium,
+
+because you have a whole sequence of minerals that you might form in this way,
+
+and which are obviously of interest for us.
+
+We're starting with these halide ponds at relatively lower salinities,
+
+and then going eventually to sylvite where we actually have potash being formed,
+
+so potassium as a fertilizer, as a nutrient.
+
+We can derive borates from it, and then eventually we also get to lithium,
+
+like a lithium plant from these lithium ponds.
+
+And afterwards, those brines will be re-injected into the salar and could be
+
+reused again.
+
+The best, the main place where this happens is the so-called lithium triangle
+
+between Argentina, Bolivia, and Chile.
+
+And there's also the so-called lithium valley in Western Australia.
+
+The source of the lithium here comes from geothermal fluids from geysers
+
+that contain up to about 50 ppm of lithium.
+
+There's also subsurface fluids and then obviously brines coming in
+
+from the surrounding highlands.
+
+And it's extracted as a lithium chloride salt
+
+with lithium concentrations of about 1,500 ppm.
+
+Then on the other hand, we have these so-called hard rock deposits.
+
+And probably the best, like a well-known place where this happens today
+
+is in Cornwall in the southern UK.
+
+And this is related with the high heat producing granites that occur in
+
+Cornwall.
+
+So on this heat map of, the heat flow map of the UK,
+
+you can see the high heat flows concentrated in the Cornwall area
+
+that's linked with these high heat producing uranium bearing granites.
+
+Obviously that's relevant for various geothermal energy projects.
+
+But it was also, and these granites had been mined for a long time,
+
+mostly for copper and tin.
+
+And the miners back in the 18th century, they already noticed that the brines
+
+or the fluids within the mines contained a lot of lithium.
+
+But at the time, that lithium was considered useless.
+
+It's only these days that we recognize that this lithium could actually be
+
+really important.
+
+So as a consequence of this high lithium content,
+
+well that lithium content is associated with minerals,
+
+lithium bearing minerals that crystallize,
+
+that are contained within these igneous, granitic igneous intrusions.
+
+And this is how they look like.
+
+So you can have minerals like spodumene,
+
+which are these large tabular crystals, like meter-scale large crystals
+
+that are containing lithium in their structure.
+
+That's the chemical formula for spodumene up here.
+
+And then this mineral here, it's called a lithium mica or lapidolite,
+
+with this rather complicated formula, again contains lithium within the crystal
+
+structure.
+
+These are the main lithium minerals that are forming within these granites.
+
+Typically with these very coarse-grained rocks,
+
+what we refer to as pegmatites or coarse-grained igneous rocks.
+
+And then once they become weathered,
+
+they also produce lithium-rich micas and lithium-rich clades,
+
+which can also be mined.
+
+So there's both mining of the primary lithium minerals,
+
+but also of the secondary lithium clades.
+
+So one example is Cornish lithium is mining for these lithium kaolinite clades
+
+in Cornwall
+
+that contain up to about 0.25% of lithium oxide,
+
+which is then concentrated and then extracted to get lithium at a battery grade
+
+that can be used for batteries.
+
+And obviously there's quite a, I won't go into the details of this,
+
+but there's quite a complex process of extracting the lithium from this,
+
+which again has quite a high footprint.
+
+And then lastly, I did mention that the third source of lithium is from the
+
+subsurface water,
+
+so directly from the subsurface waters.
+
+And I mentioned in Cornwall we have noticed,
+
+or miners have noticed the lithium concentration in those brines.
+
+So the idea is rather than using the minerals or the weathered minerals,
+
+extract the lithium directly from those ground waters, from those brines.
+
+So there is what's referred to as direct lithium extraction or DLE,
+
+which basically extracts a lithium chloride directly from the fluid,
+
+and then you can purify this and concentrate this further to basically produce a
+
+lithium hydroxide
+
+which can be used for battery construction.
+
+And this is usually done in combination with geothermal projects,
+
+because you can imagine those same techniques, those same boreholes
+
+that you use for the direct lithium extraction,
+
+you can also use for geothermal projects, so they go hand in hand.
+
+Okay, so with this, that's all I wanted to say about evaporites,
+
+and we're going to meet up again tomorrow for the practical.

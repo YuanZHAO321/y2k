@@ -1,0 +1,1197 @@
+'EART26201 - 20-Oct', automated transcript
+03/08/2026
+---
+
+All right, good afternoon everybody.
+
+Please take a seat quickly at the back.
+
+All right, we will get going for today.
+
+Good afternoon.
+
+Welcome to this week's lecture.
+
+So like last week, we are going to talk about thermodynamics and phase diagram.
+
+So we'll take a step up from last week in terms of looking at phase diagrams
+
+that are a bit more complicated.
+
+And as usual, we will do it today from a theoretical point of view.
+
+And then on Wednesday, we will work through a couple of examples for you to
+
+practice and see how we actually use those to solve some petrology questions.
+
+So let's get going with that.
+
+There we go.
+
+So you know now that phase diagrams link pressure, temperature and composition
+
+to observable futures.
+
+So this is one of the phase diagrams we looked at last week where we've got the
+
+temperature and composition of plagioclase here as one of the parameters.
+
+So we look at that ranging from albites, the sodium rich plagioclase to
+
+anortite, the calcium rich plagioclase.
+
+And we can use these phase diagrams to try and work out what happened to real
+
+rock samples.
+
+So if you take here, for example, a section of a basal from Iceland and you
+
+measure the composition of the core of these plagioclase,
+
+you end up with an amount of anortite, exanortite of 0.9.
+
+So you know that that core of plagioclase crystallized at high temperature.
+
+If you measure the composition of some plagioclase in the ground mass, so here
+
+the example in yellow, they're a lot more albite rich.
+
+So for example, here you've got exanortite of 0.4.
+
+You know that that plagioclase crystallized at a lower temperature than the
+
+previous one.
+
+So we can use these phase diagrams to estimate the pressure, temperature and
+
+chemistry conditions under which magma crystallizes.
+
+So to build these, we need thermodynamic information.
+
+So we need thermodynamic database.
+
+And one way to get these database is to do what we call experimental petrology.
+
+And this is, for example, one of the things that David does all the time.
+
+So the goal is to use experiments in controlled conditions in the lab to
+
+simulate what's happening down in the earth.
+
+So you know that magmas are complex systems that contains lots of different
+
+elements,
+
+which you've got the most abundant listed here.
+
+And doing experiments at known pressure, temperature and composition that enable
+
+us to understand what reactions take place in magma and construct these phase
+
+diagrams.
+
+It often costs quite a bit of money to do these experiments, but we need this
+
+data and mostly for predictive models.
+
+And one of the big applications of these sorts of prediction in terms of
+
+experimental petrology is for volcanic hazards.
+
+So one of the goal is to get better and better at predict when a volcano is
+
+going to erupt.
+
+And so there's quite a few bodies that are interested in funding this type of
+
+research because it has some practical applications, which is here to save
+
+people's life.
+
+And so in the lab, you start off with oxide powders, different chemical
+
+elements.
+
+You grind them and you mix them in proportions that you're interested in.
+
+You typically seal them in some sort of capsule.
+
+And then you have some sort of equipment where you can put them at controlled
+
+temperature and pressure.
+
+So here that big press is what we call the piston cylinder.
+
+So you can heat your experiment to the temperature you're interested in and you
+
+can apply some pressure onto it.
+
+So that's the synopsis for today.
+
+So let's start with a quick recap.
+
+So this is what we looked at last week.
+
+So that PlagioClaze phase diagram.
+
+So PlagioClaze is a solid solution between two end member, albite and anortite.
+
+And if you start from here, a liquid with that composition and you cool it down,
+
+when you intersect the liquidus, you will form the first PlagioClaze, which will
+
+have this composition.
+
+So the first PlagioClaze will be the richest in anortite.
+
+And as the system cools progressively, the PlagioClaze and the liquid
+
+composition will evolve to more albitic composition.
+
+And your final PlagioClaze, in equilibrium crystallization, the final
+
+PlagioClaze to crystallize down here will always have the same composition than
+
+the liquid you started from.
+
+Equilibrium melting is the exact opposite of equilibrium crystallization.
+
+So you start from down here and you do the reverse.
+
+For fractional crystallization, here again, we start from the same liquids.
+
+The first PlagioClaze is exactly the same one.
+
+But here we remove PlagioClaze as soon as they form.
+
+So the system becomes the composition of the liquid.
+
+And here in fractional crystallization, the last PlagioClaze to crystallize is
+
+pure albite.
+
+So your system can reach pure albitic composition and crystallize albite.
+
+Fractional melting is not the opposite of fractional crystallization.
+
+So in fractional melting, you remove the melt from the solid residues that are
+
+melting.
+
+And in fractional melting, if we start from this PlagioClaze, for example, you
+
+can end up crystallizing pure albite.
+
+So this is all we did last week.
+
+So I refer to last week's lecture and practical on this bit.
+
+So for today, let's start with another binary phase diagram.
+
+But this time we don't have a solid solution.
+
+So we've got two components here at the bottom, anortite and dioxide.
+
+So anortite is the calcium rich and member of PlagioClaze.
+
+Dioxide is a calcium rich peroxy.
+
+So we've got one solid per phase here.
+
+So we've got two components, anortite and dioxide.
+
+And we've got three phases, anortite, dioxide and melt.
+
+So if we try and look at the variance in different parts of that diagram, so
+
+pressure is fixed.
+
+So we've got temperature here on the y-axis and composition on the x-axis at a
+
+given pressure.
+
+If you're above the liquidus, you have a variance of one.
+
+So you can change P or T, sorry, you can change the temperature or the
+
+composition without affecting the composition of the system.
+
+On the liquidus, we've got a univariant system.
+
+And in these diagrams, we've got what we call the eutectic point.
+
+Eutectic point is an invariant point.
+
+So you can calculate the variance at that point and you get to a variance of
+
+zero.
+
+That means at this point, you cannot change the temperature or the composition
+
+without changing the state of the system.
+
+So in that diagram, we've got liquid here at high temperature.
+
+We've got liquid plus anortite on the left-hand side, liquid plus dioxide here.
+
+And below the solidus, we've got anortite plus dioxide.
+
+So what happens during equilibrium crystallization in these sorts of diagrams?
+
+So if our starting melt has a composition here of anortite 40, dioxide 60,
+
+and you cool it down, it turns out that this composition is the composition of
+
+the eutectite.
+
+So you will cool it down to the eutectite temperature.
+
+When you reach the eutectite temperature, 1274, you will start forming both
+
+anortite and dioxide.
+
+So the pure end members here.
+
+Because this is an invariant point, as I just said earlier, you can't change the
+
+temperature without changing the state of your system.
+
+So the system will stay at that temperature until all your liquid is
+
+crystallized.
+
+So you stay at 1274 until all your melt has become anortite and dioxide.
+
+And you end up with this composition here at the bottom with 40% anortite and 60
+
+% dioxide.
+
+So that's an extreme case where the starting composition is the same than the
+
+eutectite.
+
+Now if you're on the left-hand side, so you start with anortite 70, dioxide 30,
+
+and you cool it down.
+
+Here you hit the liquidus, and so your first solid to crystallize will be
+
+anortite.
+
+Then your liquid evolves along the liquidus.
+
+Your system goes down, and so at 1200 degrees, you would have some liquid and
+
+some anortite in these proportions, given by the lever rule.
+
+Now your liquid composition reaches the eutectic temperature, at which point you
+
+still crystallize anortite, but you start crystallizing dioxide as well.
+
+And again, you stay at that temperature until all your liquid is gone, and you
+
+only have anortite and dioxide.
+
+Here again, because we're at equilibrium, the final composition of the system is
+
+the same than the composition you started with.
+
+So you will end up with a rock with 70% anortite and 30% dioxide.
+
+If we're on the right-hand side, it's the same thing, except that when you cool
+
+down, you first hit the liquidus here for the fields that correspond to liquid
+
+plus dioxide.
+
+So your first solid will be dioxide.
+
+When you reach the eutectite, you crystallize all your melt, and you end up with
+
+a rock here with 80% dioxide and 20% anortite.
+
+So that's equilibrium crystallization in a phase diagram with a eutectite.
+
+And at any given temperature above the eutectite temperature, you can use the
+
+lever rule to work out the proportion of different phases, exactly as we did
+
+last week.
+
+Equilibrium melting, it's once again the opposite of equilibrium
+
+crystallization.
+
+And we'll work on that one, the first part of the practical on Wednesday.
+
+Now, if we look at fractional crystallization in that system, if we have a
+
+composition here that's the same than the eutectic, it's exactly the same thing.
+
+That doesn't change anything.
+
+If we have our composition rich in anortite, 70% and 30% dioxide, the first
+
+steps are the same.
+
+When you cool down and hit the liquidus, you start doing anortite.
+
+Here you remove that anortite from the liquid.
+
+So the system composition is that of the liquid, which follows this line.
+
+So you continue producing anortite and removing it until your liquid hits the
+
+eutectite when you start forming dioxide.
+
+At that point, you will consume all your liquid.
+
+You will stay at that temperature, crystallize all your liquid, and you'll end
+
+up with a system with 60% dioxide and 40% anortite.
+
+So in fractional crystallization, the final composition is always the same than
+
+the composition at the eutectite.
+
+So it follows that if we start on the right hand side, we will start forming
+
+dioxide first until the liquid gets to the eutectite when anortite will start
+
+crystallizing.
+
+And our system, the final composition will be the same, 60% dioxide, 40%
+
+anortite.
+
+The only difference is in the case in yellow, you would have formed dioxide
+
+before anortite.
+
+In the case in purple, you would form anortite before you formed dioxide.
+
+So if you actually look at rocks, you can work out which side of the eutectic
+
+you wear.
+
+If you can see in your rock that dioxide is the first phase to form, you know
+
+you're on the right hand side.
+
+So fractional crystallization, the composition of the system is the composition
+
+of the liquid.
+
+Fractional melting is not the opposite to fractional crystallization.
+
+So if you start with a rock with 70% anortite and 30% dioxide, so down here, and
+
+you increase the temperature,
+
+when you reach the temperature of the eutectic, 1274, these two mineral phases
+
+will start melting to produce some liquid
+
+and then continue to produce some liquid at that temperature until one of these
+
+phases is completely exhausted.
+
+So in that case, dioxide will be exhausted before anortite because there is less
+
+of it when you start it.
+
+At that state, you just shift all the way to the left in that diagram and you
+
+just produce liquid from melting the anortite you've got left.
+
+And the last crystal of anortite to melt will be at 1553 and above that point,
+
+all the system will be liquid.
+
+And the last melt will have a pure anortite composition.
+
+So that's just a reminder, that's always the case. Fractional melting is not the
+
+opposite of fractional crystallization.
+
+So a couple of examples of some natural rocks and how they relate to such phase
+
+diagram.
+
+So typically, a lot of basalts would look like that.
+
+So you've got a dark brown mass with some plagioclase crystal in it.
+
+This you can assume that it forms in the settings like the one we were looking
+
+at in purple.
+
+When you see basalts with intergrown plagioclase and clino-paroxane crystals,
+
+the dioxide, you can assume that these sorts of things formed around eutectoid
+
+composition.
+
+Okay, let's dig into another type of phase diagram.
+
+So that's just a quick recap of what we just did.
+
+Now we will look at the phase diagram with what we call the solvus.
+
+So they look like that. So one example is the albite-autoclase phase diagram.
+
+So here again, you've got temperature on the left.
+
+Here you've got composition on the x-axis ranging between albite, so the sodium
+
+-rich plagioclase feldspar,
+
+and autoclase, the potassium-rich plagioclase feldspar.
+
+These types of diagrams, they sort of intermediate between the diagram with and
+
+without solid solutions,
+
+sort of a mix of the plagioclase phase diagram and the one we just did, an
+
+autide type site.
+
+So they form, so solvus form, because at high temperature it's easy to have
+
+solid solution between albite and an autide,
+
+for example, but at lower temperature it's a lot harder to get good mixing.
+
+And so we form these solvus.
+
+And beneath, at temperature below these solvus, we've got multiple solid phases
+
+in equilibrium.
+
+And in these types of diagram here, the solid solutions for a given mineral are
+
+given by these signs, XSS.
+
+So, for example, in that field, it's alkali feldspar solid solution.
+
+So a solid solution means multiple solids per phase, so albite and an autide or
+
+albite and autos for feldspar.
+
+So here we've got two components, albite and autoclase.
+
+In terms of the number of phases, we've got alkali feldspar,
+
+and we've got here at high temperature an albite rich end member and an
+
+autoclase rich end member.
+
+We've got melt at high temperature.
+
+So two components and two phases.
+
+Skip that and I think the easiest is to go into examples.
+
+So as usual, let's start with equilibrium crystallization and what happens in
+
+these types of diagram during equilibrium crystallization.
+
+So here we start with this liquid, which has about 25% albite and the rest of
+
+autoclase.
+
+You cool it down and you hit here your liquidus.
+
+So at that temperature, 1150, the first solid you will form is that albite rich
+
+alkali feldspar with that composition.
+
+The liquid cools down following the liquidus.
+
+You will continue producing alkali feldspar.
+
+Both of them will become progressively richer and richer in autoclase component
+
+until the solid reaches the system composition.
+
+So the composition of your system is here.
+
+Once the solids of the feldspar reach that composition, you will cool down quite
+
+quickly.
+
+And you will reach here the solvus.
+
+At the solvus, you will start forming autoclase rich alkali feldspar that will
+
+progressively exalt from these albite rich feldspar.
+
+And the exsolution will become more and more autoclase rich, while the host
+
+feldspar will become more and more albite rich.
+
+And the final composition of your system is here, similar to the one you started
+
+with.
+
+So exsolution, and we've got some examples later on, it's basically you've got a
+
+crystal and you're going to start forming small lamellae in your crystal.
+
+So you basically form a second mineral inside a first mineral.
+
+The proportion of albite and autoclase rich alkali feldspar, as usual, are given
+
+by the lever rule.
+
+If we look at fractional crystallization starting from the same liquid, here
+
+again, your first alkali feldspar is albite rich.
+
+But here you remove that feldspar from your liquid.
+
+So the composition of the system is the composition of the liquid.
+
+In that case, nothing prevents your liquid to go all the way down to this
+
+eutectic point.
+
+And once you've reached that eutectic point, you continue cooling down and at
+
+that point you intersect the solvus.
+
+Once you're at the solvus, you start forming autoclase rich exsolution in your
+
+albite rich alkali feldspar.
+
+And once everything is solid, the composition of the system cannot change.
+
+So the composition of the system here is the same than the composition of the
+
+eutectic.
+
+And we'll see in a minute that forming this exsolution is highly dependent on
+
+kinetics.
+
+So how fast you're cooling down.
+
+But we'll go into that in just a second.
+
+So it's getting more and more complex and we'll add another degree of complexity
+
+in this phase diagram now.
+
+So now just to summarize this phase diagram we just looked at.
+
+So the degree of alkali feldspar solid solution depends on the temperature.
+
+As a reminder, we do extensive solid solution at high temperature, but more
+
+limited at low temperature.
+
+Multiple solid phases occur below the solvus at equilibrium.
+
+And the next solution is the separation of different solids from a single solid
+
+phase.
+
+And the extent to which these occur depends on cooling rates and kinetics.
+
+Okay, so another one here for pyroxenes.
+
+So here again on the y-axis we've got temperature.
+
+Here we've got the temperature, it doesn't really matter.
+
+And here we've got acetate, so magnesium rich pyroxene.
+
+And diopside, a calcium magnesium rich pyroxene on the composition axis.
+
+You can see this is starting to get more and more complicated in terms of the
+
+number of fields.
+
+This is again at fixed pressure of one atmosphere.
+
+And effectively these sorts of diagrams, this is because the solvus,
+
+which we just showed an example of in the alkali feldspar example, intersects
+
+with the eutecta.
+
+And you can see it referred to as rabbit-S shape because of these two fields
+
+here at the top.
+
+Number of components two, acetate, magnesium rich pyroxene and diopside, calcium
+
+magnesium rich pyroxene.
+
+And here the number of phases is four.
+
+So if we can try and locate them.
+
+So we've got an orthopyroxene solid solution, which is here on the left-hand
+
+side.
+
+We've got a pyroxene called pyginate, which we can see here on the left-hand
+
+side of the diagram.
+
+So here you've got pyginite plus orthopyroxene, pyginite liquid plus pyginite,
+
+pyginite plus ogite.
+
+So the third phase is ogite, which is sort of here on the right-hand side.
+
+And we've got melt at high temperature.
+
+So pyginite is stable at higher temperature than orthopyroxene.
+
+So let's start with a slow cooling case.
+
+So slow cooling in simple terms equals equilibrium.
+
+So everything has got time to reach equilibrium.
+
+And we start from that liquid here on the right-hand side.
+
+So you start cooling down your liquid until you reach the liquidus at T1,
+
+temperature one.
+
+Here your first solid is diopside rich ogite.
+
+So it's got this composition down here.
+
+As you cool down, the liquid composition and the ogite composition, they become
+
+richer in acetate.
+
+So they're both going towards the acetate end member.
+
+And you crystallize a diopside called pyginate and diopside rich ogite once you
+
+reach that.
+
+Let's take a step back.
+
+So you see here that the liquid reaches the eutectite.
+
+So at that temperature, you will start forming pyginite and you'll continue
+
+forming ogite.
+
+You'll stay here at that temperature until all the liquid has crystallized into
+
+ogite and pyginite.
+
+Then you've got a system with ogite and pyginite and you continue cooling it
+
+down.
+
+So the pyginite composition evolves towards more acetate rich composition.
+
+Finally, the ogite composition evolves along these lines towards more diopside
+
+rich composition.
+
+Once you reach that point here, you've reached another eutectite here on the
+
+left hand side.
+
+Once you reach here at that point, the diopside rich pyginite, which is here,
+
+undergoes a phase transition
+
+and it becomes diopside poor orthopiroxine.
+
+And finally, you continue exalting orthopiroxine from ogite and vice versa until
+
+you get to a temperature where nothing else happens.
+
+Because it's equilibrium, the final composition of your system is the same
+
+composition than the one you started from.
+
+So if we cool slightly faster, but still quite close to equilibrium, the first
+
+few steps are the same.
+
+So you first crystallize diopside rich ogite, then the melt and ogite become
+
+richer in acetate until you reach the eutectite.
+
+At the eutectite, you will start crystallizing pyginite.
+
+Then you continue cooling and you start exalting ogite from pyginite and
+
+pyginite from ogite.
+
+But here, because you're cooling quite fast, you don't quite reach these
+
+conditions down here.
+
+And you just basically froze the system at a given point.
+
+You never get to the point where pyginite transforms to orthopiroxine.
+
+And we'll see in a minute, we can relate that to rocks we see.
+
+So it will become more apparent to what this means.
+
+And finally, if you cool fast, you're far from equilibrium, so the first steps
+
+are exactly the same.
+
+You get to the eutectite, you start forming pyginite, but then you freeze the
+
+system at that point and no exsolution occurs.
+
+So you would have no pyroxine with exsolution in the rocks you can collect.
+
+And here you form a homogeneous crystal of ogite and pyginite, which have the
+
+composition they had at the eutectite.
+
+So, enstatite 80 for the pyginite and enstatite just over 20 for the ogite.
+
+The dioxide-rich pyginite does not grow through the phase transition, again,
+
+because we go way quicker.
+
+And for example, in the slow cooling case where you've got your pyginite that
+
+inverts to form orthopiroxine,
+
+this is sort of what it looks like when we look at rocks in thin sections.
+
+So you've got here the dark mineral is orthopiroxine.
+
+So it's orthopiroxine that used to be pyginite.
+
+So originally it was pyginite. Once it reached that point, it became
+
+orthopiroxine.
+
+And you see some ogite exsolution into it.
+
+So basically that corresponds to that sort of transition at that given
+
+temperature.
+
+And we often found these in very large magma chamber.
+
+So things that are large that cool down slowly where equilibrium occurs.
+
+Moderate cooling, this is what it looked like.
+
+So we've got ogite and overpyginite with exsolution laminae of each other.
+
+And you've got an example here where you've got ogite crystals with thin
+
+exsolution of pyginite.
+
+And typically you found that in smaller magma chamber.
+
+So things that have intermediate cooling rates.
+
+And finally, fast cooling, we've got homogeneous crystals with no exsolution.
+
+This is commonly found in volcanic rocks.
+
+So things that get to the surface and cool down very quickly.
+
+And here you've got an example of a homogeneous crystal of ogite.
+
+So again, if we summarize that, which pyroxene grows where.
+
+So these sorts of homogeneous crystals, they grow in magmas that cool down
+
+quickly.
+
+And magmas that cool down quickly, you find them erupted at Volkerio.
+
+Or you find them in things that we call dikes and sills, which are effectively
+
+small conduits where the larvas cool down quickly.
+
+The things with exsolution laminae of ogite and pyroxene.
+
+And again, we typically find them in intermediate size magma chamber.
+
+So you've got a few possible examples here in yellow.
+
+And finally, when you see inverted pyginite that has become orthoparaxines, you
+
+know you've cooled down very, very slowly.
+
+And these are only found in very large magma chamber type environments.
+
+So this is useful to go and relate a rock to what sort of environment it formed
+
+in.
+
+Okay, any question on these?
+
+These are not super straightforward.
+
+So if you have any questions, please don't hesitate.
+
+Okay, we will move into the final one for today.
+
+Which is a binary diagram with a peritectic.
+
+So we just saw a couple of examples of diagrams with eutectites.
+
+And now we've got another component called a peritectite.
+
+And we'll see in a minute what a peritectite means.
+
+So this phase diagram is porsthyrite quartz.
+
+So temperature on the y-axis as usual.
+
+Pressure is fixed at one atmosphere.
+
+And you can see here you've got three components labeled.
+
+So you've got porsthyrite, so the magnesium-rich olivine, on the left-hand side.
+
+We've got quartz on the right-hand side, so SiO2.
+
+And we've got acetate here at 30% porsthyrite, which is the magnesium-rich
+
+pyroxene.
+
+This is one of the most important reactions when we look at basal
+
+crystallization.
+
+So number of components, if we ignore this one for now.
+
+We've got two end-member components, porsthyrite and quartz.
+
+In terms of phases, we've got four.
+
+So we've got porsthyrite, we've got cristobalite, we've got acetate, and we've
+
+got melt.
+
+So cristobalite is the high-temperature polymorph of quartz.
+
+So it's labeled quartz here on the label.
+
+But because we're at high temperature, we're above 1400 degrees.
+
+The name of the polymorph is actually cristobalite, but that's a very minor
+
+point.
+
+And we've got a eutectic reaction.
+
+So down here at that point, that eutectic reaction is liquid produces acetate
+
+here and cristobalite on the right-hand side.
+
+So as a reminder, eutectic reactions are invariant, so you can't change the
+
+temperature or the composition without changing the whole system.
+
+And we've got another point here called peritectic.
+
+So that peritectic reaction here is porsthyrite plus liquid gives acetate.
+
+So a peritectic reaction is basically a reaction where you consume a mineral
+
+you've just produced.
+
+So eutectic is liquid gives two minerals.
+
+Peritectic involves consuming a mineral you've just produced.
+
+And we'll see what that means in just a second.
+
+And to simplify things, and because this is where it's most relevant to basal
+
+crystallization, we'll just consider the left-hand side of that diagram.
+
+So we'll split it at SiO2 equals 50%, which becomes like that.
+
+So here again, you've got the eutectic down here and your peritectic point up
+
+here.
+
+You've got liquid at high temperature, porsthyrite plus liquid in this field,
+
+porsthyrite plus acetate in this field, acetate plus cristobalite here,
+
+cristobalite plus liquid and acetate plus liquid.
+
+So if we look at one case of equilibrium crystallization, where we start here
+
+with this composition.
+
+So it's a composition between porsthyrite and acetate.
+
+So you are used to that now. You start cooling it down.
+
+When the liquid intersects the liquidus, you start producing porsthyrite.
+
+You continue cooling down. So the liquid composition evolves along the liquidus.
+
+You continue crystallizing pure porsthyrite.
+
+The system composition is here.
+
+And the liquid evolves until you reach the peritectic point.
+
+So at that peritectic point, your porsthyrite will react with the liquid that's
+
+left to produce acetate.
+
+So that's what I said earlier.
+
+Peritectic reaction involves the consumption of some of the products you've just
+
+made.
+
+And the temperature will stay constant until one of these two components is
+
+exhausted.
+
+So you'll stay at 15, 60 degrees until either you run out of porsthyrite or
+
+liquid, which is what's given here.
+
+And to work out which one will be exhausted first, you can use the lever rule.
+
+Or you can also remember that the final composition of your system in
+
+equilibrium crystallization is the same than the one you started with.
+
+So if you project down the liquid composition all the way down, you know that
+
+your final product will have porsthyrite and acetate.
+
+So that means that the liquid is the first one that will be exhausted here.
+
+So once you've run out of liquid, you're left with porsthyrite and acetate.
+
+And that's your system.
+
+So here you will end up with a system which will be dominated by acetate over
+
+porsthyrite.
+
+If you do equilibrium melting starting from this system, it's the exact
+
+opposite.
+
+One term that, don't worry if you forget instantaneously about it, but you might
+
+see the word incongruent melting.
+
+Incongruent melting means that the first liquid that you produce is outside the
+
+composition of your system.
+
+What does it mean?
+
+It means that if you start here from a system with porsthyrite and acetate, and
+
+you increase the temperature to start, you will start melting here.
+
+And the composition of your liquid is L2.
+
+So effectively the composition of your first liquid would be in the field
+
+acetate quartz rather than acetate porsthyrite.
+
+That's what incongruent melting means.
+
+Now let's take a case where the starting composition of the liquid is not in
+
+between porsthyrite and acetate, but it's between acetate and crystallite.
+
+You cool it down quite a long way before you reach your liquidus down here.
+
+So you will first produce some porsthyrite.
+
+And very quickly you will get to your peritectic.
+
+At the peritectic point you will consume porsthyrite and react that porsthyrite
+
+with the liquid to form acetate.
+
+So just as we saw previously.
+
+But here this reaction will continue until you run out of one of these two.
+
+But here you run out of porsthyrite before you run out of liquid.
+
+And you can work this out by saying that because you start it with that
+
+composition, the final rock must contain acetate and crystallite and no
+
+porsthyrite.
+
+So once you've run out of porsthyrite, you've got some liquid left.
+
+The liquid composition will follow this liquidus until you reach the eutectite
+
+down here.
+
+So it gets quite small.
+
+But once you reach that eutectite at N3, the temperature will stay there and you
+
+will start producing crystallite and continue producing acetate.
+
+And you will do so until you run out of liquid and all your rock is solid.
+
+So here your final rock composition will be acetate plus crystallite.
+
+And you can work out the proportion using the usual lever rule.
+
+So fractional crystallization in this system.
+
+So starting again with a liquid which is in between porsthyrite and acetate.
+
+So the first step is the same.
+
+You hit the liquidus, you form porsthyrite.
+
+But here you remove this porsthyrite from your liquid.
+
+So the liquid, the system composition is that of your liquid.
+
+The liquid composition gets to the peritectite.
+
+You'll continue producing porsthyrite but you remove it.
+
+So you basically don't care about it.
+
+And you can't have a peritectic reaction because you have no porsthyrite.
+
+Your liquid is not in contact with your porsthyrite anymore.
+
+Because we're in a fractional crystallization case.
+
+So since there is no porsthyrite, the liquid composition will move from L2 to
+
+L3.
+
+Where at the eutectic you will crystallize acetate and crystallite.
+
+The last liquid will have the composition of the eutectic.
+
+And you will form a rock that contains acetate and crystallite.
+
+So like all the cases we've seen before, the final rock you produce in
+
+fractional crystallization processes is different from the composition of your
+
+starting melt.
+
+So does that, so this is all theoretical because a lot of the thermodynamics and
+
+the phase diagram things are.
+
+But do we actually see that in nature?
+
+In fact we actually rarely see that in natural magnets.
+
+Do you have any idea why we don't see peritectic reactions if you think about
+
+what we've said over the last couple of weeks?
+
+I think it was in the second week when we discussed crystallization.
+
+We said that actually most magmas crystallized following fractional
+
+crystallization.
+
+So that's why in nature we tend not to see a peritectic reaction.
+
+Because in the fractional crystallization case we don't have the mineral we've
+
+produced to enable that peritectic reaction.
+
+So because fractional crystallization dominates, what we find is basalts, which
+
+are typically fosterite rich.
+
+So we find some fosterite rich, but then they would move to things that are more
+
+like what we call dacite, which is a rock called comprising acetate and quartz.
+
+So I think that's probably all I wanted to do for the peritectic reaction for
+
+today.
+
+And we'll do some crystallization and melting in this system on Wednesday.
+
+Because it's always easier when you do it yourself rather than listening to me
+
+explaining these diagrams.
+
+So thank you for that and I'll see you all Wednesday to do some phase diagrams.
+
+So that's it for today.
+
+That's good.
+
+Thank you.
+
+So that's it for today.
+
+Thank you.
+
+Thank you.
+
+So that's very good.
+
+I want to start making salads.
+
+What are you doing for a video?
+
+My mum is having a hard day on the toilet.
+
+She's at uni at the moment.
+
+So I'm going to take some rest.
+
+I'll be here at the five o'clock.
+
+I'll see you later.
+
+I don't know what to do.
+
+Bye now.
+
+I think it's time to go home.
+
+Thank you.
+
+See you later.
+
+See you Wednesday.
+
+Bye.
+
+It's still a little daylight out there now,
+
+so let's just get it in.
+
+I suppose when the sun comes in,
+
+it might be a problem.
+
+The air never seems to be really quite fresh.
+
+Sorry.
+
+That makes sense later.

@@ -1,0 +1,1683 @@
+'EART21202 - 30-Apr', automated transcript
+03/08/2026
+---
+
+Okay, afternoon everyone. It's four o'clock so we'll make a start. So welcome to
+
+the last
+
+tour element of global climate change. So well done for getting to this point.
+
+And this
+
+is the last tour element of global climate change. I know I've talked about this
+
+a number of times
+
+now but we haven't had that many questions submitted by the Mentimeter link. I
+
+would say
+
+probably three or four questions around that, around what you would like to see
+
+in the last
+
+lecture of global climate change. So this is really critical to framing and
+
+shaping what
+
+you see in that last lecture. If there are only three questions, I'll only
+
+answer three
+
+questions and it'll be a short lecture. So please do feel free to use that and
+
+that can help guide
+
+what that session will look like. The other thing that I really appreciate that
+
+if you start to
+
+think about filling in, I had about 15 responses last week so thank you for
+
+those. But please
+
+think about filling out this unit survey saw selection. This is super helpful
+
+for me. As I
+
+told you at the start of the course, every one of these slides is brand new so
+
+it's really
+
+informative for me to help understand how well this course has gone and what I
+
+could potentially
+
+do into the future to improve it. So please do take the time to fill out both
+
+the Mentimeter
+
+link and the unit survey scores because that's very helpful for both now and for
+
+the future.
+
+Today as the last lecture will look fairly similar but a little bit different to
+
+the normal
+
+lecture structure and we will have a slightly longer workshop in the middle of
+
+the lecture
+
+to allow Jess to answer some of the key questions relating to her. Information
+
+in
+
+watching shows throughout her lecture and then we will spend the last 40 minutes
+
+or so looking
+
+at negative emission technologies and how they might interrelate with the solar
+
+radiation management
+
+stuff that Jess talked about. The stuff we're talking about today is very hot in
+
+terms of
+
+the UK's commitment to tackling global climate change. As we talked about last
+
+week there's
+
+a universal agreement and a universal sign up to the Paris Agreement. The UK is
+
+no different
+
+to that and the UK committee for climate change has made it clear that some of
+
+the strategies
+
+that we're going to talk about today both in terms of solar radiation management
+
+that negative
+
+emission technologies are going to be absolutely central to the UK's commitment
+
+to doing that.
+
+Today we're really going to think about what we can do in this space.
+
+Not only are we going to think about what we can do in this space and how we do
+
+it it's also
+
+thinking about some of the potential unintended consequences. In the past as
+
+atmospheric scientists
+
+we've probably been guilty of being reactive in this space so there's a problem
+
+that we've
+
+and only 15 years later we find out that it's a problem. It's our job on a day
+
+-to-day basis now
+
+is to be proactive in identifying potential unintended consequences and both
+
+Jess and I are
+
+going to talk about some of those in relation to both the negative emission
+
+technologies but also
+
+the solar radiation management perspective. We want to think about this both
+
+from adaptation
+
+strategies and that's thinking about adapting to our life and changing climate,
+
+making use of potential positives of climate change. There might be few but
+
+there might
+
+be things like agricultural practices changing and yields increasing as a result
+
+of climate
+
+change in certain parts of the world but overwhelmingly these are negative
+
+impacts
+
+that we need to adapt to. Ultimately we want to think about mitigation and we
+
+can do that
+
+primarily by reducing our emissions into the atmosphere and but some slightly
+
+more
+
+aggressive forms of mitigation are going to be some of the forms we talk about
+
+today
+
+both from Jess and myself. There's two ways we can do this one is through
+
+greenhouse gas removal
+
+and one is through solar radiation management and with that I'll leave you with
+
+Jess to talk about
+
+that element. Hello I'm Jess I'm here to talk to you about SRM which she stands
+
+for
+
+solar radiation notification or management depending on who you ask. So first
+
+I'm going
+
+to go through a little bit of a recap of what you've hopefully done before.
+
+These are the climate
+
+stripes, it's global temperature with time, it's a nice artistic representation
+
+I quite like it.
+
+So let's talk a little bit about why that happens first. On the left hand side
+
+of the slide we've
+
+got downwelling radiation so radiation from the sun and on the right hand side
+
+we've got
+
+upwelling radiation so radiation from the earth so that gets absorbed and then
+
+retransmitted.
+
+We can see that there are absorption bands in the graph on the left little bands
+
+where radiation
+
+is missing when it hits the bottom. The red coloured intersection represents the
+
+bottom of
+
+radiation and the yellow coloured intersection represents the top of atmosphere
+
+radiation and
+
+there are missing pieces which are where various gases have absorbed some of the
+
+downwelling
+
+radiation and if we look on the right hand side of the slides that is the
+
+earth's upwelling radiation
+
+so some of that radiation is absorbed by the earth and then retransmitted as
+
+black body radiation
+
+as the earth then heats up. Note there is a big thing which says CO2 which has a
+
+big missing chunk
+
+out of the gray space there that's because CO2 will absorb infrared but it will
+
+not absorb visible
+
+so it will let all of the visible light through with a lower wavelength and
+
+absorb some of the
+
+stuff with a higher wavelength that is why CO2 is the greenhouse gas and it
+
+warms the planet as a
+
+effect which is what we call radiative forcing. Radiative forcing is basically
+
+the power
+
+which an individual component a constituent of the atmosphere has that goes
+
+towards heating it up or
+
+cooling it down which is what we're going to talk about a little bit later. This
+
+graph you've
+
+probably seen a million times before it's quite a good graph it's from the
+
+Intergovernmental Panel
+
+climate change report done in 2021 it's from the technical summary action report
+
+six and you can
+
+see all of the different atmospheric constituents and their various different
+
+effects a positive
+
+radiative forcing means something heats up meaning there's like a positive power
+
+and a negative
+
+radiative forcing means it cools down. The color of the bar represents that
+
+thing's interaction
+
+with a different atmospheric constituent so for example carbon dioxide is
+
+entirely one color
+
+because it doesn't interact with anything which is directly absorbable for
+
+radiation.
+
+I'm not going to talk too much about the stuff on the top of that chart I'm
+
+going to talk about
+
+the stuff which cools it down so that's SO2, sulfur dioxide primarily and also
+
+organic carbon,
+
+black carbon and ammonia these things are aerosols. Note in the key that there
+
+is it's
+
+between an aerosol radiation interaction and an aerosol cloud interaction I'm
+
+going to talk a
+
+little bit about that now yes to understand why that is you need to understand a
+
+little bit about
+
+electromagnetic theory. So I'm going to talk about scattering hands up who knows
+
+what scattering is
+
+light scattering is great fantastic a little bit of a recap scattering is
+
+basically the sum
+
+of reflection refraction and diffraction when light hits hits a particle in the
+
+air
+
+so in the air there's lots of things called aerosol particles and also cloud
+
+droplets all
+
+of these things scatter electromagnetic radiation both upwelling and downwelling
+
+it doesn't cause a changing wavelength but it does reflect radiation back into
+
+space or
+
+scatter it down again and we're going to talk about that now so we'll note this
+
+bar
+
+again is split up into aerosol cloud interactions and aerosol radiation
+
+interactions
+
+the darker color is aerosol cloud aerosols will generally directly cool the
+
+planet this is because
+
+they back scatter some of the downwelling radiation back into space but what
+
+they also do
+
+and this is the more cooling effect of aerosols which is sometimes called the
+
+indirect effect of aerosols is they also interact with clouds to make them more
+
+reflective
+
+so a cloud is I'm not sure how much atmospheric physics can be done
+
+but a cloud is a bunch of water droplets and ice crystals all mixed together in
+
+an atmospheric
+
+slurry with aerosol aerosols can act as cloud condensation nuclei so the nucleus
+
+for a cloud
+
+droplet to grow water will deposit on the aerosol particle and grow the droplet
+
+from there
+
+and the size of the cloud droplets depends on how many cloud condensation nuclei
+
+that
+
+is aerosols there are in this space of cloud what they also do is nucleate ice
+
+but that's for another time what's important is how they interact with radiation
+
+as well
+
+this graph is actually from the paper about microplastics the reference is there
+
+ignore
+
+ignore why it's there what's what's important is that it's a graph of scattering
+
+angle so if
+
+an incident radiation going into a particle zero degrees is transmitted straight
+
+ahead
+
+180 degrees is reflected behind 90 degrees is side scattered we've got
+
+scattering angle on the
+
+y-axis we've got particle diameter on the x-axis so as we go up and get to
+
+bigger particles or
+
+bigger cloud droplets and the color of the graph represents the scattering
+
+intensity
+
+what's really important here is that as we get closer to zero scattering angle
+
+so as we get
+
+closer to transmitting larger particles will transmit more intensity than
+
+smaller particles
+
+or smaller particles will reflect more radiation back into space it does also
+
+differ with
+
+about this is that bright clouds with lots and lots of small droplets so lots of
+
+droplets
+
+around the like five micron 10 micron kind of area these clouds tend to be
+
+brighter because
+
+they end up reflecting more radiation back into space whereas clouds with larger
+
+droplets clouds
+
+which are closer to precipitating and raining these are clouds which absorb and
+
+also transmit
+
+more radiation and reflect less radiation so yeah to recap on this section the
+
+aerosol cloud
+
+interaction so the bit on the left is like a combination of scattering from a
+
+loads of
+
+different droplets both transmitting and reflecting we actually weren't sure if
+
+rewind 10 years ago we weren't really sure if this cooled the planet or heated
+
+the planet up
+
+we weren't really sure about the distribution of clouds around but now we're
+
+pretty sure they
+
+actually cool the planet and the the right side of the screen is the aerosol
+
+radiation interactions
+
+directly and they also cool the planet because they reflect radiation back into
+
+space so how
+
+do we exploit this exploiting the cloud interaction is one of the ways in which
+
+we do
+
+solar radiation modification so what we aim to do by doing this is turn these
+
+dark clouds that
+
+are close to precipitating into brighter clouds which will last ages and reflect
+
+lots of sunlight
+
+and also inject aerosol into regions of the atmosphere where it's going to form
+
+a new
+
+cloud and it's also going to be quite bright so exploring a little bit why this
+
+happens
+
+again as i touched on before aerosol particles will act as cloud condensation
+
+nuclei
+
+and attract water vapor to it where it gets what we call activated so it gets a
+
+coat of water
+
+around it and then that allows further sublimation of water condensation rather
+
+of water vapor
+
+directly onto the droplet when it grows so if you have a region of super
+
+saturation a region of
+
+super saturated so either that's a region of atmosphere which has cooled down so
+
+that there's
+
+more water vapor in the air than that parcel there can actually handle or the
+
+opposite has
+
+happened where you get convection and you get warm air kind of traveling upwards
+
+and then cooling
+
+down one of those two reasons then you get if there is then a nucleation site
+
+for water to go
+
+the water will go on that nucleation site and then the cloud is formed so if we
+
+imagine a small
+
+number of cloud condensation nuclei in that cloud then that water has a few
+
+fewer numbers of places
+
+to go so it forms these larger droplets which the ones which transmit more light
+
+than they reflect
+
+and they also absorb more light as well whereas on the other hand if we have a
+
+huge concentration
+
+aerosol for the same amount of water we'll end up with a larger number
+
+concentration of
+
+smaller droplets and these will reflect more light than they can so then we get
+
+onto this thing
+
+called marine cloud brightening or mcd and that exploits this interaction of
+
+electromagnetic
+
+theory with cloud physics and we do this in order to directly modulate the
+
+brightness of the clouds
+
+this was originally proposed by a guy called john latham who was part of the
+
+manchester institute
+
+for technology you missed um which got which is a university in manchester they
+
+got merged
+
+the university of manchester um yeah and he originally proposed this in 1990 and
+
+this is
+
+an artistic representation of the concept which was in his original paper that
+
+gets thrown around
+
+all the time um but yeah that's where that image comes from and yeah again the
+
+idea is to either
+
+see each new clouds over the ocean or to increase the brightness of existing
+
+ones and you do that
+
+by spraying salt spray into the atmosphere um and it's done over the ocean
+
+because a there's usually
+
+a lot of light in the atmosphere so it's a good idea to do that
+
+marine stratocumulus cloud often contains quite large droplets with low lumbar
+
+concentration so
+
+they're good candidates for brightening and there's a really good aerosol source
+
+because
+
+you can basically just have this great big tank of seawater spray it into the
+
+atmosphere with a
+
+nuclei
+
+yeah so unforeseen consequences with this um as with everything we do with
+
+geoengineering
+
+uh there's going to be every perturbation makes the atmosphere there will likely
+
+be
+
+consequences to what you do determining whether something is worth it is
+
+basically
+
+a trolley problem decision where you have one side of the tracks uncontrolled
+
+climate change
+
+and the other side of the tracks all of these unforeseen consequences that i'm
+
+going to go
+
+through with marine cloud brightening most of the consequences to this are less
+
+to do with the
+
+physics of marine cloud brightening itself and more generally to do with whether
+
+geoengineering
+
+stop is a good idea and which is another question and the reason for this is
+
+because it's in the
+
+troposphere the lowest part of the atmosphere you can reasonably just stop the
+
+tests if anything
+
+goes wrong and the atmosphere will just revert back to its normal state in a
+
+couple of weeks
+
+or that's the theory anyway but there are a number of different consequences
+
+with it
+
+so there are issues surrounding social deception of geoengineering particularly
+
+when you're spreading things into the atmosphere and particularly when it's done
+
+by fairly
+
+clandestine opaque research groups at universities which are esoteric and
+
+isolated and don't have
+
+proper outreach programs and people think they're doing suspicious things when
+
+you're not which is
+
+natural um modifying the clouds in this way as i say um the gray clouds are more
+
+likely to
+
+precipitate soon and what that means is you're basically taking precipitation
+
+away
+
+by injecting aerosol into the clouds um this is not really an issue over the
+
+ocean because we
+
+don't care if it rains over the ocean or not but you do need to be aware that if
+
+you're
+
+seeding a cloud or modifying a cloud over the ocean that would drift over to
+
+farmland for
+
+example you need to be aware that that farmland might end up getting less
+
+rainfall as a result of that and that's one of the things but then there is also
+
+an issue
+
+with solar radiation management generally where you can become reliant on it
+
+and it can always be used as an excuse by various different factors various
+
+different parties
+
+in order to continue polluting continue what they're doing um and continue to
+
+take money
+
+this is kind of a perception we want to avoid we want to avoid that using srm as
+
+a crutch we
+
+more want to move towards using srm as let's short-term mitigate this while we
+
+work on the
+
+long-term problems but nevertheless that is a risk that the risk is that we will
+
+become reliant on
+
+the srm and have to continue this quite costly process kind of indefinitely
+
+there's also an
+
+issue is if we stop doing solar radiation management kind of in the short term
+
+what that
+
+causes is quite a large step change in radiative forcing quite an immediate step
+
+change radiative
+
+forcing which means the atmosphere is going to get up quite quickly which means
+
+ecosystems
+
+um things like that they don't have time to adapt properly um i mean they don't
+
+have time
+
+to adapt properly with runaway climate change anyway but they'd have even less
+
+time with this
+
+um and there's also the issue where it should be stressed that a reduction in
+
+radiative forcing is not actually exactly equal to a reduction in greenhouse gas
+
+emissions because
+
+there are problems with that as well anyway i'll go through some case studies
+
+now of um of solar
+
+management so the first case study is kind of an accidental one um it's to do
+
+with global shipping
+
+um there was a recent regulation in global shipping which reduced the amount of
+
+sulfur
+
+in ship fuels um and if we look down there you see so2 sulfur dioxide actually
+
+has a really
+
+cooling effect on the planet and most of that is an aerosol cloud interaction so
+
+that the dark
+
+part of that bar is the aerosol cloud interaction um what this caused was and
+
+you can see it in
+
+ship traces there's been a load of different studies of uh what what what
+
+happened and lots
+
+of different measurements and what this happened is it's reversed an accidental
+
+marine cloud
+
+study and what happened was you ended up with um excuse me you ended up with a
+
+net negative
+
+radiative forcing impact of about plus 0.2 watts per square meter which is about
+
+the same as all
+
+organic aerosol put together so you've heated the planet by plus 0.2 watts per
+
+square meter which
+
+is actually quite a huge amount um however remember when i was talking about
+
+trolley problem
+
+decisions there are other reasons why you don't want sulfur in your atmosphere
+
+because it has
+
+quite a significant human health impact which means at the end of the day the
+
+regulation
+
+is standing as it is because various governing bodies have decided that the
+
+warming is
+
+um better than the quite bad human health impact that sulfur dioxide has
+
+especially when it's
+
+injected directly into the troposphere and uh yeah on the right hand side of the
+
+side you can see
+
+some various studies which are very iffy like it yeah the other one is uh the
+
+other way marine
+
+cloud brightening has been done more like deliberately is um on the great
+
+barrier reef
+
+in australia um in the great barrier reef you get a thing called coral bleaching
+
+where solar radiation directly kills coral and it's slowly killing the reef
+
+so these people from southern cross university um decided to explore whether you
+
+could increase
+
+the brightness of clouds there in order to get a um an obviously reflective
+
+sunlight and
+
+have a more localized effect on them on the climate on the ecosystem
+
+and i like this as an example because it's quite it's quite a specific
+
+targeted way in which marine cloud brightening can have an impact without having
+
+the like long-term
+
+um long-term consequences of it so even if we don't do this on a large scale
+
+things like this could still happen to protect very small ecosystems from from
+
+climate change
+
+and the other one is my project the reflect project at the university of
+
+manchester
+
+which i'm involved with with the center for atmospheric science and it's also a
+
+collaboration
+
+with university of painbridge um etc net office etc etc lots of different
+
+collaborators from around
+
+the uk and basically this project is to do marine cloud brightening on a very
+
+small scale
+
+and do some some tests of it so the first part of this project is we're looking
+
+at
+
+my colleagues are looking at a cloud chamber study at the university of
+
+manchester
+
+and we're going to put salt spray in the cloud chamber and generate cloud and
+
+then look at its
+
+radiative properties and then look at how different salt sprayers will affect
+
+different
+
+clouds differently as well and that's just generally to prove the technique you
+
+can prove
+
+it will work on it in a controlled laboratory space the second part of this is a
+
+model-based
+
+approach to look at how clouds will adapt to aerosol perturbations and how and
+
+incorporate
+
+atmospheric dynamics into that so do some like large any simulations on like a
+
+small scale of
+
+a single cloud and then look at how it responds to an aerosol perturbation and
+
+you can have a
+
+cloud drop that's changed size over time but of course that's not really enough
+
+you to to say
+
+marine cloud brightening works or not definitively what you really need is a
+
+real life study of its
+
+effects so we're first going to do an indoor test of it in a barn or a hanger or
+
+something like
+
+that some kind of big indoor space where it's controlled and then we are going
+
+to do a small
+
+scale outdoors deployment of marine cloud brightening and that's going to
+
+involve a salt sprayer on a
+
+ship and myself doing measurements on a drone and looking at how whether our
+
+perturbations
+
+worked or not and doing radiation measurements too and what we've also got is a
+
+bunch of social
+
+scientists on the project to look at how we can be a bit better at disseminating
+
+information
+
+making sure the public don't think we're making chem trails etc yeah and i'll
+
+put these here
+
+because i know you have the slides and i think these are good studies for you to
+
+read if you're
+
+interested in marine cloud brightening so yeah go read them if you're interested
+
+so the other the other aspect of solar radiation management i'm going to talk to
+
+you about is
+
+exploiting the direct aerosol interaction and how we're going to do that is here
+
+the other half of
+
+the bar on the right hand side which is the smaller half of that which is again
+
+mostly sulfur dioxide
+
+and it directly scatters electromagnetic radiation back to space then this is
+
+what's called the direct
+
+effect of aerosol radiative forcing so in order to understand the mitigation
+
+tactics for this we need
+
+to have a look at atmospheric structure so this is the temperature with height
+
+the bottom part of
+
+is the troposphere where you get generally temperature will go down with height
+
+you get
+
+a cooling effect altitude this is because the pressure decreases and you get
+
+expansion
+
+and yeah it's colder but you notice in the stratosphere the next part of the
+
+atmosphere
+
+it actually starts to it starts to increase with height and the reason for this
+
+is ozone in the
+
+and the important part of this is you get what's called the stratospheric
+
+inversion
+
+which is when the temperature will increase with heights and inversions will
+
+keep aerosols
+
+suspended within them because they inhibit vertical motion of the atmosphere so
+
+you end up with this
+
+distribution of aerosol oh wait hang on yeah that's the next slide yeah so
+
+stratospheric aerosol
+
+injection or SAI is a proposed new method where you inject aerosol directly into
+
+the stratosphere
+
+usually by using a balloon with a bursting pipe in the stratosphere that's just
+
+full of sulfur
+
+and you do it in the stratosphere above the stratospheric inversion so all of
+
+the aerosol
+
+stays within the stratospheric inversion and it can be there for up to five
+
+years or so
+
+give or take and it depends a lot on what happens in the stratosphere because as
+
+it turns out we're
+
+actually really bad at understanding that specific region of the atmosphere and
+
+its dynamics
+
+so the origins of this were debated and there's a book that references something
+
+in 1970 but
+
+i can actually find a proper reference for that i'm pretty sure the first person
+
+to actually
+
+suggest this seriously was a guy called pj krudsen in 2006 and that's the link
+
+and it's a basically
+
+an essay where he postulated that look if we don't do anything about climate
+
+change this kind of
+
+thing is we inject sulfur dioxide aerosol directly into the stratosphere in
+
+order to
+
+reflect more sunlight back into space yeah so going on to unforeseen
+
+consequences of this one
+
+well marine cloud brightening is a quite a big engineering challenge because we
+
+don't know if
+
+it works we need to find the right clouds and we need to inject enough salt in
+
+the atmosphere
+
+to actually have a have a have a really long effect this is far less of an
+
+engineering
+
+challenge because all you have to do is fill a balloon with sulfur and just kind
+
+of let it go
+
+and then it bursts in the stratosphere and then the sulfur's there and it stays
+
+there for five years
+
+however this this um does have a lot of quite specific scientific and societal
+
+issues
+
+um some of the scientific ones are sulfur dioxide will react with ozone and
+
+destroy it
+
+um and you end up with a larger hole in the ozone layer yeah um which is bad
+
+because people can
+
+start getting cancer um eventually sulfur dioxide will start to descend from the
+
+atmosphere
+
+um and cause quite negative human health impacts
+
+uh which i mean there was a reason why we banned sulfur in shipping fuels it's
+
+because sulfur
+
+dioxide has quite negative human health impacts the other uh the other bad thing
+
+about stratospheric
+
+aerosol injection is when that aerosol descends it will cause an interaction
+
+with clouds like
+
+like like i mentioned with the with the indirect effects of aerosol it will
+
+cause that
+
+precipitation reducing and brightening interaction but unlike with marine cloud
+
+brightening that
+
+precipitation reduction is not limited to just over the ocean it's kind of
+
+globally it's not
+
+quite homogeneous across the whole globe but it's very unpredictable where that
+
+aerosol is going to
+
+come down and if it comes down over farmland that's suddenly reducing the
+
+precipitation the
+
+farmland gets um and uh you get you get rainfall rainfall reduction in farmland
+
+so it's important to figure out a lot about stratosphere dynamics to determine
+
+where the best places to inject your aerosol are etc etc and the other thing is
+
+um when you
+
+inject your aerosol it's up there for five years and there's not an awful lot
+
+you can do about it
+
+so a small scale step a small scale test of stratospheric aerosol injection is
+
+completely
+
+impossible you either need to put enough aerosol off there to have a big effect
+
+or you don't do it
+
+um and yeah that's that's my take on stratospheric aerosol injection so now i've
+
+got five questions
+
+up there which you can work through in your own time and me and tom will come
+
+around and answer
+
+your questions okay everyone so well jess is left now but big thanks to jess for
+
+coming in she might
+
+just hear that um i hope you found that interesting jess is doing a lot of work
+
+in the area so i
+
+thought it was useful for her to come in to talk about some of her work which i
+
+certainly found
+
+really interesting so last element of the course so um we thought a little bit
+
+last week about
+
+mitigations um how to reduce emissions both through looking at reducing demand
+
+but also
+
+improving efficiencies of different processes um to ultimately reduce our
+
+emissions but the
+
+third element of that is negative emission technologies exactly to mirror what
+
+jess was
+
+saying earlier these are not solutions that can be pulled upon in isolation so
+
+these should not
+
+be used as an argument to not reduce emissions but they can be a very helpful
+
+tool in
+
+reaching the ambitions of the paris agreement which is to not exceed the two
+
+degrees c
+
+in every one of these scenarios that we get to two degrees c and negative
+
+emission technologies
+
+are an important component of it even if we don't go to negative emissions
+
+negative emissions
+
+technologies are deployed within each scenario and the amount in which these
+
+scenarios are pulled
+
+upon depends on when we hit our peak in emissions and what that peak
+
+concentration is
+
+so i thought it's useful just to show you some examples of negative emission
+
+technology
+
+and the first and probably most obvious solution that i'm going to talk about is
+
+growing forest
+
+and woodlands and this is perhaps the most simple method of removing carbon
+
+dioxide from the
+
+atmosphere rather obviously as trees grow and they intake carbon dioxide and the
+
+idea here is that
+
+forests will uptake significant amounts of carbon dioxide from the atmosphere
+
+but the idea here
+
+from the negative emission technology solution is that we can manage and plant
+
+forests in areas
+
+to reduce carbon dioxide artificially it takes about 10 years for a forest to
+
+ramp up and start
+
+to build and to peak in its co2 removal potential so this isn't an immediate
+
+solution but it is one
+
+that can last from anywhere between 20 and 100 years so this is about a
+
+combination of both
+
+creating new forest and woodland areas but also managing them so that they can
+
+continue to
+
+hit that maximum potential and ways of doing that are thinning out the forest
+
+layers i don't know
+
+if you see all Clarkson Farms where you've got a load of heat for cutting down a
+
+load of trees
+
+actually what he was doing was thinning out areas of his woodland area to
+
+increase the
+
+lifetime of that wooded area but also to increase the productivity so there's
+
+ways of managing and
+
+maintaining our forest areas which can lead to increased emission reductions
+
+the potential advantages of this are that this is a relatively low cost solution
+
+that is relatively
+
+well understood and it can have quite significant it can remove significant
+
+amounts of carbon
+
+dioxide if managed and maintained well like i said this isn't an immediate
+
+solution it takes
+
+time for trees to mature to start to remove significant amounts of carbon
+
+dioxide anywhere
+
+from 10 to 20 years but there's also conflicts about where this could happen in
+
+terms of land
+
+use and particularly thinking about agricultural practices and the need for
+
+agricultural areas as
+
+into the future as well we also need to think about the species of tree that we
+
+plant it isn't
+
+the case that you can just plant a single species of tree you can just hope it
+
+goes okay that can
+
+lead to significant loss of biodiversity so we need to think carefully about how
+
+we do this
+
+and where we do this as well the second method i want to talk to you about is
+
+peatlands and
+
+wetlands and like forest this is another natural way of removing greenhouse
+
+gases
+
+peatlands and wetlands are natural habitats and many of these can be found
+
+around the uk
+
+these are environments that can absorb a lot of carbon dioxide but when they are
+
+exposed to
+
+prolonged periods of elevated temperatures prolonged periods of drought they can
+
+degrade
+
+significantly and quickly thereby releasing significant amounts of carbon
+
+so this negative emissions scenario is about managing and maintaining these
+
+peatland and
+
+wetland areas so that they can continue to uptake carbon but also not lead to
+
+significant emissions
+
+as well again there's some potential advantages and disadvantages to this it's a
+
+relatively quick
+
+way to store carbon and we know how to do this effectively so we know how to
+
+restore
+
+manage these areas effectively the science of wetlands and peatlands is less
+
+well understood
+
+than forested areas and it could potentially use land that could be used for
+
+other uses as well so
+
+and this is probably going to be of limited use in the uk given that we have
+
+relatively small
+
+areas of peatland and wetlands but other parts of the world this might become a
+
+viable solution
+
+the third method that i'm going to talk about is the enhancing the storage
+
+capacity of soils
+
+the amount of carbon that a store a soil can store is affected by ultimately how
+
+much we disturb
+
+that soil and how much organic material is in there so if you think about
+
+agricultural practices
+
+the idea here is we use an area we reuse it we wipe away any organic material
+
+that can lead
+
+to continual degradation of the soil and decreases in carbon uptake so we need
+
+to think about
+
+sustainable solutions to that to ensure that our soils remain a natural sink of
+
+carbon dioxide
+
+in order to do that we can think about what crops are grown how we plow and
+
+maintain our soil and
+
+perhaps think about using natural fertilizers in place of some synthetic ones
+
+that are currently
+
+used so these are potential ways that we can increase the land uptake of carbon
+
+so modifying
+
+natural processes either through afforestation and reforesting areas that can
+
+have
+
+secondary benefits like improved soil quality but can also have unintended
+
+consequences in terms of
+
+land availability and biodiversity loss we have the wetland and peatland
+
+restoration which can
+
+have secondary benefits through water quality and flood protection
+
+but we know wetland and peatland sources can be significant emitters of methane
+
+we know that in east africa for example from some flights we did a few years ago
+
+that these areas
+
+in east africa can be big emitters of different greenhouse gases like methane so
+
+there's some
+
+unintended consequences there and from a soil carbon perspective that can lead
+
+to things like
+
+improved crop yields which we know to be really important and long-term soil
+
+fertility but again
+
+we know these sorts of practices might lead to an uptick in other greenhouse
+
+gases in this case
+
+nitrous oxide so that's a way we can modify natural processes but what about
+
+emerging technologies in this area and one such emerging technology is carbon
+
+capture
+
+and storage the idea here is that we strap a outlet essentially to existing
+
+industrial
+
+plants or energy plants that will capture any carbon dioxide that is emitted the
+
+idea here is
+
+that the emissions particularly gas phase emissions are passed through some sort
+
+of liquid solvent
+
+these are generally amine based solvents those amines will selectively react
+
+with carbon dioxide
+
+therefore remove it from the from the gas phase waste products and that can then
+
+that extracted
+
+amine co2 mixture can then be trapped and transported and potentially used for
+
+other
+
+uses potentially fuels but more more readily be stored in a geological reservoir
+
+there are some security issues in terms of ensuring that those geological
+
+reservoirs are
+
+safe and secure and will in fact store that carbon dioxide for as long as we
+
+think it will so this
+
+isn't a negative emission technology per se because you're not this is not a
+
+negative emission
+
+you're just this is more of a net zero approach because this doesn't lead to a
+
+reduction in carbon
+
+oxide this just leads to a mitigation and offset of carbon oxide that would
+
+otherwise be emitted
+
+but there is the potential for this to be a negative emission technology if we
+
+start to
+
+couple bioenergy production with carbon capture and storage the idea here is
+
+that the carbon
+
+oxide that is emitted through the burning of either crops or woodlands or trees
+
+to produce the
+
+energy equals that of the carbon dioxide removed to grow it give or take this
+
+becomes a negative
+
+emission technology if we capture the carbon dioxide that is emitted through the
+
+energy
+
+production using biofuels so this is a potentially really attractive solution
+
+which is combining
+
+and the bioenergy with carbon capture storage even better we can start to use
+
+some of the
+
+products for other uses not just storage in a geological reservoir we can start
+
+to think about
+
+either producing something like low carbon concrete or looking at mineral
+
+carbonization
+
+so using that extracted carbon dioxide aiming mix for other uses which again
+
+increases quite
+
+significantly the energy efficiency of this we do need to think about the long
+
+-term security as
+
+i said of this geological reservoir just to ensure that we're confident that the
+
+captured co2
+
+stays underground and doesn't leak out over time so obviously that would offset
+
+any benefit
+
+this sort of storage the potential advantages of this sort of solution is that
+
+it can capture
+
+and store significant amounts of carbon dioxide and these technologies are now
+
+relatively well
+
+understood that's not to say that they're perfectly well understood there's the
+
+potential that some of
+
+the amines used to capture the co2 might be released as i think i said last week
+
+those amines
+
+can potentially react in the atmosphere to make nitrous amines which we know to
+
+have important
+
+health implications so these are not perfect solutions and they are not without
+
+their unintended
+
+consequences on top of those unintended consequences we know that these are
+
+going
+
+to be very expensive solutions the bioenergy production will take significant
+
+amounts of
+
+land and we need to ensure that this carbon dioxide that is captured is indeed
+
+secure
+
+the third or the next technological solution could be something like direct air
+
+capture
+
+and carbon storage there are a number of solutions in the air in this area but
+
+they're incredibly
+
+expensive and as i've seen not particularly efficient they also take significant
+
+amounts
+
+of energy to run and operate so in order for these sorts of solutions to start
+
+to become viable
+
+we need to first decarbonize the energy source for this direct air capture and
+
+carbon storage
+
+before it becomes viable but in some ways this could be a potentially flexible
+
+solution moving
+
+forward you don't need an industrial site or an energy production site for it to
+
+be viable
+
+and you can just use existing land or spaces but the efficiency of these sorts
+
+of solutions
+
+isn't yet there these technologies are very new very experimental and haven't
+
+been tested
+
+at scale so these are not yet the silver bullet that they might see they also
+
+need significant
+
+amounts of energy to run and are very costly to one install two operate and then
+
+three maintain
+
+for large periods of time but we as we've seen with other solutions things like
+
+evs photovoltaics
+
+as cost of these units decreases it might be that uptake increases significantly
+
+so these are solutions that could potentially be run on land but there's also
+
+options to start
+
+thinking about manipulating the ocean as well so the idea here is fertilizing
+
+different areas
+
+of the ocean to increase photosynthetic activity of different phytoplankton and
+
+algae here so we
+
+an example of this is off the east coast of ireland every april there's a big
+
+algal bloom ultimately that will uptake some amount of carbon dioxide from the
+
+atmosphere
+
+the idea here is that we fertilize larger parts of the ocean which will increase
+
+photosynthetic activity in principle that sounds really nice and it could be
+
+potentially cost
+
+effective but that could quite easily have quite significant impacts on the
+
+marine ecosystem
+
+including fisheries we know that some algal blooms are toxic to humans and that
+
+obviously
+
+wouldn't be a good thing to do off the west coast of ireland and there's
+
+potentially high energy costs
+
+of producing the materials so i wanted to give you an idea of some of the
+
+potential solutions
+
+that are in this space but really to reiterate what jess talked about in terms
+
+of the unintended
+
+consequences of the marine cloud brightening there's a social and policy angle
+
+to this as
+
+well the idea here is as with the solar radiation management is that we can
+
+offset emissions that
+
+cannot be reduced to zero and undo the effects of past emissions like jess said
+
+there are huge
+
+risks to thinking that these are the ultimate solution because it can offset us
+
+doing anything
+
+about the emissions today not just that these negative emission technologies
+
+have never been
+
+implemented at scale it can deter action to reduce greenhouse gas emissions as
+
+i've just said
+
+and it can postpone action so these are the sorts of things we want to think
+
+about
+
+through the workshop and and think about and through the rest of the course so
+
+with that i will finish the lecture the last thing that i'll say to you so we
+
+obviously have
+
+the revision lecture next week so please submit your questions but for me this
+
+is the first year
+
+i've taken over this course it's been a real pleasure to work with you also big
+
+thanks for
+
+your sort of enthusiasm questions throughout the course i've really appreciated
+
+it i hope you've
+
+enjoyed it i'll see you all next week but if i don't see you thank you everyone
+
+for
+
+making this a really enjoyable experience for me and please do fill out this
+
+unit survey score and
+
+most importantly give me some give me some material for next week because
+
+without the
+
+questions there's not going to be a lot to say so thank you and there are there
+
+is some workshop
+
+to this so i will stick around of course for the next half hour 45 minutes or so
+
+so thank you everyone

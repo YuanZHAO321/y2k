@@ -1,0 +1,1393 @@
+'EART21202 - 23-Apr', automated transcript
+03/08/2026
+---
+
+Okay everyone, we'll make a start. So first of all I hope you all had a lovely
+
+Easter.
+
+Welcome back to the last couple of taught elements of global climate change.
+
+This is week nine. We're going to start to think about some mitigation efforts.
+
+It's a slight change to the batting order to the one that I presented prior to
+
+Easter.
+
+It ended up that Jess, who is going to lead some of the geoengineering
+
+discussions,
+
+it was easier for her to come in next week rather than this week,
+
+so we slightly reorganized the last couple of weeks of teaching to allow for
+
+that.
+
+But Jess is really excited to come in and talk to you about some of the
+
+geoengineering work that she's doing,
+
+which I think chimes quite nicely with most of the questions that I get from you
+
+guys on a weekly basis.
+
+So as I say, there's a slight change to the batting order.
+
+We're going to talk a little bit about the mitigations today,
+
+why they're important alongside the adaptation strategies that we talked about
+
+last week.
+
+We're going to leave some of the negative emission technologies to week 10,
+
+and we're going to talk about geoengineering and negative emission technologies
+
+to wrap up the course next week,
+
+and Jess will be here for that.
+
+I will sort of, again, I know I'm boring,
+
+but it's really important for this revision lecture that you start to submit
+
+questions.
+
+All of the questions that I've had so far are about the format of the exam
+
+and what the exam will look like, so I've answered that for you today.
+
+I'm going to go through that, but you really need to think about the topics,
+
+concepts,
+
+or theories that you want me to go over in that week 11 lecture,
+
+just so I can direct what that lecture should look like, tailor to you guys,
+
+rather than just thinking what I think needs to be reiterated.
+
+So please do use this. I'll give some time at the end of the lecture to go
+
+through this,
+
+because that's particularly important for week 11.
+
+So I had six or seven Mentimeter questions,
+
+all of which were looking around what the exam was going to look like
+
+and the exam question format.
+
+Hi, everyone.
+
+So the exam front sheet will look, well, this is your exam front sheet.
+
+The test has been allocated for the 18th of May at 9.45 until 11.15,
+
+so that should chime with your timetable that you see now.
+
+If it doesn't, tell me. We consistently have a problem with timetabling,
+
+so please make me aware of that as early as possible, and I can try and rectify
+
+any problems.
+
+But if that isn't what you see in your timetable, tell me.
+
+There are 75 marks allocated to this exam, and there are five questions.
+
+I'm going to give you a big hint. You can bring a calculator, but you're not
+
+going to need it.
+
+Sorry to all the physics students that I've just seen look disappointed.
+
+This is about communicating.
+
+But that's not to say that there won't be questions around some of the theory
+
+around the calculations.
+
+So, for example, we have run some calculations around the Stefan-Boltzmann
+
+constant, Green's law, that sort of thing.
+
+It might be that you need to understand the principle behind them and
+
+communicate why they're important,
+
+but you won't need to do the calculations.
+
+So that's a hint to where to direct your exams.
+
+In terms of what the questions will look like, this isn't a question that will
+
+be on your exam, I'm sorry to say,
+
+but this is exactly how a question will look on the day.
+
+So there will be a title to the question that will give you a key overarching
+
+theme of the question,
+
+and there will be a long, longish question following that of which there will be
+
+multiple elements.
+
+So here we're talking about the predictions of future climate change, why are
+
+they important and how are they produced.
+
+You're going to need to discuss the main sources of uncertainty in these
+
+projections and explain why these uncertainties are important.
+
+So there's four or five elements to this question.
+
+So when you're addressing the questions in your exam, you need to address every
+
+element of the question in order to get full marks.
+
+So please, and it's obvious, but please read the question carefully and
+
+critically throughout your exam
+
+and make sure you're answering every element of the question to get as good of
+
+marks as is possible.
+
+All of the five questions will have 15 marks allocated to them.
+
+This hasn't gone through moderation, but this is a sort of mark scheme that I've
+
+produced for each of the five questions on the exam.
+
+You don't need to take photos, this is all on your Canvas site, so you can take
+
+some time to go through these.
+
+The idea of the mark scheme, and it's a similar principle throughout,
+
+is that there are marks associated with each element of the question and they
+
+will be roughly equally weighted
+
+and then you will need to pick two or three points for each element of the
+
+question to start to work towards full marks for each question.
+
+So hopefully this gives you a clear understanding of the sorts of things that
+
+you will see in an exam.
+
+This is exactly your front page of the exam, this is exactly the format of the
+
+question, and this is how I will mark the questions themselves.
+
+So I'm hoping that this is going to be helpful for you and as a tip,
+
+use the example exam questions at the end of every lecture to test your
+
+understanding of each lecture and the workshop elements are testable as well.
+
+So this hopefully should put your mind at ease as to what the exam will look
+
+like so you're not going in totally blind.
+
+Hopefully that's helpful. If you have any questions, either catch me during the
+
+workshop or stick them on Mentimeter like you have done and then the whole group
+
+can benefit from the answer.
+
+Is that helpful? A few nods. Good.
+
+OK, so in terms of today's session, we're going to sort of go over a little bit
+
+of what we talked about just before Easter just to refresh your memories.
+
+These are going to be important parts of the exam, thinking about the impacts,
+
+decisions, and then we're going to start to think about the mitigations
+
+scenarios.
+
+As I say, this will be slightly shorter than a normal lecture because we will
+
+develop our understanding of geoengineering and negative emission technologies
+
+with Jess next week.
+
+Before we dive into the details of today's lecture, I'm afraid I'm going to ask
+
+you to fill out this student feedback for me, please.
+
+If you've had trouble loading it, please do come back to this because it's very
+
+helpful for me.
+
+So in terms of what we're going to learn today in terms of the ILOs, we're going
+
+to start to think about how we set global mitigation targets,
+
+but also discuss how different pathways can be used to achieve these targets.
+
+There isn't one set path that we could take even within the representative
+
+concentration pathways that we've talked about.
+
+You should know and understand some of the main sources of greenhouse gases into
+
+the atmosphere,
+
+but we're going to start to look at the different contributions from different
+
+economic sectors, why they're important, and then specific mitigations for these
+
+sectors.
+
+Although we're not going to go into detail on the negative emission technologies
+
+today, we're going to start to develop our understanding of why they're
+
+important
+
+and discuss some of the advantages and disadvantages of our broad understanding
+
+of negative emission technologies and why they're important.
+
+So you're really familiar with this slide in terms of the impact that climate
+
+change will have.
+
+We've really thought about this as an environmental problem, but in the last
+
+adaptations lecture,
+
+we started to think about the economic and social implications for both
+
+individuals and communities who might be disproportionately affected by climate
+
+change.
+
+You know what this will depend on, and I suggest being able to answer this
+
+question for the exam,
+
+but ultimately, and importantly for today, this is really driven by increasing
+
+greenhouse gas concentrations.
+
+And large parts of mitigation strategies are about reducing greenhouse gas
+
+concentrations in the atmosphere.
+
+We can do that in two ways. Either we can reduce how much is emitted or we can
+
+increase the sinks, i.e. the loss processes of greenhouse gases.
+
+So there's two ways that we can approach this problem. Probably both are going
+
+to be needed.
+
+The impacts of climate change are not just environmental, as I said.
+
+We're thinking about this much more on an individual level in certain
+
+circumstances.
+
+Different communities will be disproportionately affected and different people
+
+across the UK will also be disproportionately affected.
+
+An example of that might be an elderly person living in a flat without air
+
+conditioning.
+
+As we move to extended periods of elevated temperatures, there might be some
+
+really serious health consequences for those people living in those sorts of
+
+environments.
+
+So we need to think about this both on a global scale, national scale, but
+
+looking down to individuals within specific communities is incredibly important.
+
+And I really advise being able to work through this figure in a fair amount of
+
+detail.
+
+And the reason why we need to think about individuals in the community is we are
+
+not equally able to adapt to the changes that are upcoming.
+
+And those changes will be different depending on where we are on Earth.
+
+As an example, in Europe, the major areas of concerns for us are increased
+
+damages from river and coastal floods,
+
+increased water restrictions and increased damages from extreme heat events and
+
+wildfires.
+
+These are the most prominent hazards that we expect to experience across Europe.
+
+The difference between the full orange line and the dashed orange line
+
+essentially shows our ability to adapt to that change.
+
+And what you can see in Europe is we're relatively well able to adapt under
+
+different emission scenarios to these hazards that are presented to us.
+
+That isn't the case for all impacts.
+
+So for example, if we start to look at Australia, if we start to look at the
+
+structure and composition of the coral reef system,
+
+if we start to get to 4 degrees C of warming, there is absolutely no ability for
+
+us to adapt to that change.
+
+And that change will run away and have significant impacts.
+
+There is nothing we can do to stop that.
+
+And the same is true for things like crop productivity in Africa.
+
+That is something that if we start moving to 4 degrees C of warming, we have
+
+very little ability to support and adapt to that change.
+
+So having examples where different parts of the world might be affected by
+
+certain risks
+
+and how well able they are to adapt to those impacts is important.
+
+Those impacts can either be physical systems, biological systems or human
+
+systems, depending on the location.
+
+And really we care about this because different people with different
+
+communities are going to be more or less vulnerable to that change.
+
+If, taking the example of an elderly person living in a flat, if they can afford
+
+to install a fancy new air conditioning system, they're probably going to be OK.
+
+But if those people are not able to afford that infrastructure within their
+
+homes,
+
+that's when they become more vulnerable to that risk and the hazard and exposure
+
+will become more of a problem.
+
+So what can we do about it?
+
+Given that the sorts of gases that we're talking about are very long lived in
+
+the atmosphere, they're well mixed across the surface of the earth,
+
+we are already committed to some level of climate change.
+
+If we were to completely stop all of our emissions worldwide, today we would
+
+still see some level of climate change through over the next hundred years.
+
+That isn't the case. Our emissions are accelerating.
+
+So we need a two pronged approach to tackling this problem.
+
+And they are adaptation and mitigation.
+
+Adaptation is about changing our lives, our practices to a changing climate.
+
+This isn't always negative.
+
+It could be that agricultural practices might see increased yields in certain
+
+parts of the world due to longer and warmer growing seasons, for example.
+
+But most of these are about adapting to the harmful effects of climate change.
+
+Mitigation is what we're going to talk about today.
+
+And that involves reducing the flow of greenhouse gases into the atmosphere.
+
+As I said, that can be done in two ways.
+
+You can either reduce the inputs by reducing the emissions across different
+
+economic sectors,
+
+or you can start to look at artificially increasing the loss rate of greenhouse
+
+gases in the atmosphere.
+
+And that's something that we will talk about in more detail next week.
+
+Much of this course, and throughout pretty much every lecture, I've said that
+
+ultimately the aim worldwide through the Paris Agreement
+
+is to keep temperature increases well below 2 degrees C and pursue efforts to
+
+limit the temperature to 1.5 degrees C.
+
+These are not scientifically driven numbers alone.
+
+These are a result of political negotiations as to what these numbers will be.
+
+And I'll tell you about that process after the discussion section.
+
+But given the lifetime of the pollutants and the well-mixed nature of greenhouse
+
+gases,
+
+international collaboration is absolutely essential to achieve that.
+
+And this is what the work of the UNFCC, which is the United Framework Convention
+
+for Climate Change,
+
+have brought together near universal commitment to achieving this goal.
+
+There are potentially things that we can do outside the mitigation strategies of
+
+reducing the flow of greenhouse gases
+
+or reducing the emissions to start to think about modifying our environment.
+
+And there's a range of different approaches, both physical in terms of removing
+
+greenhouse gases, particularly carbon dioxide,
+
+or solar radiation management that might start to help us reduce global warming
+
+quite considerably.
+
+The challenge with these is that very few of these have been tested at scale,
+
+and that many of them have potential unintended consequences.
+
+So rigorous testing and deployment of these in controlled environments is
+
+absolutely essential before we start rolling these out at scale.
+
+An example of that might be carbon capture storage.
+
+The current best guess of how that could be done at scale is by use of a group
+
+of compounds called amines.
+
+They very effectively react with carbon dioxide and remove it from flue gas from
+
+different fossil fuel plants.
+
+So that could be a really attractive solution to decarbonizing energy production
+
+with fossil fuels.
+
+The potential unintended consequences of that is the release of significant
+
+concentrations of amines into the atmosphere.
+
+That might not be too bad, other than for the fact that they produce lots of
+
+aerosols once emitted into the atmosphere,
+
+and they can also produce a group of compounds called nitros amines.
+
+We know that they are carcinogenic, so it's important that we don't start
+
+releasing that sort of compound in high concentrations into the atmosphere.
+
+So there's all these sorts of conversations that are really important in
+
+determining which method we might employ at scale,
+
+because many of them have quite significant unintended consequences to them.
+
+But this is work that's very much in the conversation now.
+
+Jess Gerwood is going to come and talk next week about Point 2, which is a solar
+
+climate intervention method
+
+that actively increases the brightness of marine clouds.
+
+The idea here is that you're increasing the albedo and therefore increasing
+
+reflectivity
+
+and reducing the amount of solar radiation that is hitting the surface of the
+
+Earth.
+
+Again, there are some potential unintended consequences of this, which Jess I'm
+
+sure will talk about next week.
+
+Lots of interesting work, and I hope you're going to look forward to the lecture
+
+next week.
+
+So we know this is a problem, but how much of a problem is it,
+
+and how much carbon dioxide can we emit into the atmosphere moving forward?
+
+We talked about the idea of carbon budgeting last week,
+
+but there's a possibility to also look at this from a climate sensitivity
+
+perspective.
+
+Climate sensitivity is a relatively well-used concept in climate science,
+
+and the idea here is it's sort of the back of the envelope calculation
+
+that looks at the change in mean global surface temperature at equilibrium over
+
+a long period of time
+
+that is caused by a doubling of CO2 concentration in the atmosphere.
+
+So what is the response if we were to double our concentration of CO2?
+
+What would that mean for global average surface temperatures?
+
+And that isn't ridiculous to think about.
+
+Our pre-industrial concentrations of CO2 were around 280 parts per million.
+
+Currently we're at around 425, so if we extrapolate out a little bit,
+
+it's feasible that we might get to a doubling of pre-industrial CO2 by 2060-ish.
+
+So we can start to use various approaches to understand what response that might
+
+elicit,
+
+and you can either do that with constrained or unconstrained models,
+
+you can do that with instrumental techniques,
+
+and you can do that with various approaches,
+
+different approaches to understand what effect that might have.
+
+So this climate sensitivity approach, if we look at the red on the right,
+
+all studies start to agree and converge on the fact that that doubling of CO2
+
+would lead to a three degree influence on our global average temperature,
+
+which is clearly well above what the Paris Agreement says in terms of the two
+
+degree limit that is set.
+
+So these are useful numbers to start to think about what amount of CO2 can be in
+
+our atmosphere
+
+before we start exceeding certain thresholds.
+
+That's not particularly useful, well that is useful in terms of understanding
+
+our carbon budget,
+
+but it doesn't give us a particularly good idea of the trajectory or different
+
+emissions scenarios.
+
+So we introduced this idea of using linear extrapolation with cumulative total
+
+anthropogenic CO2 emissions,
+
+and using the black line you can start to pull out some sort of a linear
+
+relationship with temperature and CO2,
+
+and under different representative concentration pathways, which you're now
+
+familiar with,
+
+we can start to extrapolate out and get budgets.
+
+And for every using this figure we can start to say that for every thousand
+
+gigatons of carbon
+
+that induces a two-ish degree C of warming,
+
+we know that's around 20 gigatons of carbon emitted each year,
+
+so we can start to think about how long we have to respond.
+
+The importance of the timing of our response and when we start to reduce our
+
+emissions from what we have today
+
+is very important as you will see shortly.
+
+So this gives you a global picture of how much carbon dioxide has been emitted,
+
+but I guess the question is who is emitting it.
+
+So we can start to look at greenhouse gas emissions per factor.
+
+We can do this by country quite easily as well.
+
+What's really obvious here is that high-income groups are disproportionately
+
+responsible for the changes that we are seeing today.
+
+If we look at the 51% of highest-income countries or population,
+
+those 50% are responsible for 86% of greenhouse gas emissions per year.
+
+So we are having a disproportionate, or the higher-income countries are having a
+
+disproportionate effect on global climate.
+
+Morally here there's questions because it also means that typically the lower
+
+-income groups are also the ones that are disproportionately affected.
+
+So there's a moral question here about who should be paying for the adaptations
+
+and mitigations that are required
+
+as a result of the emissions from the higher-income groups, particularly North
+
+Americans if we start to break it down.
+
+But this poses important questions about who should be paying, as I said, for
+
+mitigations and adaptation strategies moving forward,
+
+and that's an important part of the Paris Agreement as we'll talk about shortly.
+
+So that's who's emitting, what are the trends, and this is slightly out of date,
+
+but it shows very nicely
+
+how greenhouse gas emissions have been increasing from 1990s through to early
+
+2020.
+
+The anthropogenic greenhouse gas emissions, despite our understanding and
+
+despite increases in efficiency and technologies,
+
+the greenhouse gas emissions kept increasing between 2010 and 2019.
+
+The rate of increase was highest between 2000 and 2010, so we are not increasing
+
+at the same rate,
+
+but our cumulative emissions are still higher than ever.
+
+And this is despite major advances in technology across different economic
+
+sectors,
+
+so without those technology enhancements, these emissions would be
+
+significantly.
+
+So we now know the trends, we know who is responsible.
+
+So what I want to think about over the next 10 minutes, it says 15 minutes here,
+
+we're going to go for 10 minutes,
+
+is thinking about what information we might need to start to dictate the
+
+mitigation and adaptation strategies
+
+and where different prioritization should be.
+
+A lot of the next future slides in the lecture answer this question,
+
+but really for now think about what evidence you might need to support your
+
+recommendation.
+
+It's also important to think about what are the potential trade-offs of these
+
+decisions.
+
+So start to think about what information you might need to start advising on
+
+some of these key questions that we face now.
+
+So you have 10 minutes now, through to 22, and then we will continue with the
+
+lecture material.
+
+Thank you.
+
+Okay everyone, we're approaching 10 minutes now,
+
+and hopefully that's been useful to start to think about some of the information
+
+you might need
+
+and to start thinking about some of these problems.
+
+The reason why I've asked that is because this is something that both the IPCC
+
+and the UNFCC work on collaboratively
+
+to try and solve both through advancing scientific understanding, bringing
+
+together the best available information,
+
+but also reporting and monitoring on progress.
+
+So the UNFCC now has around 200 countries in the universal membership,
+
+and ultimately the aim of this organization is stabilization of greenhouse gas
+
+concentrations in the atmosphere
+
+at a level that would prevent dangerous anthropogenic interference with the
+
+climate system.
+
+So put simply, they're trying to stop climate change and the dangerous impacts
+
+of it.
+
+And they do this primarily through organization of conference of parties, or the
+
+COP,
+
+where the idea is that policymakers, scientists come together and nations come
+
+together
+
+where they monitor, assess, and create appropriate action.
+
+Some of the key COPs have been 1997 through the Coaching Protocol,
+
+and COP 21 in 2015 which developed and led to the signing of the Paris
+
+Agreement,
+
+which forms the fundamental basis of this course, which is, or the narrative of
+
+this course,
+
+which is keeping temperatures well below 2 degrees C,
+
+and to pursue efforts to keep temperature increased to 1.5 degrees C.
+
+What's important is the underpinning science basis behind that,
+
+and the IPCC come together to create a summary of the science on climate change,
+
+and they do this through three working groups.
+
+Working group one is the science understanding of climate change,
+
+or the technical understanding of it, which is a large part of this course.
+
+Working group two is about the impacts and adaptation strategies,
+
+and working group three is about mitigations.
+
+So you can start to see why the primary background reading for this course is
+
+the different working groups.
+
+There are four technical reports, which I don't recommend you advise,
+
+but there are summary reports for each working group,
+
+and summary reports for policymakers, which are all useful tools as well.
+
+So, what does the Paris Agreement set out?
+
+The Paris Agreement and the key principles behind this are shown in this figure
+
+here,
+
+which sets out the temperature and emission goals,
+
+but it also sets out who should pay for it and how.
+
+This has universal signatures across all nations,
+
+and what it demonstrates is that rich countries should support
+
+developing countries with significant funds to support their adaptation and
+
+mitigation strategies.
+
+Ultimately, there is a burden sharing here,
+
+where developed countries who have emitted the vast majority of greenhouse gases
+
+support developed countries with financial resources.
+
+Other countries are also invited to donate and support on a voluntary basis.
+
+One of the very important elements of this is the review mechanism within the
+
+Paris Agreement.
+
+So this is known as a living agreement,
+
+so it's one that's consistently evolving and adapting to what is seen through
+
+the review mechanism.
+
+So it isn't a fixed document with set emission targets,
+
+it's one that evolves over time in response to what is being seen in real time.
+
+And this has a significant effect in the development of laws and policies
+
+that have reduced significantly emissions that would otherwise be emitted
+
+without this agreement.
+
+But this agreement has also had benefit from various advancement in
+
+technologies,
+
+both through energy production,
+
+and through also things like adaptation or uptake of things like EVs.
+
+A large part of this is the cost of these renewable and efficient technologies.
+
+So you can see the cost of batteries for passenger EVs has come down by a few
+
+orders of magnitude
+
+and has helped the uptake of them.
+
+So there's a significant link between the cost of these technologies and uptake,
+
+but these have important implications for the emissions that are seen.
+
+These representative concentration pathways are incredibly important
+
+in terms of the global climate models that are used to inform policies
+
+and where these policies are most needed.
+
+You should now be familiar with the different RCPs.
+
+The most recent IPCC report now has a RCP 1.9.
+
+RCP 1.9 is the only concentration pathway that guarantees under all
+
+circumstances
+
+that 2 degrees C will not be, that limit will not be gone over.
+
+But these are very important in terms of informing policy.
+
+The important part here is these are representative of many different pathways,
+
+so there are many different options within each one of these RCPs that are
+
+possible,
+
+and that will be shown here.
+
+One of the key parts of the Paris Agreement is this emission goal
+
+that the aim is for greenhouse gases to peak as soon as is possible,
+
+and the reason for that can be shown in this figure here.
+
+This is all of the scenarios that make up RCP 2.6,
+
+i.e. scenarios where this 2 degrees C limit is not met.
+
+What you can see is there's big divergence in all of these representative
+
+concentration pathways,
+
+both in terms of the endpoints, but also how they get to those endpoints,
+
+and they can be very different responses and different time profiles within
+
+them.
+
+So if we take, for example, this thick light orange line,
+
+where we peak in concentration much later than this dark orange line,
+
+you can see that there must be a significantly more aggressive reduction
+
+than that of a pathway that peaks earlier and in much lower concentrations.
+
+So you can start to see why this is important in terms of the timing of the
+
+peak.
+
+If we peak later in terms of our emissions,
+
+our mitigation strategies and our emission reductions must be much more
+
+aggressive
+
+than if we were to act now and reduce now.
+
+Acting now and reducing now is preferable because that has less impact on our
+
+behaviour
+
+and less impact on our lives than more severe mitigation scenarios towards the
+
+end.
+
+What you will also notice, hopefully, is that within these scenarios,
+
+many of these pathways go into negative emissions relatively soon, from 2040 and
+
+beyond.
+
+What this means is that negative emission technologies are a very important part
+
+of these pathways that get us to the point where we're at.
+
+That's a risky business because we don't yet have negative emission technologies
+
+that are built and deployed at sufficient scale to make this a reality.
+
+So there is a risk of waiting and then not being sufficiently developed in time.
+
+And this just reiterates the point about the timing of the peak concentration.
+
+This is a slightly old figure but it shows the point nicely.
+
+If we are going to hit this two degrees pathway
+
+and we would have hypothetically peaked our concentrations in 2016,
+
+there is a much more gradual approach to our emissions production.
+
+Delaying the peak by just less than a decade means that the mitigations
+
+and negative emission technologies must be employed much more aggressively
+
+to get us ultimately to the same point.
+
+So action now is incredibly important so that stringent mitigations
+
+and negative emission technologies are less required into the future.
+
+The longer the wait, the more we have to act later.
+
+So I guess the question is now where are we with our current policies
+
+relative to the objectives of the Paris Agreement.
+
+So you can see with the current policies it's projected out that we will hit
+
+somewhere between 2.8 and 3.2 degree warming by 2100
+
+which is clearly well above where we want to be within the Paris Agreement.
+
+So much more stringent mitigations and the deployment of negative emission
+
+technologies
+
+or solar radiation management which Jess will talk about next week
+
+are going to be very important moving forward.
+
+How might we do this?
+
+There are a number of ways or three which I'm going to highlight
+
+that we can start to move towards this agreement.
+
+One is to reduce the demand for energy and there are a range of ways
+
+that we can do that across different economic sectors
+
+which I will highlight over the next few slides.
+
+But ultimately this comes down to less consumption either through
+
+less use of raw materials or less travel.
+
+Things like behaviour change in buildings can have a significant impact
+
+and things like reducing wastage through food and clothing for example.
+
+We can make our existing demands more efficient
+
+so we can continue as we are but we can make all the processes much more
+
+efficient.
+
+An example of that might be the adoption of electric vehicles
+
+still travelling as much but our emissions are significantly reduced.
+
+Or we can start to deploy negative emission technologies
+
+and that would be the focus of next week.
+
+So we know we need to reduce emissions but what sector should we target?
+
+This shows the global greenhouse gas emissions by different economic sectors.
+
+Unfortunately it's a relatively complicated picture.
+
+If there was one dominating sector it makes things significantly easier
+
+because you can target one area and make quick gains relatively quickly.
+
+But what you can see from this figure is it's relatively evenly distributed
+
+across things like energy and heat production which accounts for around 25%,
+
+AFOLU is agriculture, forestry and other land use that accounts for another
+
+quarter,
+
+buildings, both the building of buildings and the operation of buildings
+
+accounts for around 20%,
+
+transports 15% and industry in terms of building and making things accounts for
+
+another 21%.
+
+So what this means is there's going to be different mitigations applied to
+
+different sectors
+
+which can cumulatively start to make a difference rather than pulling on one
+
+single lever
+
+to reduce a single sector because we know from this figure that that won't be an
+
+effective way forward.
+
+And this is just to reiterate that in order to better understand where we need
+
+to place our efforts
+
+we need to understand where these emission sources are coming from.
+
+So I'm going to go through a few of these sectors to start to understand the
+
+change over the last 120 years
+
+and what things might look like into the future starting with energy production.
+
+Energy production in 1950-ish was around 4 or 5 gigatons of carbon per year
+
+but we're now at around 30 to 35, so six or seven fold increase in the last 70
+
+years.
+
+You can also see that there's huge range in terms of the representative
+
+concentration pathway for the energy sector
+
+but in order to get to the place where we need to be, almost exclusively, the
+
+energy sector will need to be lower than zero
+
+and that's partly to offset industries that cannot be fully decarbonised.
+
+An example of that might be aviation or shipping where technologies don't yet
+
+exist to hit net zero.
+
+So in terms of energy mitigation options, we can move to a low carbon
+
+electricity supply.
+
+Renewable energy is now relatively mature and relatively well used, particularly
+
+across the UK.
+
+There's conversations about nuclear power, there's obviously conversations there
+
+about societal reception and wastage
+
+but these are often relatively cost-effective solutions that might reduce our
+
+carbon budget.
+
+So ideally we wouldn't be burning fossil fuels but in parts of the world that
+
+still rely on coal burning
+
+you could start to see replacing coal burning with natural gas, could be a
+
+bridge technology that could reduce emissions
+
+and you could start to think about a big switch to electrification across
+
+different sectors like cooking, transport and heating.
+
+Carbon capture and storage is a relatively attractive solution.
+
+The idea here is you capture and store the carbon dioxide that is produced
+
+during energy generation.
+
+That's quite attractive because you can keep your energy cards but tag one CCS
+
+structure at the top of the flue
+
+to remove any carbon dioxide that might be emitted.
+
+There are some potentially big unintended consequences of that, as I described
+
+earlier, in terms of what might be co-emitted with that process.
+
+Things like amines that might have negative effects on air quality.
+
+As with all of the sectors, thinking about the demand reduction through
+
+different behavioural lifestyle changes
+
+is also going to be relevant for almost every sector that we'll talk about
+
+today.
+
+Transport accounts for a large amount of global greenhouse gas emissions and
+
+that's particularly road transport.
+
+That has doubled over the 40 years shown here and it has continued to rise in
+
+particular in parts of Asia.
+
+This is one area where we can start to think about mitigating and reducing our
+
+emissions.
+
+As with all of the themes, we can start to think about demand reduction through
+
+avoided journeys.
+
+We can do that at national, local and individual levels, either through better
+
+infrastructure.
+
+A large part of my job on a day-to-day basis is going to conferences.
+
+Many of these can be international.
+
+A response to this problem has been the setup of different virtual conferences
+
+to stop us travelling to different conferences.
+
+So these are the sorts of decisions that can be made at university level as
+
+well.
+
+Modal shift. You'll see a lot of activity in this area across Greater
+
+Manchester.
+
+Manchester City Council and Transport for Greater Manchester are really invested
+
+in improving the infrastructure
+
+to move towards a much more active travel infrastructure.
+
+So that's things like walking and cycling.
+
+The ambition of TFGM, Transport for Greater Manchester, is that 50% of all
+
+journeys across Greater Manchester will be through either walking or cycling.
+
+They haven't hit that yet, but in some areas where there's been large
+
+interventions like low traffic neighbourhoods,
+
+they've started to achieve that number.
+
+We can start to think about lowering the energy intensity,
+
+or we can start to think about reducing carbon intensity of fuels and widespread
+
+adoption of things like EVs.
+
+One of the big topics in air quality at the moment is, as a result of EVs being
+
+significantly heavier,
+
+there is a concern that there will be significantly more brake and tyre wear
+
+into the atmosphere.
+
+So there will be significantly more particulate matter from EVs than there would
+
+have been from normal vehicles with combustion engines.
+
+So that might change the composition of aerosols within the atmosphere,
+
+and these are the sorts of unintended consequences that we need to consider
+
+while adopting these low energy strategies.
+
+Buildings are a key component, and this looks at the direct and indirect.
+
+Indirect is energy production for operation and living within buildings, both
+
+domestic and commercial.
+
+The building of buildings hasn't changed significantly over the last 50 years,
+
+but the energy used to run these buildings has increased significantly.
+
+And that's through things like space heating, cooking and water heating,
+
+which is obviously particularly important in a domestic environment like
+
+commercial.
+
+Cooling is particularly prevalent in commercial settings,
+
+and these are the sorts of things that we can start to target,
+
+and we can start to pull on different levers to reduce our emissions associated
+
+with buildings,
+
+both the building of them, but also the operation of them as well.
+
+So in terms of the building mitigation options,
+
+we can start to look at the carbon efficiency of different materials as well as
+
+the energy efficiency.
+
+Of course, in the UK there's been a big push for insulation,
+
+and again there's unintended consequences of that.
+
+You can start to look at system efficiencies,
+
+so rather than heating individual flats or individual buildings within an area,
+
+certain areas or buildings are starting to move to a centralised heating system.
+
+An example of that is York University, which are heating all of their buildings
+
+from a single source,
+
+and they're looking to make big carbon savings and economic savings as a result
+
+of that development.
+
+And again, there's behavioural changes.
+
+So thinking about industry, which is about extracting more materials and making
+
+new things,
+
+that has changed by about 30%,
+
+and again there's different mitigation options,
+
+either looking at making processes more efficient,
+
+things like reusing waste heat or waste products more efficiently.
+
+You can start to look at material efficiency,
+
+building or making the same things but using the best materials to do that,
+
+or reducing demand for new materials.
+
+So I encourage you to spend some time looking through these examples and perhaps
+
+developing some yourselves,
+
+and that will be the focus of the workshop today.
+
+The third element of this is negative emission technologies,
+
+and as you know now, hopefully, that the shape of the pathway dictates that
+
+negative emission technologies
+
+are going to be central to achieving the Paris Agreement.
+
+But these are required because of the emissions to date,
+
+but also not all sectors can reduce emissions to zero.
+
+Examples of which are the aviation sector and the maritime sector,
+
+which don't have sufficient technologies to quite get to net zero.
+
+The idea here is that we're undoing the effects of past emissions,
+
+but there are huge risks in thinking that they are the solution,
+
+because many of them have never been implemented at scale,
+
+and there are potential unintended consequences of doing that.
+
+The idea is here that if we rely too heavily on negative emission technologies,
+
+that might delay or deter action to reduce greenhouse gas emissions,
+
+which we know to be incredibly important,
+
+and it may be that these technologies are never fully developed,
+
+and at which point we would have wished we would have reduced our emissions.
+
+So we'll start to think about some of these in more detail next week,
+
+but if you would like to read up in advance of this,
+
+I encourage you to read the Lawrence et al Nature Communications paper,
+
+because that gives a really nice overview of some of the technologies and where
+
+they are at.
+
+And for that, today we will finish the lecture component.
+
+Before I give you the example exam questions,
+
+and before you run off, for some of you,
+
+please do fill in this mental meter for the sorts of things that you would like
+
+to see in the revision lecture.
+
+This is super helpful for shaping what you see in the last week together.
+
+I'll flip back to that at the end.
+
+These are some example exam questions that you can use to test your
+
+understanding,
+
+and we will move now to the workshops for today.
+
+So please do use this, and we will start.
+
+Please feel free to have a break, and then we'll move on to the workshop.

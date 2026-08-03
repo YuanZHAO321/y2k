@@ -1,0 +1,1755 @@
+'EART22201 - 06-Oct', automated transcript
+03/08/2026
+---
+
+Patience in waiting for this class to get going.
+
+First lecture in week two is a bit unusual.
+
+The reason for that is that the university sent me
+
+on a visit to Santiago, Chile last week,
+
+so I wasn't here to teach you.
+
+The slight consequence of that is that it means
+
+that I'm gonna have to give a lecture in reading week.
+
+All of the lectures will be podcast and recorded,
+
+so if you can't attend because you've already made a plan
+
+to be somewhere else, there will be an opportunity
+
+to catch up.
+
+We won't be able to run a practical a second time,
+
+but I'll try and make some online resources available
+
+to you, and thank you for your flexibility on that.
+
+So just for the first few minutes,
+
+I want to give you a quick introduction to this unit.
+
+My name's Margaret Hartley.
+
+I'll be giving all 10 lectures of this unit.
+
+I'm also the program director for Earth and Planetary
+
+Science, so some of you may have already seen or heard me
+
+at some point in your first year.
+
+So there are 10 lectures in this unit.
+
+We're gonna start with theory, and we're gonna move on
+
+through practical application.
+
+So the first things that we're gonna look at
+
+are symmetry, optics, mineralogy,
+
+and the rock-forming minerals, and these are really
+
+groundwork that we will build on,
+
+and they're particularly aiming to get you up to speed
+
+with mineralogy and practical microscopy skills.
+
+I want to give you a heads up that the first two lectures
+
+are probably the most mind-bending of the unit.
+
+Don't worry if you don't get it the first time round
+
+or the second time round, but it will get easier
+
+with repetition.
+
+It gets easier after these first two lectures,
+
+so please stick with it.
+
+Having laid that foundation, we're gonna then move on
+
+to key igneous processes of melting and crystallization,
+
+and then we're gonna apply all of that knowledge
+
+to look at magnetism and volcanism
+
+in different plate tectonic settings,
+
+so constructive plate margins, interplate settings,
+
+subduction zones, and what happens when magmas are intruded
+
+versus what happens when they are extruded
+
+and produce eruptions.
+
+So that last lecture is the fun one.
+
+Come along for videos of exploding things.
+
+The way that I set out the course is that I give you
+
+some pre-learning to do every week,
+
+so on Canvas, there'll be a short video,
+
+but it'll be very, very advantageous
+
+if you watch that in advance.
+
+I know that some of you have seen this week's lecture
+
+in advance.
+
+I know that some of you haven't, so see how it goes,
+
+but be aware that those will be all up on Canvas,
+
+and they'll be available in the preceding week
+
+so you can set aside some time to go through that.
+
+In the lecture itself, I'll go through that video
+
+with the kind of edited highlights,
+
+and I invite you to ask me questions about things
+
+that you didn't understand or that you would like me
+
+to explain again a bit more carefully.
+
+We'll also use the in-class time to do some worked examples
+
+that will help prepare you for the various assessments
+
+on the course.
+
+After the lecture, we'll go straight over to G12, G14
+
+for practical class.
+
+Please come to the practical classes equipped,
+
+so you'll need all of the usual things.
+
+In the practical classes, you are each gonna be given
+
+a handout, a practical reference handout.
+
+Collect one in today's practical class
+
+and put your name on it, and bring it to every class.
+
+This is gonna be one of your friends,
+
+because when we come to the assessment,
+
+there's a practical test at the end of semester,
+
+and you can bring your own annotated copy of this handout.
+
+So if there are things that you wanna write down
+
+that you wanna have to hand in the practical test,
+
+you can be making those notes as you go along
+
+throughout the 10 weeks of the course.
+
+After the class, I'll make sure that all
+
+of the practical solutions are available
+
+for you to go through and check in your own time.
+
+Each week, there's going to be a quiz on Canvas.
+
+Those are not assessed.
+
+You can use them or not as you wish.
+
+They are for checking that you have understood key concepts.
+
+You may find them useful after the lectures.
+
+You may find them useful at the end of the unit
+
+when you're coming to revise things.
+
+I've also provided some additional reading
+
+in the reading lists on Canvas,
+
+and you can dip into and out of that as you wish.
+
+The assessment for the unit, there's a practical test
+
+in the last week of term.
+
+I believe it's on Monday the 13th of December,
+
+but just check your calendars,
+
+and that should be in your timetable already.
+
+That's an in-person practical assessment.
+
+You can bring your annotated reference handout.
+
+If you've got a support plan that entitles you
+
+to extra time, that will be taken care of.
+
+You don't need to ask for it.
+
+There'll also be a written exam in January
+
+worth 70% of the unit.
+
+I will provide practice papers for you.
+
+I'll put those up on Canvas,
+
+probably about halfway through the semester,
+
+and we'll spend some time in one of the lectures
+
+later on in the semester,
+
+having a look at the form of those papers,
+
+the form of the questions,
+
+and how you can achieve success in those papers.
+
+Let's have a quick look at the Canvas page.
+
+So hopefully you've all started navigating
+
+your way around this thing already.
+
+The best way to find the material
+
+is to use this button here, Modules.
+
+Click on that, and then you'll find each week's material
+
+organized into one of these modules.
+
+So you'll be able to see module one this week,
+
+and then after today's class,
+
+I'll release module two, and so on and so on.
+
+So in each folder, you'll find the pre-lecture video.
+
+You'll find all the slides and PowerPoints.
+
+You'll find the practical, any online resources.
+
+The solutions will be available
+
+after the practical class in this folder,
+
+and then you'll have any recommended reading,
+
+a quick summary of what you should now be able to do
+
+or what you should know,
+
+and then the quiz that you can use or not as you wish.
+
+There is a discussion board on here.
+
+If you want to give any feedback or ask anonymous questions,
+
+I'll do my best to keep an eye on this.
+
+Please feel free to use it.
+
+If there are questions that everybody has,
+
+please just upvote each other's questions,
+
+and if they appear and they're pertinent to the whole class,
+
+I'll try and deal with them in one of these lectures.
+
+Okay, done that.
+
+Okay, the way that I set the slides out,
+
+I have these kind of title slides
+
+that give you the headlines
+
+of what the lecture's supposed to be about,
+
+to give you some structure
+
+for where we're going over the course of the week,
+
+and at the end of each section,
+
+I've got some learning outcomes,
+
+things that you should be able to do,
+
+that you should be able to demonstrate,
+
+that you should be able to explain.
+
+If you find that you can't do those things
+
+after having done the course
+
+and worked through all the material,
+
+please come and find me and ask questions.
+
+I'm absolutely fine with people coming to say,
+
+I didn't understand that,
+
+can you go through it again?
+
+That is what we're here for,
+
+so please do not be afraid to ask questions.
+
+I also use this little purple tag
+
+in the corner of slides,
+
+where I want to tell you about something
+
+that's extra to the course.
+
+That might be background information, important context,
+
+something that I think is interesting or fun,
+
+or things that I think you,
+
+as future earth and planetary scientists,
+
+really ought to have heard at least once
+
+during the course of your undergraduate careers.
+
+The key difference here is that anything
+
+that's on one of these purple tag slides
+
+is not assessable material,
+
+so I won't be asking exam questions
+
+about anything that's on a purple slide.
+
+If you've got suggestions, you need feedback,
+
+you can ask me, you can ask any of the demonstrators
+
+that we have in the practical classes,
+
+and I'll introduce them to you in a few hours' time.
+
+My office is in this building.
+
+It's on the first floor, on that corridor on the right.
+
+Please just come and find me.
+
+I live opposite the tea room,
+
+so my office door is usually shut
+
+to try and keep out noise from the corridor,
+
+but if the lights are on, I'm probably in,
+
+so please knock, and if I'm there and have time,
+
+then I'll be delighted to speak to you.
+
+If you email me, then I'll try and get back to you
+
+within two working days.
+
+I'm usually quicker than that,
+
+but I'll try and get back to you within two days.
+
+Okay, I'm now just gonna quickly
+
+put my program director hat on.
+
+Did you get an email about assessment calendars today?
+
+Can you give me a nod or a shake?
+
+No.
+
+Okay, I will need to investigate that
+
+because I definitely sent it.
+
+So every year, I produce these assessment calendars
+
+for the Earth units, and I produce one of these
+
+for every pathway on the Earth and Planetary Science degree.
+
+And in the orange, it has the assessments
+
+and their deadlines for your core units,
+
+and in white, there are optional units for your pathway.
+
+These are all up on canvas already
+
+in the virtual common room,
+
+and there are also going to be printed copies
+
+in the notice board by the dinosaur foyer
+
+at that end of the building,
+
+and also on the first floor foyer,
+
+pretty much directly above us.
+
+I will investigate what happened to the email.
+
+So you can use these as a quick one-stop shop
+
+to figure out when your deadlines
+
+are gonna be this semester,
+
+when you can expect to get feedback on your work.
+
+If you're taking units that are not EART course codes,
+
+they won't be on this assessment calendar,
+
+so you'll need to add those
+
+to your own personal assessment calendar,
+
+but hopefully this will be a useful
+
+one-stop shop for you.
+
+Second thing is we really appreciate your feedback.
+
+If you haven't had any adverts
+
+about the Student Voice Committee and being a student rep,
+
+it is not too late to volunteer.
+
+These roles are particularly useful to us
+
+because we get to then talk to the reps
+
+as part of the Student Voice Committee.
+
+You get to tell us things that you want or need
+
+or that you like or that you don't like,
+
+and we get to ask you questions
+
+about things that we want your feedback on.
+
+Anyone can apply,
+
+and earth and planetary science
+
+is usually underrepresented on the Student Voice Committee,
+
+so I would really like it
+
+if more people would consider putting themselves forward.
+
+My final thing is the Earth 25102 Scotland Field Course.
+
+So I know you all just come back from Aliaga.
+
+I've heard some really positive reports
+
+about how hard you all worked
+
+and how pleasant you were to teach,
+
+and that is lovely feedback to have, so thank you for that.
+
+I've also heard some reports
+
+that some of you didn't have the best time
+
+and there were some issues,
+
+and I want to say thank you
+
+for using the channels available to you
+
+to raise those issues,
+
+and we definitely want to deal with those.
+
+I'm one of the trip leaders on the Scotland Field Course,
+
+and the others are Steve Covey Crump and Russell Garwood,
+
+who teaches on paleontology.
+
+You'll have him at the end of this semester,
+
+and someone called Rufus Brunt,
+
+who normally teaches in our sedimentology masters programs,
+
+but he's coming along to help with the sedimentology aspects.
+
+I think we're an all right teaching team.
+
+We had nice feedback last year.
+
+I'm very happy to share that with you,
+
+and if you've got questions
+
+about how this field course runs,
+
+or what we do, where we stay,
+
+how you look after yourselves,
+
+please come and have a chat.
+
+I think it's a really good course,
+
+and I really enjoyed field work as an undergraduate,
+
+and I wouldn't want you to miss out on similar experiences.
+
+This is core for geology and energy and resources pathways,
+
+but if you do like field work and being outdoors,
+
+and you're on any of the other pathways,
+
+you can choose this unit.
+
+Just make sure that you've picked
+
+the right co-requisite units to go with it,
+
+and if you're not sure about what those are,
+
+please come and have a chat.
+
+Okay, that is the end of the welcome spiel.
+
+Any questions at the moment?
+
+So, can you give me a nod
+
+if you watched the pre-learning video?
+
+Can you give me a shake if you haven't seen it yet?
+
+So there's some who have seen it and some who haven't.
+
+I will whiz through it very, very quickly
+
+and point out the edited highlights
+
+for those of you who haven't seen it.
+
+If you haven't seen it yet, please go back and watch it.
+
+This lecture may then be a little bit fast for you,
+
+but I'll try and keep it at a reasonable pace.
+
+So, oh, here's your seat's code as well.
+
+Let's give you 30 seconds.
+
+So, part of this lecture,
+
+I think we'll probably have taken some of you
+
+back to primary school.
+
+What is symmetry?
+
+We all know what mirrors are.
+
+We all know what rotational symmetry is.
+
+Why is this relevant to us
+
+as earth and planetary scientists?
+
+It's because symmetry is absolutely critical
+
+in building rock-forming minerals.
+
+And the symmetry, the underlying atomic symmetry
+
+of the rock-forming minerals fundamentally governs
+
+the physical properties of those minerals.
+
+And we need to know those physical properties
+
+so that we can identify the mineral
+
+either in a hand specimen or through a thin section.
+
+And the combination of minerals that we observe in a rock
+
+tells us something very important
+
+about the processes that formed that rock,
+
+particularly in an igneous system.
+
+So, what I'm doing here is kind of starting
+
+at the very building blocks of mineralogy.
+
+And eventually, hopefully you will see
+
+how this comes together to help us interpret
+
+igneous rocks of various kinds.
+
+So, I talked about crystal lattices
+
+being effectively a three-dimensional atomic structure
+
+in which there is a fundamental underlying symmetry
+
+that will control the microscopic
+
+and the macroscopic properties of that mineral.
+
+Some important things to know about lattices
+
+are that we use some key definitions
+
+or parameters to describe them.
+
+So, a unit cell is the smallest possible unit
+
+of repeatable symmetry within a lattice.
+
+And we use lattice parameters
+
+to describe the shape of that unit cell.
+
+So, it's gonna have edges with some lengths
+
+and it's going to have some inter-lattice angles.
+
+Now, in a three-dimensional lattice,
+
+I'm just gonna skip forward a little bit,
+
+there's some naming conventions.
+
+So, we always call the lattice lengths A, B, and C.
+
+A is always parallel to the x-axis.
+
+B is always parallel to the y-axis
+
+and C is always parallel to the z-axis.
+
+We're probably used to dealing with Cartesian systems
+
+where the x, y, and z-axes are at 90 degrees
+
+to one another.
+
+Think cuboid, cereal box, book.
+
+But it's not necessarily true
+
+that all lattices have to have these Cartesian axes
+
+at 90 degrees to one another.
+
+So, we can define the lattice angles
+
+that may be equal to 90 degrees
+
+or may not be equal to 90 degrees.
+
+The alpha, beta, and gamma
+
+are what we use to denote the lattice angles.
+
+Alpha is the angle between z and y.
+
+Beta is the angle between x and z.
+
+And gamma is the angle between x and y.
+
+Now, that might be a bit hard to remember.
+
+Write it down in your practical reference handbook
+
+so that you have it as a convenient reference
+
+when you need that information.
+
+There are exactly seven ways
+
+of combining the three lattice parameters
+
+and the three lattice angles
+
+to create three-dimensional shapes.
+
+And these give us seven crystal systems.
+
+Each mineral that we see
+
+belongs to one of these seven crystal systems.
+
+And they have particular symmetrical properties
+
+and they have particular optical properties.
+
+And we're gonna be looking at those,
+
+the optical properties in particular, next week.
+
+There are various ways that you can configure the unit cell.
+
+I won't go into that now.
+
+This is a bit more detailed than we really need
+
+at this precise moment in time.
+
+But if you haven't watched the video,
+
+do have a look at those.
+
+Then talk about symmetry.
+
+So mirror planes, reflection, rotation,
+
+something that you can rotate 180 degrees,
+
+we would describe as having a two-fold rotational symmetry.
+
+Or it has one dyad, so you can rotate it twice.
+
+Something that has 120 degree rotational symmetry,
+
+we could say has three-fold rotational symmetry or triad.
+
+And we have these symbols that kind of donate.
+
+How many times can you rotate this
+
+before you get back to your original starting point?
+
+And there are a limited number of ways
+
+in which we can combine rotational
+
+and reflexional symmetry with the seven crystal systems.
+
+So each crystal system has a minimum symmetry requirement.
+
+If you think about taking a cube
+
+and putting your fingers on all of the corners,
+
+rotating it so that you've got one set of corners
+
+facing your eye, rotate it around,
+
+you'll find that it's got three-fold rotational symmetry.
+
+And there are four pairs of opposite corners.
+
+So in a cubic crystal system,
+
+the minimum symmetry is to have three, sorry, four triads.
+
+And we can do the same kind of thing
+
+with each of the other crystal systems.
+
+Try it at home, try it in the practical.
+
+And then I talk about how the external form of a crystal
+
+has to match its underlying symmetry.
+
+So if I just click play on these, hopefully it'll work.
+
+So you can see here,
+
+you've got four-fold rotational symmetry
+
+around that red axis,
+
+two-fold rotational symmetry around each of these blue axes
+
+and mirror planes cutting through this object as well.
+
+I then talk about crystal habit.
+
+So as well as the symmetry of the macroscopic crystal
+
+having to obey the same constraints
+
+as the underlying crystal symmetry,
+
+those crystals can grow in different forms
+
+and we have some words to describe those.
+
+So an equant crystal is one where all of the faces
+
+are pretty much the same size, the same shape,
+
+and they are well-formed.
+
+Whereas a fibrous crystal
+
+might be particularly elongate in one direction.
+
+A scaly or micatious crystal is like a flat plain thing,
+
+kind of piece of paper shaped.
+
+And different minerals can show different habits.
+
+So this is a Plagioclase,
+
+hopefully you remember this from first year,
+
+but it has two different habits in this thin section.
+
+We've got large tabular crystals.
+
+They look kind of cuboidal,
+
+but in the ground mass you've got smaller,
+
+much finer needle-like crystals.
+
+And that is related to the way that the crystals grow,
+
+the speed that they grow
+
+and the magmatic environment in which they have grown.
+
+We can also think about the quality of the shape
+
+that we can observe.
+
+So something that's uhedral has very nice,
+
+well-formed crystal faces.
+
+Something that's anhedral is somewhat random shaped,
+
+and you wouldn't really be able to tell anything
+
+about the underlying symmetry from this irregular shape.
+
+In the uhedral case,
+
+we probably can say something about the underlying symmetry
+
+because the uhedral shape will be a slice
+
+through a kind of well-formed three-dimensional object.
+
+Everybody following so far?
+
+Okay.
+
+So what I want to go on to next
+
+is thinking a bit more about how we can use
+
+some of these symmetrical constraints
+
+to describe features within a mineral.
+
+And one of the key things that we use is Miller indices,
+
+and I'm gonna use the projector.
+
+If you want to follow along taking your own notes,
+
+please do so.
+
+If you would prefer to just follow along online
+
+on the digital copy, please do so.
+
+Okay.
+
+So here is a lattice.
+
+Here's one I made earlier.
+
+I'm gonna start by defining an origin
+
+and some axes of this lattice.
+
+So I'm gonna take an origin,
+
+and I'm going to define an X axis and a Y axis.
+
+In crystallography, the X axis is conventionally drawn
+
+down the page.
+
+I don't know why that convention exists,
+
+but it does, so I'm going to follow it.
+
+Let's think about drawing some planar features
+
+onto this lattice.
+
+Minerals have lots of planar features
+
+like twin planes or like cleavage planes,
+
+so this is the analogy.
+
+I'm gonna draw some planes.
+
+And I'm also going to define a unit cell.
+
+The unit cell is the minimum repeatable symmetry unit,
+
+this, and I can define some lattice parameters.
+
+So A, the length A is here,
+
+the length of the unit cell parallel to X,
+
+and B is the length of the unit cell parallel to Y.
+
+This lattice angle here would be gamma.
+
+In my case, it's 90 degrees, people take.
+
+So I want to describe the symmetry of this plane
+
+with respect to my lattice and my unit cell.
+
+And planes get described by Miller indices,
+
+which are, again, apologies for the words
+
+and the definitions, but you'll get used to it.
+
+They're described as H, K, L planes
+
+where H is, let me just make sure I've got this right.
+
+H is the reciprocal of the lattice intercept.
+
+I'm gonna go back to my camera.
+
+So the first lattice plane away from the origin
+
+intersects X, Y, and Z axes at distances of A over H,
+
+B over K, and C over L.
+
+Sorry, it helps if I actually read the definition.
+
+So what does that actually mean?
+
+So I'm gonna start at my origin
+
+and look at where these planes intersect my unit cell.
+
+So here's my origin.
+
+If I travel in the X direction,
+
+I intersect this plane at exactly one unit cell repeat.
+
+I take the reciprocal of that number
+
+and that then becomes my value of H.
+
+So one over one equals one.
+
+And I can do the same in the Y direction.
+
+So I start at my origin.
+
+I go, how many unit cells,
+
+how many intervals of unit cell do I need to go
+
+to get to my first plane?
+
+One unit cell, the reciprocal of one is one, K is one.
+
+I can't say anything about this L number
+
+because my C axis is not shown in this diagram.
+
+It's probably pointing directly out of the page
+
+towards us.
+
+But we could assume that if these planes are,
+
+exactly plane are out of the page coming towards us,
+
+and so is the axis, they're never going to intersect.
+
+So the intersect value is infinity.
+
+The reciprocal of infinity is zero.
+
+Let's do another example
+
+so that that's not quite so mind-bending.
+
+We'll do the same thing again.
+
+Define an origin, a unit cell, some axes,
+
+and this time I'm going to draw
+
+a slightly different set of planes.
+
+So again, we've got our A dimension here
+
+and B dimension here.
+
+So if I want to figure out H, K, and L,
+
+I'm going to start at my origin.
+
+I only have to go half of a unit cell
+
+before I get to my first plane.
+
+The reciprocal of a half is two.
+
+So H becomes two.
+
+In this direction, again, I'd go one unit cell
+
+before I get to my first plane.
+
+And this becomes one.
+
+And again, I can't see what happens.
+
+Is everybody following that roughly so far?
+
+Okay, so a common pitfall with this kind of notation
+
+is that we are used to dealing with Cartesian coordinates.
+
+These are not Cartesian coordinates.
+
+So a common mistake that people can make
+
+is let's say they want to find the one, one, zero plane.
+
+You're given a lattice and you say, I want to find this.
+
+The common mistake is to go right.
+
+I'm going to have one point at my origin,
+
+and then I'm going to find the point
+
+that corresponds to one, one,
+
+thinking about these as just Cartesian axes.
+
+Point one, one in a Cartesian world would be here.
+
+And then they join those points up and they get that,
+
+which is not quite what we were asking for.
+
+So that is a pitfall to be aware of.
+
+You're always looking at the interception of these planes
+
+with the unit cell,
+
+rather than trying to treat it as a Cartesian system.
+
+Okay, that is all very well.
+
+What do we do when the planes are at a different angle?
+
+So again, that's Y, and let's have some planes this time.
+
+Here is my origin.
+
+If I travel in the positive X direction,
+
+I get to half a unit cell of heat,
+
+and I see my first plane.
+
+Reciprocal of half is two.
+
+And if I take this same notation and go,
+
+okay, I'm going to find my first plane.
+
+The first plane that I come across
+
+in the positive Y direction, I would, no, a one.
+
+But I have that over here.
+
+These were the two, one planes.
+
+I've just written down two, one, zero planes,
+
+but this set looks totally different.
+
+So there's something missing here.
+
+In this example, when I followed my lattice,
+
+sorry, towards my first plane,
+
+I intersected the same plane
+
+when it crossed the unit cell in both directions.
+
+In this case, when I went in positive X direction,
+
+I got to this plane.
+
+But when I went to the positive Y direction,
+
+I got to this plane.
+
+So I've described two different planes here,
+
+and that's not what we want.
+
+I want to find where this intersects the Y direction.
+
+So this time, I'm going to have to go
+
+in the negative Y direction
+
+to see where that plane intersects.
+
+I have to go minus one unit cell repeat
+
+in the Y direction.
+
+And we denote that with a bar over the number.
+
+So that's like a minus one intersection.
+
+So when you're trying to figure out
+
+what Miller index to give the planes,
+
+the trick is how many unit cell repeats from the origin,
+
+but also to be looking at the same plane from the origin.
+
+Everybody with that so far?
+
+Brilliant.
+
+What we've done here with this notation
+
+is to describe this plane, this singular plane,
+
+the two, one, zero plane.
+
+But we can see that we've got a set of planes here
+
+that all have the same orientation.
+
+They're all mutually parallel.
+
+They're never going to intersect one another.
+
+They all have the same symmetry.
+
+If we're trying to describe a mineral,
+
+it would be really annoying to have to describe
+
+each one of those planes separately.
+
+We want a notation that will describe the set of the planes.
+
+And we do that using these curly bracket.
+
+So normal brackets refer to one plane in isolation.
+
+Curly brackets refer to all of the planes
+
+that have exactly the same symmetry.
+
+So once you've worked out one,
+
+you can then get the set by defining
+
+the set of mutually perpendicular plane.
+
+Everybody happy with that?
+
+Yeah, so the curly brackets are for all of a set of planes
+
+that have the same symmetrical properties.
+
+The way that we would know that
+
+is that we could define a different unit cell,
+
+work out our two bar one zero plane.
+
+And we'd still come up with something
+
+that has the same orientation.
+
+So they belong to the same set.
+
+So how does this then extend to three dimensions?
+
+Those things that I just drew were in two dimensions
+
+where we were looking at just X and Y.
+
+But the exact same principles apply
+
+when we're looking in three dimensions.
+
+So here you've got the one zero zero plane.
+
+And that basically means that you've got a plane
+
+that will intercept the X axis at one unit cell repeat,
+
+but it will never cross the Y axis or the Z axis.
+
+This plane in isolation,
+
+we could describe as the two zero zero plane
+
+because it intersects at half a unit cell repeat
+
+of the X axis.
+
+And it will never intersect the Y or the Z axis.
+
+And if we follow that to make a set of planes,
+
+we'll call that curly brackets,
+
+the one zero zero closed curly brackets set of planes.
+
+If I wrote down curly bracket two zero zero
+
+closed curly bracket, that would be the same,
+
+but it's much more straightforward
+
+to give it in the smallest integer proportions.
+
+So we always try to simplify down to the smallest integer.
+
+So that's why it's the one zero zero set,
+
+not the two zero zero set.
+
+Does that make sense?
+
+Some nods, I'll take that for yes.
+
+We can do the same thing with this one.
+
+So this plane intersects the Y axis
+
+at one unit cell repeat, but not the X or the Z axis.
+
+So this is the zero one zero plane.
+
+This one intersects the Y axis
+
+at a third of a unit cell repeat, but not X or Z.
+
+So this plane itself would be O three O.
+
+And if we turn that into a set,
+
+we've got the set of O one O planes.
+
+Again, we've simplified down to the smallest integer.
+
+And for the Z axis, here we've got something
+
+that will intersect Z at one unit cell repeat,
+
+but not X and not Y.
+
+So that is the zero zero one plane.
+
+And we can then start building up
+
+some more complex planes as well.
+
+So this one intersects the X axis at one repeat
+
+and the Z axis at one repeat, but not Y.
+
+So we've got, excuse me, one zero one.
+
+And if we flip that, we would be intersecting
+
+at one unit cell repeat, positive X direction,
+
+and one unit cell repeat in the negative Z direction.
+
+To get this plane.
+
+So this one and this one are at 90 degrees to one another,
+
+assuming that this lattice angle is 90 degrees.
+
+We can do this with a whole variety of planes.
+
+We can change the number.
+
+So here we've got planes that X at one unit cell repeat,
+
+but Z at half a unit cell repeat, and building a set.
+
+Here we've got something that intersects all three axes.
+
+Mind blown on the front row.
+
+I'm very happy about this.
+
+Don't worry about it.
+
+All we're doing here is constructing a system
+
+where we can visualize kind of 3D planar geometries.
+
+I will never ask you to try and sketch something
+
+in glorious three dimensions.
+
+I'll always try and break down questions for you.
+
+So these are all in your handout,
+
+and you can have a go at figuring out,
+
+can you understand what's going on?
+
+And if not, please, please, please come and ask.
+
+So why have I done this?
+
+It's because minerals show planar features like this.
+
+Last year, you probably encountered a few
+
+of the rock forming minerals in hand specimen
+
+and in thin section.
+
+Give me a nod.
+
+If you did, hooray, some people remember.
+
+So some of the key features that we're really interested in
+
+are cleavage and twinning.
+
+And we can see those on the macro scale.
+
+Here you've got biotite that's got that one perfect
+
+planar cleavage.
+
+This is rock salt that's got three cleavage planes
+
+at 90 degrees to one another.
+
+This is plagioclase where you can see
+
+one perfectly formed twin plane.
+
+And sometimes we can see intergrown twin shapes,
+
+but these are described at the atomic level
+
+as planar features.
+
+And these will interact with one another in different ways
+
+to control what we see under a microscope.
+
+So for example, this perfect basal cleavage in biotite,
+
+we know that it kind of looks like a stack of pieces
+
+of paper or sheets on top of one another.
+
+And if we try to describe this
+
+with this Miller index notation,
+
+it turns out that the crystallographic z-axis
+
+is perpendicular to the sheets.
+
+And we can describe this as a 001 cleavage.
+
+So these cleavage traces slice through the z-axis
+
+at regular intervals.
+
+Whereas for rock salt, we've got three cleavage planes
+
+at 90 degrees to one another.
+
+So imagine taking a cake and you're slicing it
+
+once vertically, once horizontally,
+
+and once straight through the middle.
+
+Three planes, and we can describe these
+
+with respect to the crystallographic axes.
+
+So 100, 010, and 001.
+
+And you can see in this kind of 3D image
+
+how that might look.
+
+Maybe a bit like a Rubik's cube.
+
+You do not need to know all of these words on this slide,
+
+but this is just to give you a flavor
+
+of how cleavage can develop within minerals
+
+and how that can look.
+
+So despite all the fact that there's loads of words here,
+
+there are things that you're going to recognize
+
+on this slide or from this slide
+
+as we go through the course.
+
+So some of the minerals that you're going to learn
+
+to identify will have this perfect one basal cleavage.
+
+Some will have prismatic cleavages
+
+at different angles to one another.
+
+And some will have weird and wonderful
+
+sets of cleavage traces.
+
+And you'll see these in hand specimens
+
+and in thin sections as we go through looking at minerals.
+
+So I'm now going to show you a kind of worked example
+
+of how this might play out in practice.
+
+Let's say that you have been told here is a thin section.
+
+It's got a mineral called horn blend in it,
+
+but I'm not going to tell you what horn blend looks like.
+
+All I'm going to do is give you some information
+
+about its crystal lattice.
+
+Well, what do you do with that information?
+
+Can you use it to predict
+
+what horn blend might look like in a thin section?
+
+And the answer is yes, you can.
+
+So let's talk about how we're going to do that.
+
+So we're given some lattice parameters,
+
+A equals 10, B equals 18, C equals 105,
+
+and beta, that's the lattice angle, sorry, C equals five,
+
+and B equals 105.
+
+And we have been asked to draw a projection
+
+looking down the y-axis showing the unit cell dimensions
+
+and the orientation of twin planes.
+
+And we're told here that we've got some twin planes
+
+with a particular Miller index, so one, zero, zero.
+
+Right, let's go and figure this out.
+
+So when I get faced with this kind of information,
+
+first step is always to figure out
+
+what are the axes doing.
+
+We've got three axes, X, Y, and Z, what are they doing?
+
+So we were told A equals 10, B equals 18,
+
+C equals five, and beta equals 105.
+
+So my first pass is going to be,
+
+let's take a set of axes that looks something like this.
+
+I'll go with X, Y, Z.
+
+And I need to figure out which lattice angles are which.
+
+So this one here, the angle between X and Y is gamma,
+
+the angle between Y and Z is alpha,
+
+and the angle between Z and X is beta.
+
+If you've got no information in the question,
+
+then the lattice angle is 90 degrees.
+
+So this one should be 90, this one should be 90,
+
+and this one should be 105.
+
+So now let me draw a slightly better set of axes
+
+that tries to capture some of this information.
+
+There is Y, this is 90 degrees,
+
+and I'm just going to extend X out this way.
+
+So this angle here is 90 degrees,
+
+and this one here is 105.
+
+So now we have our axes.
+
+We can then add some information about our unit cell.
+
+So A is the length of the unit cell with respect to X.
+
+So I'll stick that here,
+
+is the length with respect to Y, and it's a bit longer.
+
+So I'll stick that here.
+
+And C is the length with respect to Z,
+
+and it's a bit shorter, so I'll stick that here.
+
+And I now want to just try and join those up
+
+into a sort of, so our unit cell
+
+will look something like that.
+
+We've just answered the first part of the question.
+
+We've shown the unit cell.
+
+We were now asked to think about some twins
+
+in this mineral that have a particular orientation.
+
+So if they are one, zero, zero twins,
+
+they're going to intersect the X axis
+
+at one unit cell repeat.
+
+They're not going to intersect the Y or the Z axes.
+
+So they're going to intersect X,
+
+and because it's a set, we can have a set of them
+
+like that, but they're never going to intersect for Z.
+
+So they're going to be sort of parallel
+
+to this face of our cuboid.
+
+So now we know where our twin planes are.
+
+And we were asked to draw a projection
+
+that looks down this three-dimensional shape
+
+down the Y axis.
+
+So imagine that you've now got your eye
+
+looking down this direction.
+
+What do you see?
+
+It's over.
+
+We're going to see Z axis, 105 degrees,
+
+and the Y axis is going to be pointing
+
+directly out of the page.
+
+So we don't see that.
+
+We are going to see our unit cell.
+
+So here's our A dimension,
+
+and here is our C dimension.
+
+Our unit cell looks something like this.
+
+And we are going to see our twin planes.
+
+So if we think about this face,
+
+we're going to be kind of looking down
+
+onto this side of that face.
+
+So something that intersects the X axis,
+
+but not the Z axis.
+
+And so our twin planes would look something like this.
+
+So if we were looking for this mineral
+
+in a thin section,
+
+and if its crystal habit follows the same form
+
+as its unit cell,
+
+we might be looking for a kind of diamond-shaped object
+
+that's got one twin plane.
+
+And that twin plane should be in the orientation
+
+kind of along the fat axis of the unit cell
+
+rather than the thin axis.
+
+So not a long and thin twin,
+
+but a kind of short and stubby twin.
+
+You can do the same kind of thing in reverse
+
+if you know what orientation
+
+you're looking down a mineral in.
+
+So this kind of framework is quite a powerful way
+
+of taking some data from a book and saying,
+
+I don't know what this mineral is,
+
+but I can predict what it ought to look like.
+
+Is it this?
+
+It obeys these properties?
+
+Yes.
+
+Or I'm looking for this mineral.
+
+What should I be looking for?
+
+Now I can identify those properties.
+
+I think we're going to get chucked out of the room
+
+in like two seconds.
+
+So what I suggest we do is stop there.
+
+We're going to go over to G12
+
+and have a look at some of this,
+
+play with it in your own time.
+
+Do take a break, go to the toilet, have a snack,
+
+and I'll see you in there in 10 minutes time.

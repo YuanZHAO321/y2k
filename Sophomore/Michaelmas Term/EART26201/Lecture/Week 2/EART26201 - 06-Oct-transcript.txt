@@ -1,0 +1,941 @@
+'EART26201 - 06-Oct', automated transcript
+03/08/2026
+---
+
+okay good afternoon everybody we're going to get started because we've got
+
+quite a bit to go through today so welcome to this second week on this
+
+course this week we will be talking about radiogenic isotopes and what they can
+
+tell us about the age and provenance of rocks so I'll get started with that so
+
+the lecture slides are available on canvas and so we like last week we will
+
+do the lecture today and we will do a couple of hours workshop on Wednesday
+
+working with some of the equations that we're going to look at today okay so
+
+first a short introduction to this week's lectures so elements and isotopes
+
+let me just get that fancy red dot so we saw last week that elements are ordered
+
+in the periodic table by proton number that's denoted by Z and elements have
+
+different behavior and celerophile, chalcophile, lithophile and atmophile and
+
+these sorts of different behavior are linked to how these elements behave in
+
+magmatic processes most elements have multiple number multiple isotopes with
+
+different neutron numbers but the same proton number and one of the way to
+
+display the range of isotopes that exists is that nuclide chart called the
+
+car-through nuclide chart where on the y-axis you've got the proton number and
+
+on the x-axis you've got the neutron number and so you can find any element
+
+in that chart and for any element you can look up the different isotopes of
+
+these elements and different colors refer to the state of these isotopes a
+
+few words on stability and radioactive decay so most isotopes are in fact
+
+unstable and undergo spontaneous radioactive decay to produce stable
+
+isotopes hopefully this is some reminder you've seen that before but the
+
+rate of radioactive decay is given by dn over dt equals minus lambda n where n
+
+is
+
+the number of decaying nuclides and lambda is the decay constant so if we
+
+look at a graph here where on the y-axis we've got the number of nuclides versus
+
+the number of half-lives and I'll come to the half-lives in just a second we
+
+start with 100 so and not and radioactive isotopes decay along an
+
+exponential curve and after one half-life you've lost 50% of your initial
+
+stock of isotopes the decay constant lambda is related to an isotopes half
+
+life as follows the half-life t half equals the natural log of 2 divided by
+
+lambda and obviously the growth of the stable daughter isotope mirrors the
+
+decay of the radioactive parent and what is it useful for in geoscience and in
+
+geology well first and foremost is used to determine the age of rocks so knowing
+
+how old a rock is so radiogenic isotopes are the product of radioactive decay
+
+the abundance of radiogenic isotopes is related to t the time by lambda
+
+radiogenic isotopes can also be used to date rocks and events throughout
+
+geological history and this is a subfield of geology called geochronology
+
+and yet you got an example here where people working on some rocks from the
+
+Scottish Islands determined that they were 400 to 425 million years old and
+
+essentially this means that at that time we had a mountain range in Scotland
+
+that
+
+was a good analog to the Himalayas today the second part of the usefulness of
+
+is for rock provenance and this is because isotopes are not fractionated
+
+by high-temperature processes like melting and crystallization so if you
+
+remember last week we looked at partitioning behavior given by that D
+
+notation the partition coefficient for the isotope 87 of strontium is very
+
+similar to the one for 86 it's okay radiogenic isotopes are this passive
+
+traces for the rock provenance and different geochemical reservoirs of
+
+characteristics isotopic composition for example the continental mantle sorry
+
+the continental crust and the depleted mantle will have their own isotopic
+
+composition and we'll get back to that later but it can be used looking at the
+
+rock record but it can also be used for example here to track ocean currents
+
+with isotopes of an element called newtonia okay so let's start with
+
+radioactive decay so a nuclei contains protons which have positive charge and
+
+neutrons which have no charge the atomic mass of an element is the sum of the
+
+proton number said and the neutron number M and in stable nuclei for the
+
+lighter one we've got approximately the same amount of protons than neutron and
+
+when we get to heavier nucleates we tend to have a slightly higher number of
+
+neutrons compared to proton so in that chart here you've got in purple the
+
+range of stable nuclei and you see that they deviate from the n equals z at
+
+atomic number above 30. Nucleates where Z and or N are even numbers are more
+
+stable and for example the stability is greatest when Z or N is 28, 20, 28, 50,
+
+or 126 and this goes back to something we discussed last week which is the
+
+Odo-Harkins rule. As we said earlier when we talk about radioactive decay we're
+
+talking about unstable parent nuclides and these unstable nuclides undergo
+
+decay to different but not always stable daughter nuclei so an unstable
+
+nuclides can decay to another unstable nuclides to decay to another unstable
+
+et cetera et cetera until it reaches a stable one. These unstable nuclides can
+
+exist for a very very short period of time so some decay very very quickly
+
+fractions of a second or on the other end some can be they're unstable but
+
+their decay rate is very very slow so there is a large range of decay
+
+constant. The rate of decay depends on the energy states of the nuclides and it
+
+is described by that equation that we saw earlier dN over dt equals minus
+
+lambda m with N the number of nuclides and lambda the decay constant and I
+
+won't comment on that diagram again because I've just done it a few minutes
+
+ago. So how do nuclides decay? Here we're going to introduce three main
+
+types of decay we've got alpha decay where an alpha particle with two
+
+protons and two neutrons ie a helium nucleus escapes the nuclides which
+
+reduces both Z and N so if you start up here in that diagram and undergo
+
+alpha decay the resulting isotopes would be somewhere down here. We've got beta
+
+decay and we've got two types of beta decay because we lose a beta
+
+particle which can either be a positron or an electron so this changes the
+
+ratio of Z to N so you can go in that direction or you can go in this
+
+direction and the third one here is gamma decay which is the decay of an
+
+excited nucleus to a more stable state by the release of a gamma ray and
+
+here we don't have any change of neither Z nor N. A few words on decay
+
+constants and half-lives so once again the rate of decay constant is described
+
+by that equation with respect to the initial number of decaying nuclides
+
+which we write N0 at t equals 0 so that that point here in the diagram the
+
+natural log of N over N0 equals minus lambda t or you can rearrange that to
+
+that form of equation that's more common and the amount of nuclides at a given
+
+time t equals the N0 the original amount of nuclides exponential minus lambda t.
+
+The half-life so the time it takes to reduce N by half is given as follow so
+
+t half equals natural log of 2 over lambda so at any given time t the
+
+number of daughter nuclides d is given by d equals N0 minus N and so if we
+
+substitute this into the equation we just saw earlier we can now express it
+
+with d where d equals N exponential lambda t minus 1 and finally it's very
+
+very rare that all of the d is only created but radioactive decay for most
+
+elements there will be some elements already present in the system we're
+
+looking at so there is as it says here some amount of d will be present at t0
+
+and we write that d0 and so that equation becomes d equals d0 plus N
+
+exponential lambda t minus 1. Finally in general when we do mass spectrometry
+
+it's easier for us to measure the ratio of two isotopes than measuring the
+
+absolute concentration of an isotope and so here N and d are ratios to a
+
+non-radiogenic isotope so one that's stable that doesn't either decay or is
+
+not formed by the decay of another element and it will become more concrete
+
+when we look at some application example but here we ratio everything by s and
+
+we
+
+get this equation and that's the general form of radioactive decay equation as
+
+it
+
+says here it's fundamental equation of geochronology and radiogenic isotope
+
+geochemistry. So what does it mean in a geological context or for a geological
+
+system? Most geochemical events like melting or
+
+crystallization they occurred at some time in the past denoted by t less
+
+than the age of the earth which typically we would write capital T and so some
+
+amount of both the parents and the daughter nuclides will already be
+
+present in the system which we denote N0 and d0 and after T the total number of
+
+daughter nuclides T will be the sum of d0 and those produced by the decay from
+
+N0 over T so in a schematic if your system is a rock on earth we start with
+
+the formation of the earth here at the bottom you've got a given amount of time
+
+that passes and the rock you're interested in forms here so at an age T and that
+
+rock initially contains some daughter nuclides just inherited from its
+
+formation and here the the radiogenic clock in your rock starts so nuclides N
+
+starts decaying and so today you've got some parents nucleates remaining which
+
+we write M and we've got some daughter nuclides which are d where d is d0
+
+plus d star. A few words on some of the key decay systems that we use quite a
+
+lot in in geochemistry and so many of the geochemically important systems we
+
+have for dating rocks especially a very long half-life because if we take a
+
+system with a very short half-life where all the radioactive elements decay very
+
+quickly we won't be able to date very old rocks so there won't be of much use
+
+and typically we think what we think typically you can date rocks that are
+
+about six to seven times the half-life of a system so for carbon
+
+carbon-14 for example which is not listed here you can go back in time a
+
+couple of million years but you can't go very far these are systems with long
+
+half-lives so the first one is a system where the parent is rubidium 87 rubidium
+
+87 decays to strontium 87 using a beta minus decay the lambda value is 1.42
+
+times 10 to the minus 11 years which corresponds to the half-life of about
+
+5 times 10 to the 10 years so about 50 billion years so it takes about 50
+
+billion years for half the rubidium 87 to decay to strontium 87 and so the
+
+measured ratio in that case is the 87 strontium to 86 strontium so 86 is the
+
+stable element sorry stable isotopes I was talking earlier that we use for
+
+normalizing one of the other system that's used quite a lot is based on the
+
+decay of stamarium 147 into neodymium 143 so here you see that it's alpha decay
+
+we've lost the helium atom and here again it's got a very very long half-life
+
+of just over 1 times 10 to the 11 years so here just over a hundred billion
+
+years
+
+and the measured ratio here is 143 to 144 neodymium and finally we've got here
+
+thorium 232 and uranium 238 so these two also use alpha decay the thorium decays
+
+into lead 208 uranium decays into lead 206 and they produce some helium in the
+
+decay chain both of those are very long half-life here are 140 billion years and
+
+here just under 50 billion years and here we've indicated helium because
+
+that can be used as a dating system itself but we won't be talking about
+
+that here here we're interested into the 208 lead 204 lead and so it's a
+
+typo here it should be 206 lead here for the uranium over 204 lead so that's
+
+that
+
+was all mostly the theory how does it work in practice how do we get to know
+
+the age of a rock so again if we start from that fundamental generalized
+
+equation we saw earlier which is given here on the screen the parent and
+
+daughter isotope so D is the daughter N is the parent they're related to time
+
+via the decay constants given here by lambda so by manipulating this equation
+
+we can solve for T except we have one equation and two unknowns so what's
+
+unknown in that system is T which is what we're trying to find out but we
+
+also don't know a priori the ratio D over S initial so fortunately for us if
+
+we measure multiple related system with the same T and DS 0 then both T and DS 0
+
+can be determined simultaneously you see what it means it's just a minute if we
+
+if we're able to find some subsystems that are all related and formed at the
+
+same time from the same source then we're fine we can work with that so this
+
+is done with diagrams that we call isochrone diagram that shows systems of
+
+equal T and DS 0 so what what is a system so if you start from an outcrop
+
+for example you keep wandering on the beach looking at a rock outcrop in that
+
+you can sample different rocks so you've got your whole rock samples so you can
+
+divide your outcrop into some subsystems here made up of this whole rock sample
+
+but a given rock can also be divided into individual mineral grains so it
+
+must rocks there's a variety of mineral grains which themselves are subsystems
+
+so here the definition that we used for a system is a part of a sample that has
+
+remained chemically closed for the duration of T so that's what when we
+
+think geochronology that's what a system is so I'll repeat it it's the parts of
+
+a
+
+sample that have remained chemically closed for the duration of T so if we
+
+want to consider the different mineral in that rock as a system we need to make
+
+sure that this pelspar and this piotite and these quartz they've all remained
+
+chemically closed so no elements went in no elements came out and typically it's
+
+a reasonable assumption to make for a rock sample and so here again the
+
+systems can range in scale depending on the technique we use and so these are
+
+subsystems that we represent in isochrone diagrams so these diagrams
+
+they exploit the fact that that fundamental equation of geochronology
+
+is in fact the equation of a straight line so if I put it up here again and
+
+we look at the different constituents you've got d over s which is your y
+
+you've got the initial d over s which is a in the equation of a straight line
+
+here n over s is your x and exponential lambda t minus 1 is that b coefficient
+
+so on a diagram where you plot d over s on the y-axis versus n over s on the x
+
+axis the slope b is equal to exponential lambda t minus 1 and so from that once
+
+you've measured and calculated the slope you can calculate t because we know
+
+lambda we know the decay constant for a given system and the intercept gives you
+
+the initial d over s which also contains some useful geological information so
+
+not only you get the time when you do an isochrone diagram you also get some
+
+information mostly about the source the material from which your rock formed and
+
+we will come to that at the end of this lecture so the assumptions there are
+
+some assumptions behind using these isotope diagram or if we if we think of
+
+the minerals in the rock as our system they all have to be in isotopic at
+
+t0 so when you start everything is at equilibrium it's uniform isotopically at
+
+t0 so that means your d over s was homogeneous and some homogeneous systems
+
+for example could be the solar system before accretion of the planets or a
+
+my reservoir before it starts cooling and the system must remain closed for
+
+the duration of t if there is any event that disturb your system then it breaks
+
+apart so that means there's been no gain or loss of nd or s from the system and
+
+so
+
+the only reason why the the quantities of these isotope change is
+
+so constructing and interpreting these isochrone diagrams so when we start at
+
+t0 say it's the start of cooling of magma from which you form a rock different
+
+samples sorry samples have the same d over s and initial year rest but
+
+different and over s and graphically it's easier to understand so your initial
+
+d over s is that it's the same for all the minerals in your system the amount
+
+of daughter nuclides over the stable nuclide is essentially the same
+
+everywhere because radioactive decay hasn't started but different minerals
+
+have different and over s because this relates to the partitioning behavior of
+
+that element and in different minerals which is what I just said and I refer to
+
+what we did last week about that for example if your rock of interest is a
+
+granite two of the typical minerals in the granites are biotites which is a
+
+and feldspar biotite has a high rubidium to strontium ratio because the
+
+partitioning behavior of rubidium over strontium is high but feldspar has a low
+
+rubidium strontium so in other words rubidium loves going into biotite but
+
+strontium doesn't really like to on the other end for feldspar strontium love
+
+going into feldspar but rubidium doesn't really like to and so that's why
+
+we have a spread here on that x-axis in this time so at t equals one so some
+
+time passes after a rock starts crystallizing some abundance of n has
+
+decayed into d but s has remained constant because that's a stable isotope
+
+so in that diagram each of these points is moving in that direction so m
+
+decreases by radioactive decay at the same time d increases because it's the
+
+product of the decay of n and so each of these points moves up along these lines
+
+and so you can see at t equals t1 you still have a straight line which is
+
+called an isochrone. The greater the starting n over s the greater the
+
+resulting d over s so the more radioactive elements you have in a
+
+mineral the more daughter product you will form and the eventual d is directly
+
+proportional to the initial n and the value of t so the time elapsed can be
+
+estimated from the isochrone slope because the slope of that isochrone
+
+equals that equation here. If you continue that for another length of time
+
+up to t2 it follows the same trajectories and you've got a second
+
+isochrone here and the steeper an isochrone the older the sample is so
+
+that was the sort of theoretical general view of it if we now apply it for the
+
+rubidium strontium system so the isochrone equation for the decay of
+
+rubidium 87 to strontium 87 where we normalize everything by 86 strontium is
+
+given here so 87 strontium 86 strontium equals 87 strontium 86
+
+strontium initial so what's there when what the ratio when we start plus the
+
+rubidium 87 to strontium 86 ratio multiplied by exponential lambda t minus
+
+1 so in terms of isochrone diagram this is y this is a this is x and this is b
+
+so here on that diagram on the x-axis you've got your rubidium strontium
+
+ratio on the y-axis you've got your strontium isotope ratio here you've got
+
+your initial strontium isotope ratio and the slope of the isochrone gives you
+
+the
+
+age and again just to reiterate that the the initial difference in rubidium
+
+strontium isotope composition relates to different partition coefficients
+
+between
+
+different mineral phases so what is it used for what's useful information we
+
+can get well for example one of the area of applications of that system
+
+mostly developed in the 60s and 70s was trying to date how sorry to date when
+
+the first planets formed and so people have taken meteorites here you've got an
+
+example of a meteorite you can separate out different minerals so you've got
+
+here a green mineral which is likely to be olivine you've got some brown
+
+minerals some white minerals if you separate them out and measure the
+
+rubidium strontium ratio and the strontium isotope ratio you can then
+
+pluck them in these diagrams and here the examples for a meteorite called
+
+borgatti which is a type of meteorite called an achondrite and it gave an age
+
+of 4.57 billion years old which essentially is the age of the solar
+
+system so it showed people who looked at these samples it showed them that the
+
+first asteroids and planets formed very very quickly within a few million years
+
+of the start of the solar system and so the second information that gives them
+
+is that that system so the minerals in that given rock have remained closed for
+
+and a half billion years how do we know what happens if it hasn't remained
+
+closed typically you'd get points all over the place in that diagram and you
+
+can't form a straight line so if you can't form a straight line in that
+
+diagram that means the system hasn't remained closed that mean you can't
+
+derive an age we see that in the workshop but that the opposite is not
+
+necessarily true it's not because you have a straight line that necessarily
+
+your system has remained closed but if it hasn't remained closed you won't have
+
+a straight line other things we can look at and that people use geochronology
+
+for
+
+is for example dating formation of impacts and here associated all
+
+deposits so you might have heard about the Sudbury impact crater in Canada or
+
+it's fine but it's one of the largest nickel deposits on earth and in fact we
+
+know that that deposit formed after a large bolides impacted that region of
+
+Canada and formed essentially a large melt pool because there's so much in
+
+energy released during the impact that it vaporizes and melted all the rocks in
+
+the area and when the melt pool crystallized lots of nickel deposits
+
+were formed and analyzing some minerals and some rock samples from these
+
+deposits gave an age of 1.8 billion years so here you date both the
+
+formation of the impact crater and also the formation of the deposits so you get
+
+a lot of information from just a few samples and the final part here so we
+
+just said how we use it to date when rocks form the second really useful
+
+application of regigenic isotopes is to look at tracing so where in what
+
+reservoir originate different types of rocks and this is because isotopes
+
+contrary to elements isotopes are not really fractionated by high temperature
+
+processes like mental partial melting so if we take the elements rubidium and
+
+strontium they will be fractionated they will behave differently because they're
+
+two different elements but if we take two isotopes of the same element say
+
+strontium-87 and strontium-86 they will behave very similarly because they're
+
+the same elements so here you've got a depiction of the mantle the crust you've
+
+got some magmatic system where you've got partial melting in the mantle it
+
+rises in the continental crust form some magma chambers and then erupts at some
+
+sort of volcano immediately after the eruption the 87 strontium 86 strontium
+
+of a basalt is the same as the ratio of its mantle source so you've got your
+
+basalts here erupted at the volcano it's the same ratio than the mantle source
+
+and so that's very useful because it's a lot easier to go and pick up some
+
+basalts on the volcano than it is to drill 40 kilometers deep to access some
+
+rocks from the mantle however the rubidium strontium ratio of the basalt
+
+will be much higher because rubidium is incompatible so during partial melting
+
+of the mantle rubidium goes into the melt and so the basalt will have a lot
+
+more rubidium compared to strontium than the mantle source was that's what we
+
+did
+
+last week so in turns the 87 strontium 86 strontium ratio will increase much
+
+faster in the basalt than in the mantle so we said I just said they have the
+
+same ratio they have the same ratio just immediately after the eruption if the
+
+eruption took place 400 million years ago then the decay of rubidium will
+
+increase the amount of strontium over time so the isotope ratios we measure
+
+today they reflect the past fractionation of the parents and
+
+water isotopes and so from that one can build what's known as the strontium
+
+isotope evolution of the earth and of the crust and the mantle of the earth so
+
+it looks like that and we're going to go through it together so here you've got
+
+the 87 86 strontium isotope ratio on the y-axis ranging from just under 0.7 up
+
+to
+
+and here you got t which is the time in billion years before present so 0 is
+
+today four and a half is when the earth 4.6 so the initial strontium isotope
+
+ratio
+
+for the bulk silicate earth we estimate it from meteorites so that's a starting
+
+point the 87 86 ratio of the bulk silicate earth today so this point here
+
+we can predict it using estimates of the rubidium strontium ratio and the decay
+
+constant and so the 87 86 strontium isotope ratio of the depleted mantle is
+
+lower than the one of the bulk silicate earth while that of the continental
+
+crust
+
+is higher just as a reminder we what we call bulk silicate earth is effectively
+
+the whole hearth minus the core that's all the silicate fraction and that bulk
+
+silicate earth is essentially divided into the mantle and the crust and so
+
+what this shows us is essentially melting three billion years ago created
+
+a rubidium rich continental crust and the rubidium poor depleted mantle so
+
+once again rubidium is incompatible so during melting it goes into the liquid
+
+so if I take the mantle I melt it to form the continental crust my rubidium
+
+goes into the continental crust and the depleted mantle that's left behind is
+
+depleted in rubidium and the trace elements tells the same thing than the
+
+so how does it work we don't need to worry about that actually just going to
+
+go into what it shows so the rubidium strontium and strontium isotope ratios
+
+in the current depleted mantle we can determine it from drilling or from
+
+dredged samples so we can measure that and the evolution of the depleted mantle
+
+strontium isotope through time can be predicted using the radioactive decay
+
+equation and where the bulk silicate earth so that pink curve here that pink
+
+line here and that gray line here for the depleted mantle cross it gives us a
+
+model age for the depletion so for when the melting events that produce the
+
+crust and the depleted mantle occurred and here it's about three billion years
+
+and for the current continental crust it's basically the opposite the
+
+rubidium strontium and strontium isotope ratio in the current continental crust
+
+we can measure it by looking at metamorphic rocks and or sedimentary
+
+product so you can go to a recent orogeny say the Himalaya you pick up some
+
+rocks you measure the ratios you'll measure something that's around here and
+
+then if you walk back through time and calculate the how the composition
+
+evolved it will cross the bulk silicate earth and the time at which at which it
+
+crosses tells you when the continental crust was formed so here in that
+
+simplified schematic it also crosses at three billion years in reality it's a
+
+bit more complex than that but to a first order this is how it works so
+
+mantle melting and continent formation processes are continuous so here here it
+
+looks like it's a one-off process occurring about three million years ago
+
+in practice you have different continental crust extraction on that
+
+diagram but you don't need to worry about that for now so now if we
+
+introduced a second system just to finish up so we've looked at rubidium
+
+strontium we can add information from a second system which is here the samarium
+
+neodymium system which is another radiogenic system with a very long
+
+half-life why would we want to do that rubidium strontium is great but both of
+
+these elements tend to be highly mobile during weathering and alteration so if
+
+the rock has been sitting at the surface for quite a while or has interacted
+
+with
+
+some hydrothermal fluids or things like that the concentration of rubidium
+
+strontium might have been modified so it's not always recording original
+
+information so for example if you look at a very nice mantle phenolith if you
+
+leave it at the surface of the earth for a significant period of time you will
+
+end up with some very weathered things like that and so strontium isotope
+
+measurements may not reliably record high temperature processes so samarium
+
+neodymium both are rare earth elements in opposition to rubidium strontium they
+
+are
+
+relatively immobile when compared to these two so the neodymium isotope ratio
+
+which is the 143 144 neodymium can be more reliable than the strontium
+
+isotope ratio in terms of tracing and they're often studied together so
+
+similarly to what we just looked at for strontium we can do the same thing with
+
+neodymium so instead of the strontium isotope ratio here you've got the
+
+neodymium isotope ratio and T the time before present same starting point 4.6
+
+million years ago so here the the initial ratio is estimated from
+
+chondrites so again from meteorites so for rubidium strontium rubidium is more
+
+incompatible here it's the opposite so for samarium neodymium the parent
+
+isotope 147 samarium is more compatible than the daughter isotope so that's the
+
+opposite of rubidium strontium that means during your melting events that
+
+produces the continental crust the continental crust will evolve with a
+
+lower neodymium isotope ratio compared to the depleted mantle so for rubidium
+
+strontium we had continental crust above the bulk silicate us depleted mantle
+
+underneath here it's the opposite so the depleted mantle evolves to high
+
+neodymium isotope ratio while the continental crust evolves to low
+
+neodymium isotope ratio and so effectively this isotope system they
+
+act as passive tracers and so passive tracers tracks the flow of a fluid
+
+without either reacting with it or affecting its movement you can think of
+
+ink in water when dropped into water the pigment shows how the drop of ink moves
+
+and mixes with the water but it doesn't change the way water moves so isotope
+
+ratios they're the same they're unaffected by ongoing reactions they're
+
+only modified by the time and mixing so strontium isotope as passive tracers
+
+strontium isotope composition provide information about the magma sources the
+
+magma is created by melting the depleted mantle they will have low strontium
+
+isotope ratios on the other end magma is created by melting the continental
+
+crust
+
+will have high strontium isotope ratios and just to finish for today we will
+
+discuss and briefly introduce the mantle array which combines information from
+
+both the strontium and neodymium isotope system so in that plot you've got the
+
+neodymium isotope composition here on the y-axis versus the strontium isotope
+
+composition on the x-axis and you've got different boxes so you've got so sorry
+
+let's start with a starting point which is the bulk silicate earth which is
+
+where
+
+I've put the little red dot so that's where we start from and you've got
+
+things that are enriched for example the continental crust so we saw in these
+
+diagrams previously that compared to the bulk silicate earth the continental
+
+crust was higher for the strontium isotope ratio but lower for the
+
+neodymium isotope ratio so that's why it's plotting down here on the other end
+
+the depleted mantle was lower for the strontium isotope ratio but higher for
+
+the neodymium so that's why it plots here to the northwest of the bulk
+
+silicate earth and so the depleted mantle is up here and in between we've got a
+
+couple of reservoirs like ocean island basalts that sample mantle plumes or
+
+continental basalts which have been affected by crystal contamination so
+
+mid-ocean rich basalts are sourced from the depleted mantle so they give us
+
+information here on the depleted mantle as I just said ocean island basalts
+
+sourced from the mantle plumes are often similar to the bulk silicate earth and
+
+continental basalts are from the mantle but they are contaminated by the
+
+continental crust so why do ocean island basalts essentially have the same
+
+composition than the bulk silicate earth well the subducted lithosphere is
+
+recycled into the mantle so after going into subduction it tends to be recycled
+
+in the asthenosphere and this recycling re-enriches the depleted mantle which
+
+creates composition like the bulk silicate earth and that can come back
+
+towards the surface and ascending into the mantle through hotspots it's very
+
+simplified in detail there's many many uncertainties around these questions but
+
+as a first order that works and if we look at for example Iceland's and the
+
+Icelandic hotspots and the opening of the Atlantic so the opening of the
+
+North Atlantic started about 60 million years ago and it still is
+
+associated with extensive magmatism and volcanism so today we see it in Iceland
+
+but if we close the Atlantic essentially the first stages of opening are
+
+recorded
+
+here in in northwest Scotland and not the east coast of Greenland so basalts
+
+from the proto Iceland plume so before Iceland formed erupted through the
+
+continental crust you can find quite a lot in northwest Scotland in sky in rum
+
+in mud and if we look at different types of rocks from these islands in that
+
+strontium diagram so as a summary as a reminder the depleted mantle is up here
+
+in the top left corner igneous rocks from rum tend to be in that field here
+
+wise lovers from sky are in that field here so they're in different fields
+
+meaning that even though they started off for melting a similar region of the
+
+mantle the amount of contamination and the type of contaminant has been
+
+different so the most depleted labors from the Scottish tertiary are all
+
+broadly similar to mobs but the lava from sky that trend to low neodymium
+
+ice-tub ratio and low strontium ice-tub ratio and that's consistent with being
+
+contaminated by lower continental crust while the rocks from rum that tend the
+
+trend towards low neodymium ice-tub ratio but higher much higher
+
+strontium ice-tub ratio and that's consistent with the upper continental
+
+crust so the same starting magma contaminated by slightly different
+
+components and we can also look at rocks from Hawaii just to finish up so here
+
+again you've got the bulk silicate earth the mid-ocean rich basalts and a range
+
+of fields in that diagram and in Hawaii the compositions of the lava's have
+
+changed with time like in many places the lava's erupted early and late which
+
+are called alkalic pre and post shield they tend to be relatively depleted so
+
+quite close to the mid-ocean rich basalts the lava's from the main phase of
+
+volcano growth so the tolietic shield they're more enriched and more closer to
+
+the bulk silicate earth composition and here in Hawaii or in many hot spots the
+
+composition is controlled by plate tectonic and this is because the
+
+composition mainly reflect the movement of the pacific plates over the
+
+indelible and you've got the different islands on Hawaii having different
+
+composition based on the movement of the plate at the top that's it for today so
+
+we will work on a couple of questions related to that on Wednesday so if you
+
+have questions on any of that please do ask on Wednesday while we go through the
+
+practical and I'll put the code back

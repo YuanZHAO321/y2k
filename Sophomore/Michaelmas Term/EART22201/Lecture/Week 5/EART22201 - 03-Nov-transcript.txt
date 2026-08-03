@@ -1,0 +1,1431 @@
+'EART22201 - 03-Nov', automated transcript
+03/08/2026
+---
+
+We get to talk about mantle rocks.
+
+And the reason that I like mantle rocks
+
+is that they are extremely pretty.
+
+They're coarse grained.
+
+They're really nice to look at in hand specimen.
+
+It's really easy to identify the different minerals.
+
+So as an igneous petrologist, I like shiny things.
+
+These tick all the boxes for me.
+
+So the setup for this lecture is
+
+where does melting happen in the silicate earth?
+
+Last week, we talked a lot about
+
+the crystallization of magmas,
+
+but there's actually a step before crystallization,
+
+which is you've got to produce your magma
+
+in the first place.
+
+And the bulk of the volume of earth's erupted magmas
+
+are produced by melting of the silicate mantle.
+
+And therefore, if we want to understand
+
+the composition of the melts,
+
+we also want to understand something about the nature
+
+and composition of the earth's mantle.
+
+And the really important thing
+
+to take away from this
+
+is that the mantle is made of peridotite.
+
+It's a really simple rock made of olivine,
+
+orthoperoxine, clino peroxine,
+
+and an aluminium bearing phase.
+
+And the nature of the aluminium phase
+
+depends on the pressure.
+
+So the aluminium bearing phase
+
+in the very uppermost parts of the mantle
+
+might be plagioclase.
+
+Plagioclase looks like they're very rare in nature,
+
+and you won't see any of them in this unit.
+
+We are more interested in spinel electrolytes,
+
+which exist mainly between about 20
+
+and 50 to 60 kilometres depth.
+
+And then below that we get garnet
+
+as the aluminium bearing phase.
+
+Garnet's a mineral that you've seen before.
+
+Spinel was a new one.
+
+So garnet is distinctively high-relief,
+
+pink-coloured in plain polarised light,
+
+and it's isotropic,
+
+so under cross-polarised light it's always extinct.
+
+Spinel has some very similar properties to garnet
+
+in that it's also strongly coloured and high-relief,
+
+but mantle spinels tend to be brownish or greenish,
+
+and in cross-polarised light it's isotropic,
+
+so it's always extinct.
+
+But the easiest way to tell the difference
+
+between these two minerals is to look at their colour.
+
+We can then further subdivide pyridotides
+
+into these different subgroupings
+
+depending on the proportions of olivine,
+
+plinoperoxine and orthoperoxine.
+
+And the reason this is important will become apparent
+
+as we go through this class.
+
+I then talk to you a little bit about
+
+how we know what the mantle's made of.
+
+We can't go there and look at it,
+
+but we can use geophysical imaging techniques
+
+to understand what gives it its distinctive properties.
+
+The seismic velocity of the mantle
+
+is a very close mixture to olivine and pyroxine,
+
+which is a good indicator that that's what it's made of.
+
+And we can also get direct samples of mantle material
+
+brought to the Earth's surface
+
+by various different mechanisms.
+
+And the three that I gave you in the video
+
+were mantle xenoliths.
+
+So these are, xenolith is a Greek word
+
+and it means stranger rock.
+
+So these are rocks that don't belong to the magma
+
+that's carried them to the surface.
+
+They have been ripped up from the conduit walls,
+
+entrained into the magma and then erupted onto the surface.
+
+So as the mantle has been melted,
+
+magmas have wanted to ascend buoyantly to the surface
+
+and that ascent process has ripped off chunks
+
+of unmelted mantle that we can then go and pick up.
+
+People have tried to work out
+
+what kind of ascent velocities you need
+
+to be able to take these dense chunks of rock
+
+and eject them all the way through 60 kilometers plus
+
+worth of volcanic conduit.
+
+And the ascent rates of these things
+
+are the order of 40 meters per second plus.
+
+So these are very quickly ascending unusual magmas
+
+and that's why they can transport
+
+these dense chunks of mantle rock.
+
+I talked to you about orogenic peridotites.
+
+So these are mantle rocks that have been exhumed
+
+to the Earth's surface through major tectonic thrusts.
+
+And I gave you some examples from the Alps.
+
+And I talked to you about ophiolitic peridotites.
+
+This is very creepy.
+
+Ophiolitic peridotites.
+
+So these are slices of oceanic lithosphere
+
+that have been abducted onto the continental lithosphere.
+
+And we get these pieces of mantle rock,
+
+olivine, orthoperoxine, and clinoperoxine
+
+exhumed at the Earth's surface.
+
+We're gonna look at ophiolites
+
+and the structure of the oceanic crust
+
+in quite a lot more detail next week.
+
+So all of that's quite a lot to take in.
+
+One of the first things that I thought I would do
+
+is that now you've warmed up a little bit to this course.
+
+Let's put all of this into context
+
+and think about an exam style question
+
+where you might deploy some of this knowledge.
+
+So a typical question that you might get in this course
+
+is something asking you to compare and contrast
+
+thing A with thing B.
+
+Let me give you a really silly example
+
+of a compare and contrast question.
+
+Compare and contrast your university accommodation
+
+with where you live when you're not at university.
+
+Now, one way of addressing that question
+
+would be that you could describe
+
+your university accommodation
+
+and then you could describe your home accommodation
+
+and leave it at that.
+
+And that's just a describe question.
+
+You've described thing A and you've described thing B.
+
+But if you actually ask this question,
+
+what you'd probably say is,
+
+well, both of these accommodations
+
+have somewhere for me to sleep,
+
+but one of them's much nicer than the other because,
+
+and then you'd list a load of things.
+
+So when you see compare and contrast,
+
+the thrust of the question is not
+
+write down everything you know about thing A and thing B.
+
+It's selecting information and critically analyzing it.
+
+What do these rocks have in common
+
+and in what ways are they different?
+
+So for the next five minutes,
+
+what I would like you to do
+
+is to turn to the person next to you
+
+and just start drafting out some ideas,
+
+given what you know,
+
+in what ways are mantle xenoliths,
+
+mantle rocks at the base of the oceanic crust
+
+and mantle rocks exposed
+
+in continental collision zones similar
+
+and in what ways are they different?
+
+And after five minutes,
+
+what I'd really like us to do is to feed back
+
+and start compiling an ideal answer
+
+to this kind of exam style question.
+
+Good, so there's been some good chat
+
+and some things coming out of your discussions.
+
+What I would like us to do then
+
+is to try and construct
+
+some kind of response to this question.
+
+So what do these three different kinds
+
+of mantle peridotite sample have in common
+
+and then in what ways are they different?
+
+So let's start with what they have in common.
+
+Would any brave people like to just throw out some ideas
+
+and these can be from the simple and obvious
+
+to the slightly more subtle, anything.
+
+They do, they're all peridotite by our definition.
+
+So more than 40% olivine in order to be a peridotite,
+
+bina peroxene plus orthoperoxene,
+
+anything else they all have
+
+or that is similar between them.
+
+So they have some similarities in texture, coarse grained
+
+and something that's a bit more subtle
+
+that you may have picked up
+
+from what I talked about in the videos.
+
+In all cases, the texture doesn't tell us
+
+about the order of crystallization.
+
+So mantle rocks are an exception
+
+to what I talked about last week
+
+in terms of looking at included phases
+
+or trying to look at textural relationships
+
+to tell you something about the order of crystallization.
+
+Mantle rocks are complicated in many ways
+
+but order of crystallization is not something
+
+that you can easily look at from a thin section.
+
+So just summarize that by the texture
+
+does not tell us about anything else
+
+that people wanted to highlight as a similarity.
+
+So I have one more, which is that all of these things
+
+have to be brought to the surface by some unusual mechanism.
+
+So they must be brought,
+
+we don't normally find mantle rocks at the earth
+
+so we need a mechanism that will pick those rocks up
+
+and transport them, whether that's as a fist sized clast
+
+or whether that's an extensive slice of the mantle
+
+that's been exhumed through a tectonic thrust.
+
+Okay, those are some good similarities
+
+to be getting on with.
+
+In what ways are these mantle rocks different?
+
+Do anybody have anything to say about those?
+
+They've all been transported by different processes.
+
+So one, the transport,
+
+and then we could state what those differences are.
+
+For the sake of time, let's not do that right now.
+
+Any other differences?
+
+Can you say anything more about that?
+
+Do you know which ones are likely to be the most deep?
+
+The xenoliths, yeah.
+
+So pressures of formation.
+
+And how do we know that?
+
+Yeah, so the aluminium bearing phase
+
+tells us something about the pressure of formation.
+
+So in our xenoliths, we can have garnet
+
+and our garnets are formed at pressures
+
+greater than two gigapascals
+
+or depth greater than 60 kilometres.
+
+And our spinel lights, pressure.
+
+Orogenic prototypes, mainly of the spinel phase.
+
+So let's just grab a little,
+
+we can also get in our orogenic prototypes.
+
+And ophiolite prototypes, again, it's mainly spinel.
+
+So the aluminium phase tells us something very different.
+
+Somebody was talking, I heard a bit of conversation
+
+about diamond bearing prototypes.
+
+So for diamond, you're looking at depths
+
+in excess of 80 to 100 kilometres.
+
+You're only gonna get that
+
+in your xenolith-related prototypes
+
+and that is why the world's diamond mines
+
+are located around these kimberlite pipes
+
+that transport this particular kind of mantle rock
+
+to the surface.
+
+I also heard some chat about hydrous prototypes,
+
+hydrous phases.
+
+Which of these prototypes are most likely to be hydrous?
+
+And what makes you say that?
+
+Yeah, so this is a really interesting point
+
+that even though the things are at the base
+
+of the oceanic crust
+
+and they can have a lot of secondary water,
+
+the actual prototypes that you get in oceanic crust
+
+are in fact quite dry, which is a bit counterintuitive.
+
+And we'll come onto a bit more about why that is later.
+
+But thank you for offering the thought
+
+because I'm sure that it has occurred
+
+to everybody else in the room as well.
+
+Yeah, so in orogenic prototypes,
+
+we often find this mineral called phlogopite,
+
+which is basically the same as biotite
+
+but slightly more magnesium rich.
+
+And it's one of these minerals that contains water
+
+structurally bound in the crystal lattice.
+
+So the presence of phlogopite
+
+in orogenic prototypes
+
+tells us that these can be hydrous or hydrated.
+
+We sometimes see that in the zenith prototypes as well,
+
+but the ophiolite prototypes are dry.
+
+We don't find phlogopite in these ones.
+
+There's another mineralogical difference
+
+that's again a bit subtle,
+
+but in zenith prototypes,
+
+we find this unusual mineral called chrome dioxide
+
+that we only find really in quite high pressure prototypes.
+
+Good, there's one more difference
+
+that I think we can pull out of this
+
+at this particular point in time
+
+before we move on to the next bit.
+
+Yeah.
+
+Yes, so there's more tech.
+
+In fact, there's two things we can do, textures.
+
+So orogenic and ophiolite can have formation textures
+
+associated with kind of the obduction of the mantle slice.
+
+We don't tend to see that.
+
+The final thing is to do with just the proportions
+
+of olivine, CPX and OPX in these rocks.
+
+So you'll notice here that I wrote garnetlerzalite
+
+and spinellerzalite.
+
+That is a word that we use to say
+
+something's got a good proportion
+
+of all three of these minerals.
+
+But in ophiolites, I'm gonna use the word spinelharzbergite
+
+to describe these rocks.
+
+And that is because they have a very low modal proportion
+
+of clinoperoxene in them.
+
+These are dominated by olivine and orthoperoxene
+
+plus orthoperoxene, they're still peridotite.
+
+Great.
+
+So we've done a really good compare and contrast there.
+
+Let us now go back to these slides.
+
+So what I want to talk to you next about
+
+is the actual process by which these mantle rocks
+
+undergo melting.
+
+And you've now come across binary phase diagrams
+
+in chemistry of the Earth.
+
+Yeah, geochemistry.
+
+Brilliant.
+
+So this is a ternary phase diagram
+
+that we're gonna use to describe a rock
+
+that has three different mineral phases.
+
+And for the purpose of this exercise,
+
+we're going to assume that the rock
+
+doesn't contain any of the aluminium-bearing phase.
+
+That simplifies us from a four-dimensional problem
+
+to a three-dimensional problem,
+
+which is mind-bending enough on its own.
+
+So in two dimensions, we use this triangular diagram
+
+to represent a ternary phase diagram.
+
+But these are really three-dimensional constructions.
+
+And on canvas, I have stuck you a 3D model
+
+of what these ternary phase diagrams look like.
+
+So each of the axes of the edges of this plot
+
+looks like a simple binary eutectic phase diagram.
+
+So hopefully those look vaguely familiar to you.
+
+You've got a binary eutectic point,
+
+the low temperature point.
+
+And then at each edge, sorry,
+
+each end of this 2D plot,
+
+you've got your pure mineral end member,
+
+and we've got temperature going up the y-axis.
+
+So your pure end member has the higher melting point.
+
+Your second pure end member
+
+has an intermediate melting point.
+
+And your binary eutectic point,
+
+the mixture of these two things,
+
+has the lowest melting point.
+
+When we add a third mineral to this,
+
+we turn that melting line into a melting surface.
+
+And we then end up with a ternary eutectic point
+
+that's the lowest temperature point on the whole diagram.
+
+This is where our mixture of three things
+
+can undergo melting.
+
+The thing that used to be our binary eutectic point
+
+now becomes something that looks a bit like
+
+a river valley pointing downslope
+
+towards the binary eutectic.
+
+And each of these shaded areas is a surface
+
+where the end member mineral and liquid can coexist.
+
+So it's like the kind of melting temperature of that.
+
+You can have a go and play with this
+
+and just convince yourself of some of these points
+
+using this diagram.
+
+Okay.
+
+So what we can do then is we can label these fields up.
+
+Our green shaded field here
+
+would be the olivine plus liquid field.
+
+And you can start annotating your little ternary diagrams
+
+now if you find that helpful.
+
+Up at the top, you would have klinoperoxine plus liquid.
+
+And this long thin blue bit is orthoperoxine plus liquid.
+
+And these are separated by these arrows
+
+that have, sorry, these lines that have arrows on them
+
+and the arrow points in the slope of down temperature.
+
+So the lowest temperature point on this diagram
+
+is the ternary eutectic point.
+
+And that's the point where all of those lines meet.
+
+So that's this point here.
+
+This is the ternary eutectic point.
+
+And at the exact temperature of the ternary eutectic point,
+
+olivine, OPX, CPX, and liquid
+
+are in chemical equilibrium with one another.
+
+So if you want to do your Gibbs phase rule on that,
+
+that's an invariant point.
+
+If you go below that temperature, you erase the liquid,
+
+everything becomes solid.
+
+And if you increase the temperature, everything melts
+
+and you lose all your solid phases.
+
+Okay, these downward sloping arrows
+
+are called the cotectic boundaries.
+
+So this is just a word that we use to say
+
+that kind of two phases plus liquid can coexist
+
+on these lines at the same time.
+
+And to work out which two phases plus liquid
+
+can coexist on these lines, you look either side of it.
+
+So in green here, we have olivine plus liquid.
+
+In blue, we have orthoperoxine plus liquid.
+
+And exactly on this line and on this line only,
+
+we can have olivine and orthoperoxine coexisting
+
+with the liquid at the same time.
+
+And if we backtrack these all the way
+
+to the edges of the diagram,
+
+then these intersections of the cotectic with the edge,
+
+this is where those binary eutectic points would be
+
+if you were looking at this in two dimensions.
+
+Okay, so that kind of sets the scene
+
+of how these diagrams work.
+
+So what we then need to do is think about
+
+what is the process of turning our hypothetical
+
+three-mineral mixture from solid to liquid?
+
+And we can do this in one of two ways.
+
+We can do equilibrium melting
+
+or we can do fractional melting.
+
+And those words equilibrium and fractional
+
+do the same work in a melting reaction
+
+as they would in a crystallization reaction.
+
+So in an equilibrium melting reaction,
+
+everything stays within the pot.
+
+You can make liquid, but it stays within the pot.
+
+And that means that it can chemically exchange
+
+with the solid phases around it.
+
+So at 0% melting, your pot is filled with solids.
+
+At 10% melting, your pot is filled
+
+with 90% solids and 10% liquid.
+
+And at 100% melting, your pot is filled with 100% liquid.
+
+But at each snapshot,
+
+the bulk chemistry of the pot is identical.
+
+And that, let me just flick through this.
+
+Fractional melting is the scenario
+
+where every time you make a drop of liquid,
+
+it leaves the pot.
+
+And in a natural system, you could imagine
+
+that this would take place by buoyant rise of the liquid.
+
+So the volume of the pot gets smaller as melting progresses
+
+and the chemistry of the pot changes as melting progresses.
+
+And every time you remove that drop of liquid,
+
+your pot reverts to being 100% solid
+
+because its mass is changing over time.
+
+What that means then is that there's no chemical exchange
+
+between the liquid that you make
+
+and the solid that's left behind.
+
+The liquid is made, it leaves the system,
+
+and it then becomes invisible to us
+
+for the point of this exercise.
+
+So what we want to do then is to describe
+
+these two processes using our ternary phase diagram.
+
+So what we need to know first then
+
+is the composition of a standard mantle peridotite.
+
+So a mantle peridotite is gonna be about 40 or 50% olivine.
+
+This point in the diagram here, this corner,
+
+is where 100% olivine is.
+
+And this edge is 0% olivine.
+
+So what we could do then is just take a ruler,
+
+measure that distance, and use the lever rule
+
+as a kind of here is 0% olivine.
+
+If I travel this way,
+
+I'm increasing the proportion of olivine.
+
+Where's 40%, somewhere about here.
+
+A peridotite has more than 40% olivine.
+
+So let's go with something that's about here.
+
+Doesn't really matter where you put it.
+
+For the purposes of this exercise, it'll work.
+
+So this point here is going to be our mantle peridotite.
+
+This is a solid made of three phases,
+
+olivine, clinoperoxene, and orthoperoxene.
+
+And what we're going to do is heat it up
+
+until it starts melting.
+
+The lowest temperature point on this diagram
+
+is the tannery eutectic point.
+
+And there's a melting reaction that will take place here.
+
+So our melting reaction is,
+
+I'll just write it as an unbalanced equation,
+
+olivine plus CPX plus OPX goes to liquid.
+
+Okay, so our melting is going to start
+
+at this eutectic point.
+
+It's going to involve all three of our minerals
+
+and we're going to make a liquid.
+
+What happens next then depends on whether we think
+
+we're doing equilibrium melting
+
+or whether we're doing fractional melting.
+
+So let's start with equilibrium.
+
+So the first thing that's going to happen is that reaction.
+
+And that reaction will continue until
+
+one of these three solid ingredients runs out.
+
+At which point we won't be able to do that reaction anymore.
+
+How do we know when that's going to happen?
+
+If we are melting our mantle rock
+
+and extracting a liquid
+
+with the composition of the tannery eutectic E,
+
+our leftover solid must be evolving
+
+directly away from the composition of the tannery eutectic.
+
+So I'm just going to use this blue pen
+
+to show you how the composition of the solid
+
+is going to change as melt is made.
+
+So the solid is going to move in this direction.
+
+So what you notice then is that as the melt is extracted
+
+and the solid composition changes,
+
+we eventually end up at the edge of the diagram.
+
+This point here is 100% clino peroxine.
+
+This line here is 0% clino peroxine.
+
+So that tells us our melting reaction is going to stop
+
+because clino peroxine is going to run out.
+
+So the next thing that happens is clino peroxine.
+
+We now need a new melting reaction
+
+and that reaction is going to have to involve
+
+olivine and ortho peroxine
+
+because that's all that we've got left
+
+and that's going to make some more liquid.
+
+Olivine plus ortho peroxine is going to make a liquid.
+
+Now there's one place on this diagram
+
+where olivine, ortho peroxine and liquid can coexist
+
+and that is along this cotectic boundary.
+
+So given that this arrow points down temperature,
+
+we're going to have to heat up our system to promote melting.
+
+We can now say that the chemistry of the liquid
+
+is going to evolve backwards along this cotectic boundary.
+
+So let's think about how the solid composition
+
+is going to change as we continue to melt
+
+the solid ortho peroxine and olivine in our system.
+
+So at this point here that I've just got to,
+
+our bucket's still got the same bulk composition
+
+as we started.
+
+So let's do another lever rule.
+
+So I'll set the tie lines and just track
+
+what might be happening to the solid.
+
+So our solid is now heading off in this direction
+
+and so we can see then that eventually our solid
+
+is going to end up at our 100% olivine corner
+
+of this diagram and at that point,
+
+our lever rule is going to look something like this
+
+and our liquid composition will have got to here.
+
+So from here to here, olivine and ortho peroxine
+
+is going to liquid, but when the liquid
+
+gets to this composition and the solid gets
+
+to this composition, the next thing that happens
+
+is that ortho peroxine runs out.
+
+So we now need a new melting reaction
+
+because we've only got one solid left in the pot.
+
+Our new melting reaction will be olivine goes to liquid
+
+and what will happen to the composition of the solid?
+
+Well, nothing, because there's only olivine,
+
+its chemistry won't change.
+
+It will just, its proportion in the pot will just decrease
+
+and what will happen to the liquid
+
+is that will basically increase the proportion
+
+of olivine into the liquid until we end up
+
+back at our starting composition.
+
+So under equilibrium melting, the final liquid
+
+has the same composition as the starting solid
+
+and the red arrow there tracks the liquid
+
+and the blue, nothing's gone in to the bucket,
+
+nothing's come out of the bucket.
+
+We've just turned it from 100% solid to 100% liquid.
+
+How does that look different in fractional melting?
+
+Reset, now we're back to 100% solid.
+
+Our lowest temperature point on the diagram
+
+is still the ternary eutectic.
+
+So our reaction is still olivine plus CPX plus OPX
+
+goes to liquid and our solid is still going to evolve
+
+directly away from the ternary eutectic along this arrow
+
+and we're going to get to a point
+
+where klinoperoxine runs out, klinoperoxine.
+
+But at this point, we are now left with a bucket
+
+that's got only solid olivine and solid orthoperoxine in it
+
+and all of the melt has disappeared
+
+and there is no chemical exchange
+
+between our solid and our liquid.
+
+So what we've done is we've reduced our ternary system
+
+to a binary system and we cannot do any more melting
+
+until this system reaches the temperature
+
+of the binary eutectic point
+
+connecting olivine and orthoperoxine
+
+and that point on the diagram is here.
+
+So this is the binary
+
+and let's just sketch out for ourselves what that looks like.
+
+So if we sketch a quick binary phase diagram
+
+for this axis of our plot, a solid field here,
+
+olivine plus orthoperoxine,
+
+our binary eutectic is going to be here.
+
+This area will be OPX liquid.
+
+We'll have a long drawn out thing like this
+
+and an area, olivine plus liquid
+
+and our binary eutectic.
+
+So now having reduced this to a binary system,
+
+you can use all the principles that you know
+
+from the geochemistry class
+
+to figure out the rest of the melting equations.
+
+So what we have done is we have klinoperoxine
+
+has run out, melting stops
+
+until we reach the temperature
+
+of the binary eutectic produces reaction
+
+which is going to be olivine plus orthoperoxine
+
+goes to liquid and just as in the equilibrium case,
+
+our orthoperoxine is going to run out
+
+and at that point, we've reduced this
+
+from a binary system to a unary system.
+
+So melting will have to stop again
+
+until we reach the melting temperature
+
+of pure olivine and then olivine can melt.
+
+So in this system, we're going to have three compositions
+
+of liquid produced.
+
+This one will produce the composition of liquid
+
+at the ternary eutectic.
+
+This reaction three will produce the composition of liquid
+
+at the binary eutectic.
+
+And this final reaction will produce the composition
+
+of the liquid of pure olivine.
+
+So let's just call that olivine.
+
+So the main difference here is that in our equilibrium case,
+
+we have a continuum of liquid compositions being made.
+
+Whereas in our fractional case,
+
+we've got three distinct snapshots
+
+and melting taking place in three distinct phases.
+
+Has that roughly made sense to people?
+
+Okay, so we then use some of this
+
+knowledge of melting reactions
+
+to start talking about the mantle
+
+in terms of it being fertile,
+
+but it's easy to, it hasn't previously undergone
+
+a lot of melting or depleted.
+
+It has previously undergone a lot of melting.
+
+What evidence would we look for to assess
+
+whether a mantle rock is fertile or is depleted?
+
+Well, we saw that in both of those
+
+fractional equilibrium cases,
+
+when we melted a normal mantle peridotite,
+
+the first phase to run out was clinoperoxene.
+
+So if I saw a mantle rock that contained
+
+quite a large proportion of clinoperoxene,
+
+I would describe that as fertile mantle,
+
+because had that rock undergone lots of melting,
+
+most of that clinoperoxene would have been melted out.
+
+If you see a mantle rock that contains
+
+mostly olivine and orthoperoxene,
+
+then chances are that that mantle rock
+
+is the solid leftovers after some melting
+
+has previously taken place.
+
+We can also see this in geochemical terms.
+
+So when we subject mantle rocks to melting,
+
+the incompatible elements,
+
+the ones that prefer to go into the liquid,
+
+will go into the melt and they will leave.
+
+And that means that the solid leftovers
+
+will be depleted in incompatible elements.
+
+The incompatible elements will have left the system
+
+with the melt.
+
+So in a depleted mantle,
+
+the incompatible elements have been stripped out
+
+by prior melting events.
+
+Whereas in fertile mantle,
+
+those elements are still present in the peridotite itself.
+
+So how does that matter with our rock names?
+
+Well, we use lertsalite,
+
+typically describes a rock that's got
+
+an appreciable proportion of clinoperoxene still left in it.
+
+So lertsalite is a good indicator
+
+that we're looking at a fertile mantle,
+
+whereas hartbergite has got very little clinoperoxene left,
+
+and we're looking at mantle
+
+that has undergone previous melting events.
+
+So if we map that now onto our three different types
+
+of mantle rocks that have got to the surface,
+
+the orogenic peridotites and the xenoliths
+
+are usually lertsalites,
+
+so they have not undergone a lot of prior melt extraction.
+
+Whereas our ophiolite peridotites,
+
+these are the ones that sit under the oceanic crust.
+
+And remember, the oceanic crust
+
+is generated at mid-ocean ridges,
+
+which you know from first year.
+
+That crustal material is being made
+
+by the melting of those mantle rocks.
+
+So the mantle that sits under mid-ocean ridges
+
+is depleted by that prior melting,
+
+and those melts have then gone on to form the oceanic crust.
+
+So you could then go back to your list
+
+of what do these rocks have in common
+
+versus what do they not have in common?
+
+So all of them can undergo partial melting,
+
+and the product of that is going to be basaltic,
+
+come onto that terminology in just a second.
+
+How are they different?
+
+Our xenoliths and our orogenic peridotites
+
+we might describe as fertile mantle,
+
+whereas our ophiolite peridotites
+
+we might describe as depleted.
+
+So these ones would have more CPX and higher concentrations.
+
+Let me go back to, okay.
+
+So primary melts are basically the thing
+
+that we are making by doing these melting reactions
+
+on this ternary diagram.
+
+We talked last week about liquid lines of descent.
+
+So here's an example of a set of magma compositions
+
+that are linked by a liquid line of descent.
+
+We saw last week that the changes in gradient
+
+mark changes in the crystallizing assemblage.
+
+And what I mean by primary melts
+
+is the ones that sit at the far end
+
+of the liquid line of descent
+
+before any crystallization has occurred.
+
+So they're derived directly from the mantle.
+
+They've undergone no fractional crystallization previously
+
+or very little fractional crystallization previously.
+
+And that is reflected in their compositions.
+
+So primary melts are the ones
+
+that are going to be basaltic in composition.
+
+They'll have about 50 weight percent of silica,
+
+but the dead ringer is that they have
+
+high magnesium oxide contents, often around 10 weight percent.
+
+So they're the ones, if you were asked to draw
+
+which direction is fractional crystallization proceeding,
+
+on this diagram, it's from right to left,
+
+and it's the ones at the far right
+
+before any crystallization has happened.
+
+There's another word that you'll hear me use
+
+in the next few weeks, which is primitive melts.
+
+And these are ones that include primary melts
+
+but aren't restricted to it.
+
+So they can have undergone a little bit
+
+of fractional crystallization,
+
+and that's just a flag for what's coming up.
+
+Okay, so we can see in this diagram,
+
+we can just compare and contrast
+
+mantle peridotite chemistry
+
+versus the primary melt chemistry.
+
+Peridotites have about 40 weight percent of magnesium,
+
+whereas our primary melts have about 10
+
+to eight weight percent of magnesium.
+
+So magnesium is a compatible element,
+
+it tends to stay behind in the peridotite.
+
+But if we look at the incompatible elements,
+
+these have low concentrations in our peridotite,
+
+but when the peridotite undergoes melting,
+
+those elements are preferentially partitioned
+
+into the liquid.
+
+So if we do a quick and dirty compare and contrast,
+
+peridotites are richer in compatible elements
+
+than primary melts, which are richer in incompatible elements.

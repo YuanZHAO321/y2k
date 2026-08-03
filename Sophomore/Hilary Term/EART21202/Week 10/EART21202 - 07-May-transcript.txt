@@ -1,0 +1,1805 @@
+'EART21202 - 07-May', automated transcript
+03/08/2026
+---
+
+Okay so good afternoon everyone, we'll make a start so welcome to the final
+
+component of climate change. So this week we're going to go over basically the
+
+questions that
+
+you've been asking over the last couple of weeks and that's been really helpful
+
+in guiding what
+
+this lecture looks like. So thank you for the questions and I really hope that
+
+this lecture is
+
+helpful for your understanding but also for of course your exam preparation. So
+
+I thought it's
+
+probably worth starting with the first slide that I showed you before we start
+
+diving into the
+
+questions. So hopefully now you should have a decent idea of the human influence
+
+that we are
+
+having on our climate through different emissions. Emissions of some of the key
+
+greenhouse gases,
+
+of course carbon dioxide, methane and what those emissions might look like into
+
+the future under
+
+different representative concentration pathways. Ultimately that will have an
+
+impact on radiative
+
+forcing, that was one of the key questions that you guys have asked about over
+
+the last couple
+
+of weeks and that will have implications for global warming and the level in
+
+which we will see
+
+that occurring through to 2100. That of course will have different impacts that
+
+will be felt
+
+either globally or on an individual level and really the course has been
+
+developed to help you
+
+answer those questions through the 10 weeks we've had together. With a view to
+
+combining
+
+this three pillar approach which is fundamental science driven by observational
+
+data which we
+
+talked about in weeks three or four. Laboratory studies to understand physical
+
+processes but
+
+combining that with global climate models to get a representative picture of
+
+what is happening
+
+across our system. Ultimately so we can make good decisions from an adaptation
+
+and mitigation
+
+perspective to move towards some sort of sustainability. You should have a good
+
+feel for the fact that our climate has varied naturally and has done so over the
+
+last million
+
+years as you can see in this figure here and you should, we're going to go over,
+
+let's find that
+
+natural variability and some of the questions that you guys asked during the
+
+week was to
+
+clarify some of the points of natural variability but as Jess pointed out we are
+
+moving into a
+
+significant period of change. This I think is probably the perfect figure to
+
+show the impact
+
+that we've had from the pre-industrial as shown by the color-coded nature of the
+
+temperature
+
+and moving through to today this is a really clear picture of what the effect
+
+we're having
+
+and you should now have a good feel for what is driving these changes and the
+
+impacts this has.
+
+And the course has really thought about this sort of climate change and health
+
+and air quality
+
+nexus. We've talked a lot about the co-benefits of reducing greenhouse gases and
+
+the impact that
+
+that might have on air quality. For instance trying to reduce something like co2
+
+concentrations
+
+from industry we might also have co-benefits for reducing things like NOx and
+
+VOCs.
+
+The impact that climate change will have on air quality we've also discussed
+
+for example the effect of increasing severity and frequency of wildfires
+
+particularly around cities across the world will have significant impacts for
+
+air quality of
+
+cities surrounding those areas for things like PM and black carbon. So this has
+
+all been
+
+interlinked and hopefully now you have a good feel for these overarching
+
+principles of the course
+
+which I hope you've enjoyed. I've shown you this a few times, please fill this
+
+out as much as
+
+possible. So to dive into the practicalities of today you guys have had access
+
+to a couple of past
+
+years exam paper for the duration of the course but just to highlight that they
+
+are in the week
+
+11 section for the past exams papers so these should give you a good feel for
+
+what the exams
+
+have looked like in the past and I've tried to group the questions that you've
+
+asked over the
+
+last couple of weeks into sort of scientific questions and then some practical
+
+questions
+
+around the exam. Generally the sorts of questions you've asked have been about
+
+radiative balance,
+
+natural variability, global climate models, adaptations and mitigations and I've
+
+got some
+
+specific questions that are sort of grouped at the end. So hopefully that covers
+
+most of what you
+
+want to see today but to start with I thought I'd go over some of the practical
+
+questions.
+
+Many of these practical questions were asked from the Mentimeter before I showed
+
+you what an example
+
+exam question will look like this year with the model exam answers. I'll re-show
+
+that again just
+
+clarification but I had a number of questions about should we
+
+memorize statistics and things like that as well so I'll go through that.
+
+So just to remind you I'm going to flash through these because I went through
+
+these a couple weeks
+
+ago but just for those who weren't here and just to remind you this is exactly
+
+your exam paper so
+
+you know what it will look like going into it. I've given you a hint that you
+
+won't need a
+
+this is really about understanding and conveying your understanding of the key
+
+principles across
+
+the course. This is exactly what a question will look like it will have a header
+
+to give you the
+
+sort of key overarching principle and there will be a number of questions to
+
+answer within that
+
+single question. The biggest bit of advice I can give you is make sure you
+
+answer every element of
+
+question okay so there will be a number of elements to each question but
+
+constantly refer
+
+to the question to make sure you're answering each component. That's typically
+
+where we see easy marks
+
+dropped. I've given you this sort of mark scheme that can help guide what I
+
+might think a good
+
+answer would look like. As you can see I'm not going into huge amounts of detail
+
+or huge amounts
+
+of length. This is about conveying your understanding of the key principles
+
+within that so I've gone through that before and if you have questions about
+
+that
+
+give me a shout because I'm happy to go over it. Do you need to memorise
+
+statistics? You don't have
+
+to to do well but it will help okay so if you can pull out relevant key examples
+
+or relevant key
+
+statistics that will no doubt do your marks a benefit. I guess the question you
+
+will now ask
+
+me is where do those statistics come from given that there's been some I
+
+wouldn't say contradictions
+
+but there's been some evolution in terms of the numbers that have used. An
+
+example of that will
+
+be I've sort of relied on this radiative forcing figure throughout the course
+
+because I think it
+
+gives a really clear picture of some of the basic principles that we've gone
+
+over in the course.
+
+Jess introduced the evolution of that so I think this is from the AR4 report the
+
+IPCC AR4 report
+
+but this is from the most recent IPCC report so there's some more detail in
+
+there
+
+which isn't completely necessary for your understanding of the course
+
+but because you've seen these sorts of figures that might have slightly
+
+different numbers in
+
+don't worry just quote statistics that you're comfortable remembering and are
+
+confident in
+
+and perhaps where you've got them from and if they're in about the right area or
+
+of course
+
+award marks. I'm not looking for a precise definite numbers given that a lot of
+
+this
+
+and particularly from a global model perspective there's variations in different
+
+representations
+
+of models so I'm not looking for exact single figures but using statistics to
+
+support your
+
+answers will definitely improve your mark. You don't have to do that to get a
+
+first but it helps.
+
+I've also got a number of questions about how to approach long answer questions
+
+and these are some really very obvious points but they're important and they're
+
+not always applied
+
+in exams as far as my experience has been so very much answer the specific
+
+question.
+
+Okay there are probably four elements to each question so make sure you answer
+
+every element
+
+of the question and make it clear that you're answering those elements. Be very
+
+clear and
+
+structured in your answers explain the key processes if you want a very very
+
+brief
+
+introduction to your answers that's fine but I'm not looking for essays with
+
+conclusions
+
+instructions you know these are about explaining the key processes and the
+
+information that you
+
+want to provide to answer those questions. As I said there's no need to memorize
+
+specific statistics
+
+but it will help improve your mark and I can't emphasize this enough make it
+
+clear make it easy
+
+to read and make it legible because this is not the case across 150 of you that
+
+will not be the
+
+case for everyone so please make it easy for me to mark it make it easy for me
+
+to award marks
+
+and everyone's much happier. The other question I've got is about answer length
+
+I'm not really
+
+worried about the length this is more about clarity and making clear and
+
+relevant explanations for
+
+the questions so if you're getting to your fifth page on a single question
+
+you've written too much
+
+okay this is I'm not looking for everything you've ever been taught in this
+
+course this is
+
+about asking specific answering specific questions in a clear and concise way
+
+okay so I'm hoping that
+
+sort of helps with the practical questions that were asked would anyone is there
+
+any questions
+
+at this point before I move on to the scientific elements no okay good okay so
+
+there's lots of slides as you'll see there are lots of questions which is
+
+fantastic
+
+so my plan today is to sort of rattle through them relatively quickly but if
+
+you'd like me to
+
+slow down or stop at any point or clarify anything in more detail please feel
+
+free to stop me but
+
+also we're happy I'm happy to obviously I'll stick around for the full session
+
+so if you have
+
+questions about specific areas or slides I'll be delighted to talk to you about
+
+them. So these are
+
+questions that I got on radiative balance and from these questions I've tried to
+
+sort of formulate
+
+a little story about why radiative balance is important and what the science is
+
+that underpins
+
+those discussions so first thing what is radiation we know that anything with a
+
+temperature
+
+greater than zero kelvin I'm sorry to the physics students so I can see
+
+sliding at this but this can be used as a viewed as an energy spectrum which
+
+looks something like
+
+this the radiation intensity changes as does the peak wavelength that is emitted
+
+by any object and
+
+this is dictated by the Stefan-Boltzmann law and Bean's law. Stefan-Boltzmann
+
+law states that
+
+warmer objects will emit more intensely than cold ones so the y-axis will
+
+increase as temperature
+
+increases and warmer objects emit a higher proportion of their energy at short
+
+wavelengths
+
+so it will shift to the left on the x-axis and that's Bean's law. You can
+
+combine those laws
+
+to show that as the temperature increases so does the spectral energy intensity
+
+and the wavelength
+
+will subsequently decrease so you can see those two radiation laws combining to
+
+effect in that
+
+well we're interested in the incoming solar radiation and the intensity and
+
+wavelength of that and the outgoing radiation and the intensity and wavelength
+
+of that
+
+given the temperature of the sun is around 6000 kelvin it emits much more at
+
+shorter wavelengths
+
+compared to the earth which is predominantly emitting in the long wave
+
+at much reduced radiation intensity and there's very little overlap between the
+
+incoming solar radiation and the outgoing long wave radiation from the earth's
+
+surface.
+
+Why is that important? Well if the energy entering the top of the atmosphere
+
+equals
+
+perfectly the energy leaving the earth's surface the temperature of the earth's
+
+surface remains
+
+constant but we know that isn't the case because there's different radiative
+
+forcing elements
+
+which hopefully you are now extremely familiar with. Radiative forcing is
+
+defined as the change
+
+in the earth's energy balance and that's measured in watts per meter squared at
+
+the top of the
+
+atmosphere and ultimately it represents the difference between what's coming in
+
+and what's
+
+going out and you can see the different radiative forcing terms on this IPCC AR4
+
+figure where you
+
+have positive radiative forcing from the long-lived greenhouse gases and you
+
+have a negative forcing
+
+particularly from aerosols and that effect from aerosols can either be direct
+
+or indirect and I've had a number of questions about aerosol cloud interactions
+
+which I'll cover
+
+later in the lecture. The idea with this figure is that it shows the magnitude
+
+and uncertainty
+
+of the forcing and you can see that the uncertainty on the well-mixed greenhouse
+
+gases
+
+isn't that significant when you compare that to something like the aerosol
+
+albedo effect with aerosol cloud interactions which is much larger.
+
+It also on the right shows the level of scientific understanding
+
+and you can see that as we move down the figure essentially the level of
+
+scientific understanding
+
+drops but overwhelmingly as you know the total net anthropogenic forcing is
+
+wholly positive
+
+no matter how you look. So we're not in a place where the energy entering the
+
+top of the atmosphere
+
+equals perfectly the energy leaving. We have different radiative forcing
+
+parameters that
+
+will affect that balance and ultimately lead to warming and the most important
+
+one of those
+
+is of course the well-mixed greenhouse gases which are continuing to rise in
+
+concentration
+
+in the atmosphere. Why is that important? This is the energy balance showing the
+
+incoming solar
+
+radiation in red here and the outgoing long wave radiation. You'll notice and
+
+hopefully remember
+
+that the outgoing long wave radiation much of that is absorbed and scattered by
+
+different
+
+greenhouse gases in the atmosphere. Only a relatively narrow band of the
+
+outgoing radiation
+
+has this atmospheric window which allows the outgoing infrared radiation to
+
+escape.
+
+The challenge we have of course is that greenhouse gases in concentrations are
+
+increasing
+
+therefore more outgoing long radiation is scattered and absorbed which leads to
+
+continuous
+
+warming. So that's why of course these are important and being able to explain
+
+the process of radiative forcing and the greenhouse effect would be a good thing
+
+to be able to do.
+
+So how do we get to these radiative forcing numbers? This is not something
+
+that's directly
+
+measured but it's estimated through a number of combined measures through
+
+satellite measurements
+
+which can give you an idea of the incoming and outgoing solar radiation. We can
+
+combine that
+
+with Circe's observation of greenhouse gases, aerosol clouds and different land
+
+use changes
+
+which was introduced by Simon and Mira in week four. There's different radiative
+
+transfer models
+
+to understand how gases interact with incoming and outgoing radiation and then
+
+in combination
+
+with global climate models we can use those to combine all of the important
+
+elements to then
+
+give different radiative forcing terms. And of course there's different
+
+uncertainties associated
+
+with different features. So I'm hoping that that gives you a fairly good
+
+overview of some of the
+
+questions and hopefully that's addressed any of your questions. Like I say if
+
+there's any questions
+
+please feel free to raise your hand but without any questions at this stage
+
+we'll move on to
+
+natural variability. So the second group of questions was really around natural
+
+variability
+
+and understanding why natural variability is important and potentially how we
+
+start to
+
+disaggregate that from what is happening today. So we gave four key processes
+
+that drive
+
+natural variability and it's important to understand the time scales on which
+
+they operate
+
+and the magnitude of the effect that they have and orbital variations is one of
+
+the key components
+
+of that. There's elements of solar variability the 11 and 22 year cycle which
+
+was introduced,
+
+volcanic activity which can have long-lived effects if SO2 is ejected into the
+
+stratosphere
+
+and ocean circulation. I'm providing some video links that I hope are helpful
+
+there.
+
+So in terms of the Milankovitch cycles we have a feel for the fact that these
+
+happen on
+
+tens to hundreds of thousands of years of time scale and there are eccentric
+
+eccentricity
+
+which changes the orbit of the earth around the sun, obliquity which changes the
+
+angle
+
+and precession which is that wobble with obliquity and precession influencing
+
+seasonal cycles rather
+
+than total incoming solar radiation across the surface of the earth. But when
+
+combined they can
+
+influence incoming solar radiation by around 25 percent the big effects. But of
+
+course these happen
+
+on tens to hundreds of thousands of years time scale so these are not something
+
+that can be
+
+attributed to the long the very quick and rapid temperature rise that we've seen
+
+over the last 50
+
+years for example. In the course this was the really the first time that we
+
+started to think
+
+about how observations particularly through ice cores could start to be used to
+
+verify and
+
+understand and help to understand what might be driving natural variability.
+
+Milankovitch cycles were a theory until his death but it wasn't until a
+
+relatively recent
+
+study in the late 70s where ice core data from Antarctica was extracted and time
+
+series profiles
+
+of temperatures co2 were interrelated with these cycles. So this started to
+
+bring together the idea
+
+that the observational data is absolutely essential in understanding past
+
+climates
+
+but also to help us understand what is happening now and on the time scales on
+
+which they operated.
+
+There's also the possibility of incoming solar radiation varying solar
+
+variability and particularly
+
+high wavelengths can vary on the order of minutes but if we start to look at the
+
+average solar
+
+irradiance as measured by satellites we can see that we're on a slight downward
+
+trend over the
+
+last 40 years and that's of course negatively correlated or anti-correlated with
+
+the temperature
+
+rise that we've seen at the surface. So this is pretty much the smoking gun to
+
+say that the sun
+
+is not responsible for the temperature rise that we've seen over the last 50
+
+years or so.
+
+Another natural process that might significantly influence climate is volcanoes
+
+and they can either
+
+inject the precursors to aerosol particles into the troposphere, the lower parts
+
+of the atmosphere
+
+or into the stratosphere. This is an example of a process that might happen in
+
+the troposphere
+
+where sulfate aerosols that are formed through the oxidation of SO2 have two
+
+important influences.
+
+One they can lead to scattering of incoming solar radiation so the direct effect
+
+of aerosols
+
+or we can have the indirect effect of aerosols which is an increased number of
+
+cloud condensation
+
+nuclei which ultimately leads to brighter more long-lived clouds into the
+
+atmosphere.
+
+So these are two processes in which
+
+volcanoes can influence radiative balance in the troposphere but we know that
+
+aerosols are not
+
+particularly long-lived in the atmosphere. They can live in the atmosphere for
+
+days to weeks so
+
+this is not a long and persistent effect. We know this because they either
+
+settle out through
+
+gravitational activity or by being rained out through these processes. So this
+
+is not producing
+
+a long-lasting cooling effect but we know that volcanoes can have significant
+
+long-lasting
+
+effects if the emissions are directly injected into the stratosphere or uplifted
+
+into the
+
+stratosphere using some mechanism. So you can see some case study examples where
+
+some large
+
+volcanic eruptions over the last 100 years or so and you've seen measured and
+
+modeled
+
+influence of those volcanoes in the time series and that is persistent for at
+
+least
+
+can be up to a year or three. How does that happen given that aerosols in the
+
+troposphere
+
+will only live in the atmosphere for days to weeks? Well if the SO2 is directly
+
+injected above
+
+the tropospores into the stratosphere that SO2 can oxidize in the same way to
+
+produce
+
+sulfate aerosol through sulfuric acid. Why is that important? There's no rain in
+
+the stratosphere
+
+and there isn't the gravitational settling. So what that means is that the SO2
+
+gas is oxidized
+
+and the sulfate aerosol in that can happen in sort of days to weeks but the
+
+sulfate aerosol
+
+can persist in the stratosphere for a year or two. So what that means is you get
+
+a persistent
+
+incoming reduction of incoming solar radiation through the direct scattering of
+
+the bright
+
+white sulfate aerosol. So this gives you an idea of the sort of timeline and
+
+sort of any ash or
+
+particles will settle out in the troposphere relatively quickly. SO2 will
+
+oxidize over the
+
+period of a couple of weeks but the sulfate aerosols if it's in the stratosphere
+
+can persist
+
+and create a long-lived cooling response over the course of a year or three. An
+
+example of that was
+
+Pinatubu which emitted lots and lots of sulfate sulfate dioxide straight into
+
+the stratosphere
+
+that produced a long-lasting cooling effect. So there's two or three processes
+
+there that are
+
+important from a natural perspective. I had a couple of questions about the
+
+endocycle and
+
+La Nina and El Nino. I found a really good YouTube video that explains exactly
+
+what's happening
+
+now. So if you're interested in that I've put that in the link in the notes of
+
+the
+
+PowerPoint presentation. So they're really nice videos that give you an overview
+
+of what's
+
+happening now and why this year might be slightly different to others. In the
+
+natural variability
+
+lecture I also linked to I think two videos from the Met Office. So I suggest
+
+they explain that
+
+because they're quite dynamic processes. Those videos explain that process
+
+really very nicely.
+
+Okay so that's sort of what I wanted to say about natural variability but I
+
+thought given a couple
+
+of conversations that I had last week I thought that it was worth having a
+
+little discussion
+
+about this. The idea here is that the climate has always varied and it's been
+
+hotter than this
+
+before and the idea of this quote is that climate change isn't real. What I want
+
+you to do over the
+
+next five or ten minutes is build an argument against that and state why we are
+
+confident that
+
+climate change that we are seeing now is driven by ourselves and what evidence
+
+scientific observational or from a modelling perspective would you use to
+
+create that argument. So five minutes now we'll run through that and then
+
+there's some more slides
+
+after that. Thank you.
+
+Okay everyone so hopefully you've had a good stab at that. If you haven't been
+
+able to put a good
+
+stab at that answer please stick around afterwards and we'll have a chat about
+
+what that should look
+
+like. Hopefully you're really very comfortable with answering that sort of
+
+question now.
+
+So the next group of unless anyone would like to ask a question about that
+
+before we move on.
+
+Okay so the next group of questions that I was asked to talk about were global
+
+climate models
+
+some of the uncertainties and why coupling is important.
+
+So the idea of coupling is to link different types of models with one another
+
+and each one of these individual models has its own benefits and disadvantages.
+
+Don't worry about
+
+the detail of those but what you need to know is that they can be coupled
+
+together to better
+
+understand different feedbacks between one another. The idea is that the coupler
+
+can pass
+
+energy air heat between different components and that allows you to bring
+
+together and understand
+
+coupled processes. I think I gave the example of the ocean emitting sulfur into
+
+the atmosphere
+
+and that's sulfur oxidizing and influencing air quality for example. So that's
+
+why you might
+
+want to couple an atmospheric model with an ocean model. The idea here is that
+
+you create
+
+realistic interactions across all components of the earth system but what that
+
+does do is
+
+significantly increase complexity and computing costs and that's particularly so
+
+if you're running
+
+a global climate model rather than a regional or local one. Why do you have
+
+variability across
+
+different models and why do different models give different answers was one of
+
+the questions
+
+and there's a number of plausible answers to this and essentially all models
+
+give outputs as ranges
+
+and that those variations can be driven by internal variability and how the air
+
+oceans
+
+and atmosphere interact. Different models will deal with aerosols clouds and
+
+ocean and ice
+
+differently and different models will use slightly different scenarios and those
+
+scenarios become
+
+more uncertain the further out we go. So you can start to see how you come up
+
+with sort of a matrix
+
+of solutions from global climate models and that will give you some uncertainty
+
+in the output.
+
+Very often these global climate models are run many many times to give and then
+
+you use ensemble
+
+means to understand the average output. The highest confidence from these global
+
+climate models
+
+is in temperature but as you start to move to things like precipitation that
+
+becomes a little
+
+bit more uncertain and a little bit more challenging. These uncertainties can
+
+look something
+
+like this and so as the model extrapolates out further and further in
+
+temperature
+
+and the answers and the global temperature change relative to the pre-industrial
+
+starts to spread out quite significantly and that's particularly so as we go
+
+further out in time.
+
+So we talked about the principle of observations becoming less accurate the
+
+further back we go
+
+the same is true of model projections the further out we go the less certain and
+
+more variable
+
+they become. So that's where some of the uncertainties come from but one of the
+
+things we talked about is how modern climate models do relatively well at
+
+continental scales
+
+and they do well at climatological time scales on the order of 10 to 30 years
+
+but as we look at
+
+time scales over the a couple of years and on much more local scales they become
+
+much more
+
+much less effective in terms of their predictive capability. These models have
+
+also have increased
+
+in complexity quite significantly both in terms of a spatial distribution and
+
+this shows the
+
+temporal resolution and the spatial resolution these models have improved
+
+significantly
+
+over a relatively short time period but not only has the spatial resolution
+
+increased
+
+so has the complexity and the number of processes that are included within them.
+
+Ultimately that improves the predictive capability but does have implications
+
+for
+
+who can run them the expertise that is required to run them and the computing
+
+costs associated
+
+with that. But we do relatively well so we can use the principle of hindcasting
+
+to understand how well
+
+we predicted future climate in past time so this is an example of taking a
+
+hindcast approach to
+
+um model observations pre-2000 and post-2000 and you can see the hindcast which
+
+is used to
+
+understand model performance and then the forecast in the black line against the
+
+observation so this
+
+process of hindcasting is predicting what's happening in the future to
+
+understand how well
+
+your model is performing and what you can see is some of the some of the inter
+
+-annual variability
+
+in the red line which is the observations is not captured well by the global
+
+climate models
+
+but general trends are which shows you and reinforces the idea that they perform
+
+well on
+
+climatological timescales but less well so on an inter-annual variability. One
+
+of the complexities
+
+of running global climate models is this principle of positive and negative
+
+feedbacks.
+
+A positive feedback is one that amplifies a change and an example of that will
+
+be the ice
+
+albedo feedback where melting ice and snow reduces the albedo and that causes
+
+more solar radiation to
+
+be absorbed and then further warming so there's a number of examples of positive
+
+and negative
+
+feedbacks which would be good to have an understanding of and there's some
+
+examples of
+
+both positive and negative feedbacks for you guys to consider but these are i
+
+think really interesting
+
+but also it also makes it very difficult to include in global climate models you
+
+can see how
+
+one thing interacts with another and creates a cycle of either positive or
+
+negative feedbacks
+
+and you can see how the complexity of those increases global climate models and
+
+the accuracy
+
+of those predictions so understanding the positive and negative feedbacks and
+
+examples thereof
+
+so hopefully that gives you a feel for some of the key well some of the answers
+
+to the questions
+
+that you had for global climate models and the next group was really thinking
+
+about adaptations
+
+and mitigations which was the focus of the last three lectures and these are
+
+some of the
+
+questions that you had some were about specific examples and others were about
+
+really the broad
+
+understanding of differentiation between adaptation and mitigations so one of
+
+the
+
+questions was how do we differentiate between adaptation and mitigation and
+
+admittedly in
+
+some cases that's quite challenging because you could argue that some examples
+
+are both adaptation
+
+and mitigation simultaneously but mitigations are about tackling the causes and
+
+adaptations
+
+are about dealing with those mitigations is all about reducing carbon dioxide
+
+basically
+
+and adaptation strategies are there to reduce exposure to a negative change
+
+reducing your
+
+vulnerability or reducing the damage caused by that change a specific question
+
+is whether
+
+building sea walls was an adaptation or mitigation strategy that is in fact an
+
+adaptation strategy
+
+the idea here is that it protects you against rising sea level or potentially
+
+flooding risk
+
+but it does nothing to reduce co2 or greenhouse gases in the atmosphere so it's
+
+very much an
+
+adaptation strategy but as i said it does sometimes get complicated that some
+
+actions do both so the
+
+an example that i have here is mangrove restoration which is wooded areas around
+
+floodplain areas or one of the questions was about efficient shaded building so
+
+you could
+
+think about painting roofs white that would probably be an adaptation and
+
+mitigation strategy
+
+because it's reducing probably the heat in the home as a result of the increased
+
+albedo
+
+but you're probably also reflecting more of the incoming solar radiation back to
+
+space
+
+so probably could be argued as both so i've created some sort of like matrix
+
+that shows
+
+how you might think about separating adaptation and mitigation strategies by
+
+does it reduce
+
+climate risk yes or no and does it reduce or remove co2 from the atmosphere yes
+
+or no
+
+so something like air conditioning installed in a home that's powered by fossil
+
+fuels
+
+would be neither or you could probably argue it's an adaptation strategy
+
+thinking about it
+
+but we have a mitigation of things like eds adaptation which is sea walls and
+
+you could
+
+buildings might be both an adaptation and mitigation strategy
+
+so hopefully that makes things clear and i've come up with another terrible
+
+drawing but this
+
+gives you an idea of an adaptation strategy so in right with in this example you
+
+have rising
+
+sea levels you could build a sea wall to protect yourself from that rising sea
+
+level you could
+
+create an early warning system to get out there before there before there was a
+
+potential flood
+
+you could raise your building or move they would all be adaptation strategies
+
+but you could use a nature-based mangrove type solution which would both be an
+
+adaptation
+
+strategy because it's protecting you potentially from the increased water levels
+
+but it's also
+
+to remove some carbon dioxide so hopefully that terrible drawing helps you
+
+understand that
+
+somewhat i had a question about will mitigations ever reduce co2 levels
+
+i guess the correct the real question there is whether mitigations will ever
+
+produce a real
+
+change in co2 concentrations and there's a difference there between emissions
+
+and
+
+concentrations emission reductions slow the increase of co2 but given that it's
+
+long-lived
+
+nature in the atmosphere it doesn't have to reduce it so getting to client to
+
+net zero
+
+does not actively reduce co2 concentrations in the atmosphere negative emission
+
+technologies
+
+do so it's only when you start to go to negative emissions do you start
+
+meaningfully
+
+reduce co2 concentrations in the atmosphere which is why negative emission
+
+technologies
+
+are such an important component of different representative concentration
+
+pathways
+
+so we really want to think about aggressive mitigation strategies
+
+to start to remove first of all reduce emissions as you can see here but then
+
+employing negative
+
+emission technologies to start actively reducing concentrations in the
+
+atmosphere so you should be
+
+able to differentiate between the pathways in terms of emissions and the impact
+
+that that will have
+
+on concentrations this is really dictated by the lifetime of things like co2 in
+
+the atmosphere
+
+if you reduce the emissions of aerosol to zero in the atmosphere your
+
+concentration
+
+of aerosol in the atmosphere would be zero in a couple of weeks okay that's
+
+because the
+
+lifetime of those components in the atmosphere is not particularly long you do
+
+something that
+
+reduces those emissions to zero concentrations will reduce to zero the same
+
+cannot be said
+
+for longer lived species in the atmosphere which is why something like co2 or
+
+something
+
+like a cfc will persist in the atmosphere for very long periods of time once
+
+emitted
+
+we also i said the question of thinking about some of the information that jess
+
+provided last week
+
+is can marine cloud brightening be reproduced cheaply elsewhere i thought it was
+
+useful to go
+
+the principle of marine cloud brightening which is effectively increasing the
+
+cloud
+
+condensation nuclei concentration in a area in a useful area that would increase
+
+the cloud
+
+brightness increase the cloud lifetime and therefore increase the amount of
+
+outgoing
+
+or reduce the amount of incoming solar radiation that hits the surface of the
+
+earth
+
+um jess gave the example of this happening i think over the great barrier reef
+
+and she's given
+
+papers and examples if you want to read into that in more detail but to give you
+
+an idea of what
+
+that actually looks like this is a slightly modified version of what jess showed
+
+last week
+
+that in a clean environment you have a relatively low aerosol concentration and
+
+for the same water
+
+vapor concentration as you can see here so very clean environment with the same
+
+water
+
+vapor concentration equals a lower albedo a shorter cloud lifetime because the
+
+droplets are bigger
+
+and they rain more efficiently which means the precipitation is more likely so
+
+you have two effects
+
+brightness and longevity of the clouds
+
+but if you're in a polluted environment because that's where you are or because
+
+you artificially
+
+manipulate that through spraying you can create an environment where there's
+
+higher aerosol
+
+concentrations and for the same water vapor concentration you have smaller
+
+droplets which
+
+more evenly distributed a higher albedo a longer lifetime and less likely
+
+precipitation
+
+so this is a viable way of potentially reducing the amount of incoming solar
+
+radiation
+
+but as jess pointed out last week this isn't a smoking gun there are some
+
+problems to this
+
+and some potential unintended consequences not just the societal implications of
+
+this as well
+
+so can this be reproduced elsewhere i guess the answer is yes the ingredients to
+
+this
+
+are simple and cheap and you can probably use a seashell sprayer from the sea
+
+but the parts can be very expensive sprayers vessels power maintenance
+
+permission not to
+
+the social perception of this and the potential unintended consequences so
+
+as jess pointed out this is something that is happening now in limited scale so
+
+that you can
+
+test and understand how this might happen in a controlled laboratory environment
+
+in comparison
+
+to what might happen in controlled outdoor settings as well an idea of a
+
+that was presented in one of the questions was about painting roofs the idea
+
+would be to reflect
+
+more sunlight again this is probably a viable local adaptation strategy with a
+
+very small
+
+mitigation benefit so there's potential for thinking about this from a
+
+cumulative response
+
+this probably won't be the solution but nevertheless as we pointed out last week
+
+this
+
+not going to be a single solution it's likely going to be many many solutions
+
+combined to give
+
+a better outcome so that really wraps up the adaptation and mitigation element
+
+to your
+
+questions and i've gone through and sort of tried to answer as many of the sort
+
+of specific questions
+
+that i could could find so one of the questions was about the idea that jess
+
+introduced the idea
+
+of i forget the name now injecting stratospheric aerosol to increase
+
+reflectivity and the idea
+
+here is that you inject so2 into the atmosphere and into the stratosphere which
+
+then oxidizes to
+
+aerosol which is a bright white aerosol that will reflect incoming solar
+
+radiation
+
+injecting large amounts of sulfuric acid we know sulfuric acid is harmful to
+
+human health
+
+so the question naturally was could we use something else jess indicated that
+
+there are a
+
+number of other solutions that might be appropriate but given that this is
+
+something that happens
+
+naturally in the atmosphere we understand relatively well through volcanic
+
+emissions
+
+so2 is the front running solution at this time and it's unlikely that other
+
+solutions won't have
+
+unintended consequences themselves i had a number of questions about aerosol
+
+cloud interactions
+
+we've sort of covered those with the volcanic emissions and the stratospheric
+
+elements
+
+but what i've done is i've tried to break this down into a little bit more
+
+detail
+
+i won't go over this in detail now but i'm happy to afterwards but i've given
+
+some
+
+increased number of slides which hopefully give you some better understanding
+
+which show the direct
+
+influence of aerosols and how they interact with incoming solar radiation i've
+
+talked about the
+
+indirect effects of aerosols and their effects on cloud condensation nuclei both
+
+from a brightening
+
+perspective but also from a lifetime perspective so that gives you some text and
+
+hopefully some
+
+more detail as to why these are important and particularly well understood this
+
+is actually
+
+very challenging and what you'll know is that the uncertainty on the aerosol
+
+climate impacts
+
+are very large on the rpcc report and hopefully you can get a feel for why that
+
+is from the
+
+previous slides but even if you start to look at the effects over different
+
+parts of the world
+
+and if you overlay the same color aerosol over different parts of the world so
+
+if you
+
+aerosol particle on a dark environment it will increase the albedo but if you do
+
+that over a
+
+light area it leads to a reduction in albedo so not only these processes
+
+complicated and the
+
+interactions complicated where these interactions and processes occur in the
+
+atmosphere and over
+
+the surface of the earth make this very complicated that's also exacerbated by
+
+the fact that there's
+
+number of land use changes which also exacerbates that uncertainty and that's
+
+propagated through
+
+through to this aerosol cloud interaction uncertainty which jess talked about
+
+last week
+
+we know ultimately that these have a cooling effect but the uncertainty is very
+
+hard to pin
+
+down because of the complexity of the interactions and equally where they are
+
+happening aerosols are
+
+well mixed over the atmosphere over the atmosphere so not only do we have to
+
+understand the
+
+interactions we also need to understand the spatial distribution concentrations
+
+at any one time
+
+as well so it makes it all very tricky and the uncertainty rather high last
+
+couple of slides now
+
+this is a recap of the different representative concentration pathways
+
+the idea of the representative concentration pathways is to give allow different
+
+modeling
+
+groups and different experts to use the same pathways so that different models
+
+are inter
+
+comparable and the different rcps give you a different level of ambition in
+
+terms of emission
+
+profiles one of the questions one last two questions i had was about the
+
+cooling effect of NOx we haven't gone into this in any detail but the question
+
+was why does NOx
+
+increase inducer cooling in the atmosphere and the idea here is that NOx is a
+
+precursor to OH in the
+
+atmosphere OH will react with methane and that is a major sink of methane in the
+
+atmosphere
+
+so this is where we start to again come to the interplay between air quality and
+
+climate
+
+so in city areas where there's large NOx emissions that might lead to a
+
+reduction in methane
+
+lifetime we are also actively trying to reduce our NOx concentrations because we
+
+know that
+
+particularly nitrogen dioxide is an important respiratory irritant so all of
+
+these changes are
+
+to be important as we move forward but ultimately the cooling effect of NOx is
+
+due to reducing
+
+methane lifetime the last question that i was asked was about cfcs these have
+
+largely been
+
+removed of the emissions of which are non-existent now for cfcs but given the
+
+lifetime of cfcs in
+
+atmosphere their concentrations persist but the montreal protocol was very
+
+effective at
+
+removing those cfcs but the legacy of those emissions have not yet gone given
+
+the lifetime
+
+of these species in the atmosphere so i'll finish with some sort of exam advice
+
+and probably the best advice i can give you is to
+
+understand as much as you can about the course okay the exam is really there to
+
+test your
+
+understanding of the full course rather than individual elements of it so i'm
+
+not going to
+
+test just natural climate variability in the exam the idea is that it covers as
+
+much of the exam
+
+of the lectures as is possible like i'm not going to test every element there's
+
+no way i can do that
+
+but my advice to you is to have a broad understanding of as much of the course
+
+as
+
+possible and that should put you in good place to answer the questions in the
+
+exam no exam will
+
+test every element of the course and i hope you understand that but the exam is
+
+designed to
+
+try and capture our understanding as much of the course as possible and
+
+hopefully that can help
+
+direct your revision okay so it's not about understanding real detailed
+
+processes to
+
+nth degree with loads and loads of examples loads of references for a specific
+
+element
+
+but better to understand as much of it as possible and then perhaps have some
+
+examples
+
+for each element please write clearly i can't stress this enough um you've got a
+
+lot of you
+
+won't that's just how it is but please make it easy for me and that makes it
+
+easy for me to mark
+
+easy for me to allow you marks and give you marks and just to remind you there
+
+are five questions
+
+in the exam and each one of the questions will have individual components in it
+
+and there are
+
+are 75 total marks up for grabs if you're using examples and statistics please
+
+use appropriate
+
+units and if you need things you know where i am email me
+
+thinking about i'm not sure you're quite at the point of picking your 30 units
+
+yet
+
+but there's two that i'll point you to one is the atmospheric composition course
+
+that i teach
+
+it's a really good course that understands the sort of principles of air quality
+
+and are really growing in the emerging area and the other if if you are
+
+interested
+
+and particularly interested in the global climate change global climate change
+
+element of this
+
+and course then the climate and energy course that's led by hugh coe and grant
+
+alan would be
+
+essentially takes this course's this course material and then develops your
+
+understanding
+
+of each element through that so there are two courses that i would point you to
+
+before i go
+
+i'll stick around for questions but the last thing i'll say is a huge thank you
+
+i hope you've enjoyed the course i'll stick around and hope to see many of you
+
+again so thank you
