@@ -1,0 +1,1089 @@
+---
+title: "EART26201 - 13-Oct-transcript"
+source: "Sophomore/Michaelmas Term/EART26201/Lecture/Week 3/EART26201 - 13-Oct-transcript.txt"
+type: transcript
+---
+
+'EART26201 - 13-Oct', automated transcript
+03/08/2026
+---
+
+Okay, good afternoon, everybody.
+
+Welcome to week three of this geochemistry course, and today, we're going to be
+
+talking about everybody's most favorite topic, thermodynamics and phase
+
+diagrams.
+
+So, I believe you've all been introduced to phase diagrams last year, we'll go a
+
+little bit further this year, this week and next week, and in the practicals
+
+that we'll be doing on Wednesday.
+
+So, let's get going with that.
+
+So, as usual, today is a lecture, so it's the theory, and Wednesday, we'll do
+
+the practical, so it'll be a lot more interactive.
+
+Today, today's content at times probably will feel a bit dry, but there's not
+
+many ways to make that very interactive, but we'll just get through it and see
+
+how we go.
+
+Okay, so what is, oops, that's not what I wanted to do, let's try that again.
+
+So, thermodynamics, by and large, when we talk about thermodynamics in geology,
+
+we're interested in looking at how systems change in response to changes of some
+
+parameters like pressure, temperature, and chemical composition, that's mostly
+
+what we do when we're talking about thermodynamics.
+
+And it can be high-temperature systems, so we can be looking at volcanoes, lava
+
+lakes, things like that, but it also applies to low-temperature systems, as
+
+we'll see later on today.
+
+So, first of all, we need to all be clear about what we're talking about when we
+
+talk about equilibrium of a system.
+
+So, equilibrium is reached when the different constituents of a system, for
+
+example, here, a mathematics system, when these constituents do not change with
+
+time, so that's the definition of equilibrium here.
+
+So, at equilibrium, basaltic magmas are liquid down in the mantle, so at high
+
+temperature, these systems are liquid, but they're solid under surface
+
+conditions, and so for that system, crystallization of the system reflects the
+
+re-equilibration going from hot magmas down deep to cooler basalts up at the
+
+surface.
+
+And thermodynamics provides us with some tool to actually quantitatively
+
+describe these chemical changes that occurred within the Earth.
+
+So, again, when we look at magma crystallization, when we look at things like a
+
+lava lake, and you've got multiple examples, but you've got beautiful lava lakes
+
+in Hawaii, for example, these things are in disequilibrium, because a magma is
+
+meant to be solid at the Earth's surface.
+
+So, a lava lake liquid like that is out of equilibrium.
+
+If they're not replenished, they will slowly crystallize, they will cool down,
+
+they will crystallize, and this is because they want to reach equilibrium.
+
+So, you've got here some people sampling some lava lakes, and in a magma, what
+
+happens when it crystallizes, when typically, when it crystallizes fairly
+
+slowly, it will form different crystals.
+
+Take a seat, please. Thank you. It will form different crystals. So, you've got
+
+here a sequence from 1170 degrees to 1020 degrees, and you can see different
+
+crystals forming in a basaltic magma.
+
+If a lava crystallizes very, very quickly, it won't have time to form crystals,
+
+and you can get glass.
+
+So, why is thermodynamics important in our sciences? You can have multiple
+
+answers depending on who you ask and what their field is.
+
+One of the very important aspects of understanding thermodynamics is we're able
+
+to predict things.
+
+So, we can, here for example, when we look at water, we can predict in what
+
+state water will be depending on the pressure and the temperature.
+
+You've got here, we'll look at that diagram later on, but if we look at the
+
+water phase diagram, so you've got the pressure here on the y-axis and the
+
+temperature.
+
+You know that at high temperature, water tends to be in its vapor form. At low
+
+temperature, we've got water ice, and at intermediate temperature, we've got
+
+liquid water.
+
+And so, because we know thermodynamics, we can predict that if the temperature
+
+in that picture increases by several degrees, most of that ice is going to melt
+
+away to form liquid water.
+
+And thermodynamics are also some interesting applications in terms, for example,
+
+of prospecting for all deposits.
+
+So, here you've got the examples of a granite in Cornwall, which has been mined
+
+for things like tin and tungsten.
+
+And this is because we know of the thermodynamics of that system that we can go
+
+and locate these potential deposits in some granitic macros.
+
+Similarly, it applies to things like carbon capture.
+
+Because we know the thermodynamics of the system, we can try and work out what's
+
+the best solution to put carbon back into the ground, extract it from the
+
+atmosphere and try and put it back into the ground.
+
+Okay, so that's just the summary of what we're going to cover in the lecture.
+
+So, part two is some key thermodynamic concepts.
+
+Okay, so a bit of definition. Thermodynamics is the study of energy and energy
+
+changes.
+
+The two most important terms that we consider here are heat, which is denoted by
+
+the letter Q, and work, which we write as W.
+
+Thermodynamics, as I said before, describes the equilibrium state of a given
+
+system.
+
+And when this system is at equilibrium, it does not change with time.
+
+Similarly to what we saw last week, systems can be different things.
+
+So, a system is something we define arbitrarily, depending on the questions
+
+we're interested in.
+
+So, your system can be a mineral grain, like you've got in the image here, or it
+
+can be a magma reservoir.
+
+It can be different rocks from a single granite, or it can be a whole planet, or
+
+it can be the solar system.
+
+It can be anything. You define what the system is for the question that you're
+
+interested in.
+
+So, what are some of the variables and the equations that we need to bear in
+
+mind when we look at thermodynamics?
+
+So, we've got some state variables, and there's two types of these state
+
+variables.
+
+We've got what we call extensive variables.
+
+So, extensive variables, they change depending on the size of the system that
+
+you're looking at.
+
+So, some of these extensive variables include, for example, the mass of the
+
+system, the volume of your system, the enthalpy, the entropy, the free energy of
+
+your system.
+
+So, all of those are extensive variables.
+
+And you've got just a note here that you're not expected to remember all these
+
+letters for all these different terms.
+
+The other types of state variables are intensive variables.
+
+So, these do not change depending on the size of the system, or in other words,
+
+they're independent of the system size.
+
+And some of the most common intensive variables include temperature, pressure,
+
+and the bulk composition of your system.
+
+Just as a reminder, in thermodynamics, the temperature is expressed in Kelvin.
+
+So, that's just something to keep in mind.
+
+We're used to seeing temperature in Celsius or in centigrade, but don't forget
+
+to convert it to Kelvin.
+
+And some of these state variables are related to one another by equations of
+
+states.
+
+And here you've got probably the most famous equation of state equation, which
+
+is PV equals nRT.
+
+So, the pressure multiplied by the volume equals the number of moles in the
+
+system times R, which is the gas constant, multiplied by T, the temperature.
+
+So, that's one example of an equation of state.
+
+There's many moles, but that's probably the most famous one.
+
+So, extensive variables depend on the size of the system, mass, volume, etc.
+
+There are intensive variables that do not depend on the size of the system,
+
+temperature, pressure, composition.
+
+So, we're doing thermodynamics.
+
+So, there's a few laws for thermodynamics, which we will summarize very quickly
+
+here.
+
+The first one is that energy is conserved.
+
+You cannot create or destroy energy.
+
+So, that's conservation of the energy.
+
+When we look at a system, its internal energy denoted U, it's the sum of the
+
+kinetic energy of the system.
+
+And that kinetic energy comes from atomic vibration, plus the potential energy,
+
+which is stored in the bonds between the different atoms.
+
+And a change in the internal energy is the sum of the heat exchange with the
+
+surroundings, Q, and the work done on the system W.
+
+So, you've got delta U equals Q plus W.
+
+And normally, when we look at that, we express these as small changes.
+
+So, we refer to them as du equals dQ plus dw.
+
+So, it's small change in internal energy is equal to a small change in the heat
+
+exchanged and a small change of the work done on the system.
+
+In geological systems, this translates into changes in pressure and volume.
+
+So, here are du still equals dQ minus the pressure times the small changes in
+
+volume.
+
+Again, you're not expected to remember all of those.
+
+We're just going through those because they're important, but you don't have to
+
+remember them.
+
+The second law of thermodynamics tells us that reactions tend to proceed in the
+
+direction of increasing the entropy of the system.
+
+Entropy is a measure of the energy distribution of the system.
+
+So, in other words, it's a measure of disorder in a system.
+
+And one way I like to think of when I think about entropy is a pile of plates.
+
+If it falls down onto the ground, it will break in many small pieces.
+
+You rarely see the opposite. You rarely see small pieces of plates coming back
+
+together to form an intact plate.
+
+From a physics point of view, there is no reason why it can't happen. It's just
+
+very unlikely.
+
+All systems tend to go to their more disordered state.
+
+So, for a reversible process, the entropy, which is S, equals dQ over T.
+
+Correspondingly, if it's irreversible, a small change in entropy, dS, is greater
+
+than dQ over T.
+
+And so, if we summarize and put it together, dS, a small change in entropy,
+
+is greater or equal to dQ over T, the temperature.
+
+Now, we combine the first and the second laws.
+
+So, the first law was that dU equals dQ minus P dV.
+
+The second law is dS is greater or equal to dQ over T.
+
+If you combine these two together, you end up with the fundamental equation for
+
+thermodynamics,
+
+which is dU is smaller or equal to T dS minus P dV.
+
+So, T is temperature, dS is a small change in entropy, P is the pressure, and dV
+
+is a small change in volume.
+
+And for most of the things we look at in geology and geochemistry,
+
+this simplifies to dU, the change in internal energy, equals T dS.
+
+So, that's the heat exchange with the surrounding minus the pressure times delta
+
+V,
+
+which effectively is the movement in space of the system.
+
+Right, a few more definitions and a few more terms relevant to thermodynamics.
+
+So, you've probably all heard about enthalpy.
+
+Enthalpy is a measure of the total heat content of a substance, and we note
+
+enthalpy H.
+
+Enthalpy H is equal to U plus PV, the pressure times the volume.
+
+We can only measure changes in enthalpy.
+
+We can't measure absolute quantities of enthalpy.
+
+We can just measure changes in enthalpy.
+
+So, at constant pressure, meaning no work is done on the system, dP and dV is
+
+equal to zero.
+
+Then we've got dH, small changes in enthalpy, equals dQ.
+
+Gibbs free energy, so another term, which denoted as G,
+
+describes the energy available to do work at a constant temperature and
+
+pressure.
+
+And so, effectively, Gibbs free energy describes whether a reaction will occur
+
+or not.
+
+So, that Gibbs free energy terms, it's equal to H minus Ts, so temperature and
+
+entropy.
+
+So, Gibbs free energy equals enthalpy minus temperature multiplied by entropy.
+
+And if temperature and pressure are fixed, the reactions will go towards lower
+
+G,
+
+such that at equilibrium, sorry, I'll start that again.
+
+At fixed temperature and pressure, reactions will proceed in the direction of
+
+lower G,
+
+such that delta G is less than zero.
+
+When we're at equilibrium, delta G equals zero, and there is no reaction.
+
+Hopefully, you've all heard about that last year in Chemistry of the Earth.
+
+So, one of the main applications for us of these theoretical thermodynamics
+
+terms are phase diagrams.
+
+And at any given pressure, temperature and composition of a system,
+
+the equilibrium phase or phase assemblages, because we can have several phases,
+
+is the system, is the phase with the lowest G.
+
+And the phase diagrams, that's what they show us graphically.
+
+So, it's a graphical way to represent that.
+
+For example, we can look at the silica phase diagram.
+
+So, here again, you've got the pressure on the y-axis, you've got the
+
+temperature on the x-axis.
+
+All these different terms relate to different phases of silica, different
+
+polymorphs of silica.
+
+And you might have heard about coesite. So, coesite is a high-pressure polymorph
+
+of silica.
+
+So, deep in the mountains, at high pressure, you can find some coesite.
+
+At surface conditions, temperature close to zero, pressure close to one
+
+atmosphere.
+
+Like on a beach, the silica you find is quartz.
+
+In most lavas, most lavas would crystallize at something like 800, 900 degrees
+
+C, and a few GPAs.
+
+You would find quartz, but for some high-temperature crystallization product,
+
+you can find other polymorphs of silica, such as tridymites or crystallites.
+
+And here, the L in that diagram refers to liquid, so it's not a mineral, it
+
+would be liquid silica.
+
+Okay, so the Gibbs phase rule, this is what governs these phase diagrams.
+
+So, the Gibbs phase rules, it describes the variance or the degrees of freedom,
+
+denoted F, in a system at equilibrium.
+
+And it's given as follows, F equals C minus 5 plus 2.
+
+So, F is the degrees of freedom or the variance of the system.
+
+And it's, in effect, the number of intensive variables that you can change
+
+independently without changing the state of the system.
+
+So, typically, this is the number and proportion of phases, or the composition
+
+of individual phases can change.
+
+C is the number of components in your system.
+
+So, that's the minimum number of chemical species that you need to describe the
+
+phases of your system.
+
+So, some components might be H2O or SiO2 or MgO, et cetera, FeO.
+
+Phi is the number of phases, the number of physically distinct phases, melt,
+
+ice, vapor, olivine, liquid, you name it.
+
+And here, the 2 in that equation at the top, it reflects the fact that often the
+
+pressure and the temperature, they're the only intensive variables that you can
+
+change.
+
+So, you can heat up or cool down your system, you can increase or decrease the
+
+pressure, but very often these are the only variables that you can change.
+
+In some cases, you can only change one of them.
+
+So, you can have isobaric system where the pressure is fixed, you can have
+
+isothermal systems where the temperature is fixed.
+
+In some cases, you wouldn't have plus 2 here, you would have plus 1.
+
+So, that number refers to how many intensive variables are fixed.
+
+So, if we go back to the water phase diagram.
+
+So, here again, the pressure in atmospheres, the temperatures in degrees
+
+centigrade, you've got 0 here, we've got our equation here.
+
+So, the only component in that diagram is H2O, the water molecule.
+
+D equals 1.
+
+So, if you're in the water field, anywhere up here in that water field, there is
+
+only one phase, liquid water.
+
+So, that equations become 1 minus 1 plus 2 equals 2.
+
+That means that you can change independently the temperature and the pressure
+
+without changing the number of phases in your system.
+
+You can go up or you can go down, you can go left or right, you'll still remain
+
+with liquid water as your system.
+
+So, this field here for water or the field for water vapor, these are called
+
+divariant fields.
+
+Now, if we look at, so again, H2O is the only component, but if we go on one of
+
+the boundary between two phases.
+
+So, here we go on the water ice boundary.
+
+We've got two phases, so phi is 2 in that case.
+
+So, the degrees of freedom, we get to one degree of freedom.
+
+If you change the temperature, you have to change the pressure to remain on that
+
+boundary.
+
+So, you can't vary pressure and temperature independently if you want to remain
+
+on that boundary.
+
+So, that's what we call an univariant curve.
+
+So, the water ice boundary in that example is univariant.
+
+It cannot change. Temperatures are changing the pressure to remain on that
+
+boundary.
+
+And the third and final example here, so again, H2O is the only component.
+
+But we put ourselves here at the triple point where ice water and water vapor
+
+are all coexisting.
+
+So, in that case, we've got C equals 1, phi of 3.
+
+So, if you calculate the variance, your variance is 0.
+
+So, here you cannot, you can neither change temperature nor the pressure without
+
+changing the number of phases in your system.
+
+This is what we call an invariant point.
+
+You cannot change pressure or temperature and still be in that triple point.
+
+There's only one point where we are in that case.
+
+So, that was the water phase diagram.
+
+Now, we can look at another phase diagram, more relevant to geological system.
+
+So, here we've got an isobaric-anortite-diopsite phase diagram.
+
+So, anortite, which is the calcium-rich end member of the plagioclase mineral.
+
+Diopsite is the calcium-magnesium-rich pyroxene.
+
+It's isobaric, so the pressure is fixed at one atmosphere.
+
+So, here you've got the temperature on the y-axis and you've got the composition
+
+of your system between the anortite and the diopsite end member as the x-axis.
+
+So, because it's isobaric and the pressure is fixed, here we've got plus 1 in
+
+our equation rather than the plus 2 that we had before.
+
+We've got two constituents, anortite and diopsite.
+
+And we've got three phases.
+
+So, if you look in the diagram, you've got anortite, you've got diopsite and
+
+you've got melt or liquid.
+
+We use melt and liquid interchangeably, they mean the same thing.
+
+So, if you're above the liquidus, so in that field here called L, the number of
+
+phases is 1, liquid, and so the variance is 2.
+
+So, you've got 2 minus 1 plus 1, which is 2.
+
+If you're on the liquidus, you've got two phases, you've got liquid and a
+
+crystal, here in that case anortite if you're on the left-hand side.
+
+So, you become univariant when you're on the liquidus.
+
+If you change the temperature, you have to change the pressure to remain on that
+
+line.
+
+If you change the pressure, you have to change the temperature.
+
+And at eutectic, we've got three phases, we've got anortite, diopsite and
+
+liquid.
+
+So, phi equals 3, in that case the variance is 0 and that's the invariant point
+
+in that system.
+
+And we'll get back to this one next week as well.
+
+The lever rule, so the lever rule is, it's a very simple rule to calculate the
+
+proportion of different phases in a given system.
+
+Good, that's what I just said.
+
+So, you know the composition of your system, you've got two phases and you want
+
+to know how many of phases A and how many of phase B you have.
+
+So, phase A here on the left, phase B on the right, your system I is in the
+
+middle.
+
+So, the amount of phase A is here represented by the distance A, the amount of
+
+phase B is just represented by the distance B.
+
+You express that weight percent typically or sometimes we work in molar
+
+abundances and so it would be expressed as mole percent.
+
+So, if you call the amount of phase A XA, XA here equals A plus the sum A plus B
+
+and XB equals B divided by the sum A plus B.
+
+And XA plus XB equals what?
+
+This will come in on Wednesday when you do some phase diagram calculation.
+
+Which reminds me, bring a ruler for Wednesday please because the practical
+
+Wednesday is mostly paper based.
+
+So, you'll have some phase diagram and we'll do some paper based exercises on
+
+these phase diagrams.
+
+Okay, now fourth part, we'll look at some binary phase diagram with solid
+
+solution.
+
+So, you might remember from the first week we discussed equilibrium and
+
+fractional processes.
+
+So, we discussed equilibrium melting and equilibrium crystallization where
+
+solids and liquids remain in equilibrium with each other.
+
+So, you've got an example here with some liquid, some solid that's melting to
+
+form the liquid and these remain in chemical equilibrium.
+
+The other end member we discussed was fractional and we discussed fractional
+
+melting where as liquids are formed they're removed from the system and so
+
+they're no longer in equilibrium with the solid.
+
+And we've got the fractional crystallization where solids form and they're
+
+removed from the liquid from which they crystallize so they're no longer in
+
+equilibrium with the liquid.
+
+Here we can look at a binary phase diagram with a solid solution.
+
+So, the solid solution we're looking at is the mineral plagioclase.
+
+So, plagioclase is a solid solution between the albite end member which is the
+
+sodium rich plagioclase and the anortite end member which is the calcium rich
+
+plagioclase.
+
+So, here it goes from 0 to 1. So, 1 is 100% anortite and 0% albite.
+
+If you revert it, if you're at 0 here you've got 0% anortite and 100% albite.
+
+Here in the middle you've got 50% of each.
+
+You've got the temperature and here it's isobaric. We are fixed at 1 atmosphere.
+
+So, in that phase diagram we have here at high temperature melt or liquid.
+
+Then we've got a field for liquid plus plagioclase and below the solidus we've
+
+got plagioclase only.
+
+So, the number of constituents in that system is 2. We've got the 2 end members
+
+anortite and albite.
+
+And the number of phases, so phi is also 2. We've got melt and we've got
+
+plagioclase.
+
+So, the location of that equilibrium phase assemblage depends on both pressure
+
+and temperature.
+
+But here in that specific example the pressure is fixed so only the temperature
+
+can vary.
+
+So, we're back in that context where in that equation we've got plus 1.
+
+So, if we look at, so if we calculate the variance we've got C equals 2, phi of
+
+2.
+
+So, the variance of that system is 1.
+
+If we take an example of equilibrium crystallization, so the solids and the melt
+
+remain in equilibrium with one another.
+
+And you start with your liquid here at about 1600 degrees C with that
+
+composition.
+
+So, when it cools down it goes, it travels that direction so the temperature
+
+decreases and it intersects the liquidus here at T1.
+
+So, that's our first temperature step.
+
+So, the plagioclase that crystallizes at T1 has that composition.
+
+So, you report here onto the solidus and you go and read the composition and
+
+here you see that you are at about 85% anortite.
+
+So, the liquid continues cooling.
+
+So, the composition of the liquid here in that case follows the liquidus.
+
+So, it follows that trajectory until a given temperature T2 which is smaller
+
+than T1.
+
+So, the plagioclase maintains equilibrium with that liquid because we're in
+
+equilibrium system.
+
+So, the melt as it cools down evolves to more albatic composition.
+
+It evolves towards the left hand side in that diagram.
+
+And at the arbitrary temperature T2 you crystallize that plagioclase 2 which has
+
+a composition here of 70% anortite.
+
+So, it also becomes more albite rich.
+
+If you want to quantify how much liquid and how much plagioclase you've got in
+
+your system.
+
+So, your system is still right in the middle here.
+
+It's a mix of your liquid and your plagioclase.
+
+You use that level rule that we just saw before to calculate how much of A and
+
+how much of B you have.
+
+So, A is the amount of plagioclase, B is the amount of liquid.
+
+And you can continue cooling down your system.
+
+So, again the liquid continues cooling down along that liquidus line.
+
+And at T3 you can have a liquid that's very, very rich in the albite component.
+
+And the plagioclase at low temperature has exactly the same composition than
+
+your initial liquid.
+
+So, in equilibrium system your last few plagioclase to crystallize will have the
+
+same composition than your system as it started.
+
+So, here about 50% anortite, 50% albite.
+
+Equilibrium melting is the exact opposite.
+
+So, you would start down here.
+
+You would increase the temperature and you would do this trajectory in the exact
+
+opposite direction.
+
+Now, if we look at fractional cases.
+
+So, fractional crystallization first.
+
+We start with the same liquid.
+
+So, everything is molten.
+
+It's got the same composition than the one we just did before.
+
+So, again you cool down your system to a temperature T1.
+
+So, your first plagioclase forming is anortite rich.
+
+About 85% anortite.
+
+Something like that.
+
+Now, in a fractional crystallization case your plagioclase is removed from the
+
+system as soon as it's formed.
+
+And so the composition of the system changes.
+
+So, in the equilibrium case the system was always at the same position in terms
+
+of composition.
+
+In the fractional case your system is the composition of your liquid.
+
+So, here the liquid follows the liquidus.
+
+So, it goes here to L2 which is the composition of the system at T2.
+
+And again, if you carry on cooling it down, you're going to end up, in that
+
+case, to a pure albitic plagioclase.
+
+Fractional melting.
+
+So, if you start from that plagioclase, 50% albite and 50% anortite, you
+
+increase the temperature until you cross the solidus.
+
+So, you start melting here.
+
+If you want to know the composition of your first melt, you go and read it on
+
+the liquidus line.
+
+So, your first melt here is albite rich.
+
+The melt is extracted straight away from the system because we're in the
+
+fractional case.
+
+So, the plagioclase, which is equal to the system composition, evolves towards
+
+more anortite rich.
+
+And it continues evolving towards the final liquids.
+
+So, the last plagioclase at the highest temperature produces anortitic melt.
+
+And fractional melting is not the opposite of fractional crystallization.
+
+So, in equilibrium cases, one is the exact opposite of the other.
+
+In fractional cases, that's not the case.
+
+We will get back to plagioclase examples on Wednesday.
+
+And plagioclase is one of these minerals that's really, for us geologists, very
+
+useful and very interesting because we find it everywhere.
+
+So, we find plagioclase at mid-ocean rich basalts, in oceanic basalts.
+
+We find lots of plagioclase in Iceland and continental arc settings.
+
+So, for example, a lot of the lavas that erupt in these settings are called
+
+andesite.
+
+And they tend to contain these large plagioclase crystals.
+
+We also find it in lots of rocks from the continental crust.
+
+Here you've got some granulites, but we find plagioclase in granites and things
+
+like that.
+
+It's also very important from a planetary perspective because it's also
+
+ubiquitous in lots of planetary materials.
+
+So, if you look at the moon, all the white, light gray to white material you see
+
+on the lunar surface is plagioclase.
+
+So, the primordial crust of the moon is made of anortite.
+
+So, understanding how plagioclase form and what it can tell us about geodynamic
+
+context is actually very important.
+
+And to finish off, the final bit of today's lecture is about J-X curves.
+
+So, again, if we go back to that albite anortite phase diagram with temperature.
+
+So, here we are isobaric, so the pressure is fixed.
+
+We've got liquid, liquid plus plage and plage.
+
+So, phase diagrams, as we've seen, they relate phase stabilities to different
+
+variables such as temperature, pressure or the composition of the system.
+
+And in fact, they show you which phase or which assemblage of phases has the
+
+lowest Gibbs free energy G.
+
+So, if I'm right in the middle here, liquid plus plagioclase will have the
+
+lowest G value.
+
+So, up here, for example, I take a point in the liquid field, it's liquid only.
+
+As I just said, if I'm in that field here, that would be liquid plus
+
+plagioclase.
+
+And when I'm in the plagioclase field, it's plagioclase only.
+
+So, it's a reminder, we've been stating that since the beginning.
+
+Thermodynamics, it's only relating to equilibrium processes.
+
+The final lecture I do with you will actually look into disequilibrium
+
+processes, but that's not for this week.
+
+And we can construct these G-X curves, so here for plagioclase.
+
+So, we've sliced that phase diagram into four temperature intervals.
+
+So, high temperature, two intermediate temperature and a lower temperature here.
+
+So, at T1, so at the highest temperature, here you've got albite on the left and
+
+anortite on the right.
+
+At T1, the G value for liquid is always lower than the G value for plagioclase.
+
+And so, a given system wants to have the lowest G value possible.
+
+So, here it will be liquid. So, at T1, everything is liquid, whatever the
+
+composition you're looking at.
+
+At T2, we've got a mix. So, when you are on the left-hand side, so in more
+
+albitic composition, the G value is lower for the liquid.
+
+On the right-hand side, more anortitic composition is lower for plagioclase,
+
+which you have in that black dotted line.
+
+And in the middle of the diagram, so for intermediate composition, the lower G
+
+value is actually a combination of liquid plus plagi.
+
+So, that's why we end up in that field, liquid plus plagi.
+
+So, the mixture of the two components has the lowest Gibbs free energy at these
+
+conditions.
+
+It's similar at T3, so another intermediate temperature.
+
+The more albitic composition has the liquid as the lowest G value.
+
+Then we've got the mixture of phase and then we've got plagioclase.
+
+And at low temperature, so T4 here for example, plagioclase has a lower Gibbs
+
+free energy than the liquid.
+
+So, that's how these phase diagrams are constructed, that's from these G versus
+
+composition relationships.
+
+So, that's it for today for the theory and we will practice that on Wednesday
+
+morning.
+
+So, yeah, as I said, bring a ruler and pencil or things like that, because that
+
+would be useful.
+
+Any questions?
+
+Yeah.
+
+Can you get the seats good? Yes, you can.
+
+Do we need a computer for Wednesday?
+
+Sorry?
+
+Do we need a computer for Wednesday?
+
+You've got to move it.
+
+Make some noise.
+
+See you later.
+
+See you later.
+
+See you later.
+
+It's not going to be computer based this time.
+
+No, not this time.
+
+It's going to be paper based.
+
+Yeah, exactly.
+
+Thank you.
+
+It's alright, see you Wednesday.
+
+Thank you.
+
+You know, this is because it's not working on my phone.
+
+Do I have to message?
+
+No, just, I can add you manually if you want.
+
+Put it on.
+
+How is it?
+
+Good.
+
+See you later.

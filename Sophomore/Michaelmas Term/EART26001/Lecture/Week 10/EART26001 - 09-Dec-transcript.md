@@ -1,0 +1,1729 @@
+---
+title: "EART26001 - 09-Dec-transcript"
+source: "Sophomore/Michaelmas Term/EART26001/Lecture/Week 10/EART26001 - 09-Dec-transcript.txt"
+type: transcript
+---
+
+'EART26001 - 09-Dec', automated transcript
+03/08/2026
+---
+
+Okay, let's get started then.
+
+So today is the last lecture where we actually cover a resource type.
+
+We're going to talk about iron and manganese today.
+
+I want to remind you that we have another final lecture next Tuesday,
+
+so this is not the last lecture.
+
+That's going to happen next Tuesday.
+
+And also, just as a reminder,
+
+we will be having the test-assessed practical next Wednesday.
+
+We're going to be...
+
+I'll probably have to split the group in terms of rooms,
+
+so part of the group will be here, in G03,
+
+and another part of the group will be in G12, G14,
+
+where we normally have our practicals.
+
+So just be prepared to go to either of the rooms.
+
+We will start at 11 next week on Wednesday as regular.
+
+But I also wanted to spend part of the practical tomorrow
+
+to go through some example questions,
+
+mostly for the exam in January,
+
+but also things about the test next week,
+
+and obviously if people have any questions on either one of those,
+
+that's obviously, I guess, one final opportunity to ask them.
+
+Okay, so everyone has scanned the QR code now.
+
+Then I will go here.
+
+And as I said, so we're going to talk about iron and manganese
+
+in today's lecture,
+
+and in particular we're going to talk about one type
+
+of iron and manganese deposits,
+
+which you may have heard about already in your first year class,
+
+the so-called banded iron formations
+
+and banded manganese formations,
+
+which are a marine type of iron and manganese deposit.
+
+So we are firmly still in that surface slash marine type of deposit
+
+that we have been discussing for the last two weeks, really.
+
+And so when I said banded iron and banded manganese formation,
+
+one of the key characteristics, and you see that quite nicely
+
+in that picture from the outcrop in South Africa here,
+
+is that very bedded or banded nature of these rocks,
+
+which obviously occurs at an outcrop scale,
+
+and we also see it at a much smaller scale.
+
+This is just a slab of these rocks.
+
+And so what is interbedded here is different lithologies,
+
+iron-rich lithologies in the detailed photograph.
+
+These are the slightly more reddish layers.
+
+Chert or silica-rich lithology,
+
+so that's here, that's the slightly more grayish bed,
+
+and you also have shales, so mudstones, basically.
+
+So those are the three main lithologies,
+
+and they are interbedded at different scales, obviously,
+
+outcrop scale and all the way down to the microscopic scale.
+
+So really have this very high-resolution interbedding
+
+of different minerals, different lithologies,
+
+which is the key characteristic of these particular units.
+
+And in order to understand their formation,
+
+we need to go back to the Karbal Kraton on South Africa.
+
+We've been through this map before,
+
+so here's the Karbal Kraton, and we've looked previously
+
+at the gold deposits in Barbaton,
+
+in the Barbaton Greenstone Belt over here,
+
+the Vidvatus-run gold deposits.
+
+So these are things that we've covered before.
+
+And now we're looking at rocks that are slightly younger,
+
+about 200, 300 million years younger,
+
+so broadly speaking, 2.4, 2.5 billion years old,
+
+deposited on the western edge of the Kraton
+
+in this blue unit over here.
+
+And in terms of the stratigraphy,
+
+this is an overview of that stratigraphy,
+
+so the gold-bearing conglomerates
+
+that we talked about several weeks ago,
+
+they would be sitting just below the slide,
+
+below what's at Juventus Dorp 2.7,
+
+so they would be slightly older than that.
+
+In this succession, we have essentially sedimentary rocks
+
+that start off with limestone,
+
+so in the blue color here we have limestones,
+
+these large-scale giant stromatolites
+
+that you can see in that picture there,
+
+basically a shallow water depositional system
+
+where carbonates form.
+
+And then on top of that, we have a major banded iron formation,
+
+what's shown here in red,
+
+and there again you can see this very small-scale
+
+interbedding between these different lithologies.
+
+The chert, which is shown here in a lot more darker colors,
+
+and the more yellowish colors are the iron-rich lithologies,
+
+so really like alternation on a very small scale.
+
+And then there's some minor, additional minor iron formations,
+
+just a slightly bit younger,
+
+and then eventually up here,
+
+we go into a major manganese formation
+
+that has very similar characteristics,
+
+so it's highly bedded,
+
+but obviously it's now containing a lot of manganese
+
+in addition to iron.
+
+So in order to understand this overall evolution
+
+of this basin in terms of sedimentology,
+
+where and when these different key lithologies were deposited,
+
+the carbonates that I mentioned before,
+
+they basically formed a huge carbonate shelf
+
+or a carbonate platform,
+
+so in an area of very shallow water carbonate deposition
+
+that stretched over several hundreds of kilometers
+
+from what is today Johannesburg in northeastern South Africa
+
+all the way to the west of the country.
+
+And that's basically all of this succession that you can see here.
+
+These are these shallow water carbonates.
+
+And at the same time, in deeper water off to the west,
+
+you have deposition of iron-rich lithologies on a deep shelf,
+
+probably several hundreds of meters maximum of water depth,
+
+so not really very, very deep water,
+
+not oceanic deep,
+
+but certainly much deeper than those carbonates.
+
+And then eventually you have,
+
+by around 2.5 billion years ago,
+
+you have a major transgression
+
+that basically brings these iron-rich lithologies
+
+all the way over the top of that carbonate system,
+
+so we have deposition of these bedded,
+
+iron-rich and chert-rich lithologies
+
+all over that entire shelf,
+
+that entire former shallow shelf.
+
+And as you can see here, this distinct bedding,
+
+there's no evidence for any sedimentary structures
+
+that would suggest to us that there's deposition in shallow water
+
+under the influence of currents or waves.
+
+So this is relatively deep water deposition
+
+for these granite iron formations.
+
+And it's only at the very top of the banded iron formations
+
+you actually get, like in this case here,
+
+cross stratification, as you can see there.
+
+So this is evidence for shallow water deposition,
+
+but that's a minor part that only really happens at the very top.
+
+So in essence, these biffs, these banded iron formations,
+
+are relatively deeper water deposits,
+
+hence the very distinct lamination or bedding.
+
+Skip over that, we'll talk about that next week.
+
+So in terms of the deposition of processes then,
+
+when we look at the geochemistry of these rocks,
+
+there's some interesting relationships,
+
+because effectively what we're looking at here
+
+is rocks that contain silica, aluminum,
+
+that's a shale, and iron.
+
+And in this diagram here,
+
+we have plotted the geochemistry of iron versus aluminum
+
+for a number of samples from these banded iron formations.
+
+And we have on the horizontal axis,
+
+we have what's plotted here as aluminum
+
+over the sum of aluminum, iron, and manganese.
+
+And that is basically because aluminum is essentially
+
+an element that derives from continental weathering
+
+and then obviously rivers taking aluminum out into the ocean.
+
+So the more aluminum we have in the rocks
+
+is a good indicator for more weathering
+
+or more source of that aluminum from continental weathering.
+
+And that's represented by this wall over here.
+
+That's a typical average shale
+
+which is derived from continental weathering.
+
+Many of the samples actually sit around there.
+
+So there's definitely a continental component in there.
+
+And on the vertical axis, we have iron over titanium.
+
+So that looks at the source of the iron.
+
+In particular, up here is modern hydrothermal sediments
+
+on the East Pacific rise.
+
+So this is basically metal ridge muds
+
+that get deposited around black smokers
+
+near a mid-oceanic ridge.
+
+And you can see that they have very little aluminum
+
+and quite a lot of iron over titanium.
+
+So the idea is, again, loads of samples
+
+from these iron formations cluster around that pole.
+
+We have mixing between two sources of our elements.
+
+So the iron effectively has a signature
+
+that is equivalent of a modern metal ridge sediment
+
+around a mid-oceanic ridge.
+
+And the aluminum has a continentally derived signature.
+
+So we have a mixture of sediments coming from,
+
+or chemistry coming from the continent
+
+and chemistry coming effectively from the black smokers
+
+on a mid-oceanic ridge.
+
+So the idea or the overall deposition model
+
+for these banded iron formations is that you have,
+
+on the one hand, you have your rivers bringing in
+
+both the aluminum but also the silica.
+
+So these are elements derived from continental weathering
+
+being shed by the rivers onto a shelf.
+
+And the iron, on the other hand, has a hydrothermal
+
+mid-oceanic ridge signature.
+
+So these are these metal-rich, iron-rich fluids
+
+that are emanated at MORs and then upwell onto the shelf
+
+and bring the iron onto the shelf.
+
+And then on the shelf, where these two fluids mix,
+
+this is where you actually have deposition of the iron.
+
+And the iron gets deposited by oxidation.
+
+So remember that the iron that's coming out
+
+of the mid-oceanic ridges, those fluids are anoxic.
+
+And remember that the iron 2+, the reduced form of iron,
+
+the ferrous iron, that is soluble under anoxic conditions.
+
+So those fluids can carry a lot of iron 2+, in solution.
+
+And as soon as the iron actually encounters oxygen,
+
+it will then actually start to oxidize to iron 3+,
+
+the ferrous form of iron, and that is less soluble
+
+and will start to precipitate.
+
+So the precondition here is that the oceans,
+
+for a large extent, were anoxic,
+
+so allowing those reducing fluids to upwell onto the shelf.
+
+So remember that we are in early days of the Earth's atmosphere
+
+where the atmosphere and the oceans were not oxygenated.
+
+We'll talk about this a little bit more next week.
+
+Allowing these reducing fluids onto the shelf
+
+where they encountered some oxygen,
+
+and then obviously with that oxidation,
+
+that iron becomes precipitated.
+
+And the iron forms as gels of iron silicates and iron carbonates.
+
+There's also silica that will deposit as a gel.
+
+And then with diagenesis, so readjustment of those primary sediments,
+
+gels, under the influence of slightly higher temperature and pressure,
+
+they will turn into minerals like hematite, magnetite, and siderite,
+
+which are the main minerals that we have in banded iron formations today.
+
+And they contain bulk, around up to 30% of iron,
+
+in those banded iron formations.
+
+So that's the overall mechanism for getting the iron from where it comes from,
+
+black smokers, mid-oceanic ridge,
+
+to its site of deposition and forming the banded iron formations.
+
+But I just wanted to dive a little bit deeper into the mechanism,
+
+because it's quite interesting because it's not only relevant, obviously,
+
+for understanding the mechanisms for forming these rocks,
+
+quite unusual rocks,
+
+but also it gives us some idea about what the earth was like
+
+two and a half billion years ago.
+
+So we'll just want to look at some of these reaction
+
+or possible reaction pathways to actually get the iron oxidized
+
+to form these, to then get it precipitated.
+
+And so there's a few schemes here on the right,
+
+where we basically have iron 2+, coming from these black smokers.
+
+Discharged into an anoxic ocean,
+
+and then somewhere on the shelf, it actually gets then oxidized
+
+and then forming minerals, iron-rich minerals.
+
+And on the left here, there is a number of equations,
+
+chemical reactions that do this.
+
+Don't worry about the details here.
+
+I just wanted to use these to give you a basic sense of what's going on.
+
+So if you just look at the one at the bottom here, this one there,
+
+this is basically a mechanism where we have
+
+purely abiotic oxidation of iron under the influence of light,
+
+or something that's called photo oxidation,
+
+where we basically take iron 2+, together with light,
+
+and that actually, by this process,
+
+you actually then generate iron 3+,
+
+which, as we said, precipitates and forms iron-rich minerals.
+
+So that's a mechanism that works.
+
+It doesn't require any organisms,
+
+and also it doesn't require any free oxygen.
+
+That's important.
+
+So no organisms, purely abiotic, no oxygen required, just light.
+
+What obviously means it has to happen in shallow water,
+
+otherwise you don't have the light.
+
+It works in the lab, but it has never been proven to work
+
+at the large scale that we actually need
+
+in order to form these massive iron-rich deposits.
+
+So that's more of a theoretical approach.
+
+The main idea that people are dealing with these days
+
+is the scenario at the top,
+
+where we have the iron coming from the mid-oceanic ridges.
+
+There is actually free oxygen available in the surface ocean
+
+that's most likely produced by photosynthetic organisms.
+
+So the idea being that photosynthetic organisms,
+
+microbes and algae, developed around that time
+
+or a little bit earlier, so they were able to produce oxygen.
+
+And obviously once that reduced iron comes in contact with the oxygen,
+
+it oxidizes, it forms iron-3+, and it starts to precipitate.
+
+So the requirement here is obviously, A, we need oxygen.
+
+So surface environments need to have been oxygenated by that time,
+
+and also you need light, so you need to be in relatively shallow water.
+
+But you don't need organisms to do anything about it.
+
+It can happen abiotically, apart from obviously the organisms
+
+by photosynthesis producing oxygen.
+
+And then finally, there's different scenarios in the middle here
+
+that involve where there is a direct involvement of organisms.
+
+So biology does actually cause the oxidation and the precipitation of the iron.
+
+And without going into the details of the various equations here,
+
+you can have iron bacteria, for example, that do this.
+
+They only need small amounts of oxygen, but they don't really require light for
+
+it.
+
+You can have purple or green bacteria that can do this process
+
+in the absence of oxygen, but obviously they require light.
+
+There's anoxygenic photosynthesis, so it needs to happen in shallow water.
+
+Or you can have a process called anaerobic oxidation,
+
+which doesn't require oxygen and it doesn't require light,
+
+so it could happen at any water depth.
+
+So depending on what model you believe, or depending on what model people favor,
+
+and there's a lot of research going around in this area,
+
+the exact mechanism of how the iron gets oxidized and precipitated
+
+has implications for our understanding of what the surface environments
+
+of the earth were like two and a half billion years ago
+
+in terms of oxygen concentration. So it's quite an important question.
+
+But beyond that, let's go and move on to the manganese.
+
+So the manganese, as I said before, there is a major manganese deposit
+
+that's slightly younger, around 200 million years younger over here.
+
+And just like with the banded iron formations,
+
+you actually have these very regularly bedded banded rock types,
+
+like in this example over here, where we actually have in addition,
+
+we have banded iron formations in here still.
+
+So these red units over here, there's some hematite in there.
+
+And then in the gray color, there's a mineral called brawnite,
+
+which is a manganese oxide.
+
+So it's an interbedding of iron-rich minerals and the usual chert and shale,
+
+as we have with the biffs. And on top of that, you also have a manganese oxide.
+
+There is one major deposit, which is basically,
+
+it's the largest land-based manganese deposit that we know of in the entire
+
+world.
+
+No surprise, it's in South Africa. It's the so-called Kalahari manganese fields.
+
+It's probably, you know, it makes up something like three-quarters of manganese
+
+supply
+
+in the world today, with concentrations of up to around 40 or 50% of manganese,
+
+and ore bodies that are up to 45 meters thick.
+
+And obviously, they consist of these interbedded lithologies
+
+that I've just described in the previous slide.
+
+In terms of depositional processes, nothing really new.
+
+It's very similar to what we just discussed for the iron.
+
+The only difference obviously here, we are oxidizing manganese.
+
+So manganese and iron share that redox behavior,
+
+where the reduced form, in this case the manganese 2+,
+
+is soluble under anoxic fluids.
+
+And the oxidized form, the manganese 4+,
+
+it actually is insoluble and will start to precipitate and form a manganese
+
+oxide mineral.
+
+So all you need to do is basically you need to take the manganese 2+,
+
+which has the same hydrothermal source as the iron 2+, that we just discussed.
+
+So that's coming from over here.
+
+And you take that and you oxidize it.
+
+So it requires oxygen in the system, according to this equation over here.
+
+It forms manganese 4+, and that manganese 4+,
+
+will then precipitate as a manganese oxide,
+
+that brownite mineral that I've just mentioned previously.
+
+There is a back reaction, which is possible,
+
+whereby the manganese 4+, the manganese oxides,
+
+get re-reduced to form manganese 2+,
+
+and that forms a carbonate mineral, manganese carbonate.
+
+So that's basically a back reaction from manganese oxide back reaction,
+
+reduced form of manganese.
+
+But these are details.
+
+The basic mechanism is very much the same as for the banded iron formation.
+
+Okay, so this is the fundamental mechanisms of how these very unique deposits
+
+actually formed.
+
+But they have one big problem
+
+when it comes to us looking at them from a resources perspective.
+
+They contain up to 30% of iron in the bulk rock,
+
+or a little bit more for the manganese,
+
+which is actually not enough.
+
+Because in order to make this economically viable,
+
+you need something like 40 to 60, 65% of iron in the bulk rock,
+
+because otherwise it's just not economically viable.
+
+And the reason for that is quite simple.
+
+We talked about very early in this class about things like the enrichment factor
+
+and how that relates to the market price of a commodity.
+
+And because iron and manganese are quite widespread in the crust,
+
+they're some of the main geochemical elements in the crust,
+
+you don't usually have much enrichment needed of those minerals.
+
+But also that means that the market price is relatively low.
+
+Remember, iron had one of the smallest market prices
+
+compared to some of the others like platinum or gold.
+
+So at those low prices, you need huge volumes.
+
+You need to mine a lot of these volumes.
+
+So obviously that will drive up your costs.
+
+So in order to make that economically viable,
+
+you want to have a deposit that is as enriched as possible,
+
+and 30% won't cut it.
+
+So like the natural enrichment that happens from the deposition.
+
+So you need to have additional enrichment of these deposits.
+
+And those additional enrichments or there's an upgrade process.
+
+And I wanted to talk about this in the next few slides.
+
+And basically you need secondary enrichment or upgrading by fluids that enrich
+
+the iron.
+
+And those fluids could either be descending from the surface
+
+in a process that we call super gene where they're coming from the top
+
+downwards.
+
+So super gene fluids.
+
+Or they could be hyper gene fluids that actually move in the opposite direction
+
+from below towards the surface, usually along faults.
+
+I want to spend most of the time talking about super gene processes
+
+because this is quite relevant for the banded iron formations in South Africa
+
+and elsewhere
+
+that we've just discussed.
+
+So what this does, it basically takes deposits that have something like up to
+
+about 30% of iron
+
+or 20% of iron that also have high concentrations or contents of silica,
+
+phosphorus, and aluminum.
+
+Remember the types of rocks that we were talking about?
+
+There's shales in there, there's cherts.
+
+So there's not just iron, there's a lot of silica and aluminum,
+
+which we don't want for a high-grade iron ore.
+
+And that super gene process turns this depositional system into an upgraded
+
+system
+
+that has up to about 65, 70%.
+
+So if we're looking at where these deposits occur, this is a geological map of
+
+the area.
+
+And we notice that many of these deposits shown in the reddish dots here,
+
+they're located near the contact between these blue units,
+
+which are the limestones and the iron formations that I mentioned earlier,
+
+and this orange unit over here.
+
+So they all seem to be more or less aligned along that contact.
+
+So when we're looking at the cross-section,
+
+that's the cross-section here that goes basically from south to north,
+
+we notice that the older units, so limestones, there's the original banded iron
+
+formations in red,
+
+they form these broad anticlines and synclines.
+
+So that obviously is evidence that you had compression, you had folding of these
+
+rocks.
+
+And then the younger unit, that orange unit,
+
+is shown right at the top there as a horizontal line, so cutting across all
+
+these different units.
+
+So what this tells us is that we're dealing here with an unconformity, angular
+
+unconformity,
+
+where the older rocks have been folded and deformed,
+
+then they have been eroded, probably because they've been uplifted, exposed to
+
+the air, eroded,
+
+and then the new unit covering the top there.
+
+So this is typically something, as I said, it happens when these rocks are
+
+uplifted and exposed to the air,
+
+so aerially exposed, and that usually goes along with formation of a soil.
+
+So that orange unit is nothing but a soil that's around 2.2 billion years old.
+
+So the soil formation is obviously, well, at least that's going to be really
+
+important for the upgrade of our ore.
+
+So if we look at this in a bit more detail, so what actually is happening here?
+
+So this purple line, that's that unconformity that I just talked about,
+
+and below we have carbonates in blue and the iron rich deposits, the iron
+
+formation in the orange and red colours.
+
+And near the top of the unconformity, they have been upgraded to 65%.
+
+And the carbonates, they look like this in the mines, so you have these pillars
+
+of limestone.
+
+So what happens to the carbonates is they have been castified, they have been
+
+dissolved.
+
+So I don't know how much you've been talked about processes that happens in soil
+
+and carbonates in particular in the first year,
+
+but basically when you think about a limestone deposit that gets uplifted,
+
+exposed to the air,
+
+soil formation on top, you have rainwater falling onto it.
+
+The rainwater picks up organic acids in the soil and turns into a mild acid.
+
+And that mild acid is then able to dissolve the limestone below, forming caves.
+
+We all know about cave deposits and also these irregular pillars.
+
+So this is evidence for exposure and dissolution of the carbonates underneath
+
+that soil.
+
+So the carbonates are castified.
+
+And also the upgrading of the iron formation seems to be strictly related to
+
+that unconformity.
+
+So again, similar processes relating to fluids that moving from the top down,
+
+super gene fluids,
+
+that will also upgrade the iron formation.
+
+Before we look at the process in detail of how this actually works, let's just
+
+look at the result first.
+
+So these are just some geochemical data from different iron-rich rocks.
+
+So the original banded iron formation, that's the red bar over here.
+
+In terms of iron, 28%, that's the original depositional iron content.
+
+The ore deposits, the secondary upgraded ore deposits have up to 68%.
+
+So these are just different examples of that.
+
+So there's a significant increase in iron and there's a significant decrease in
+
+silica.
+
+So that's the original iron formation here, 50% silica down to less than 5% of
+
+silica in the upgraded ore.
+
+And aluminium, there's also an increase in aluminium in these ores.
+
+So this is for the iron-rich rocks. For the manganese, we have that on the
+
+right.
+
+This is the original bif and manganese formations in terms of iron content in
+
+the ores.
+
+It's upgraded to about double.
+
+And also the silica content goes down quite significantly from the original ones
+
+to the upgraded ores.
+
+So we just see in this upgrade process the increase in manganese, the increase
+
+in iron,
+
+the decrease in silica and the partial increase in aluminium.
+
+And the end result is a massive ore that looks like this.
+
+That contains up to about 65% of iron.
+
+So this is what we need, this upgrading.
+
+And as I said, so as we are looking at something that happens below a soil,
+
+we're looking at supergene soil-related processes.
+
+And in order to understand what's going on, again, let's do some geochemistry.
+
+So on the left here, we have a diagram that shows the solubility of aluminium,
+
+that one here, and silica, in a pH space.
+
+So it relates to pH.
+
+So we have these solid lines.
+
+Above the solid lines, these elements are insoluble, they will actually
+
+precipitate.
+
+And below the solid lines, they are soluble, they will be put into solution.
+
+And so the fluids that move through the soil, they have a pH of around 5 to 9.
+
+And in that pH range, we notice that silica is more soluble than aluminium.
+
+That silica line is over here.
+
+While silica goes into solution at that pH range, aluminium remains insoluble.
+
+So what that means is that those fluids, they will be able to dissolve silica,
+
+but not the aluminium.
+
+Once the silica has been put into solution, it can be carried away.
+
+So that is a mechanism to get rid of the silica that we have in the banded iron
+
+formation.
+
+The other thing is looking at iron.
+
+The solubility of iron increases as we go to the lower pH values.
+
+So if we decrease the pH, we can put more iron into solution,
+
+but also then we have to consider the oxidation of that iron.
+
+And the iron 2+, with oxidizing fluids, these fluids are going to be oxidizing,
+
+because they're surface fluids, the iron 2+, will be oxidized further into iron
+
+3+,
+
+and that can then be re-precipitated locally,
+
+which will also then lead to local enrichment of the iron, as indicated over
+
+here,
+
+where we have iron enrichment under the influence of these fluids.
+
+So the end product is something that in the modern world looks like this.
+
+There's a picture down here at the bottom, this one here.
+
+This is a picture that comes from a tropical area,
+
+it could be Brazil or somewhere in South America or in Africa,
+
+where we actually have this very reddish soil forming here,
+
+which is rich in iron and rich in aluminium.
+
+Because of those processes, we have enriched the iron and the aluminium in the
+
+soil.
+
+And that is called a laterite, that soil.
+
+So laterite formation, so laterite formation is something that we know of,
+
+happens today.
+
+So the idea is that that same mechanism was able to upgrade the iron ore back 2
+
+.5 or 2.2 billion years ago.
+
+So we're basically looking at an ancient laterite there.
+
+So that's that mechanism of super-gene enrichment of iron.
+
+So the idea here is obviously that it's the influence of those
+
+meteoric groundwater, rainwater infiltrating from the top down,
+
+which is key in upgrading the iron ore,
+
+and also the same fluids are able to dissolve and castify the limestones below.
+
+So these are both manifestations of that process,
+
+but obviously the castification is not needed for the upgrade of the iron ore.
+
+They just happen to be occurring at the same time.
+
+So for this particular area, the model is something like this.
+
+Carbonates, iron-rich rocks deposited one on top of the other.
+
+Castification after uplift, where relatively low pH fluids dissolve the
+
+limestones,
+
+form these sinkholes in which the banded iron formations collapse into.
+
+But then as those fluids dissolve the carbonates,
+
+by dissolving the carbonate, they will be buffered,
+
+and the pH rises back again, so the alkalinity of those fluids goes back up
+
+again.
+
+So these are now relatively high pH fluids,
+
+and these are then the fluids that are able to dissolve the silica and upgrade
+
+the iron.
+
+So that's how these two processes of castification and iron ore upgrade are
+
+linked,
+
+by fluids coming from the top down, dissolving the carbonates,
+
+picking up alkalinity, and then being able to dissolve silica,
+
+but not the aluminum, and then the iron, as I said before, gets oxidized and re
+
+-precipitated as iron 3+.
+
+So this is typically what happens with super-gene processes as an upgrade
+
+mechanism for these ores.
+
+So with that, that's basically what I wanted to talk about,
+
+about the formation of these manganese and iron-rich deposits.
+
+So we looked at really just like a small part of that whole spectrum of
+
+deposits.
+
+That diagram down here at the bottom shows you there's many other types of iron
+
+-rich and manganese-rich deposits,
+
+which most of these we haven't covered.
+
+We really only looked at these chemical deposits.
+
+So these are the bended iron and bended manganese formations,
+
+where we have the iron and manganese-rich seawater being oxidized.
+
+And we also talked about the formation of laterites.
+
+But in addition to that, we also have things like, for example, manganese
+
+nodules in the deep ocean,
+
+where manganese oxides actually get concentrated.
+
+We haven't talked about this.
+
+There's also deposits that are related to magmatic processes,
+
+so where we have iron-rich magmas that actually form iron-rich deposits, so
+
+these iron oxide deposits.
+
+The best example that we know of is Kiruna in Sweden,
+
+which is one of the main iron deposits in the world.
+
+That's related to granitic intrusion, so it has nothing to do with the bended
+
+iron formation that we just talked about.
+
+So there's a whole range of deposit types related to iron.
+
+While we are on the subject of these surface laterite deposits,
+
+I just wanted to make a bit of a detour from the iron and the manganese,
+
+because they're not the only deposits that form in this way.
+
+So this is quite an important mechanism of forming deposits, so-called residual
+
+or superficial processes.
+
+So this goes for iron and manganese, as we've seen.
+
+It goes for elements like the rare earths.
+
+It goes for nickel, also for gold, usually above ultramafic rocks.
+
+And it also goes for aluminium.
+
+So I wanted to talk a little bit about aluminium, which is important again for
+
+the energy transition,
+
+because as you see there, aluminium is very abundant.
+
+It's one of the main elements in the crust.
+
+It also has a low density and a very high ratio between strength and weight.
+
+It has a good conductivity for heat.
+
+It's resistant to corrosion, so it's used a lot as a lightweight construction
+
+material in different industries.
+
+And the main resource for aluminium is bauxite, a mineral called bauxite.
+
+And a bauxite is strictly related to this laterite formation that I've just
+
+talked about.
+
+So an example here, this is from the Cretaceous in Spain, where we have on top
+
+of the bedrock,
+
+this is a limestone bedrock, we have this laterite, which actually has a lot of
+
+bauxite in it,
+
+and it usually occurs as these spherical grains or piezoids.
+
+So typically we find these bauxite deposits related to long-term weathering.
+
+So this is an example, this comes from South America.
+
+This is the earth's surface in this part of South America.
+
+That's a topography in a cross-section from south to north.
+
+Below here we have Precambrian granites that have undergone a long time of
+
+weathering.
+
+And then during the Cretaceous, that's when the main weathering event occurred,
+
+forming this surface, this crust, where the bauxite is concentrated,
+
+and then later erosion has basically cut this surface, so this is drainage cut
+
+into that surface.
+
+But you have a surface that's at an elevation of around 600 metres today,
+
+which represents an ancient weathering surface where this bauxite has
+
+concentrated, and obviously the aluminium.
+
+And if you look in detail, this is how this weathering surface would look like.
+
+This example here, this is from Saudi Arabia, and you can see that's an ancient
+
+soil profile,
+
+with a person there that's about four metres thick, containing iron and
+
+aluminium,
+
+and it has these rounded grains, these piezoids in them.
+
+So as I said, it's similar to what we just talked about for the iron-rich soil
+
+formation.
+
+So this goes back to the soil forming mechanisms that we talked about earlier in
+
+the lecture,
+
+where we have an unaltered bedrock, could be of any type, could be carbonates,
+
+could be granite, doesn't really matter,
+
+which in the soil profile, this is the soil profile or the regolith,
+
+undergoes alteration by a number of dissolution and cementation processes
+
+under the influence of those meteoric fluids infiltrating into the soil.
+
+And without going into the details, there's lots of redistribution of minerals
+
+in that regolith,
+
+and the key thing that's relevant for us, it's in the top part, so around here,
+
+looking at the detail over there,
+
+we have these different zones within the regolith, and you notice that in the
+
+nodular ironstone,
+
+we have about 25% aluminium and about 35% of silica, and obviously lots of iron,
+
+but then if you go above that, in the bauxite, the aluminium content goes up to
+
+about 50% and the silica goes down to 2-6%.
+
+So again, we see that separation between aluminium and silica, and obviously the
+
+aluminium gets concentrated and forms the bauxite.
+
+So that's related to the same mechanism, and this is obviously something that
+
+happens a lot in humid climates,
+
+so in tropical areas where we have laterite formation, where aluminium gets
+
+concentrated, silica gets removed,
+
+but also the iron gets removed under dropping pH.
+
+In a more semi-arid climate, the iron is more stable, and that would be more
+
+like what we saw for the enrichment of the banded iron formation
+
+under supergene processes from more of an iron-rich crust.
+
+So it's a bit of a climate variation that will drive or determine which minerals
+
+get concentrated.
+
+But the underlying mechanisms are the same, and so this is obviously the same
+
+diagram that we looked at before on the left here.
+
+So a key process that happens in the formation of bauxite is this one.
+
+You take a feldspar mineral and you hydrolyse it, you actually add water to it,
+
+and by losing its silica content via this mechanism that we talked about here,
+
+it actually forms kaolinite, where the aluminium gets enriched,
+
+and you lose further silica and you form a mineral called gypsite, which is one
+
+of the main minerals in bauxite,
+
+which contains a lot of aluminium.
+
+So overall, in this ternary diagram with a pool of silica, iron and aluminium,
+
+the process of bauxite formation will basically drive the rocks in terms of
+
+their composition towards that corner over here.
+
+So bauxitization, as it says over here.
+
+So this is basically the same mechanism applied not to iron, but applied to
+
+aluminium
+
+and the concentration of aluminium in bauxite as the main resource that we have
+
+today for this metal aluminium.
+
+If you look at this globally, so these bauxite deposits are widespread, as you
+
+can see on the map.
+
+There's quite a number of places, unsurprisingly.
+
+Loads of those are in the tropical areas of northern South America, Africa and
+
+Southeast Asia.
+
+This is where, you know, typical laterite formation would happen.
+
+But there's also ancient bauxite deposits in other places, which are not in the
+
+tropical areas today.
+
+In addition to aluminium, there's also other things like rare earth elements as
+
+a secondary resource,
+
+because they're absorbed onto these iron oxides.
+
+So there's a lot of work going on, even also including in this department,
+
+of working out how we can actually extract those rare earth elements from that
+
+bauxite.
+
+And as I said before, there's also nickel and gold as additional commodities
+
+that are related to the formation of these laterites.
+
+So it's not just iron and aluminium, obviously.
+
+So it's a quite common type of deposit that forms under the influence of these
+
+supergene fluids.
+
+Okay, with that, I want to leave the formation mechanism,
+
+just spend a few slides on talking about exploration and production.
+
+For that, I will be going back to iron properly.
+
+So, I mean, as you already know, when it comes to exploration,
+
+geophysics is going to be something that is being used a lot.
+
+And obviously in the case of iron, in particular manganese as well,
+
+we can exploit the magnetic properties of the iron.
+
+Many of the iron minerals in bended iron formations or other iron deposits are
+
+going to be magnetic,
+
+so we have an elevated magnetization.
+
+So, for example, the mineral magnetite.
+
+And that can be used in the magnetic survey.
+
+So like an airborne magnetic survey, an example of that on the right is shown
+
+from Australia,
+
+where we have, this is the result of the magnetic survey.
+
+So the lighter coloured areas here have an elevated magnetic anomaly,
+
+which quite nicely coincides with the mapped areas of iron rich deposits,
+
+particularly these ones over here and that one over there and a few over here.
+
+So we could clearly use this to identify the presence of iron rich deposits.
+
+This is obviously happening in 2D on the map,
+
+but we can also do geophysical modelling, like in this case here on the left,
+
+where we actually identify the 3D architecture, 3D morphology of that ore body,
+
+which in this case is dipping at an angle into the subsurface.
+
+And by running a magnetic survey across it,
+
+we can actually determine exactly how that body goes into the subsurface.
+
+So quite advanced techniques to really identify the location of these ore
+
+bodies.
+
+So that's using magnetics, but obviously the other thing,
+
+because these minerals are quite dense compared to their surrounding country
+
+rocks,
+
+gravity is going to be another thing.
+
+So the elevated density being used of both the iron and the manganese rich
+
+minerals
+
+is being used to identify them on gravity surveys.
+
+Staying with geophysical techniques, this is more so like less for exploration,
+
+but also more for identifying the internal architecture of a deposit
+
+once you have identified the deposit in the first place.
+
+This is a number of boreholes through abandoned iron formation,
+
+which as I said before, abandoned iron formation,
+
+they are interbedded with shales,
+
+which is obviously not interesting from a mining perspective
+
+because they don't contain iron.
+
+But obviously the shales have the advantage of having a lot of uranium,
+
+potassium and thorium, which shows up quite nicely on a gamma ray,
+
+so a natural radioactivity survey.
+
+And you can see here the gamma ray signal in these boreholes,
+
+quite high in the shales, and that one down here,
+
+and low in the iron ridge rocks.
+
+So obviously that can be used to determine the internal architecture
+
+of the deposit in the subsurface.
+
+And then of course there's geochemistry,
+
+lots of geochemistry being done here to map out the ore grades.
+
+So once you have identified a deposit using either surface samples or boreholes,
+
+you map out the grades within these boreholes,
+
+so that's something that we regularly do.
+
+But also you can use the geochemistry to constrain the origin of the fluids,
+
+because I said again before that it's important that we have this,
+
+very often it's important that we have this secondary enrichment of the iron.
+
+We talked about super-gene processes,
+
+but also you can also have fluids coming from below,
+
+moving up along faults and then re-oxidizing the iron,
+
+redistributing the iron, forming a hypo-gene upgraded deposit.
+
+And here the geochemistry is actually being used to identify this.
+
+We have here a deposit, so the gray are the iron ridge deposits,
+
+and this is isotope work that looks at oxygen isotopes,
+
+and the more negative numbers reflect higher temperatures
+
+of the fluids involved in the reprecipitation of iron.
+
+And higher temperature obviously means they must be coming from further down,
+
+so this is evidence that these fluids have migrated from below
+
+and then reprecipitated the iron.
+
+So that would be a case of hypo-gene upgrade.
+
+And then finally we go into the mining.
+
+Many of these sedimentary deposits,
+
+the banded iron and the banded manganese formation,
+
+are quite soft actually,
+
+so they're usually mined by open pit mining,
+
+where the walls of the pit are blasted
+
+and then dumped onto these big trucks
+
+and then carried out for further processing.
+
+On the other hand, iron deposits that are related with, for example,
+
+magmatic processes like the Kiruna mine in Sweden,
+
+these are hard ores, very, very hard ores,
+
+and there most of the time underground mining, blasting of galleries is
+
+happening,
+
+and then obviously from there that ore is then transported towards the surface
+
+and then further processed.
+
+Now in terms of the processing or the beneficiation of this,
+
+this would be a typical workflow.
+
+We have the original ore coming from the mine.
+
+It's then being milled into different grain sizes,
+
+and then you can use magnetic and density separators
+
+to separate the manganese-rich rocks and the iron-rich rocks
+
+from the non-iron manganese-bearing rocks,
+
+so again exploiting the magnetic and the density properties of these minerals,
+
+creating a concentrate, a pre-concentrate,
+
+and then what's happening a lot is a process called flotation.
+
+I think we talked about this already earlier on,
+
+but basically you take this pre-concentrate of iron,
+
+you mix it with water and a foaming agent,
+
+you're creating a slurry that's pumped into these big tanks,
+
+and then in the tank you have a paddle that's rotating,
+
+and you're pumping and you're also injecting air into it,
+
+so basically you're mixing this whole thing up
+
+and the whole mixture is starting to froth and bubble up,
+
+and particles that are hydrophobic,
+
+so they will be water repellent like the iron oxide particles,
+
+they will actually stick to the bubbles,
+
+and then everything else will be in the water,
+
+so once you have done that you can basically just skim off that foam at the top,
+
+which will have a lot of concentrated iron,
+
+so with that you actually create a concentrate that has up to about 55-65% of
+
+iron,
+
+and even more, which can then be palletized and sintered,
+
+and it's ready for shipping.
+
+Lastly, a few words on environmental aspects of the mining,
+
+so manganese and iron ores by themselves are not toxic in any way,
+
+in most ways really,
+
+so the minerals themselves do not really cause a problem,
+
+but obviously, as I did say, that for these parent iron formations
+
+a lot of the mining happens by open pit operations,
+
+which means that you have degradation of the environment simply by the operation
+
+of an open pit,
+
+and this is just an example that's a couple of years old from Australia,
+
+where this was an aboriginal site in Australia,
+
+which was blasted to extend an iron ore mine without getting permission,
+
+actually they were given permission, sorry,
+
+they were given permission to actually blast this aboriginal site,
+
+so this is just one aspect of the effects of open pit mining.
+
+Another one which you're also familiar with is what we call acid mine drainage,
+
+which obviously is something that happens a lot in sulfidic rocks,
+
+where we have surface waters that are oxidizing the sulfur
+
+and basically creating sulfate and hydrogen,
+
+which together form sulfuric acid and also form oxidized iron.
+
+So that's obviously something that happens in, for example, tailings of pyrite
+
+and other sulfite minerals,
+
+but it also happens on a natural scale,
+
+so the entire mountainside basically when it's raining on it,
+
+and so like in the subsurface you actually have these sulfidic rocks,
+
+when those meteoric waters oxidize those sulfides,
+
+you can actually have a decrease in the pH of the streams coming off that
+
+mountainside,
+
+so it's not only something that happens or is related to human mining activity,
+
+it can also happen naturally,
+
+but obviously the end result is problematic having these very low pH fluids.
+
+And then lastly, one last aspect that's probably a little less known is what's
+
+related to asbestos.
+
+So many of the bended iron formations actually after they were formed and after
+
+they were upgraded,
+
+they also in many cases underwent metamorphic overprint by mountain building
+
+processes,
+
+and that metamorphic overprint created minerals like these ones here
+
+that are fibrous varieties within the serpentine and amphibole groups of
+
+minerals.
+
+So this one here is an example, this is a mineral called crocidolite,
+
+and you can nicely see these little fibers in there.
+
+So these minerals collectively are known as asbestos,
+
+which obviously asbestos is something that we have used or has been mined up
+
+until the 1980s
+
+because it has these heat-resistant properties,
+
+and many buildings in the world still contain asbestos within them.
+
+Once those get remineralized even further,
+
+you form these nice gemstones like these tigers are here on the left,
+
+which are not dangerous anymore,
+
+but the fibrous varieties, these asbestos,
+
+it's a known carcinogen, it's causing cancer,
+
+and if you inhale it, it also causes lung disease called silicosis.
+
+And obviously with many of the mine tailings from asbestos mining left open
+
+without any further protection after the mine closed,
+
+you can easily imagine that wind can pick up these fibers very easily
+
+and redistribute them to urbanized areas nearby.
+
+So it's not just the miners that work these mines,
+
+but also the people living nearby that still suffer from the effects of asbestos
+
+mining decades later.
+
+Okay, with that, I wanted to leave it there.
+
+So we've covered quite a number of things related to manganese and iron,
+
+the main ones that we talked about, obviously, marine chemical sediments and
+
+laterites.
+
+We looked at the different processes there.
+
+So that was the last deposit type that I wanted to talk about.
+
+Next week I want to talk about some general global trends in terms of ore
+
+deposits.
+
+We'll talk about this next week, and I'll see you tomorrow for the practical.

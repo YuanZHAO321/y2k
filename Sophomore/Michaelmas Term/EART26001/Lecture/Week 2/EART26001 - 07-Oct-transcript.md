@@ -1,0 +1,1877 @@
+---
+title: "EART26001 - 07-Oct-transcript"
+source: "Sophomore/Michaelmas Term/EART26001/Lecture/Week 2/EART26001 - 07-Oct-transcript.txt"
+type: transcript
+---
+
+'EART26001 - 07-Oct', automated transcript
+03/08/2026
+---
+
+Let's get started.
+
+So welcome back.
+
+This is the second lecture.
+
+And after last week's introduction,
+
+I want to dive deeper into some of the processes
+
+or the key concepts that we need when we're
+
+trying to understand resource deposits.
+
+And last week, one of the things that I highlighted,
+
+one of the key takeaways, if you like,
+
+was the need to concentrate elements
+
+that are present in the crust in usually very low
+
+concentrations, to concentrate them
+
+in a very specific place at relatively high concentrations
+
+in order to form a resource deposit.
+
+And to illustrate this basic idea, what I mean by this,
+
+I wanted to use this schematic of a geyser, which
+
+is something that you may have seen in pictures
+
+from Iceland or from any volcanic areas
+
+where you have these places where hot water comes
+
+to the surface in these sort of like short scale eruptions.
+
+But what the geyser really is, where the water comes
+
+to the surface, is nothing but the top part of,
+
+if you like, a plumbing system where hot water is heated
+
+at depth and comes back towards the surface.
+
+And this hot water, because water carries thermal energy,
+
+it's usually referred to as a hydrothermal system.
+
+Hydrothermal comes from the energy stored within water.
+
+So what happens with these sorts of systems
+
+is that they provide a very convenient way of giving us
+
+all the different elements that you
+
+need for this mechanism of concentrating
+
+elements in a specific place within the crust where
+
+it forms a deposit.
+
+So in this scenario, in this sketch here,
+
+what we have is we have cold water entering its surface.
+
+It sinks down within the crust due to buoyancy.
+
+And then somewhere at depth, there may be a heat source.
+
+Could be a volcanic intrusion, could be a granite,
+
+which basically then heats up the water.
+
+And then, again, because of buoyancy,
+
+that now heated water will start to rise up
+
+back towards the surface.
+
+And eventually emerges as the geyser.
+
+But what it does in the process is
+
+that heated water is able to dissolve certain elements
+
+within the crust.
+
+It says silica here, but this could be any other element,
+
+potentially.
+
+And then once it's dissolved, obviously that water
+
+will be able to carry and transport those elements
+
+towards the surface.
+
+And then all we need is a mechanism
+
+to precipitate those elements back out of the fluid,
+
+back out of the water into the surrounding rock.
+
+And we have a resource deposit,
+
+ideally at concentrations that are much higher
+
+than those concentrations of those elements
+
+in the first place.
+
+So you end up with something that looks a bit like this.
+
+Obviously, this is at a very small scale.
+
+This is a copper deposit from North Wales.
+
+And everything which is shown in green here,
+
+these are copper-bearing minerals
+
+that have been concentrated by a mechanism
+
+similar to what I've just described here schematically
+
+in this particular one place, forming a deposit
+
+that has been exploited by humans.
+
+So what is really important here, what this illustrates,
+
+is that systems like this involving fluids
+
+are able to selectively dissolve certain elements,
+
+transport them, and re-precipitate
+
+and concentrate them somewhere else
+
+in a very specific location.
+
+So we're dealing with a mass transfer of material
+
+from one part of the crust to the other.
+
+And that mass transfer involves, to a large extent, fluids.
+
+So what we really need to worry about
+
+is understanding the mechanisms
+
+to facilitate this mass transfer
+
+and understand the fluids,
+
+because fluids are gonna be really important
+
+throughout much of our discussion.
+
+And on top of that, obviously,
+
+we need to understand not just the transport
+
+and enrichment mechanisms,
+
+but also what are the pathways?
+
+How do those fluids move through the crust?
+
+Also, one fundamental problem always is
+
+we're adding new materials into a place
+
+where these materials haven't been before.
+
+So we need to create space,
+
+physical space for these materials.
+
+So we need to worry about this.
+
+And then finally, we need to worry about
+
+the actual precipitation mechanism.
+
+So all of this, in a nutshell, really,
+
+is what resource geology really is all about,
+
+is understanding all of these different processes
+
+and putting them into context.
+
+And so what that means in the next weeks, two weeks,
+
+I will be talking a lot about the properties
+
+in the subsurface,
+
+so understanding how things move and why.
+
+And we'll also talk about the fluids that are involved,
+
+classify them, and we'll also talk about
+
+at a high level, at a generic level,
+
+about the different types of deposit
+
+that you might get in relation
+
+with those fluids that are involved.
+
+So with this in mind, then,
+
+basically what we're gonna be doing today
+
+is we will talk about the fluids.
+
+We will talk about different physical conditions
+
+in the subsurface, in particular,
+
+gradients of pressure and temperature,
+
+deformation of rocks, porosity, permeability,
+
+and how they control the transport of fluids
+
+and the mechanisms of precipitation of minerals.
+
+So this is what we will cover in these two weeks.
+
+So let's start with the subsurface environment
+
+in the first place.
+
+So really, what are the physical conditions
+
+in the subsurface?
+
+Because obviously, that's something
+
+that we need to understand,
+
+going back to this idea about uncertainty
+
+that I mentioned as well last week,
+
+that we need to predict things happening in the subsurface
+
+from very limited data.
+
+So one of the things that, as you all know,
+
+changes with depth is temperature.
+
+As you go further down into the crust,
+
+the temperature increases.
+
+And this is described by what is called
+
+the geothermal gradient that describes
+
+this increase in temperature with depth.
+
+In this graph here, we have depth on the vertical axis,
+
+and the corresponding pressure change
+
+is also on the vertical axis,
+
+and the temperature on the horizontal axis.
+
+And we have plotted here four different geothermal gradients
+
+going from about 10 degrees per kilometer
+
+to about 35 degrees per kilometer.
+
+That reflect this increase,
+
+or describe this increase in temperature
+
+in different geotectonic settings.
+
+So on the one hand, we have what's called a craton,
+
+so you already know what a craton is,
+
+basically just very old pre-Cambrian cores
+
+of the continents, so very old crust,
+
+and as a consequence of it being very old,
+
+it's also very cold.
+
+So the geothermal gradient will be rather small,
+
+so about 10 degrees per kilometer, as I said.
+
+And then on the other end of the spectrum,
+
+we have a rift system here.
+
+Rifts are places where there's actually a lot of heat
+
+being made available, including volcanism,
+
+so as a consequence, because of that higher heat flow,
+
+you have a much higher geothermal gradient
+
+of about 35 degrees, or even more in some cases.
+
+And obviously, you can have lots of different gradients
+
+in between those end members.
+
+So this is one important thing to keep in mind,
+
+the increase of temperature with depth.
+
+Another property that increases with depth is pressure.
+
+So if you are displacing yourself down into the crust,
+
+going deeper into the crust,
+
+what is basically acting on you
+
+is the weight of the overlying rock column.
+
+So this rock column exerts a uniform load pressure,
+
+so it's a uniform pressure that is the same
+
+in all directions, that is acting on any place
+
+within the crust, and this is what we also refer to
+
+as the lithostatic stress, or the confining stress.
+
+Again, these are concepts that you have heard about
+
+in the first year already.
+
+And so this is described, and in this graph here on the left,
+
+where we have depth, pressure increasing towards the right.
+
+The black straight line here, this is what we refer to
+
+as the lithostatic stress, or the lithostatic gradient.
+
+This is what derives from this overburn.
+
+It's using here an average rock density
+
+of two and a half grams per cubic centimeters,
+
+which is basically the average density
+
+of crustal rocks on the planet.
+
+But obviously, that can vary from location to location.
+
+So this is the pressure and the pressure increase
+
+exerted by the volume of rock, the dry rock
+
+where there's no fluid involved.
+
+If on the other hand, you have fluid involved,
+
+so this could be, say, at the bottom of the ocean,
+
+for example, obviously, what is exerting pressure
+
+on a submarine in the ocean, obviously,
+
+that's the weight of the water column above it,
+
+and that's, and the equivalent pressure
+
+that we refer to here, that's what's called
+
+the hydrostatic pressure, or the hydrostatic gradient,
+
+which, because the fluid density of water is one,
+
+as a consequence, this gradient is smaller.
+
+So we are creating a space
+
+between hydrostatic and lithostatic.
+
+One end member is pressure exerted entirely by fluid,
+
+the other end member is pressure
+
+exerted entirely by dry rock.
+
+Obviously, you will know that conditions
+
+in the subsurface will be a mix.
+
+There will probably never be an entirely dry rock,
+
+and there will never be just fluid.
+
+So the condition in the subsurface
+
+will be between those two end members.
+
+So as a consequence, typical pressure evolution
+
+in the subsurface is described by anything
+
+that is within this triangle here.
+
+And just one example is this line here,
+
+which is an example of a typical pressure evolution
+
+in the subsurface where you have a mix
+
+of dry rock and fluid.
+
+Another aspect that we need to consider
+
+when we're talking about the subsurface
+
+is this concept of porosity.
+
+So porosity is the space within the rock
+
+that is available to store fluids.
+
+And it's nothing but the proportion of the poor volume
+
+over the volume of the entire rock that we're looking at.
+
+So in our diagram here, everything which is yellow,
+
+this is the rock framework, or the grains of the rock,
+
+and everything which is blue
+
+is actually quite a bit of porosity,
+
+so which could be filled with any fluid
+
+from water to CO2 to hydrocarbons.
+
+So porosity refers to the storage capacity
+
+of a rock for fluid, and it's expressed
+
+as a fraction or as a percentage.
+
+Related to porosity, we have permeability.
+
+So permeability refers to the ability
+
+of a rock to flow fluid, not to store them,
+
+but actually move them along.
+
+So in this photograph of a thin section,
+
+you have pore spaces shown in blue,
+
+and in the gray colors, this is grains,
+
+sandstone grains, and the yellow arrows indicate,
+
+sorry, and obviously you have pore spaces, or pores,
+
+and then in between the pores, connecting those pores,
+
+are what we refer to as pore throats.
+
+So these narrow spaces here
+
+that connect the individual pores.
+
+And then the yellow arrows indicate the fluid pathway
+
+that any fluid would have to take
+
+in order to move through this pore space here.
+
+And you can imagine the more tortuous
+
+that flow path becomes,
+
+that means that the ability to flow is reduced.
+
+So permeability describes that ability to flow.
+
+So a more straight or more linear flow path
+
+means a high permeability,
+
+a more tortuous convoluted flow path
+
+basically means a low permeability,
+
+and that is expressed either as square meters
+
+or by the unit of Darcy.
+
+All right, so these are already
+
+four very fundamental parameters
+
+that we need to understand.
+
+Another thing that we need to look at
+
+is rocks do deform in the subsurface,
+
+and again, something that you have already heard.
+
+In geological reality, I mentioned earlier
+
+that we have this uniform load pressure
+
+exerted by the volume of rock above us.
+
+In geological reality, however,
+
+because we have lateral transmission of forces
+
+through the Earth's crust,
+
+and to a large extent, this is due to plate tectonics,
+
+plates moving around, that will actually mean
+
+that forces are transmitted laterally within the crust.
+
+As a consequence of this,
+
+we have differential or triaxial stresses
+
+rather than uniform stress within the crust.
+
+And the stress, just by definition,
+
+is a force applied per unit area.
+
+So you will have heard about these stresses here,
+
+tensional, compressional, and shear stresses,
+
+and they have been applied in the first year
+
+to the formation of faults.
+
+So these are these triaxial stresses
+
+that we're talking about, and they are triaxial
+
+because we can actually break them down
+
+into three main components,
+
+and they're referred to as these stress vectors
+
+called sigma one, two, and three.
+
+And this is illustrated in this graph here on the right.
+
+The red arrow, that's so-called sigma one,
+
+which is the direction of the greatest stress vector
+
+of the three.
+
+The blue one is the least stress,
+
+also referred to as sigma three,
+
+and then perpendicular to these two is sigma two,
+
+which is an intermediate stress.
+
+So these three stresses, these are the principal stresses
+
+that occur as a result of lateral transmission of forces,
+
+and they can act on a rock,
+
+and obviously, as a consequence of this,
+
+we'll see deformation of the rock,
+
+for example, the formation of faults.
+
+So the formation of a fault is a reaction to this stress,
+
+to this force acting on a rock,
+
+and that's referred to as strain.
+
+So how do rocks deform?
+
+There's another concept that we need to add in here,
+
+and this is the concept of brittle
+
+versus ductile deformation.
+
+So you will hopefully recall from physics classes
+
+that if you compare any material,
+
+any material that we're dealing with,
+
+it will deform in an elastic or in a ductile way.
+
+So if we plot stress, so the force that we act on the rock
+
+and the deformation, which is the strain on the horizontal,
+
+initially, when we increase the stress,
+
+a material will deform elastically,
+
+so once we release the stress,
+
+it will bounce back to its original state,
+
+so that's elastic deformation,
+
+up to what we refer to as the elastic limit.
+
+Once we are past that,
+
+we're entering the realm of ductile deformation,
+
+where we continue adding, exerting a stress on our material,
+
+but if we release the stress,
+
+it doesn't go back to the original state,
+
+so we have a permanent strain, a permanent deformation
+
+that is staying within the material
+
+until we get to the point where it just breaks and fractures.
+
+So that's the basic physics of deformation of any material.
+
+When we're looking at geological materials,
+
+we're looking specifically at the definition
+
+or the subdivision between brittle and ductile deformation.
+
+So brittle materials, they will behave in this way,
+
+so they will behave elastically
+
+over a fairly long stress range
+
+until they reach the elastic limit
+
+and there's only a very short area, a short period,
+
+where deformation is ductile until they break.
+
+So this is something that will happen mainly
+
+in conditions of lower temperature and lower pressure.
+
+So in geological terms,
+
+this will be in the shallower parts of the crust.
+
+So one typical reaction or one typical mechanism here
+
+is the formation of a fault.
+
+So a fault, faulting of rocks,
+
+is just the brittle behavior of rocks
+
+in shallower parts of the crust.
+
+On the other hand, we have a ductile deformation of a rock,
+
+where the material deforms elastically
+
+over a relatively shorter interval.
+
+And then there's a fairly long range or long interval
+
+where the deformation is ductile.
+
+And this is typically happening at higher temperatures
+
+and higher pressures.
+
+So you can imagine these are conditions
+
+that will be present in the lower parts of the crust.
+
+And the type of deformation that we can get
+
+in geological materials which you're familiar with
+
+is the formation of folds.
+
+So folds are a ductile deformation of geological materials.
+
+Okay, so you may wonder, why is all of this relevant?
+
+Well, it is relevant because we can actually use this
+
+to start thinking about how do fluids move in the crust
+
+and to predict that movement.
+
+And I wanna use this diagram to explain this.
+
+So ignore the left part of the diagram for now.
+
+Just look at this part here for now,
+
+where in a very schematic way,
+
+again, we have our three stress directions,
+
+sigma one, the largest, sigma three, the smallest,
+
+and sigma two, which is perpendicular
+
+to the plane of the slide in here.
+
+And then we have different planes
+
+and their orientation relative to these three stress vectors.
+
+Now, a fault is a plane where we actually have movement
+
+of one block next to the other.
+
+So again, illustrated on the right here.
+
+So you have a fault line there, a fault here,
+
+two blocks of rock and they're moving.
+
+So you actually have movement along a fault.
+
+Now, if you imagine,
+
+because a fault can really only be oriented
+
+or the plane of the fault can only be oriented
+
+at an angle to any of these stress vectors.
+
+Because if you take a plane,
+
+just take this one here, for example,
+
+which is perpendicular to sigma three,
+
+so perpendicular to one of the main stresses,
+
+you will have a normal stress acting on that plane,
+
+but there's no shearing on that.
+
+You can't move anything along that plane.
+
+It's not possible, physically impossible.
+
+So in order to move something,
+
+we need to have a plane that's oriented at an angle,
+
+like this one here.
+
+So it's not straight at a perpendicular
+
+to either sigma one or sigma three.
+
+So faults will be oriented like this.
+
+Blocks move and also faults then allow the movement of fluids,
+
+not just the movement of the blocks,
+
+but also the movement of fluids.
+
+So faults are a very good way
+
+of moving fluids through the crust.
+
+Another thing which is really important in this diagram
+
+is, and I'm staying on this plane here,
+
+I said that because you have just normal stresses
+
+acting on that plane, nothing can move on that plane.
+
+But, and I hope that's...
+
+If you just imagine these two sheets of paper
+
+are so like on that plane,
+
+and I'm acting, my arms are gonna be my sigma one,
+
+and sigma three is gonna be the smallest.
+
+If I'm pushing them together,
+
+they will actually deform.
+
+It's not the greatest material, obviously, to do this.
+
+They will deform by opening up a space in between them.
+
+And this is illustrated in this little block diagram
+
+on the right here.
+
+Sigma one, the highest, acting horizontally,
+
+and then sigma three perpendicular to it,
+
+and you open up these little lenses, if you like,
+
+these little structures here,
+
+and they're referred to as fractures.
+
+So fractures are spaces in the rock that we open up,
+
+by deformation of the rock in this particular orientation.
+
+Of course, there's no movement,
+
+it's just you're opening up space, nothing else.
+
+But once you open up the space,
+
+you can also then move fluids through that space,
+
+and that's the important thing here.
+
+It's a mechanism for us to create space
+
+within a rock that is otherwise tight.
+
+And from the fluids,
+
+you can then have precipitation of minerals,
+
+and these minerals, once these fractures are mineralized,
+
+refer to them as veins.
+
+So vein is a term that will come back over and over again
+
+as we go through these lectures.
+
+So the point of this little explanation really is
+
+that we can use basic understanding of the physics
+
+of how rocks deform to predict
+
+how fluids move within the subsurface,
+
+at least at a small scale.
+
+And fractures and faults
+
+are gonna be super important for this.
+
+And this one on the left here
+
+is just sort of pulling it all together
+
+and showing you the relative orientation of these veins,
+
+quartz-filled veins, and a fault plane
+
+relative to the stress orientations in a 3D block diagram.
+
+Okay, so this is really just to understand
+
+how fluids move at a small scale.
+
+At a large scale, we have, on top of this,
+
+the other mechanisms that allow us or allow geology
+
+to move fluids around in the crust.
+
+So one is illustrated at the top here,
+
+so-called gravity-driven,
+
+where we have a so-called hydraulic hat,
+
+which is the potential energy of fluids
+
+coming from an uplifted area
+
+where you have rainfall maybe, a mountain area, rainfall.
+
+So there's potential energy stored in here
+
+that will then mean that these fluids can then move down
+
+and outwards into the lowlands below
+
+and obviously create a large-scale fluid movement.
+
+Lateral tectonic forces, like this one here at the bottom,
+
+they can also create fluid flow
+
+by pushing the fluids from this part of the crust
+
+outwards into that part.
+
+So that's something that might happen a lot
+
+when you're dealing with mountain building.
+
+Another aspect of this is convection-driven
+
+by thermal energy.
+
+So we've already talked about colder fluids
+
+due to buoyancy will sink downwards.
+
+As they get heated due to buoyancy, they will rise upwards.
+
+What this does, it can establish
+
+what we call a thermal convection cell of fluids
+
+within the crust, where, in this example here,
+
+we have cold seawater entering into the crust,
+
+being heated up at depth.
+
+And then this heated fluid rises back up towards the surface
+
+and then, in this case, discharges again at the sea floor
+
+and then it cools down again
+
+and the whole thing starts over again.
+
+So you're creating this convection cell
+
+that is effectively really driven by thermal energy
+
+and by the geothermal gradient within the crust.
+
+And then the last thing is just tying it back again
+
+to our little discussion about faults
+
+and how faults behave in the crust.
+
+Because in the shallower parts of the crust,
+
+of course, we have porosity, we have permeability,
+
+and then as we go deeper,
+
+much of that will actually be reduced
+
+due to the overburden load that we already introduced.
+
+So one effect of that is gonna be
+
+that any open pore space within the rocks
+
+tends to be closed off.
+
+And then faults and fractures
+
+are really gonna be your only mechanism
+
+to move things around,
+
+to move fluids around within the crust.
+
+So the idea here with this mechanism
+
+is you have a fault that's actually not operational,
+
+it doesn't move, it's sealing, it's inactive,
+
+but you have fluids moving towards that fault
+
+as shown by these little arrows here.
+
+And as the fluids cannot move further upwards,
+
+they cannot move along the fault,
+
+you have a buildup of fluids near to the fault.
+
+And if you have fluids building up,
+
+you're also building up pressure.
+
+So in our little diagram over here,
+
+remember this one, lithostatic versus hydrostatic,
+
+we effectively, we are working our way slowly
+
+increasing the pressure towards the right.
+
+So we are approaching the lithostatic.
+
+So we have a fluid pressure buildup
+
+from hydrostatic up towards lithostatic
+
+up to the point where we reach lithostatic,
+
+which is where the rocks break.
+
+So lithostatic really is where the rocks then start to break.
+
+We're forming a fault,
+
+we're forming an earthquake effectively,
+
+the fault opens up,
+
+the fluids can escape up along the fault,
+
+the pressure drops as a consequence
+
+of the fluids moving along the fault
+
+until the fault seals again, everything stops again,
+
+and the whole thing starts all over again
+
+until the next event.
+
+So this is one way of sort of how
+
+there is this interaction between earthquakes
+
+and movement of faults and the movement of fluids.
+
+Again, quite important to understand
+
+how we can predict the behavior of fluids
+
+and how we can predict the mechanisms
+
+of this mass transfer of elements
+
+from one part of the crust to the next.
+
+So what this really does is also,
+
+when we're thinking about this,
+
+it also, it does allow us to create the space.
+
+For example, by this opening up of the fractures
+
+and then them being filled with minerals as veins,
+
+it does create the space.
+
+I mentioned earlier this,
+
+this issue of how do we actually generate the space
+
+in the subsurface to then precipitate elements.
+
+This is how this could happen.
+
+Can anyone imagine,
+
+so like thinking about this other mechanisms,
+
+how we can actually generate space in the subsurface
+
+that can then be filled by any minerals
+
+and not just by opening up fractures
+
+and filling the fractures,
+
+any other mechanism that people can think of.
+
+Erosion will, sorry, was it erosion?
+
+Yeah, sorry.
+
+No, erosion obviously not at depth.
+
+Erosion is a surface process,
+
+but at depth, really at say two kilometers of depth,
+
+in particular involving fluids, hot fluids.
+
+Any ideas, any other ideas?
+
+Many of these fluids are actually gonna be corrosive.
+
+They're actually gonna be dissolved, part of the rock.
+
+So if there is a disequilibrium
+
+between the fluid composition and the rock,
+
+the fluid might actually corrode, dissolve the rock.
+
+And this is particularly a case
+
+when we have hot, warm fluids.
+
+And we're talking a lot about hot and warm fluids here.
+
+So there's different mechanisms.
+
+Dissolution and obviously the creation of fractures
+
+and veins is just two of them.
+
+Okay, so this is sort of a bit of a sort of like
+
+a general overview of properties within the subsurface.
+
+And then I wanted to spend the next part of the lecture
+
+looking more at the fluids
+
+and then starting thinking about the different types
+
+of deposit in a general sense.
+
+So in terms of what fluids there are in the crust,
+
+there's quite a number of them.
+
+So magma, molten rock, is one type of fluid.
+
+And we will see later today and in the next few lectures
+
+that it can be a very important mechanism
+
+for enrichment of minerals.
+
+On top of molten rock, we can also have aqueous fluids.
+
+And aqueous fluids, obviously aqueous fluids
+
+is every fluid that is involving water.
+
+So where can we get water from in the subsurface,
+
+in the crust?
+
+So one mechanism is we can actually have it
+
+exolved from magma.
+
+Magmas very often, or usually they contain
+
+volatiles to some extent.
+
+So the main volatile that's dissolved in magma is water
+
+on top of CO2 and sulfur dioxide and other gases.
+
+So there is water contained within magma.
+
+If we can get that out of the magma,
+
+we have a source of aqueous fluids.
+
+Metamorphic processes can also release a lot of fluid
+
+by mineral transformations as we will see next week.
+
+So-called conate or formation water
+
+is basically an overarching term for fluids
+
+in sedimentary basins that represent a mix
+
+of many different sources, including surface water,
+
+dissolution of other minerals, magmatic fluids,
+
+exolved magmatic fluids, aqueous fluids could come into that.
+
+It's just a mix of saline, very salty fluids
+
+in sedimentary basins.
+
+Of course, seawater is an important fluid
+
+that can enter the crust along faults.
+
+And the same goes for meteoric water,
+
+surface water, fresh water.
+
+And then also in this discussion,
+
+we will talk about hydrocarbon fluids later on.
+
+So these are just in a nutshell,
+
+the different types of fluids that we can encounter
+
+within the crust.
+
+And these are gonna be important for our discussion
+
+of the classification of resource deposits.
+
+So what I wanted to do is just really,
+
+as I give you an overview of how can we actually
+
+break down resource deposits,
+
+effectively using the different types of fluids
+
+as a guide for this.
+
+So the way to start this is on the top here,
+
+this is a diagram, a rock classification
+
+into igneous metamorphic and sedimentary rocks.
+
+And then at the bottom here,
+
+we can use that same as a template to think about
+
+a classification of resource deposits.
+
+Going from igneous to hydrothermal
+
+to sedimentary superficial.
+
+So let me explain how this would work.
+
+So where we have processes that are strictly related
+
+to igneous mechanisms, so emplacement,
+
+formation of melts and crystallization of igneous rocks,
+
+those processes that lead to formation
+
+of a resource deposit,
+
+we refer to as igneous resource deposits.
+
+In a similar style, when we're talking about sedimentary
+
+or surface processes that leads to accumulation of resources,
+
+we'll talk about sedimentary superficial deposits.
+
+There's not really an equivalent
+
+when it comes to metamorphic rocks,
+
+but what is being used here is to refer to these
+
+as hydrothermal resource deposits.
+
+And the idea behind is, again,
+
+we're using the fact that hydrothermal refers
+
+to the thermal energy that is contained within water,
+
+heated water in particular,
+
+which obviously then has the ability
+
+to not only move around materials,
+
+this mass transfer we talked about,
+
+but also the ability to dissolve and precipitate
+
+and alter the rocks, which is equivalent
+
+to what happens in metamorphic processes.
+
+So basically that makes hydrothermal
+
+a very important third big category of resource deposits.
+
+And then on the left here,
+
+I have listed just a few processes.
+
+Well, no, as I said,
+
+igneous magmatic related to metamorphation cooling,
+
+and then we have hydrothermal processes
+
+where we have different origin of the fluids,
+
+of these hydrothermal fluids.
+
+And finally, we have sedimentary and surface processes.
+
+So these are, in a nutshell,
+
+what the things that we will be discussing
+
+over the next few weeks,
+
+working our way basically from igneous processes
+
+from the bottoms or from the lower part of the crust
+
+into the shallower parts, based on surface processes.
+
+So with this, let's start talking
+
+about igneous processes then.
+
+Igneous fluids and igneous processes.
+
+So the first thing that we need to do
+
+is as the mantle is solid,
+
+we need to generate melt in the first place.
+
+So we need to melt part of the crusted part of the mantle.
+
+And again, on the left here,
+
+this is a diagram that you are familiar with.
+
+This is pressure and depth now in reverse,
+
+and then the temperature on the horizontal axis.
+
+We have geothermal gradients,
+
+these two different geothermal gradients
+
+shown in these solid lines.
+
+And then this brown area over here
+
+is defined between the so-called solidus and the liquidus,
+
+where to the right of it, we have just melt,
+
+sorry, sorry, to the left of it, we have just rock.
+
+Then we have the solidus,
+
+and between the solidus and the liquidus,
+
+we have rock and melt.
+
+And then on the right here, beyond the liquidus,
+
+we're just dealing with melt.
+
+The problem is that the geothermal gradient,
+
+it does normally not intersect this area of melting.
+
+So normally we don't actually generate melt
+
+just by intersecting this area with the geothermal gradient.
+
+And so there's different mechanisms.
+
+Again, these have been discussed in a bit of,
+
+not great detail,
+
+but you already should be familiar with these.
+
+We can actually have partial melting
+
+due to abnormal temperatures in the mantle,
+
+like hotspot formation.
+
+Decompression, where we're thinning the crust,
+
+can also lead to melting.
+
+We can also have thickening of the crust in origins
+
+and excess heat that will be transmitted laterally
+
+to generate partial melts.
+
+And we can add water, for example, in subduction zones.
+
+And that water has the ability,
+
+or basically what it basically does,
+
+the effect of what the addition of water is,
+
+that melting zone here will shift from this position
+
+over to this position over here,
+
+based on the amount of water being added into the crust.
+
+So the addition of water is a very good mechanism
+
+to reduce the melting temperatures of rocks.
+
+And we can then see that there is ability to intersect
+
+with our geothermal gradient,
+
+and we can generate a melt in this way.
+
+Another byproduct or another effect of this is,
+
+as we're adding water into the crust,
+
+that water is then transmitted into the melt,
+
+explaining why melts contain water as a volatile.
+
+And we'll come back to this next week.
+
+And then once we have melted our crust,
+
+or partially melted our crust,
+
+all we need to do is make it rise due to buoyancy
+
+in the shallower parts of the crust,
+
+and then it gets emplaced in a mark-mark chamber.
+
+So once that's happening,
+
+we then have to reverse our process,
+
+and we have the crystallization of the melt.
+
+And this happens usually along reaction series.
+
+This is Bowen's reaction series,
+
+where we actually classify the minerals
+
+according to their melting temperature.
+
+And obviously the minerals
+
+with the highest melting temperatures,
+
+they will be the first to crystallize.
+
+So in our case here, this would be an olivine.
+
+So if you have a typical mafic melt
+
+that is usually rich in iron and magnesium,
+
+the first mineral to crystallize from that melt
+
+is gonna be olivine.
+
+Now that olivine will then crystallize
+
+and sink to the bottom,
+
+and the melt, as a consequence,
+
+will have now less iron and magnesium and more silica.
+
+And that melt then becomes,
+
+or is then in equilibrium with another mineral
+
+called pyroxene,
+
+which will all start to crystallize at a lower temperature,
+
+and so on and so on until we finally reach quartz.
+
+So in this whole process,
+
+we see that the melt and the crystals
+
+constantly change composition as the melt crystallizes.
+
+This goes for this left branch here,
+
+for olivine to quartz.
+
+It also goes for the right branch here,
+
+which is the feldspar series,
+
+that goes from calcium-rich feldspars
+
+to sodium-rich feldspars.
+
+So this is the basic idea of crystallization from the melt
+
+and changing of minerals and changing of melt
+
+in composition as we do so.
+
+Now, once we've formed the minerals,
+
+then we have something that will act on those minerals,
+
+which is so-called Stokes' law,
+
+which basically describes how the minerals will sink
+
+under the influence of gravity in a fluid.
+
+And if we wanna apply this here,
+
+say we have a basalt melt
+
+of a certain density and a certain viscosity.
+
+We say we have precipitated olivines and feldspars
+
+in the first stages of our crystallization process.
+
+These will have these different densities.
+
+And then if we plug these numbers into Stokes' law,
+
+which is this equation over here,
+
+we end up with velocities.
+
+If it takes like crystals
+
+that are about five millimeters in size,
+
+the olivine will have a much higher settling velocity
+
+than the feldspar.
+
+So the olivine settles very quickly
+
+relative to the feldspar.
+
+And the end product is something like this,
+
+where what's shown here in pink is melt.
+
+This is the liquid part.
+
+And then everything else is solid crystals
+
+that have accumulated as a so-called cumulate
+
+at the bottom of the melt.
+
+So in other words, what we're dealing with
+
+is these sorts of processes
+
+that happen within a magma chamber.
+
+Obviously at the top of the magma chamber,
+
+you could have volcanism.
+
+And you have all of these processes of partial melting first,
+
+establishment of the magma chamber,
+
+crystallization of the minerals.
+
+You can also have mixing within the magma chamber,
+
+but obviously these are igneous processes,
+
+but why they're important for us
+
+is that because of the settling
+
+and the influence of Stokes' Law
+
+on the formation of cumulates,
+
+you could have, for example,
+
+concentration of ore minerals,
+
+resource or relevant minerals at the base,
+
+at the bottom of the magma chamber.
+
+We'll talk about this in two weeks' time.
+
+And you can also have volcanism, obviously.
+
+And that will also be important
+
+for the formation of mineral deposits.
+
+So these igneous processes,
+
+they are relevant for this whole concentration
+
+of elements within the crust that we need to do.
+
+All right, and then the final bits
+
+when it comes to igneous processes,
+
+and this is now a bit more directly applicable
+
+to resource deposits,
+
+is that there is, depending on the composition of the melt,
+
+they can be richer or poorer in certain elements.
+
+And this is illustrated here.
+
+The black bars represent basaltic melt,
+
+and the white represent rhyolite and andesite,
+
+which is an intermediate composition of melt in between.
+
+So basically, we go from mafic to felsic melts
+
+from black to white.
+
+And you can see that certain elements
+
+like chromium, nickel, platinum, and gold,
+
+they are very much concentrated in the mafic,
+
+in the basaltic melt,
+
+but have very low concentrations in the rhyolitic felsic melt.
+
+And these are generally elements
+
+that we classify as either siderophile or calpophile.
+
+So they have an affinity for either metal and iron,
+
+or an affinity for sulfur.
+
+So those are elements that we find
+
+specifically in mafic melts.
+
+And on the other hand,
+
+if we're looking at things like lithium and uranium
+
+or fluor and thorium,
+
+they are much more concentrated in the rhyolite,
+
+in the felsic melt,
+
+and have relatively low concentrations in the basaltic melt.
+
+And these elements,
+
+they are generally classed as lithophile.
+
+They have an affinity for silicate minerals,
+
+hence they are more present in silica-rich melts.
+
+So there is a primary differentiation of elements
+
+depending on their geochemical affinity
+
+being either siderophile, calcophile, or lithophile.
+
+So you can imagine that's already a primary reason
+
+of how we can differentiate between different resources.
+
+And on top of that,
+
+there is the idea of compatibility of elements,
+
+compatibility between the melt and the crystal.
+
+So the crystal that is forming from the melt,
+
+certain elements are preferentially entering the crystal,
+
+and certain elements will preferentially remain in the melt
+
+as a function of the distribution coefficient.
+
+The ones that will be preferentially entering the crystal
+
+are gonna be compatible elements,
+
+and the ones that will be staying preferentially in the melt
+
+are gonna be incompatible elements.
+
+And what we can see here is,
+
+and obviously this is a function of the charge
+
+and the radius of the ions involved here,
+
+whether an element will enter the crystal
+
+or whether an element will actually remain
+
+preferentially within the melt.
+
+And we could see here the distribution
+
+of a number of elements,
+
+and above the brown line, they are incompatible,
+
+so they will remain within the melt.
+
+And this, for our purposes,
+
+is particularly relevant for uranium.
+
+So we'll talk about uranium a bit later in the class,
+
+which is an incompatible element
+
+will stay in the melt very long.
+
+Whereas on the other hand,
+
+elements like nickel and gold,
+
+chromium and the platinum group elements,
+
+they are compatible elements
+
+that will actually enter the crystals
+
+during early stages of crystallization.
+
+So remember these basic ideas
+
+about the affinity of elements,
+
+so this graph here, lithophile versus charcoval
+
+and siderophile,
+
+and also the idea about compatibility.
+
+These are concepts that we will come back to
+
+throughout the class.
+
+Okay, so just to wrap it up then,
+
+I'm not gonna talk about this in any detail today.
+
+I just wanted to give you like an overview,
+
+basically just to throw some of these things at you,
+
+just to give you a sense for how diverse
+
+these igneous processes are
+
+and how diverse, as a consequence,
+
+the deposits related to these igneous processes are.
+
+Depending on the context,
+
+we can have volcanic processes,
+
+we can have fractionation during the crystallization,
+
+we can have mixing of different magmas,
+
+which we will talk about layered intrusions
+
+in two weeks' time,
+
+deposits that relate to immiscibility
+
+between different melt types,
+
+and obviously deposits that are quite strictly related
+
+to these ideas about element compatibility
+
+and incompatibility,
+
+particularly when it comes to uranium,
+
+thorium, and granites.
+
+So these are just an overview,
+
+just to illustrate how diverse these igneous processes are
+
+leading to different types of enrichment
+
+of metals in the crust.
+
+Okay, so with this, I wanna leave it for today.
+
+We will then next week move on to hydrothermal deposits
+
+and eventually end up looking at surface deposits.
+
+I'll see you tomorrow in the practical.
+
+Peace.
+
+Bye bye.

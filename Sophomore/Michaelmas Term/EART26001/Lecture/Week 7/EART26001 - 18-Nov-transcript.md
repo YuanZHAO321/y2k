@@ -1,0 +1,1955 @@
+---
+title: "EART26001 - 18-Nov-transcript"
+source: "Sophomore/Michaelmas Term/EART26001/Lecture/Week 7/EART26001 - 18-Nov-transcript.txt"
+type: transcript
+---
+
+'EART26001 - 18-Nov', automated transcript
+03/08/2026
+---
+
+All right, good afternoon, welcome back.
+
+Today's lecture, I wanted to talk about uranium.
+
+And I want to start with something which I think
+
+is quite an extraordinary thing, which is about two billion
+
+years ago in a place called Oklo in Gabon, something
+
+I would consider truly extraordinary happened.
+
+We basically had the situation where a uranium deposit
+
+started a natural chain reaction, ran for some time,
+
+and then eventually switched off.
+
+Basically, a nuclear chain reaction involving uranium,
+
+essentially the same as what would happen in a reactor,
+
+a nuclear reactor that we're using for energy generation
+
+today, but obviously all by natural processes.
+
+And the end result of this is this blackish rock,
+
+blackish outcrop that we see here,
+
+which is the evidence that we could pick up in the modern day.
+
+And so what this really does, this place in Gabon,
+
+what it really illustrates is all of the various processes
+
+that we want to understand that go
+
+from the mineralization of the uranium in the first place
+
+all the way through a nuclear chain reaction
+
+and also then on into waste disposal.
+
+So all of these aspects that we're
+
+interested from an energy and resources perspective,
+
+they are covered in this place.
+
+Before we go into the detail of what actually
+
+happened for the uranium, let's just
+
+give us a bit of background here.
+
+So we are back in the Kratonic areas of Africa.
+
+You've seen this map a number of times.
+
+We are now in a place called the Congo Kraton,
+
+so like the northern part of the Congo Kraton, again,
+
+one of these older Keyan blocks.
+
+If you look in a bit more detail,
+
+this is the map of Gabon.
+
+So these stipple signature here, that's
+
+the Kratonic basement of a Keyan age.
+
+These are granites for the most part.
+
+And in between, you have a Proterozoic basin.
+
+So a basin that formed in between these granites.
+
+It formed horse and graben structures.
+
+And in this basin, we have accumulation
+
+of Proterozoic sediments around 2 billion years old,
+
+those sorts of sediments.
+
+And in a bit more detail, so like this,
+
+on this more detailed map, we have the Keyan basement.
+
+This signature here, again, over here.
+
+And then all of these are sedimentary units.
+
+And right at the contact between the basement
+
+and the sedimentary units, we have these nuclear reactors,
+
+these natural nuclear reactors.
+
+There's quite a number of them, actually.
+
+And this one here, Oklo, is just one of them.
+
+In terms of the stratigraphy, then,
+
+so in this basin, we have, initially, we have the basement.
+
+This is the Akean basement in this cross-section over here.
+
+And then overlying this, you can see
+
+it's quite heavily faulted, this basement.
+
+And then overlying this is the sedimentary succession,
+
+which is the so-called Fransvillian group.
+
+And it's subdivided into this very creatively named units,
+
+F-A to F-E.
+
+What really is of relevance for our discussion
+
+are just the lower ones, F-A and the F-B units.
+
+So the F-A unit, it's just a sandstone and conglomerate,
+
+which represents the material eroded from the granites
+
+during the Proterozoic.
+
+And it's in these sandstones and conglomerates
+
+that you have some accumulation of uranium.
+
+There's a little bit of uranium in there.
+
+That uranium is probably derived from the erosion
+
+of the granites themselves.
+
+So remember that we said quite early in the lecture
+
+that uranium is one of these lithophile
+
+and incompatible elements.
+
+So when you have a granite crystallizing,
+
+obviously that melt will contain uranium in the first place
+
+because it's a lithophile element,
+
+but also the uranium will crystallize last
+
+when the granite crystallizes.
+
+So that's because of its incompatible nature.
+
+So these late minerals that will crystallize
+
+within the granite, they do contain quite a bit of uranium.
+
+And so once you erode that
+
+during weathering processes of the basement,
+
+you can transfer that uranium into the sandstones
+
+that's derived from that original granite.
+
+Those sandstones contain maybe some 25 ppm uranium,
+
+so far below anything that we would consider economical.
+
+But then what you have is above that,
+
+you have a black shale unit.
+
+So black shale that contains organic matter, kerogen.
+
+And what basically happened in this basin then,
+
+oh, sorry, I'll just skip over a few slides here.
+
+What basically happened in this basin then
+
+is a situation where you have hydrothermal fluids.
+
+So hydrothermal fluids, just as a reminder,
+
+we talked about those quite a bit already,
+
+where last time we talked about hydrothermal fluids
+
+associated with orogenic processes.
+
+So we talked about orogenic gold
+
+related with metamorphic hydrothermal fluids.
+
+In this case, we're still talking
+
+about hydrothermal processes.
+
+But in our case now, when we talk about uranium,
+
+it's quite a bit more variable,
+
+so quite a bit more mixed fluids involved here.
+
+And some of the fluids actually are surface fluids,
+
+seawater and meteoric water,
+
+which are by their own nature oxidizing fluids
+
+that are gonna be involved in the hydrothermal fluids
+
+that are operating at depth.
+
+So what do these fluids do at depth?
+
+And so obviously, you originally had
+
+the deposition of these sandstones
+
+with small amounts of uranium contained within them.
+
+And then we have the descent
+
+of these oxidizing fluids from the surface.
+
+They're cold, they're oxidizing.
+
+Of course, they're cold, they descend.
+
+Much of these fluids will actually move down along faults,
+
+so these faults will be in the basement and the sandstone.
+
+And what is really important there to understand
+
+is that the presence of the uranium
+
+is one of these redox-sensitive elements.
+
+And uranium becomes mobilized under oxidizing conditions,
+
+so if you're creating uranium-6,
+
+that's soluble, that's mobilized,
+
+and the reduced form, the uranium-4, becomes immobilized.
+
+So those oxidizing fluids obviously are then able
+
+to leach uranium from both the granite
+
+as well as from the sandstone
+
+by basically converting it into uranium-6.
+
+That becomes soluble, is leached,
+
+transported by the fluids.
+
+These fluids are then also heated at depth,
+
+so you have some remnant heat at depth.
+
+The fluids then, under buoyancy,
+
+will then move back upwards again,
+
+so you have the development of a large-scale
+
+temperature-controlled hydrothermal circulation system.
+
+So those uranium-6-bearing fluids
+
+are now moving upwards again,
+
+and they reach the contact with the Fb formation,
+
+which is this black, organic-rich shale.
+
+Now, these organic matter under the increasing temperature
+
+after deposition has already converted into kerogen,
+
+and that's the ideal reductant for the fluids,
+
+because the fluids will now interact with the kerogen,
+
+the uranium becomes oxidized, sorry, becomes reduced,
+
+the uranium becomes reduced, turns into uranium-4,
+
+whereas the kerogen actually becomes oxidized
+
+in that redox reaction.
+
+And the result is that the uranium will start to precipitate
+
+because it's insoluble.
+
+And that then causes an accumulation
+
+of something like 10 to 20% of uranium
+
+around the contact between the sandstones,
+
+so the Fa sandstones and the Fb shales.
+
+It's estimated that this mineralization system
+
+operated at around 2.05 billion years,
+
+so really just after a few hundred million years
+
+after deposition of the original sandstones
+
+and involving fluids at temperatures
+
+of between 100 and 170 degrees centigrade.
+
+So this would be a classic case of a hydrothermal system
+
+involving hydrothermal fluids.
+
+A good part of those hydrothermal fluids
+
+would be descending, oxidizing surface fluids,
+
+and then the redox behavior of uranium
+
+is obviously key then in this process of both mobilizing
+
+and eventually immobilizing the uranium
+
+causing the mineralization.
+
+So that's basically how we can imagine
+
+the process of primary mineralization,
+
+upgrading the original uranium concentration
+
+in the sandstones and in the granite
+
+to something like 10 to 20%,
+
+which now becomes obviously interesting.
+
+It's economical.
+
+We have been so like going above the cutoff grade
+
+where we consider a mineralized deposit economical.
+
+So once we have understood this,
+
+what's the evidence now for an actual chain reaction?
+
+So replicating what we do in a modern nuclear reactor.
+
+What's the evidence there?
+
+So I've shown you this picture before.
+
+So we have these blackened outcrops.
+
+These blackened outcrops occur in these lenses
+
+that are something like 40 meters by six meters wide
+
+up to about half a meter thick.
+
+So they're not really extensive.
+
+But inside these, in a cross section,
+
+this is how they actually look like.
+
+So down here, this is all sandstone, the black.
+
+This is a uranium, like a very uranium rich sediment,
+
+rock in here.
+
+And then above that you have some clay, some dark clays.
+
+And then these are the black shales
+
+of the FB formation at the top here.
+
+And all of this appears into some sort of like sin forms
+
+or like a depression or bowl,
+
+which is actually not a structural,
+
+like a folded structure by compressive forces.
+
+This is really just the result of sagging
+
+where you basically have loss of silica from the sand.
+
+So by the heat, much of the silica was actually dissolved
+
+from the sandstone
+
+and you're basically converting that into a secondary clay.
+
+You're losing volume and everything is sagging down
+
+in this part of the process.
+
+So there's quite a lot of sort of petrographic evidence
+
+for secondary alteration of the sandstone and the shales
+
+and the uranium modification.
+
+But there's also geochemical evidence.
+
+And this is basically how that was originally identified,
+
+this process was originally identified.
+
+So this is a diagram that shows you a cross section
+
+through, so like this is in depth.
+
+You have the sandstone here below and then the shales above.
+
+And then this is one of these nuclear reactors, as I said,
+
+right at the contact between the two units.
+
+And on the horizontal axis, I'm plotting here the ratio
+
+between uranium-235 and uranium-238.
+
+Now, the modern value of, or the modern ratio
+
+between these two isotopes is on the order of 0.7%.
+
+You know, everywhere where you go,
+
+that would be the modern ratio between 235 and 238,
+
+the natural ratio between those two.
+
+And this is where it is in the sandstones underneath.
+
+So that's the natural ratio between these two isotopes.
+
+But in the core of the reactor,
+
+that ratio drops to something like 0.4%.
+
+So what that means is in the core of the reactor,
+
+there is less uranium-235 than you would expect it to be.
+
+And that is basically how scientists first identified
+
+this nuclear reaction.
+
+Simply because these deposits in Gabon
+
+were for much of the 20th century,
+
+that's where the reactor material
+
+for the French nuclear program came from.
+
+So, and then obviously,
+
+the scientists at a French laboratory,
+
+they were expecting, or they were receiving
+
+a shipment of uranium from Gabon,
+
+and they noticed that the ratio was lower
+
+than it was supposed to be.
+
+And so they then concluded from that,
+
+and I'll explain exactly how that works,
+
+and then they concluded from that
+
+that a nuclear chain reaction must have occurred
+
+in these deposits before the rocks were obviously mined.
+
+So how can we understand this?
+
+So as I said before, uranium-235 and 238,
+
+they are the main fission materials,
+
+and actually 235 is the one that breaks down faster
+
+than 238.
+
+So the 235 decays more rapidly than 238.
+
+And what that means is that over time,
+
+that ratio decreases.
+
+So you have here the ratio of 235 to 238
+
+on the vertical axis against time.
+
+In the present day, as I said,
+
+that ratio is gonna be about 0.7%.
+
+So that's the present day,
+
+just by the natural breakdown of 235
+
+and the changing in the ratio.
+
+But obviously, because 235 decreases faster,
+
+or decays faster than 238,
+
+back in time, that ratio would have been much higher.
+
+So that curve here describes the natural change
+
+in the 235, 235, 238 ratio over time.
+
+What then happens, so you need,
+
+so in order, in a nuclear chain reaction,
+
+you need something on the order of at least 1%
+
+in order to kick off the nuclear chain reaction.
+
+So, and artificially, if we mine uranium today,
+
+we then have to enrich uranium
+
+in order to use it as a nuclear fuel or for nuclear bonds.
+
+So, and this is illustrated in the lower graph down here.
+
+So this is the percentage of uranium 235.
+
+So natural uranium today, around 0.7.
+
+In order to use it as a reactor fuel,
+
+you need something like 3% to 4% of uranium 235.
+
+And if you want to have weapons-grade uranium,
+
+you need to have something like 90% of uranium 235.
+
+Now, so that means that in order to have a chain reaction,
+
+you need, ideally, something like 3% to 4%.
+
+And in Oklo, at around two billion years,
+
+the ratio was 3.7.
+
+So that is exactly solid within the range
+
+where you can actually have a nuclear chain reaction.
+
+So what that means is that
+
+if this chain reaction did not have occurred,
+
+the ratio between these two isotopes in Oklo
+
+should have been 0.7%.
+
+But because, obviously, it was lower than that value,
+
+that meant that some uranium 235 had been lost
+
+before mining, meaning a chain reaction has occurred.
+
+And by two billion years ago,
+
+the concentration or the ratio was high enough
+
+for the chain reaction to happen.
+
+So that's obviously one factor
+
+that drove the system towards chain reaction.
+
+There was enough, or the ratio of 235, 238 was sufficient.
+
+You also had enough uranium mineral,
+
+like the overall concentration was sufficient.
+
+It's estimated that between 10 and 20%,
+
+that's the original mineralization.
+
+And it's estimated that on an ore body
+
+of about half a meter thickness,
+
+if you introduce 10% of uranium into that ore body,
+
+that, in itself, is also gonna be enough
+
+to kick off a nuclear chain reaction.
+
+Another thing which is important, and again,
+
+so that if we're looking at modern nuclear chain reactions
+
+in a nuclear reactor, we're using water
+
+to basically slow down the neutrons
+
+that are kicked off by the chain reaction.
+
+And what happened in Okhlo, because remember,
+
+it's a hydrothermal system of mineralization
+
+involving a lot of water.
+
+So at the time, obviously, that water was then available,
+
+also, to slow down any neutrons
+
+that would have been kicked off by the chain reaction
+
+and to thus keep the chain reaction going
+
+rather than it stopping immediately.
+
+So enough water was there to slow down these fast neutrons.
+
+So all of these were factors
+
+that basically kicked off
+
+and then maintained the nuclear chain reaction.
+
+From studies, it's estimated that those reactors overall
+
+worked during a period of something
+
+like 20,000 to 600,000 years.
+
+They probably didn't operate continuously
+
+throughout all that time,
+
+because obviously you can imagine the system
+
+just heated up dramatically during the time.
+
+It's estimated that in the core,
+
+temperatures of something like 1,000 degrees were reached.
+
+But then once you get just a few meters away,
+
+because of a very strong geochemical story,
+
+geothermal gradient of something like 100 degrees per meter,
+
+within a few meters, that temperature has dropped
+
+that you probably wouldn't notice anything
+
+of that actual nuclear chain reaction.
+
+But still, temperatures in the core were high enough
+
+to obviously create all of these alterations
+
+of the sandstone.
+
+You got the desilicification of the sandstone.
+
+The sandstone lost its silica.
+
+You created secondary clay minerals
+
+just by the alteration of the various minerals involved.
+
+But also because of that heat,
+
+any water that would have been present
+
+from the hydrothermal system
+
+very quickly turned to steam.
+
+And obviously once that happens,
+
+the water is not able to slow down these neutrons anymore.
+
+And the neutrons then become so fast
+
+that the chain reaction can't continue.
+
+So basically the system just shuts down by itself
+
+until the whole system cools down enough
+
+and you have water again present,
+
+which again can slow down the neutrons
+
+to maintain the reaction,
+
+and you have another chain reaction.
+
+So it's just basically a system that self-regulates,
+
+goes on and off, on and off over that period
+
+of something like half a million years or so.
+
+And it's probably estimated that the on and off period
+
+was just a matter of days at maximum or hours even
+
+for these reactors to operate.
+
+And overall, something like 100 kilowatts of energy
+
+was generated by each individual reactor,
+
+which is much less obviously
+
+than a modern commercial nuclear reactor.
+
+So something like 10,000 times less
+
+than a commercial reactor,
+
+but it's comparable to what a research reactor
+
+might actually produce.
+
+So this is sort of like the background
+
+to sort of like how we have to imagine
+
+these nuclear chain reactions,
+
+how they have been reconstructed from the available data.
+
+You can imagine that the site
+
+is still mildly radioactive,
+
+and it's estimated that the majority of the waste products
+
+actually have been removed over time.
+
+I mean, we're talking about two billion years,
+
+so you can buy oxidation, buy reduction, buy weathering.
+
+You can basically remove essentially
+
+most of those waste products
+
+from that nuclear chain reaction.
+
+But there's still evidence, if you look in detail,
+
+for trapping of some of the fission products
+
+of these various isotopes here in various minerals.
+
+So this one here, for example,
+
+looks at like cesium and barium fission products
+
+that are contained, like these small concentrations here,
+
+that are contained within various minerals.
+
+So you actually have the waste products
+
+still located in some of these minerals.
+
+Okay, so that's, so like the story of Ochlo,
+
+which, I mean, it's quite nice because it's so like,
+
+it illustrates a natural process
+
+of a nuclear chain reaction, which we as humans,
+
+in order to use nuclear fission as an energy source,
+
+we just reproduce, obviously with much more effort
+
+and much more energy.
+
+But something that nature was able to do
+
+by its own several billion years ago.
+
+And also it illustrates quite nicely
+
+the hydrothermal processes that lead,
+
+led to the primary accumulation of the uranium.
+
+So, but this is obviously not the only place
+
+where uranium or the only type of mechanism
+
+where uranium can accumulate.
+
+And I just wanted to spend the next few minutes
+
+talking about some other uranium deposits.
+
+And from this slide, it becomes quite quickly obvious
+
+that there is loads of these different deposits
+
+or processes that are able to accumulate uranium.
+
+And they're listed all over here.
+
+So they go from essentially magmatic processes
+
+where you can have uranium concentrated in melts,
+
+in igneous rocks,
+
+all the way to sedimentary surface processes.
+
+I'm not gonna go into any of the details for most of these,
+
+but I just wanted to spend a bit of time on these ones here
+
+that are also hydrothermal processes.
+
+And they're important because many of the commercial
+
+uranium deposits that we are mining today
+
+actually have these origins here.
+
+So they're quite important.
+
+So the majority of economic deposits,
+
+so economic uranium deposits,
+
+basically occur in either sedimentary units
+
+and they're also hosted within igneous basement.
+
+And as we've seen with Oklo,
+
+it, what's really important in here
+
+is the redox behavior of uranium.
+
+So that's a key factor for mobilization,
+
+immobilization of the uranium,
+
+but also the presence of fluids of different origins
+
+mixing up to form a hydrothermal fluid.
+
+So hydrothermal fluids will be imported
+
+in many of these deposits.
+
+So if we go into the deeper parts of the crust,
+
+then we have one major deposit type
+
+involving uranium.
+
+That's the so-called unconformity deposits,
+
+where we have sedimentary strata
+
+resting with an unconformity
+
+on folded or tilted basement blocks effectively.
+
+So the unconformity obviously means
+
+that there is an angle between these rock units,
+
+so the basement down below,
+
+tilted and flat-lying sedimentary strata,
+
+so that's an angle,
+
+but it also means there is a time difference,
+
+so it's a time gap between these units.
+
+And this typically involves very old basement rocks
+
+and pre-Cembrian sedimentary units,
+
+like we've seen in Oklo.
+
+And what's happening here
+
+is you have a hydrothermal circulation
+
+involving surface fluids.
+
+Again, those are oxidizing surface fluids.
+
+Very often they pass through evaporites,
+
+become quite saline as well.
+
+They sink towards the bottom in the basin,
+
+and lower down, they will then A, be heated up
+
+by the heat emanating from the basement,
+
+but they also can come in contact with reducing fluids
+
+that are moving up from the basement,
+
+for example, along faults like these ones here,
+
+and these fluids could be, for example,
+
+methane-bearing fluids.
+
+There could be also kerogen-bearing fluids.
+
+The bottom line is they are reducing fluids
+
+that have some reductance in them,
+
+and obviously when these two fluids mix,
+
+you have these redox reactions of uranium that might occur.
+
+The uranium becomes reduced, accumulates,
+
+gets precipitated, and forms a uranium deposit,
+
+usually around that unconformity,
+
+hence the name unconformity deposit.
+
+And it's estimated that about a third
+
+of the world's resources in uranium,
+
+at least in 2007, were of this particular type.
+
+And these unconformity deposits constitute
+
+a major portion of low-cost uranium deposits,
+
+and some of the largest and richest ones
+
+are actually present or relate
+
+to this particular type of deposit.
+
+For example, in the Athabasca Basin in Canada,
+
+which is one of the main uranium-bearing units,
+
+this is the type of deposit that is predominant.
+
+You can have grades going from 0.1 to up to 12% of uranium.
+
+And Oklo relates to this mechanism we've seen in Oklo.
+
+We have, again, also a relationship
+
+between the basement and sedimentary units
+
+and the circulation of the surface-derived
+
+hydrothermal fluids, and then the redox behavior
+
+of the uranium.
+
+So Oklo is related to this particular type of deposit.
+
+And then in the shallower parts of the crust,
+
+we have other uranium-bearing deposits.
+
+These relate to the shallow circulation
+
+of oxidizing meteoric water, so basically rainwater,
+
+infiltrating the underlying lithologies.
+
+Usually that rainwater or that meteoric water
+
+will circulate through sandstone aquifers,
+
+porous, permeable sandstones that are near the surface.
+
+So here we have a series of sandstone beds
+
+that are these horizontal layers there
+
+where meteoric water is infiltrating.
+
+Because it's meteoric, it's oxidizing,
+
+it can actually start to pick up some of the uranium
+
+from within the sandstone.
+
+So if the sandstone contains some primary uranium in it,
+
+that water is able to dissolve that uranium
+
+and start to transport it.
+
+And then again, once those fluids
+
+reach the lower part of the basin,
+
+where the fluids and obviously the deeper basal fluids,
+
+they are reducing, so again, in the contact
+
+between those reducing and the oxidizing fluids,
+
+that uranium will become immobilized
+
+by reduction from uranium-6 to uranium-4.
+
+And the most common types of deposits
+
+are the so-called roll-front and tapular deposits.
+
+And probably most important,
+
+and I just wanted to discuss these roll-front deposits here,
+
+and they're called roll-front
+
+because as you can see in this image here,
+
+this is the uranium mineralization,
+
+that dark area here within the sandstone,
+
+and it has this U-shape overall.
+
+And that is explained by the movement of the water
+
+within these sand bodies.
+
+So imagine the scenario here,
+
+where we have, as we just discussed,
+
+recharge of water from the top.
+
+This is the oxygenated water from the top
+
+flowing down this aquifer and then at depth.
+
+So like it comes in contact with the reducing fluids.
+
+Now the flow is obviously concentrated in the sandstone,
+
+which is permeable.
+
+It's sitting between impermeable shales above and below.
+
+And because in the sandstone,
+
+typically what we have is the permeability
+
+within the sandstone is highest in the center
+
+of the sand body and becomes lower towards the edges
+
+as you approach those impermeable shales either side.
+
+So as a consequence, the flow of the water
+
+is gonna be highest in the center
+
+and it will be slower towards the margins.
+
+And as a consequence, the redox zone
+
+where the oxidation and reduction happens
+
+and the uranium gets mineralized, gets precipitated,
+
+takes up this curved shape, this U shape.
+
+A bit more advanced in the center
+
+and a bit more behind, if you like,
+
+staying behind towards the margin.
+
+Hence this U shape or roll front as it's also being called.
+
+So typically, interaction with reducing fluids.
+
+You can also have any reducing organic detritus
+
+that's in the sandstones,
+
+which will also then cause this redox process to occur.
+
+So these sorts of deposits, roll front deposits,
+
+they make up something like 20% of the resources back in 2007.
+
+Important deposits are in the Colorado Plateau in the US
+
+but also in Kazakhstan,
+
+which is the main producer of uranium in the modern day.
+
+But the grades of these deposits are quite a bit lower.
+
+We're talking about something like 0.5, 0.4% at best
+
+for these deposits, comparable,
+
+so which is obviously quite lower than the previous type,
+
+the unconformity deposits.
+
+So in summary, when we're talking about uranium deposits,
+
+as we've seen, there's a whole variety of deposit types,
+
+but essentially the majority of these
+
+will all be related to very shallow crustal processes.
+
+And what that basically means is it allows access
+
+to oxidizing surface waters
+
+that then can become reduced at depth,
+
+leading to the precipitation.
+
+We have, in terms of types of processes,
+
+we go all the way from igneous all the way
+
+into sedimentary and weathering processes
+
+and large hydrothermal processes.
+
+Okay, so then the last bit is really just to talk
+
+about exploration, production,
+
+and environmental aspects of uranium.
+
+So when we're looking for uranium deposits,
+
+so we are exploring for a deposit,
+
+again, what are the types of techniques that we can employ?
+
+And obviously when it comes to uranium,
+
+because of its radioactive nature,
+
+one of the best, most used techniques is obviously
+
+looking for that natural radioactivity within the rocks.
+
+So effectively what you're doing,
+
+and this is illustrated here,
+
+you're basically taking a type of Geiger counter
+
+and you can either take that Geiger counter
+
+over the surface of the earth,
+
+or if you have a borehole drilled,
+
+you can actually run it down the borehole
+
+and measure with the Geiger counter
+
+the natural radioactivity of the rocks,
+
+which comes effectively from these elements,
+
+potassium, thorium, and uranium.
+
+Uranium's obviously the one that we're interested in today.
+
+But obviously these elements will be concentrated
+
+in certain types of lithologies,
+
+so shales, potassium feldspars, micas,
+
+any thorium-bearing minerals,
+
+and obviously any uranium-bearing minerals.
+
+Whenever you have concentration of those minerals,
+
+you will see elevated natural radioactivity,
+
+which the Geiger counter can obviously pick up,
+
+and use that to identify the presence of a deposit.
+
+Now, this can be used, for example,
+
+just to separate shales from sandstone,
+
+so shales having high radioactivity as shown over here,
+
+so the response of the Geiger counter
+
+is low radioactivity on the left and high towards the right,
+
+so shale, because it contains a lot of potassium and thorium,
+
+will have high natural radioactivity,
+
+and the sandstone, because it will have
+
+relatively little potassium and thorium,
+
+will have low natural radioactivity,
+
+unless obviously the sandstone does contain
+
+uranium-bearing minerals, as we would have
+
+with a roll-front deposit or an unconformity type deposit.
+
+So this is one way of actually using these Geiger counters,
+
+basically just measuring the natural radioactivity
+
+on the surface or within the boreholes,
+
+but you can also mount these methods
+
+onto an airborne radiation survey.
+
+So at the large scale, so looking at entire areas,
+
+entire regions, you would basically take an aeroplane
+
+and do an airborne radiation survey,
+
+and an example of this is shown here on the right,
+
+this is in Canada, this map just shows you
+
+basically the lines that that survey has flown,
+
+so really large scale, so like the little peaks in there,
+
+they represent peaks in radiation,
+
+and you can use those to pick out trends in areas
+
+where there seems to be a higher proportion of uranium
+
+or natural radioactivity, which could relate to a deposit.
+
+And the same down over here, where we have,
+
+this is the surface, this is the radiation response,
+
+and you can see here the uptick in uranium
+
+and potassium in particular, that relates to a deposit
+
+that's located somewhere around here.
+
+So this is a very good way of quickly flying
+
+over an entire area and using the radiation
+
+to define the areas where uranium may be present,
+
+and then you can use other more detailed techniques
+
+to then figure out where exactly the deposit is.
+
+So these could be, for example,
+
+these more detailed techniques,
+
+obviously would involve a lot of geological mapping,
+
+so understanding the overall structure
+
+where are the fault zones, where are the sandstones,
+
+any contact basements, so we can use that again
+
+to pinpoint location of deposits.
+
+We can complement the airborne radiation surveys
+
+with magnetic and resistivity surveys,
+
+and resistivity surveys are particularly important
+
+when we are looking for roll-front deposits
+
+that involve circulation of a lot of groundwater.
+
+And then we can also use geochemical mapping for uranium.
+
+For example, uranium contained in streams,
+
+or radon gas that's emanating from soils,
+
+radon being a breakdown product of uranium,
+
+but also helium, these are other elements
+
+that we look for because they will pinpoint
+
+the location of the original uranium deposit.
+
+So once we have identified the deposit, obviously,
+
+then comes the whole evaluation
+
+of whether it is economical,
+
+and then eventually the mining happens,
+
+so the actual production techniques.
+
+So as we've seen, the grades of many of these deposits
+
+are relatively low, so as a consequence,
+
+what that means is that the operations
+
+are gonna be quite energy-intensive,
+
+and you have to move a lot of material,
+
+so large volumes need to be moved around and processed,
+
+which obviously causes a lot of energy emissions.
+
+The, about two-thirds of supply,
+
+and these are figures from 2010,
+
+derive from open pit and underground mining,
+
+so like this one, this is an example,
+
+this is from Namibia, an open pit in Namibia.
+
+And about a third comes from leaching methods,
+
+and mostly in situ leaching of uranium.
+
+And open pit operations obviously are best suitable
+
+when the ore body is near to the surface,
+
+and then blasting and excavating is the main technique
+
+to basically liberate the ore material,
+
+which is then processed further by first milling,
+
+and then separating out the uranium.
+
+What is really important in surface open pit operations
+
+is to use water to spray on the surface
+
+to limit the release of radioactive dust
+
+from the operations,
+
+because these are low-grade radioactive deposits, obviously,
+
+so there's obviously a risk of releasing radioactive dust
+
+and carrying that into the surrounding ecosystem,
+
+so by spraying water onto the rock surfaces,
+
+you will at least limit that effect.
+
+That is less of an issue when you go underground,
+
+which obviously then happens when the ore body
+
+is located at deeper levels in the crust,
+
+and the main hazard at depth is the release of radon gas,
+
+which is a breakdown product,
+
+a decay product of the uranium, the natural uranium,
+
+so, and which is poisonous,
+
+and sufficient ventilation is obviously required
+
+in order to limit the effects of the radon gas,
+
+and because of these issues
+
+that I've just highlighted there
+
+with the release of radioactive material,
+
+either as dust or radon gas,
+
+what happens a lot these days as well is leaching methods,
+
+so to avoid the whole blasting and excavation methods,
+
+leaching methods are applied,
+
+so these could take two forms.
+
+One is so-called heat leaching,
+
+where you basically pile up the uranium into a little mound
+
+and then spray it with an acid
+
+that will then allow leaching of the uranium,
+
+and then you collect that acid at the bottom
+
+and use that for processing of the uranium,
+
+similar to what we discussed last week
+
+when it came to gold mining.
+
+This is not used in industrial mining for obvious reasons,
+
+because again, you have to be really careful
+
+with not releasing any of that acid
+
+or acidic radioactive fluid into the surrounding ecosystem,
+
+but it still happens in smaller scale
+
+artisanal mining around the world.
+
+What is much more used these days
+
+is so-called in situ leaching or ISL,
+
+where you basically pump a fluid,
+
+which could be either acidic or alkaline,
+
+depending on the nature of the lithology,
+
+you pump it down a well into the deposit,
+
+so this would be an example of a roll-front deposit
+
+where the uranium is located at a certain depth
+
+within the sandstone aquifer,
+
+so you're drilling a well, an injection well,
+
+and you're then pumping that fluid into the sandstone aquifer.
+
+The fluid is oxidizing,
+
+and you then, with that oxidizing fluid,
+
+you're able to then dissolve the uranium
+
+by oxidizing the uranium from the deposit.
+
+That uranium-bearing fluid is then pumped back
+
+to the surface in a production well,
+
+and then you have a uranium-bearing fluid
+
+which you can process further.
+
+So this is obviously something
+
+that is very applicable in permeable deposits
+
+like these roll-front deposits,
+
+so they are a prime example
+
+of where this in situ leaching technique is being used.
+
+It's also a very cost-effective technique.
+
+There's very little larger-scale operations needed
+
+other than drilling two relatively short wells,
+
+and the impact on the environment is minimized
+
+because your footprint of operations is quite small,
+
+but obviously you need to be careful
+
+not to affect the groundwater,
+
+so this can not happen in areas
+
+where you might actually affect groundwater
+
+by this operation.
+
+So finally, once you have recovered your uranium
+
+by either of the methods that we're talking about,
+
+you basically then need to process the uranium on site,
+
+concentrate it further,
+
+and this happens by acidification
+
+and then re-precipitation of the uranium
+
+as a so-called ammonium diurinate,
+
+which contains something like 70 to 90%
+
+uranium-3-oxygen-8,
+
+and that is generally referred to as yellow cake,
+
+so that's the yellow cake
+
+that you may have read about in literature.
+
+And this yellow cake is then being shipped
+
+to the country where it's gonna be processed further,
+
+and it will be processed further in the country
+
+to enrich it in uranium-235
+
+to something like three to 4%
+
+when you wanna use it
+
+for commercial nuclear power generation,
+
+and that further enrichment in the country of use
+
+happens either by gas diffusion or by centrifuges.
+
+Obviously, all of this requires significant infrastructure
+
+and significant energy needs
+
+in order to enrich the uranium to these values.
+
+And then finally, something on environmental aspects.
+
+Now, we all know uranium is obviously
+
+it's a radioactive material,
+
+so that in itself is obviously dangerous, poisonous.
+
+Inhalation of the dust, the radioactive dust
+
+during the mining can cause respiratory diseases,
+
+it's a carcinogen,
+
+but at the same time,
+
+we need to keep in mind that the deposit,
+
+while it's radioactive, it's much less radioactive
+
+than any nuclear waste that comes out of a nuclear reactor,
+
+it's much less reactive.
+
+But still, it is a danger to the surrounding ecosystems,
+
+it can be toxic in groundwater,
+
+and as a consequence,
+
+there's quite strict environmental regulations
+
+that regulate how the waste tailings are to be treated.
+
+So that includes ventilation,
+
+that includes the sealing of the tailings,
+
+making sure that there's no radioactive dust,
+
+airborne particles that can be released,
+
+but also that concerns the working conditions
+
+for the people that are obviously exposed
+
+to that radioactive material during mining operation.
+
+Okay, so with this,
+
+we're at the end of the uranium lecture,
+
+so as we've seen,
+
+the key things here for uranium is really understanding
+
+or realizing the importance
+
+of the redox behavior of uranium,
+
+but also the relationship with igneous processes
+
+in the first place by the concentration of uranium
+
+in igneous processes due to its lithophile behavior,
+
+and then hydrothermal processes
+
+that exploit the redox behavior of uranium
+
+to further concentrate
+
+and make it into a mineable economic deposit
+
+above cutoff grades.
+
+The deposits in Gabon are a really good example,
+
+a natural example of how we can understand
+
+what actually happens in a nuclear chain reaction
+
+in a man-made nuclear reactor.
+
+And so all of this provides us really good insights
+
+into both the processes for nuclear,
+
+for uranium and enrichments,
+
+the physics of the chain reaction,
+
+and also the conditions for nuclear waste storage.
+
+Okay, with that in mind,
+
+I'll leave it there for today.
+
+I'll see you again tomorrow,
+
+where what I wanted to do tomorrow in the practicals,
+
+when I spend the first half hour or so
+
+just spending a bit of time
+
+discussing some example questions for the test,
+
+which will come up in some time relatively soon,
+
+in a few weeks' time.
+
+Also remember that next week
+
+is the deadline for the coursework.
+
+And then in the remainder of the practical,
+
+because we can't really do a practical
+
+looking at uranium-bearing rocks,
+
+we're gonna do a little game going back to diamonds
+
+where we do an exploration game
+
+where we're gonna work in groups
+
+to identify a diamond deposit.
+
+I'll see you tomorrow.
+
+Oh, okay, okay.
+
+Yeah, so you know a little bit about...
+
+I grew up on the power plant.
+
+All right, yeah, fair enough.
+
+I don't know if it's true,
+
+but I was asking my father once about the power station
+
+or the nuclear warhead,
+
+and then he was saying that some of the nuclear warhead
+
+wasn't using uranium now.
+
+Yeah, yeah, they're using others.
+
+Butanium instead.
+
+Yeah, yeah.
+
+But I think what they were saying was the butanium,
+
+the problem is they will decay.
+
+So it has like a cost to make it
+
+just to remain as active
+
+so that it can actually blow up,
+
+otherwise it's just gonna throw down there like a rock,
+
+it doesn't do anything.
+
+Yeah, okay, okay.
+
+I've been to Sizelby as a school trip, Sizelby.
+
+Oh, yeah, yeah, yeah, yeah, of course, yeah, yeah, yeah.
+
+So yeah, I actually went to the...
+
+Even though I didn't go down there,
+
+I've been to the site of the uranium mine in...
+
+Oh, the Using mine.
+
+Is that the one, or?
+
+No, it's called Woosakos or something.
+
+Oh, maybe there is a difference, yeah, there's probably more.
+
+That one is the one that my parents' company
+
+actually bought it and they would just use it.
+
+I think they were using it themselves
+
+and probably selling some of them
+
+because it's quite a big mine.
+
+Yes, it is, yeah.
+
+I think it's the first in storage
+
+and third in production, I don't know, I don't know.
+
+Could be, yeah.
+
+It's one in storage and one in production.
+
+I don't know which way around it is,
+
+but they did one down there, so I was like...
+
+I was pretty familiar when I look at that yellow disc thing
+
+because I know that's what they were producing
+
+before, like... Yeah, of course, yeah.
+
+I think it was another stage when they made it.
+
+It's kind of like a...
+
+I don't know what, I don't know the word for it,
+
+but they basically, from that yellow clay powder,
+
+but condensed ones, they turn it into like
+
+the black little disc-like bars
+
+and then they stick it into the rods.
+
+Yeah, yeah, exactly, yeah, yeah.
+
+But those would be the ones,
+
+I saw like the further enriched ones
+
+because the yellow cake is just not enriched enough
+
+to be used.
+
+I think the yellow cake was the product
+
+from where the mine is and the factory there,
+
+whereas somewhere else,
+
+they will have to do something to enrich it
+
+and then before... Exactly, so the yellow cake
+
+is basically what comes out of the mine
+
+after processing, beneficiation in the mine.
+
+The yellow cake is shipped by, you know...
+
+Anywhere. Those mine tanks.
+
+Yeah, exactly, and then, so like wherever in the UK
+
+or in any country, they take the yellow cake
+
+and then by centrifugation and gas diffusion,
+
+they then turn that into these pallets,
+
+which are then used for the rods, yeah,
+
+because just to enrich it to three or four percent.
+
+Yeah, no, that's interesting, yeah.
+
+I think they are, in Beijing,
+
+there was some place near Beijing,
+
+they were trying to run a 238 reactor.
+
+Right, yeah, yeah.
+
+Because, yeah, it's basically all 238 in terms of the...
+
+Well, it's like more than 90,
+
+as the part, like more than 90% is 238
+
+and only like really a small chunk.
+
+Yeah, exactly. 235, so they were trying to run a 238.
+
+Yeah, yeah, yeah.
+
+But I think what they mentioned was the problem,
+
+is, you know, normal reactor use the water
+
+as kind of to slow it down.
+
+Yeah, exactly, yeah.
+
+I think for 238, they had to use a different
+
+which is more dangerous liquid.
+
+Right, okay.
+
+To slow things down, that's why that was stuck there.
+
+Yeah, yeah.
+
+Because it just, because water is easy to deal with,
+
+even though we have to focus even on meltdown.
+
+Sure.
+
+Like, if you're gonna deal with something,
+
+some fluid at a higher risk.
+
+Yeah, yeah.
+
+It's just gonna be worse.
+
+It's just gonna, you're just gonna add another problem to it.
+
+Yeah, yeah, yeah.
+
+Do you know what sort of fluid that was by any chance?
+
+Well, let me just try and look at it.

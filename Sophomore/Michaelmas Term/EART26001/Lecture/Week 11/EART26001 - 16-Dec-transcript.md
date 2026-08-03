@@ -1,0 +1,2069 @@
+---
+title: "EART26001 - 16-Dec-transcript"
+source: "Sophomore/Michaelmas Term/EART26001/Lecture/Week 11/EART26001 - 16-Dec-transcript.txt"
+type: transcript
+---
+
+'EART26001 - 16-Dec', automated transcript
+03/08/2026
+---
+
+Let's start the last lecture, then.
+
+So this is a lecture at the end where, in many ways,
+
+I wanted to wrap up some of the things
+
+that we've discussed in the last number of weeks.
+
+And I wanted to do this by talking in a very broad sense
+
+about some global geological trends when
+
+it comes to resource or commodity deposits
+
+that we can identify really at the large scale
+
+and how they are being driven, controlled,
+
+by things like plate tectonics, things like climate
+
+on the Earth.
+
+And because it's a good way of putting those deposits
+
+and, obviously, the geological processes that
+
+lead to them into context.
+
+So but first off, I wanted to talk a bit about summarizing
+
+a bit the classification scheme.
+
+So as we said, wrapping up some of the things
+
+that we have discussed over the last few weeks.
+
+And so you are familiar with this diagram here
+
+where we've used, throughout the lectures,
+
+as a rather simplified scheme to show
+
+what are the main fluids that are involved in the crust,
+
+where do they come from.
+
+And we're using those fluids as a bit of a framework
+
+for our classification scheme.
+
+So we have subdivided this into a number of fluid types.
+
+And with each fluid type, there is a number of deposit types
+
+that are linked to that because of the specific processes
+
+involving those fluids.
+
+So and the starting point for this,
+
+if we're starting from the bottom up, if you like,
+
+in the crust, so from the deeper part of the crust
+
+towards the shallower part of the crust,
+
+we initially talked about igneous or magmatic deposits
+
+where we effectively dealing with processes and fluids
+
+that are related to igneous processes.
+
+So the fluids involved here are obviously magma, it's melts.
+
+And so all of the processes involving those melts,
+
+whether that's formation, the partial melting,
+
+the progressive cooling and the crystallization of minerals
+
+from those melts, if they are leading to a concentration
+
+of a certain metal in the crust,
+
+that will be a magmatic or an igneous deposit type.
+
+So we've talked about platinum group elements
+
+quite early in the lecture,
+
+how they relate to layered intrusions
+
+and the processes leading to them.
+
+So that would be a good example
+
+of those igneous magmatic deposit types.
+
+These are also associated typically with chromium.
+
+So that's another, and we haven't talked about chromium
+
+that specifically, but that would be another type
+
+of deposit related to that.
+
+Then we've also talked about diamonds.
+
+And I've used diamonds as another example
+
+of igneous processes.
+
+Essentially, here we're talking about volcanism,
+
+volcanic processes, but still, because it involves melt,
+
+those are also falling under that umbrella
+
+of magmatic processes.
+
+And we've also talked about elements like uranium,
+
+a little bit about lithium, less so about tin,
+
+but they are also related to igneous deposits
+
+and specifically related to their geochemistry
+
+because many of these elements are lithophile
+
+and they're also incompatible.
+
+So as a consequence, they will be enriched in melts
+
+as they crystallize.
+
+So they will be enriched in the very final minerals
+
+crystallizing from those melts.
+
+So many of these granites, for example,
+
+take the ones in Cornwall, are quite rich in uranium
+
+and they also are enriched in lithium
+
+and these lithium deposits associated
+
+with the corn is granite.
+
+So these are just examples of magmatic processes.
+
+And then obviously from those melts,
+
+you can also have the exsolution of aqueous fluids.
+
+So we talked about the process of how that works.
+
+It's basically we have fluids that are directly derived
+
+from the melt as the melt cools and is then expelled
+
+into the surrounding host rock or country rock.
+
+And many of those fluids can then also mix
+
+with other fluids like, for example, metamorphic fluids.
+
+These types of magmatic hydrothermal fluids
+
+and also metamorphic hydrothermal fluids,
+
+they're typically associated with what we discussed
+
+as orogenic gold deposits.
+
+We talked about gold in two contexts.
+
+One was the Barberton's Greenstone Belt
+
+where we said the main mineralization mechanism
+
+was precipitation from metamorphic hydrothermal fluid.
+
+So that would be an example of that.
+
+But again, I don't wanna go into any detail here,
+
+but just a list there of other deposit types
+
+that are related to these types of fluids
+
+where they are in some ways related to igneous processes,
+
+but the fluids are distal to those igneous bodies.
+
+And in many ways, it's so they will be derived from them,
+
+but have traveled some distance away into the crust.
+
+And that involves, for example, porphyry copper deposits
+
+as just one example of these.
+
+And then we have this very broad term of hydrothermal.
+
+So obviously, hydrothermal is a bit of a mixture of fluids
+
+that come from different sources,
+
+igneous, magmatic, metamorphic.
+
+You could have seawater or groundwater
+
+that's infiltrating into the crust.
+
+You could have water that's released from sediments
+
+as they get buried and compacted in a sedimentary basin.
+
+They all mix up basically into this umbrella term
+
+of hydrothermal fluid.
+
+So they could have a very different,
+
+a very variable, very diverse origins.
+
+And also as a consequence,
+
+their composition can be quite diverse.
+
+So we talked about hydrothermal deposit types
+
+in relation with gold again.
+
+So the orogenic gold was part of it,
+
+but we also talked about it in relationship with uranium.
+
+And essentially, uranium is a bit of a mix here
+
+because we have some uranium in the granite
+
+because of that crystallization of the granite.
+
+Then it gets leached by fluids
+
+and gets re-precipitated by hydrothermal fluids
+
+in the vicinity of those granites.
+
+And again, these are just the examples that we've covered.
+
+I've not even touched them on some of these other deposits.
+
+Mississippi Valley type deposits are an example
+
+of sediment-hosted lead-zinc deposit
+
+that involve hot hydrothermal fluids
+
+circulating through sedimentary basins.
+
+You can also have venting from black smokers
+
+on the seafloor, particularly around mid-oceanic ridges.
+
+And the fluids there are also hydrothermal
+
+that can deposit metal-rich sediments
+
+around these black smokers on the seafloor.
+
+It would be another type,
+
+another example of a hydrothermal fluid.
+
+And then finally, we moved on in the shallow part of the crust
+
+onto sedimentary deposits
+
+and where we're basically dealing
+
+with the syngenetic formation of the deposit
+
+at the time when the sediment was forming.
+
+So the formation of the sediment,
+
+the deposition of the sediment,
+
+and the formation of the mineral deposit,
+
+they are happening essentially at the same time,
+
+very close together in time.
+
+And we've discussed a number of examples here.
+
+One of them are the iron and manganese,
+
+banded iron, banded manganese formations
+
+that we discussed last week.
+
+We also talked about hydrocarbons.
+
+Evaporites are another example of this.
+
+And then finally, we also discussed placer deposits.
+
+Placer deposits can be, you know,
+
+talk about gold, diamonds,
+
+but that involves many other deposits,
+
+including titanium, zirconium, and so on and so on.
+
+But again, because they are relating
+
+to sedimentary processes,
+
+they will be classified as sedimentary deposits.
+
+And then the last one,
+
+which again, we touched on briefly,
+
+last week and the week before,
+
+is superficial and super-gene processes,
+
+where you basically have a formation from surface fluids
+
+that infiltrates into the crust at a very late stage,
+
+hence epigenetics, so very, very late,
+
+after the rocks have been deposited,
+
+the original, the host rocks have been deposited.
+
+But that also involves the alteration of existing deposits.
+
+So it's not just forming a new deposit,
+
+but it's also altering something that's already there
+
+and then upgrading it.
+
+So we've seen that with the iron deposits last week,
+
+where meteoric fluids infiltrated along an unconformity
+
+and then causing the upgrade of the iron ore deposits.
+
+And we've also talked about residual aluminum deposit
+
+in these laterites, laterite soils,
+
+to form the mineral bauxite.
+
+And again, there's other examples that exist.
+
+For example, these laterite deposits
+
+can also contain nickel and platinum group elements,
+
+in particular when, obviously,
+
+that's an upgrading of existing primary deposits
+
+of these types.
+
+And you can also have copper
+
+as a super-gene deposit forming in this way.
+
+So this is basically just an overview,
+
+cap summary of the various processes
+
+that we've been through over the last weeks
+
+and the types of deposits that are associated with them.
+
+Next, what I wanted to do is, as I said,
+
+talk a little bit about some general trends
+
+that we can identify when it comes to resource deposits.
+
+And I wanna start first with atmospheric trends.
+
+And basically what that means is I'm talking about climate,
+
+paleoclimate on the earth.
+
+And the main thing here that I wanted to touch on,
+
+because quite a number of the examples
+
+that we've discussed relate to this,
+
+is the oxygenation of the atmosphere.
+
+So as you all know, the atmosphere wasn't oxygenated
+
+to begin with.
+
+Earlier earth atmosphere was reducing.
+
+It contained a lot of methane and sulfur dioxide
+
+and other gases, but nothing in terms of oxygen.
+
+And only over time did the atmosphere become oxygenated
+
+so actually we as humans and many other animals,
+
+of course, obviously can breathe.
+
+And that graph down here illustrates that point
+
+that you have time on the horizontal axis
+
+and the atmospheric oxygen concentration
+
+on the vertical axis, and like present day is over here.
+
+And then this line here represents
+
+of how the oxygen content of the atmosphere
+
+has evolved all the time.
+
+Starting from very little, not very little,
+
+starting from nothing to very little,
+
+and then eventually reaching for the first time,
+
+substantial amounts at around 2.4, 2.2 billion years
+
+in what's called the Great Oxidation Event or GOE.
+
+And then so like with some ups and downs,
+
+making its way progressively to the modern day value.
+
+So it's not a very like linear trends,
+
+a very up and down oscillatory trend.
+
+So, but that's just the background.
+
+That's just the framework.
+
+But obviously that has implications
+
+for some of the mineral deposits that we've seen.
+
+And just as an example,
+
+the picture appears of the Tritle Pyrite.
+
+And that picture comes from the placer gold deposits
+
+in the Witwatersrand in South Africa,
+
+which is about 2.8 billion years old.
+
+So that would be around here.
+
+So just before the GOE,
+
+when the atmosphere was effectively reducing.
+
+So the rivers were carrying that Tritle Pyrite.
+
+It's angular grains.
+
+So they will have been carried, sorry,
+
+they're angular and they are rounded grains of pyrite.
+
+They would have been rounded
+
+by the transport in the rivers.
+
+But obviously that's something that happens on the surface.
+
+That cannot happen today,
+
+simply because the pyrite would be oxidized,
+
+would be rusting straight away.
+
+But that is not rusted pyrite.
+
+That's original primary pristine pyrite.
+
+And that's only possible because at the time
+
+when it was deposited at the surface,
+
+there was no oxygen in the atmosphere.
+
+So that's good evidence really
+
+for an early reducing atmosphere.
+
+Another example that's still related
+
+to this oxygenation of the atmosphere
+
+is the uranium deposit that we talked about.
+
+So we did mention at around two billion years,
+
+there's the natural nuclear reactor in Gabon, in Oklo,
+
+which started to switch on
+
+and basically burned through its supply of uranium,
+
+just like a man-made nuclear reactor would do.
+
+And that also is related to a particular window in time
+
+when two important things have been present.
+
+So the one is that the oxygen,
+
+the atmosphere became oxygenated enough
+
+from the time of the GUE
+
+that uranium could actually be mobilized.
+
+Remember that uranium is a redox-sensitive element.
+
+It's more soluble under oxidizing conditions.
+
+So if there are oxidizing fluids,
+
+uranium will go into solution and becomes mobile.
+
+So obviously that's something that can only happen
+
+once there is sufficient oxygen in the atmosphere.
+
+So something like that,
+
+the mobilization of uranium cannot happen before.
+
+But that obviously was important
+
+to leach uranium from the granites.
+
+Remember uranium crystallizing in those granites
+
+as being a lithophile incompatible element,
+
+very last mineral to crystallize out.
+
+Could be leached from there,
+
+redeposited, pre-concentrated into the Oklo uranium deposit.
+
+So that's the one aspect of it.
+
+And then the other aspect is this one down here,
+
+the ratio of uranium-235 to 238.
+
+And that was high enough,
+
+be up until about 1.6 billion years.
+
+That ratio, as I've shown you in the uranium lecture,
+
+has changed over time.
+
+It's now around 0.4, 0.3,
+
+but it has been much higher in the past.
+
+And the uranium-235 and that ratio,
+
+it needs to be high enough
+
+in order to kick off a nuclear chain reaction
+
+because that's essentially driven by uranium-235
+
+and not the uranium-238.
+
+So as long as that ratio is high enough,
+
+a nuclear chain reaction can happen.
+
+So Oklo occupies that window
+
+when that uranium ratio was high
+
+and uranium can be mobilized by oxidizing fluids.
+
+Before or after that nuclear chain reaction
+
+would be impossible to do in a natural system.
+
+Obviously, humans obviously have learned to enrich uranium
+
+so that it reaches a high ratio again
+
+so it can be used in man-made.
+
+And then the final aspect around that GOE
+
+is quite simply because the arrival of oxygen
+
+in the atmosphere and by inference in surface environments
+
+because the atmosphere was being exchanged
+
+with surface environments,
+
+meant that that oxygen was available
+
+for the major oxidation of reduced iron and manganese,
+
+which led to the accumulation
+
+of iron and manganese deposits at the large scale
+
+at around the time of the GOE.
+
+So we talked about those.
+
+So again, that's another deposit
+
+that's strictly related to those processes.
+
+So as you can see,
+
+so talking about, thinking about this in a broader sense,
+
+like these larger scale processes, larger scale trends
+
+allows us to put some of the deposit types
+
+into a bit more context.
+
+And the other thing, not to speak of trends,
+
+is talk about biological trends.
+
+And I guess the key point here that I wanted to make
+
+is related to animals and petroleum source rocks.
+
+Now, animals, as we all know,
+
+evolved around 550 million years ago.
+
+So for the first time,
+
+we had animals populating the earth
+
+and obviously have since then dominated.
+
+So the evolution of animals is also related
+
+to the presence of petroleum source rocks
+
+to basically lead to these sorts of rocks
+
+where we have sufficient kerogen,
+
+sufficient organic matter that can be converted
+
+into a working petroleum source rock.
+
+How does that look like?
+
+Well, this is a very complicated graph.
+
+I don't wanna talk too much about the details of it,
+
+but what this graph shows you
+
+is time on the horizontal axis.
+
+So going from the Archean on the left here
+
+all the way to the present day on the right.
+
+And we have a number of key events shown at the top there.
+
+And the main ones that I wanted to highlight really is
+
+this brown curve here, this is the diversity of animals.
+
+So starting at around, so like latest protozoic
+
+and then increasing progressively to
+
+obviously the very high diversity
+
+of animals that we have today.
+
+There are obviously,
+
+and then the other thing that I wanted to highlight
+
+is at the bottom is in particular these green dots here.
+
+They represent accumulations of organic matter.
+
+There's just a handful of dots that occur
+
+throughout earth history.
+
+And then the red and the green line curves here
+
+going downwards, those are basically oil and gas produced.
+
+And so there is a coincidence here
+
+that organic matter has accumulated throughout earth's history.
+
+And there's loads of examples where you actually see
+
+very dark organic rich rocks in the earth history.
+
+Like this one here, for example,
+
+this is an example that comes from Finland,
+
+is around 2.2 billion years old.
+
+So organic matter has accumulated,
+
+but this organic matter hasn't been turned into oil or gas
+
+that would accumulate in a petroleum system.
+
+That accumulation of, or maturation into petroleum,
+
+in a petroleum system only started around the same time
+
+as animals have evolved.
+
+So what that suggests to us is that it's the structure
+
+of the organic matter as well that is important to you.
+
+If you have just bacteria and algae,
+
+of course they produce organic matter,
+
+but maturation of that organic matter
+
+will not lead to very substantial volumes of oil and gas.
+
+It's the maturation of organic matter
+
+that derives to a large part from animals and eukaryotes,
+
+which only started to evolve around this time here,
+
+that is actually responsible for the accumulation
+
+or the formation of oil and gas.
+
+So animals is the one thing,
+
+and the other thing is the presence of eukaryotes.
+
+So eukaryotic organic matter is important
+
+to turn that into oil and gas.
+
+Whereas if you had archaea, bacteria,
+
+microbial mass prokaryotes,
+
+they will not produce the right structure of kerogen
+
+that can be turned into petroleum, oil and gas effectively.
+
+So there's a clear relationship
+
+between biological evolution and the presence of source rocks
+
+and the maturation of source rocks
+
+to turn them into working petroleum systems.
+
+And then there is sea level,
+
+and that's another important thing.
+
+So when I say used to sea,
+
+that's obviously related to the vertical variations
+
+of sea level over time, going up and down.
+
+And we know that this has happened
+
+because we can look at the rock record.
+
+And what basically people have said is that over time,
+
+sea level has gone up and down quite significantly.
+
+And that is related to two factors.
+
+One is the ice volumes on the planet.
+
+So obviously, if you have much of the surface water
+
+of the earth locked up in ice alone holds,
+
+that will mean that the sea level
+
+at the global scale will fall.
+
+So for example, during the last ice age,
+
+the global sea level was about 100 to 200 meters
+
+below the present sea level
+
+because much of the water was locked up
+
+in the polar ice caps.
+
+Obviously, if those ice caps melt,
+
+all of that water is being released and sea level will rise.
+
+So there is obviously a relationship
+
+between the presence or absence of polar ice caps.
+
+And that is to a large extent shown on this graph here
+
+where we have cool periods in the green colors
+
+when ice sheets were present
+
+during the so-called ice house climate.
+
+So presence of polar ice.
+
+That's when sea level was relatively low.
+
+And then during warmer periods
+
+or otherwise called greenhouse climates
+
+when polar ice caps were absent,
+
+we have a higher sea level.
+
+So there are these peaks over here.
+
+And you can see quite nicely
+
+that obviously that has changed quite a lot over time.
+
+Another aspect that's driving the sea level
+
+is plate tectonics, not just the ice and the climate,
+
+it's also plate tectonics in the sense that
+
+if you have very rapid spreading along mid-oceanic ridges,
+
+that will basically push up the volume
+
+or that will basically push up the sea level.
+
+And if you have slow spreading,
+
+it will actually reduce the sea level.
+
+So there's a relationship as well
+
+between plate tectonics and global sea level.
+
+Now you may say, okay, that's all nice, nice and good,
+
+that works, but how is that relevant
+
+for mineral deposits or energy deposits?
+
+Now it is striking that if you look at the upper graph here,
+
+this is taking a look at sea level changes,
+
+that's the blue line here.
+
+These sea level changes are now compared
+
+with petroleum source rocks in the top of the graph.
+
+So the green and the red bars represent,
+
+green is oil, red is gas,
+
+represent the distribution of petroleum systems
+
+and petroleum source rocks through time.
+
+And we noticed that many of these
+
+are actually associated with high stands of sea level.
+
+So for example, these ones here, this is Cretaceous,
+
+this Uption-Turonium source rock here
+
+sits right here at this peak of sea level
+
+during the Cretaceous.
+
+Another one over here, we have, so like this is Permian,
+
+sits during this relatively high stand of sea level here
+
+and so on and so on.
+
+So there is a first order relationship
+
+between high sea level and the development
+
+of petroleum source rocks.
+
+And if you're looking a bit more detail,
+
+this is an example from Morocco,
+
+where you were looking at upper Cretaceous rocks
+
+in this outcrop here on the left,
+
+specifically Cenomanian to Turonian rocks.
+
+This is the lithology here on the left side
+
+with the total organic content shown in the black curve.
+
+So high in these like stripe intervals over here.
+
+And on the right side, we have relative sea level.
+
+So increasing towards the left,
+
+so high sea level is around here
+
+and then decreasing towards the right.
+
+And these organic rich rocks,
+
+these ones here are actually seen in the outcrop
+
+with these gray bands.
+
+And there's another one right here
+
+and another one down here at the bottom
+
+where the people are standing.
+
+So these are locations within the outcrop
+
+where these organic rich rocks do occur.
+
+Now, and it is striking when you're looking
+
+at the graph on the right,
+
+that the peaks of TUC coincide
+
+with relative high stands of sea level.
+
+So there's a clear relationship again
+
+between relative high stand of sea level,
+
+like this one here and the presence
+
+of a lot of TUC in the rock.
+
+How does this work?
+
+So if you think of a very simple system
+
+where we have a cross section through a sedimentary basin,
+
+there's land here, the hinterland on the left side,
+
+the coastline is somewhere over here, that's the basin.
+
+And the basin is actually separated
+
+or partly separated by a sill,
+
+a little barrier over here from the open ocean,
+
+which is on the far right.
+
+So the blue, that's sea level,
+
+if that rises to pass over the sill,
+
+what we actually see is that the water will fill
+
+into this basin, this partly restricted basin,
+
+and that rise in sea level will bring in
+
+a lot of deep water nutrients
+
+that come from the deeper parts of the ocean.
+
+They will affect it onto the shelf,
+
+the shelf and area over here.
+
+And obviously those nutrients,
+
+they will drive increased productivity within the basin,
+
+producing a lot of organic matter
+
+that can obviously then start to fall.
+
+You also increase just the area
+
+of shallow water in general.
+
+So as soon as you have a larger area of shallow water
+
+that can be populated by much more organisms,
+
+and that in turn will also cause or promote productivity,
+
+producing more organic matter.
+
+These nutrients will be retained within the shallow shelf area
+
+and you can also produce stratification,
+
+like we've discussed when we talked
+
+about petroleum source rocks
+
+in these semi-restrictive basins.
+
+You end up having a less dense,
+
+less saline surface layer of water
+
+and a denser, more saline bottom layer of water
+
+that do not mix.
+
+And as a consequence, oxygen is retained in the surface,
+
+which doesn't mix with the deeper parts,
+
+but actually become anoxic.
+
+So on top of the increased productivity,
+
+you also have an increased chance
+
+of preserving that organic matter
+
+because you're not remineralizing it in contact with oxygen.
+
+So there's a number of individual processes,
+
+but what they really do is they work together
+
+to say that when we have a rise in sea level
+
+as a first order trend,
+
+very often that will then promote the formation
+
+of organic source rocks that can lead on
+
+to the formation of oil and gas petroleum systems.
+
+And then, so the last thing I wanted to talk about
+
+is also to talk a little bit about
+
+the really large scale geodynamic trends
+
+or plate tectonic trends, if you like.
+
+So how does mineral deposits,
+
+formation of mineral deposits relate in the broader sense
+
+to what's happened tectonically or geodynamically
+
+on the planet, whether that's plate tectonics,
+
+whether that's the formation of origins,
+
+volcanism, things like that.
+
+And when we talk about geodynamic trends,
+
+the main thing we need to talk about here initially
+
+is what we refer to as the Wilson Cycle,
+
+which I'm pretty sure you would have covered
+
+something like this in the first year,
+
+where effectively we have at a large scale,
+
+so we're talking about something that happens
+
+over hundreds of millions of years,
+
+the repeated closing and opening of oceans.
+
+So we basically start from a stable craton over here,
+
+we start to riff that, break that up, break it apart,
+
+so for example, the opening of the Red Sea
+
+or the rifting between Africa and South America,
+
+which will then lead to the formation of a passive margin,
+
+a mid-oceanic ridge, but then eventually,
+
+as that ocean keeps opening,
+
+eventually that will then cause convergence
+
+with another continental fragment,
+
+cause subduction, and that eventually leads
+
+into mountain building and the formation of new crust,
+
+which we can then break up again
+
+by rifting and so on and so on.
+
+So really, as a first-order trend,
+
+that Wilson Cycle describes the opening and closing
+
+of oceans and the formation of crusts.
+
+Related with that is something that we need to consider,
+
+which is the heat production on the Earth.
+
+And this again is time on the horizontal
+
+against the relative heat production on the vertical axis.
+
+And what we can see here is that overall,
+
+in the past, in the Achean in particular,
+
+there was much more heat that actually had been produced,
+
+and that over time has decreased,
+
+that heat production has decreased to present-day values.
+
+And related to this is the presence
+
+of some key important rock types.
+
+So for example, and otherwise, that's indicated over here.
+
+So for example, greenstone belts in the Achean,
+
+so some of these oldest continental fragments
+
+on the cratons, they are related with this volcanic rock
+
+called a comatite, it's an ultramafic volcanic rock
+
+that actually reflects very high rates of partial melting
+
+under a hotter Achean Earth.
+
+And so that meant that these comatites,
+
+they could release a lot of gold from the mantle
+
+because of that high rates of partial melting.
+
+They would release a new, a lot of gold,
+
+which would then be incorporated
+
+by the processes that we talked about
+
+into these greenstone belts.
+
+So a lot of this is for these greenstone belts
+
+and their abundance of gold in these greenstone belts
+
+is actually related to the formation of these comatites,
+
+which was only really possible in the Achean.
+
+Also, we talked about layered intrusions.
+
+And so like there's an important event
+
+around the Achean-Proterozoic transition,
+
+so around 2.5, 2 billion years ago,
+
+when we have significant increase in crustal growth.
+
+And that is related to the intrusion
+
+of things like the Bushveld.
+
+So again, that event of crustal growth at the time
+
+has caused significant partial melting,
+
+causing the formation of these ultramafic intrusions
+
+with their wealth of platinum group elements,
+
+chromium and so on, and nickel in them.
+
+So again, there's a relationship there at the first order
+
+between the presence of these intrusions
+
+and heat production or continental crust.
+
+So broadly speaking then, we have a trend here
+
+where over time there were periods
+
+of significant crustal growth.
+
+And these are, so like there's two peaks,
+
+one at around 2.7, and it's like going on a bit further on,
+
+that's the one that I just talked about,
+
+and then another one at 1.9.
+
+So these are two important peaks,
+
+but there's other smaller peaks
+
+when significant portions of crusts,
+
+continental crusts have been created.
+
+And that translates into these supercontinents
+
+or these continental blocks that we all know about.
+
+So for example, these black boxes here,
+
+these are the key supercontinents,
+
+like the latest, Pangaea, that one over here,
+
+that formed at the beginning of the Phanerozoic,
+
+the rifting between Africa and South America
+
+was part of that breakout of that Pangaea supercontinent
+
+into these continental blocks that we know of today.
+
+But so earth history is characterized by the formation
+
+and then breakup of these supercontinents
+
+as part of that Wilson cycle.
+
+So, and that obviously means that crust is being produced
+
+and destroyed by this Wilson cycle mechanism.
+
+And the rifting in particular,
+
+and also these crustal growth periods
+
+are also related to the super plume events
+
+where a lot of mental material rises towards the surface
+
+and it's very often related with rifting.
+
+So how does this relate?
+
+So this is just really as context.
+
+So basically to say, obviously we have this Wilson cycle,
+
+crust is formed, continents break apart,
+
+driven by large scale geodynamic processes.
+
+But how does it relate with mineral deposits?
+
+So that's where it becomes interesting for us.
+
+So if we try and look at first convergent margins
+
+or where we have subduction zones,
+
+mountain building events,
+
+it's clear that some of these mineral deposits
+
+that we talked about are quite strict related
+
+to these sorts of processes.
+
+Where, for example, because you have subduction,
+
+you tend to have a lot of partial melting
+
+and formation of igneous bodies,
+
+smells from that forming granites,
+
+for example, granite intrusions,
+
+shown with these red dots here.
+
+These granites will obviously contain,
+
+for example, a lot of uranium eventually,
+
+maybe a lot of lithium.
+
+So those deposits are related with that.
+
+In particular, when eventually you form
+
+orogenic mountain belts,
+
+and we've talked about gold, orogenic gold
+
+as an important component in there.
+
+So that again is related to the mountain building
+
+that's related to the subduction zone
+
+and eventually formation of an orogenesis.
+
+The accumulation of gold, orogenic gold deposits
+
+because of these processes.
+
+So that's a clear relationship
+
+between mineral deposit formation and plate tecton.
+
+So in terms of what's happening
+
+in these convergent margins is obviously
+
+we have partial melting.
+
+We have the formation of these intrusive bodies.
+
+There's also metamorphism that's related
+
+with the mountain building event.
+
+And as a consequence of this,
+
+we obviously we are producing a lot of melt,
+
+but we also producing a lot of magmatic hydrothermal fluids
+
+from these melts.
+
+And these magmatic hydrothermal fluids
+
+that can mix with other crustal fluids,
+
+whether that's metamorphic fluids,
+
+whether that's connect waters, the surface waters.
+
+And because of the presence of these igneous bodies,
+
+you create a lot of potential for thermal circulation
+
+that will drive the circulation
+
+of the fluids through the crust.
+
+And then finally, if you're building a mountain belt,
+
+if you're building an orogen,
+
+the ones that's created,
+
+ones that formed it's above surface obviously,
+
+can be eroded and the lithologies
+
+can be then redistributed within the surrounding bases.
+
+So what that means is that related with this
+
+is quite a number of deposits.
+
+So as I already said, the orogenic deposits,
+
+like for example, gold, but also other base metals,
+
+very often they are relating obviously
+
+to these processes that I've just explained.
+
+We also have crystallization of these melts
+
+and the formation in particular of those
+
+deposits that relate or that contain
+
+incompatible lithophile elements,
+
+like uranium, like tin, like lithium
+
+that can be associated with this.
+
+We can also have porphyry deposits,
+
+so like deposits that are more closer
+
+to the actual igneous bodies
+
+and they contain a lot of copper, gold,
+
+and molybdenum as well.
+
+I haven't talked about porphyries in detail,
+
+but they're related to these magmatic hydrothermal fluids.
+
+And we can then have, as I said,
+
+erosion of the crustal materials being created,
+
+leading to, for example, the formation of placer deposits,
+
+gold being just one example.
+
+So there's a number of deposit types
+
+that are not only occurring in these
+
+convergent margin subduction zones context,
+
+but very often because there are specific processes
+
+linked to these convergent margins,
+
+those types of deposits will be present
+
+mainly in these contexts.
+
+If we're then looking on the other end of the spectrum,
+
+there's the divergent margin,
+
+where the crust is breaking apart,
+
+is rifting apart, and you're forming ocean anew.
+
+And again, there's other processes
+
+that will be very prominent here.
+
+Again, obviously you have a lot of heat coming up.
+
+You can have, for example, the formation of diamonds
+
+that's related with these rifting events.
+
+Remember that some of the diamonds that we talked about
+
+seem to have this very broad association
+
+in time with rifting events as well.
+
+You also form granite bodies or igneous bodies
+
+because of partial melting,
+
+and maybe there's a plume event
+
+that is responsible for the crust opening.
+
+Once we have an ocean formed,
+
+we can have, for example, a lot of metals
+
+that are associated with black smokers,
+
+like these ones over here,
+
+that actually form in the center of that basin
+
+along the mid-ocean ridge,
+
+forming what's referred to as exhalative,
+
+sedex-type mineral deposits,
+
+lots of base metals, iron, copper, and so on and so on.
+
+But also we can have sediment-hosted mineral deposits.
+
+We talked about evaporites, for example.
+
+So as part of the opening of the basin,
+
+very often that basin becomes separated from the main ocean,
+
+and you start forming evaporites, for example,
+
+like these ones over here on the right.
+
+That's from the Red Sea rift.
+
+And then finally we can have hydrocarbons, for example,
+
+because obviously on these newly formed passive margins,
+
+there's a lot of potential
+
+for the accumulation of organic matter,
+
+and also of the sedimentation
+
+for porous limestones and sandstones,
+
+and obviously they in combination
+
+can form a petroleum system.
+
+So in terms of processes,
+
+again we have the rise of mantle flumes from depth
+
+that causes partial melting.
+
+Again, we can have exolution of hot magmatic
+
+and hydrothermal fluids, mixing with other fluids.
+
+We have circulation of these fluids
+
+through the oceanic crust at the top,
+
+and for example, formation of these,
+
+generation of these black smokers.
+
+We erode the basin, the basement,
+
+and we're producing a lot of,
+
+we have the sedimentary processes
+
+that are really important in this context as well.
+
+So in terms of the deposit types,
+
+we can have, for example, nickel, copper, and PGE sulfites
+
+that are associated with these mafic intrusions
+
+that are related with these plume events here.
+
+And we talked a lot about marine and continental deposit,
+
+the bended iron formation, hydrocarbons, and evaporites,
+
+very often related with these sorts of early rift
+
+to passive margin type deposits.
+
+And just finally, just to show you that,
+
+there is also a relationship there in time
+
+with these crustal growth events.
+
+And so on the left side here,
+
+so all of these graphs show on the horizontal axis time
+
+from the past to the present day,
+
+the yellow bars show when the supercontinents were forming.
+
+So here they are again, are forming supercontinents.
+
+So these would be the main episodes
+
+when crust was formed on the planet.
+
+And how, based on literature,
+
+how do certain mineral or resource deposit types
+
+relate to that in time?
+
+And we can see, for example,
+
+if you're looking at the convergent margin first,
+
+so continents coming together,
+
+forming supercontinent, orogenic gold,
+
+just one example here,
+
+the main periods of orogenic gold formation
+
+seem to be towards the beginning
+
+and the end of these supercontinents.
+
+So particularly at the beginning
+
+when the supercontinent is assembled,
+
+formation of orogens,
+
+that's when a lot of orogenic gold will be formed.
+
+For example, here at the start of Kenoland,
+
+and also when Pangaea was assembled in the early Paleozoic,
+
+that's also when a lot of orogenic gold was formed.
+
+And on the other hand, for example,
+
+we can have, for example, intra-cratonics,
+
+so here we have sort of diamonds, again, diamonds,
+
+a lot of it happening towards the start
+
+and towards the end of supercontinent formation.
+
+So again, at a very broad scale,
+
+there is a relationship between crust formation,
+
+Wilson Cycle, and the distribution
+
+of certain mineral or resource deposits
+
+simply because they rely on these processes
+
+that are active during the processes
+
+strictly related to geodynamic trends.
+
+So in summary then, so really that's also
+
+not just a summary for what we've just talked about today,
+
+but it's also like going back as a more broad summary.
+
+So really what we've seen over the last 11 weeks
+
+is that all of these commodity deposits,
+
+what they really represent is combinations
+
+when favorable geological processes came together
+
+in order to concentrate the elements that we want
+
+into a single spot where we can mine it.
+
+But obviously similar processes, as we've just seen,
+
+have created similar deposits over time.
+
+So when we know about these processes,
+
+when we know how orogenic gold forms,
+
+we can start using that as a predictive tool
+
+to predict deposits where and when they might occur.
+
+It's the knowledge of these geological processes
+
+and the fact that they repeat themselves
+
+through Earth's history.
+
+Now at the same time, these deposits are obviously
+
+very complex and understanding the formation mechanisms
+
+is absolutely essential.
+
+But also at the same time,
+
+the same commodity can be accumulated
+
+by different processes.
+
+And there's not just a single way
+
+of how to accumulate copper or uranium.
+
+There's different deposit types.
+
+But also we can have different processes can affect
+
+a deposit over time.
+
+It may be formed first, like for example,
+
+bended iron formation by marine processes,
+
+and then it can be upgraded by super gene
+
+meteoric fluids at a later time.
+
+It's the same deposit, but different processes happening
+
+over time affecting that deposit.
+
+And we've talked about this very like first order
+
+classification that's really based on the types of fluids
+
+and where those fluids came from.
+
+So igneous, igneous, hydrothermal,
+
+hydrothermal sedimentary is official.
+
+Those are like, it's a useful classification scheme
+
+that we can apply.
+
+And also we've just seen that some of these overarching
+
+controls, whether they atmosphere, climatic trends,
+
+the biosphere, the geosphere, or the hydrosphere,
+
+understanding these overarching controls
+
+is also indispensable for understanding,
+
+for predicting, and for studying and evaluating deposits
+
+of any commodity really.
+
+And I think the last point, which I think is,
+
+I personally think that's really important.
+
+What we really have been doing over the last 11 weeks
+
+is a very basic introduction into the field
+
+of what I would call, what is called effectively
+
+economic geology.
+
+And economic geology really draws on concepts
+
+from many different fields.
+
+And that's not just geology in the strictest sense.
+
+It also, you know, there's geophysics in there,
+
+there's geochemistry, igneous geology,
+
+volcanology, sedimentology, all the way into paleontology
+
+and so on and so on.
+
+So there's physics, there's chemistry in there.
+
+So there's a whole lot of diversity of disciplines
+
+and the concepts being developed in those disciplines
+
+that we're using.
+
+We're just applying these concepts in economic geology
+
+to locate, understand, and predict mineral ore.
+
+Good.
+
+With that, I would say,
+
+I think that's the last slide I have.
+
+Yes, we can finish there.
+
+We should be early today.
+
+So, yeah, as I said, that was the last lecture.
+
+I'll see you again one more time tomorrow.
+
+11 o'clock for the test.
+
+If you can, I would encourage you to try to be a bit early
+
+so we can make sure that everyone gets subdivided
+
+into the different groups.
+
+I mean, if you wanna go, you can start coming to this room.
+
+So we're gonna be in G03 here and in G12.
+
+So you can already start separating yourselves out
+
+and then we can get cracking with the test tomorrow.
+
+Don't forget, you can bring a calculator
+
+and also a ruler and a protractor will be useful.
+
+Otherwise, it's closed, folks.
+
+Well, it's gonna be, it's gonna be a lot of practicals, right?
+
+So, you know, we can't really expect loads of it.
+
+Because I mean, each question will take the time.
+
+If you have one and a half hours.
+
+Well, we've been through some example questions.
+
+Like last week, I've discussed the example questions
+
+and in week seven, we also discussed example questions.
+
+I put them on the canvas so you can have a look there.
+
+So those are example questions.
+
+Yeah, it's like one point.
+
+Oh, I was wondering about that.
+
+I thought, sorry, I didn't see it.
+
+So I looked at it the other way.
+
+Is that like, all the content of that is all me on the page?
+
+So it's really the practical work.
+
+Practical work, calculations,
+
+getting information off a map or a cross-section.
+
+It's what we've done essentially in the practical.
+
+That's the final two questions.
+
+Yeah, yeah, yeah.
+
+Go ahead.
+
+I still have a question about this one.
+
+I know that we should measure the distance from here.
+
+I see on the, I also measured this one.
+
+And then I convert it into the.
+
+Yeah, so.
+
+Well, it's totally different as a result.
+
+Right, so I guess, because it was a bit,
+
+so what basically, the problem that was there was
+
+that there was an extra step in there
+
+which involved this cross-section here.
+
+That cross-section, as you can see, that's 200 meters.
+
+Yeah, so that's just a tiny bit of that.
+
+So the idea behind that was
+
+that it would give you a sense,
+
+you can basically use that to determine your angle.
+
+But I'm still not sure about,
+
+the distance I measured from here,
+
+I have a y and the length.
+
+Sorry, can I just, yeah, so basically,
+
+so the final result that you want is,
+
+so if you have the outcrop,
+
+that's the blue, very thin blue line over here, yeah?
+
+And then from there, basically along any of,
+
+take that cross-section there,
+
+that blue layer just dips into the subsurface, yeah?
+
+And so what we wanted to know is the total volume of the rock
+
+within that license block, within that license area here.
+
+So basically, as a horizontal distance from there to there.
+
+So that distance there,
+
+that's gonna be your horizontal distance.
+
+So in a, basically,
+
+that's the system that we were looking at.
+
+That's our unit that we want to determine.
+
+Obviously, it has an angle here, yeah?
+
+And what we need is that length,
+
+that distance there, that's what we need, yeah?
+
+In order to calculate this volume, yeah?
+
+So what we can do is we can basically measure
+
+that horizontal distance, which is,
+
+we can determine the angle.
+
+That's why I was using this cross-section.
+
+So even if that cross-section represents only-
+
+The angle's the same.
+
+The angle's the same, yeah?
+
+So the idea is, so you can basically say,
+
+I mean, it's totally up to you.
+
+So you can say, well, that's my angle there.
+
+Or if you really wanna be precise,
+
+because then it does change with,
+
+but you know, we can just say, that's the angle there.
+
+Or if you wanna take that angle there.
+
+It doesn't really matter.
+
+Is it not, it's not big enough of a difference
+
+to make that dependent?
+
+Well, it will make a difference,
+
+but the idea is, it's about the process,
+
+not the exact value.
+
+So when your markets are arranged,
+
+if there's something like this in the test.
+
+I mean, obviously, if it's something like this,
+
+there will be a range.
+
+Well, as long as you've shown the work out now.
+
+Exactly.
+
+You'll get something.
+
+Yeah, exactly, exactly.
+
+It's really about understanding
+
+the principle of how we do this.
+
+So once, sorry, if I could just finish that.
+
+So we could just read off the angle from here.
+
+So we say, that's the same angle as that one.
+
+And then with this, what we want is we want this here.
+
+Yeah.
+
+So what you basically have, cosine is alpha, is that.
+
+That.

@@ -1,0 +1,1407 @@
+---
+title: "EART22201 - 27-Oct-transcript"
+source: "Sophomore/Michaelmas Term/EART22201/Lecture/Week 4/EART22201 - 27-Oct-transcript.txt"
+type: transcript
+---
+
+'EART22201 - 27-Oct', automated transcript
+03/08/2026
+---
+
+So I talked you through a little bit of key terminology, intrusive, extrusive,
+
+should be pretty familiar to you.
+
+Some terminology about how we describe things, magmas versus melts versus
+
+crystals versus bubbles.
+
+And I talked to you about some really key processes that you will hear me refer
+
+to again and again from now on in the course.
+
+So equilibrium crystallization and fractional crystallization.
+
+Have you come across these in principles of geochemistry already?
+
+So I don't need to do a long explanation about how these two things work.
+
+But the principles that you have learned in that geochemistry course are exactly
+
+the same as would apply to a complex, multi-component, multi-element system like
+
+a silicate melt.
+
+So do you have these in the back of your mind?
+
+And if you're not sure what they are, come and talk to me or one of the GTAs in
+
+the lab.
+
+It'll be worth you having a kind of couple of sentences definition that you can
+
+pull out if you're asked, what is equilibrium crystallization?
+
+What is fractional crystallization?
+
+And what is the difference between them?
+
+Bowen's reaction series, is that familiar from first year?
+
+Have you come across that before?
+
+Yep. And tie that in with the mineralogical stuff that we were looking at last
+
+week.
+
+What you might have started to notice is that the first minerals to crystallize
+
+from a silicate liquid are the ones that have the simplest crystallographic
+
+structure.
+
+So orthosilicates.
+
+And as we go down Bowen's reaction series, we start crystallizing minerals that
+
+have more and more complicated silicate structures.
+
+So orthosilicates, through single-chain silicates, through double-chain
+
+silicates, through sheet silicates, and then finally quartz as a framework
+
+silicate.
+
+The exception to that is plagioclase feldspar, which basically crystallizes in
+
+everything.
+
+Plagioclase is a framework silicate, so we can get this complicated structure co
+
+-crystallizing with simple structures like olivine.
+
+And in plagioclase feldspar, the really interesting thing is that the
+
+composition changes.
+
+So the early crystallizing plagioclase that you might find in basalt, mafic
+
+rock, is calcium rich.
+
+Whereas in a silicic rock, like a rhyolite, the plagioclase will be sodium rich.
+
+And later on in the course, I'll be talking more about this, so have that in the
+
+back of your mind.
+
+I also then started to talk to you about some key terms that we can use to
+
+describe igneous rocks that you'll be using in your practical work going
+
+forward.
+
+So some really simple observations that you could use if you're out in the field
+
+and it's pouring down with rain and the will to live is rapidly vanishing.
+
+So things like grain size. It seems obvious, but report that.
+
+Things like the color of the rock. If you've got a hand specimen, you can report
+
+the color of the rock.
+
+But you can also do this by looking at a thin section, the proportion of low
+
+relief colorless minerals versus the proportion of higher relief mafic minerals.
+
+When you pick up a thin section and you hold it up to the light, you'll start to
+
+be able to pick out those darker minerals.
+
+So a top tip for when you're coming to work on a thin section is before you put
+
+it under the microscope,
+
+just put it against a clear background, a white piece of paper or hold it up to
+
+the window and see what you can see.
+
+And you'll be surprised at how much detail you can get out of the thin section
+
+before you even put it on the microscope.
+
+I then talked to you a bit about mineralogical classification schemes.
+
+And one of the key things that we want to do with these is to look at what's
+
+called the modal mineralogy of a rock.
+
+So the proportion of the rock that is made up of mineral A, the proportion of
+
+the rock that's made up of mineral B and so on.
+
+This is always going to be an estimate when you do this for yourselves in a
+
+practical class.
+
+There are ways and means of doing this quantitatively with statistical rigor.
+
+And they are very tedious and they take a really long time. So we don't do this.
+
+So what we want to do is to estimate by eye based on what we've seen,
+
+what are the modal proportions of say, olivine, quinoperoxene and plagioclase in
+
+this rock or of each of these minerals in this rock.
+
+And we use that information then to come up with a way of giving the rock a name
+
+and some further qualifiers. And these are all in your practical reference
+
+handout.
+
+You're going to be using these throughout the rest of the semester.
+
+Everybody happy so far? Fab.
+
+So we're going to dig a little bit more into this kind of classification and
+
+description of igneous textures,
+
+which are a result of the rock crystallizing. But it's not as simple as just
+
+going from solid to liquid.
+
+The route in which you get from solid to liquid has a profound effect on the
+
+rock that we actually see.
+
+And the thing that is going to govern that appearance of the rock more than any
+
+other is the cooling rate.
+
+So what I've got here is this parameter delta T, the degree of supercooling.
+
+What does that mean?
+
+When delta T equals zero, we are at what we would call the solidus of the rock,
+
+so just at the melting temperature.
+
+If we supercool this by one degree, then it will be very difficult for solid
+
+particles to nucleate in that liquid.
+
+But if we cool it underneath the solidus by, sorry, the liquidus by, say, 100
+
+degrees,
+
+that's a big temperature difference, and the rock will want to start to
+
+solidify.
+
+And we can nucleate lots of individual crystals.
+
+So there's then a trade-off between how many crystals can you nucleate versus
+
+how quickly can those crystals grow.
+
+So in your one degree situation, you might manage to make one new crystal, but
+
+the system is quite hot.
+
+It is easy to diffuse elements within the liquid, and it's easy to get the
+
+ingredients to grow that crystal to where they want to be.
+
+So you might have one crystal, but it is able to grow to a large size.
+
+If you're in a quickly cooling environment, it might be very easy to make lots
+
+of new crystals,
+
+but it's less easy to move the elements to the boundaries of those crystals so
+
+that the crystals can grow and be incorporated,
+
+so the crystals don't grow very quickly.
+
+So this black graph here shows you the rate of nucleation as a function of this
+
+degree of supercooling.
+
+So you need to supercool your liquid some amount below the liquidus before it
+
+will start crystallizing.
+
+Then the number of crystals that you can make will increase, and then your
+
+cooling rate will become a little bit too quick.
+
+The numbers of crystals go down, and eventually you suppress nucleation
+
+altogether, and you crystallize, or you solidify an amorphous material.
+
+Your growth rate peaks at a fairly high degree of supercooling and then quickly
+
+tails off.
+
+So the grain size is basically controlled by the trade-off between these two
+
+things, nucleation and growth.
+
+And just as a beware, this symbol G is sometimes used for Gibbs free energy, but
+
+it's also used for growth.
+
+It should be clear from the context which one it is.
+
+So when you're up here in this slow cooling regime, you've got a relatively low
+
+nucleation rate, but you've got a rapid crystal growth rate,
+
+and what you're going to end up with is coarse grained igneous textures, fairly
+
+straightforward.
+
+If you've got a fast cooling rate, you can nucleate lots of crystals, but
+
+they're not going to grow very fast, and you end up with a fine grained texture.
+
+And if you go on this extremely rapid cooling situation, you suppress the
+
+nucleation rate so you get almost no crystals,
+
+and you end up with a silicate glass.
+
+So if you've got instantaneous cooling, both N and G tend to zero, and you get a
+
+glass.
+
+Now in nature, it's reasonably easy to make a glass out of a rhyolitic liquid.
+
+It's relatively less easy to make a glass out of a basaltic liquid, and that is
+
+to do with the structure of the melts.
+
+So I've just said that nucleation and growth require cations to be able to
+
+diffuse through the silicate melt,
+
+and silica SiO2 is a highly polymerised structure.
+
+So the more silica that you have in your magma, the more polymerised it is,
+
+and the more difficult it will be to move the other cations that are not silica
+
+around your liquid.
+
+So this graph here, this figure here, would show you the structure of
+
+crystalline silica or quartz.
+
+If you heat that up to being a liquid, well, you allow these bonds to become a
+
+lot more flexible,
+
+but you maintain a lot of this polymerised structure.
+
+Whereas if you take a composition like this, something that's got calcium,
+
+magnesium,
+
+and two silica tetrahedral units per calcium and magnesium,
+
+cations in this start to depolymerise the silicate structure.
+
+So the viscosity of this liquid C will be significantly lower than the viscosity
+
+of silicate liquid B.
+
+Now if we translate that to real rocks, liquid B might represent something like
+
+a rhyolite,
+
+so extremely sticky, high silica, difficult to move cations around.
+
+If it's difficult to diffuse things, it will be difficult to nucleate crystals,
+
+it will be difficult to grow crystals, it will be easier to make a glass.
+
+So we often see kind of obsidian in rhyolitic lava flows.
+
+Situation C might look much more like a basalt liquid.
+
+About 50% silica and 50% other cations, quite depolymerised, and much lower
+
+viscosity.
+
+At typical liquidist temperatures, basalt might have a viscosity similar to
+
+something like golden syrup,
+
+so reasonably easy to get it to flow.
+
+Reasonably easy to diffuse cations around this liquid, and relatively much
+
+easier to nucleate crystals.
+
+Therefore, it doesn't take so much supercooling in order to get this thing to
+
+nucleate lots of crystals,
+
+and you have to do extremely rapid crunching in order to get basalt glass.
+
+And the typical places we might observe that might be in submarine eruptions at
+
+mid-ocean ridges,
+
+generating pillow basalts, or subglacial eruptions,
+
+which behave in a very similar way because you've got a confining pressure due
+
+to ice rather than due to the seawater.
+
+So this is just a little kind of interest teaser to show you how crystal
+
+nucleation and growth works in basalts.
+
+This is an experiment that we ran at the Diamond Light Source Synchrotron down
+
+near Oxford,
+
+and what we did was we take a tiny capsule of basaltic powder, heat it up until
+
+it's a liquid,
+
+and then cool it down, and we used x-rays to watch this thing crystallising in
+
+place.
+
+The field of view here is probably, I think, about two millimetres across.
+
+The walls of the capsules are the sides and the top.
+
+So those are the places that are in contact with the air,
+
+or the places in this experiment that are going to be cooling the quickest.
+
+And what you notice is that these crystals, these eclina pyroxene crystals, are
+
+growing from the sides in and from the top down.
+
+And this particular experiment has been run over the course of a couple of
+
+hours,
+
+so this crystal growth is really relatively rapid.
+
+And this is what it looks like.
+
+These are highly zoomed in 50 micron scale bar images of this charge that we
+
+sliced up
+
+and then looked at under a scanning electron microscope.
+
+And you can see how here this is a eclina pyroxene crystal.
+
+It's incorporated quite a lot of magnesium into it.
+
+This is a plagioclase crystal.
+
+And can you see how the plagioclase doesn't really want the magnesium?
+
+And so the magnesium has built up in this sort of chemical boundary layer around
+
+the growing plagioclase.
+
+Plagioclase doesn't want the magnesium,
+
+but the magnesium has not had time to diffuse away from the boundary of that
+
+growing crystal.
+
+So the dynamics of crystallisation can have an influence on the very localised
+
+chemical environment into which the crystals are growing.
+
+If you can create one of these boundary layers,
+
+that ought to stop this plagioclase from growing any further
+
+because the immediate surroundings have got clogged up with lots of magnesium
+
+and there's no calcium or sodium or aluminium or the ingredients that the
+
+plagioclase really wants in order to be able to grow.
+
+So how does it get round that?
+
+So here we have our crystal.
+
+We have a little boundary layer that's been depleted in the elements that the
+
+crystal needs to grow.
+
+The crystal will get round that by growing these little dendritic spikes from
+
+the corners of the crystal
+
+that penetrate through that depleted boundary layer
+
+and into an area of the surrounding liquid
+
+where the ingredients that it wants to grow are more abundant and more
+
+available.
+
+And that can lead to these very weird and wonderful growth textures
+
+that you'll see some of, I hope, in the practical.
+
+So here you can see this is an olivine.
+
+It looks like it has quite a nice u-hedral shape,
+
+but if we look closely it's got these gaps in the crystal
+
+and that is an artefact of the way that it's grown.
+
+This crystal has had to grow very rapidly by producing these dendritic spikes
+
+penetrating out into the surrounding liquid
+
+and we only get this kind of texture when the magma has had to cool very, very
+
+quickly.
+
+So common for mid-ocean ridge basalts, this is an example from Apollo 12.
+
+So in order to prevent crystallisation,
+
+we need to do ultra-rapid quenching of the magma in order to form a glass.
+
+So we can't even allow our crystals to nucleate and then produce these dendritic
+
+spikes.
+
+We want to stop crystallisation altogether.
+
+And in basalts, the way to do this is mainly through sub-aqueous eruptions
+
+and you can also get this in sub-aerial eruptions
+
+with material that has been fountained into the atmosphere and quenched rapidly
+
+against air.
+
+When we look at something like a pillow basalt,
+
+it's got a very distinctive internal structure.
+
+So it will have on its outside a glassy rind.
+
+This is the magma that has been in contact with the seawater and has cooled very
+
+rapidly.
+
+It doesn't quench instantaneously though,
+
+or it retains a little bit of flexibility
+
+and so you can almost imagine these pillows inflating like a balloon
+
+until the glassy rind becomes so inflexible that a new balloon has to form.
+
+So what's happening in the interior of that basalt pillow
+
+is that the glassy rind is thermally insulating the interior.
+
+So we have a gradient of cooling rate where the edge of the pillow cools
+
+extremely quickly,
+
+but the interior of the pillow cools rather more slowly.
+
+That would mean that we would expect a gradation of crystal size,
+
+we would expect glass at the rim,
+
+and we would expect the crystal size to become progressively coarser
+
+until we reach the core of the pillow basalt.
+
+And we can observe some of that in thin sections.
+
+So these crystals here in this particular example
+
+would have been pre-existing crystals that would have grown at depth in the
+
+magma chamber.
+
+And when this thing erupted,
+
+crystallisation at the sea floor
+
+will have produced these feathery mats of very, very tiny crystals.
+
+And what you notice from this texture is that they're actually using the pre
+
+-existing crystals
+
+as a template to grow from.
+
+And we also have areas of pristine glass where there are no crystals.
+
+So we can start to think about some of these kinds of textures,
+
+in terms of interpreting an order of crystallisation.
+
+And we can make observations about orders of crystallisation
+
+that may or may not support what we would predict
+
+using Bowen's reaction series alone.
+
+So how would we do this?
+
+First thing to look at is things like crystal size.
+
+So a porphyritic texture is probably something that you came across in first
+
+year.
+
+Give me a nod if you remember this term. Fantastic.
+
+Porphyritic texture refers to an igneous rock that has a bimodal grain size.
+
+We are looking at large phenocrysts in a fine-grained ground mass.
+
+When you look at this in detail,
+
+what we find is that the phenocrysts are typically uhedral.
+
+They have the ideal crystal shape and the ideal crystal habit.
+
+And you get this by slow growth where the crystal is in a free-floating
+
+environment.
+
+There's nothing that is not bumping into anything.
+
+It is able to grow into a liquid.
+
+And the place that we get those conditions is within a magma chamber.
+
+They're within a liquid.
+
+So although we have large crystals, they can still be mobilized in an eruption.
+
+So if this liquid containing crystals is erupted and then cooled,
+
+we'll end up with this texture of uhedral phenocrysts and a fine-grained ground
+
+mass.
+
+Fine grains is where the liquid is being ejected from the volcano and cooled
+
+rapidly.
+
+So question to you, is this an intrusive rock or is this an extrusive rock and
+
+why?
+
+So we classify rocks on the basis of the finer grain size or the grain size of
+
+the matrix.
+
+So you've picked up here the matrix of this rock is fine-grained.
+
+So even though we have rocks that have, sorry, minerals that have grown in what
+
+we might call a plutonic environment,
+
+the rock itself is fine-grained and extrusive.
+
+Therefore, if we want to give this rock a name,
+
+we're going to go into the practical reference handout and look for names of
+
+extrusive rocks.
+
+Basalt rather than gabbro or rhyolite rather than granite.
+
+So the name that you give an igneous rock necessarily tells you something about
+
+its grain size.
+
+Glomeroporphyritic is just a long word that means that in the magma chamber,
+
+these phenocrysts have agglomerated together and stuck together in clusters
+
+before they were erupted.
+
+Here is an example where we don't have any of that fine-grained nonsense to deal
+
+with.
+
+Everything is very coarse-grained.
+
+This is a fairly common texture that we might see in mafic plutonic rocks, a
+
+poikilitic texture.
+
+So in this example, we've got fairly nice-looking, fairly uhedral minerals of
+
+type A,
+
+and they are fully enclosed by a large crystal of a second mineral, type B.
+
+And here is an example.
+
+We've got some olivine crystals of various shapes and various sizes
+
+that are fully enclosed by a very large crystal of, in this case, orthopyroxene.
+
+These textures have particular names.
+
+So mineral A, in this case, the olivine, we call chadocrysts.
+
+It means a crystal that's been contained.
+
+And mineral B is called an oichocryst.
+
+That means a crystal that is kind of housing other things.
+
+There's a lot of words in this.
+
+Early patrologists like picking things out of Latin and Greek.
+
+This is annoying, but we just have to live with it.
+
+But what we can do here is we can interpret the order of crystallization.
+
+So mineral A has to come first in order that mineral B can grow around it and
+
+completely surround it.
+
+And this is the kind of thing that we can go into any igneous rock
+
+and we can look for evidence of mineral inclusions
+
+that would tell us something about the order of crystallization.
+
+Not seeing this is also a useful observation.
+
+So if you see this, you have some evidence to say, I think mineral A grew before
+
+mineral B.
+
+If you don't see this, you might interpret that minerals A and B
+
+were both growing at the same time from the same liquid.
+
+This guy here, ophitic texture, is a special case of the poikilitic texture
+
+where we're talking specifically about plagioclase and klinoperoxene.
+
+And this is a word that gets used to describe gabros and dolerites,
+
+things that are basaltic in magma composition, but slightly more coarse grained.
+
+Sub-ophitic means that your plagioclase, in this case, is partly enclosed
+
+and that the pyroxene, in this case, is filling up the spaces between those
+
+larger plagioclase crystals.
+
+We could also describe this as an interstitial texture
+
+where the pyroxene is the interstitial mineral filling up.
+
+You could always think about this in sedimentary terms. We might call this the
+
+pore space.
+
+There's two ways that this texture could form.
+
+You don't really need to know this. I wouldn't expect you to be able to
+
+interpret this from a thin section.
+
+But we could imagine that we've got our two minerals of interest,
+
+plagioclase and klinoperoxene, both start growing at the same time
+
+and one of them grows more quickly than the other.
+
+In this case, the plagioclase is growing relatively slowly
+
+and the klinoperoxene is growing quite quickly.
+
+As it grows, it swallows up those plagioclase crystals and grows around them.
+
+Whereas in scenario B, we've got different minerals starting to crystallise
+
+at different points in the sequence.
+
+At the beginning of this crystallisation sequence,
+
+only plagioclase is crystallising, no klinoperoxene on the horizon.
+
+The plagioclases grow and it's not until they've got reasonably large
+
+that the klinoperoxene joins in.
+
+The difference then between the final textures A and B
+
+is the size distribution of the enclosed minerals,
+
+which would be very difficult to spot unless you were doing a statistical test.
+
+The point that I want to make here is that the growth rate of the mineral
+
+versus the nucleation rate, the nucleation order of the minerals
+
+will have an effect on the final texture.
+
+In case A, they're both nucleating at the same time,
+
+but they're growing at different rates.
+
+In case B, the two minerals are nucleating at different times.
+
+We can take this idea then to various different extremes
+
+and start thinking about how do you make this in a magmatic environment?
+
+Our porphyritic texture might be a case of we've got one magma chamber,
+
+it's growing some large crystals and then we disturb that magma chamber,
+
+we erupt and we have a bimodal crystal size distribution.
+
+If we add a second magma chamber, we could take some large crystals from chamber
+
+one,
+
+put them in chamber two, they'll continue to grow,
+
+make some new crystals, they'll grow a little bit,
+
+then erupt that and we'll have a trimodal crystal size distribution.
+
+Big things, middle-sized things, and fine-grained ground mass.
+
+If you've got a really complicated plumbing system
+
+where the magma is continuously ascending, then stalling, then ascending, then
+
+stalling,
+
+and crystallizing in increments as you go along,
+
+then what you might expect is almost a continuous crystal size distribution,
+
+and the name we give to that is a seriate texture.
+
+Again, that's quite difficult to spot in a thin section,
+
+but it starts to tell you something about is this a really simple magmatic
+
+system
+
+that we might be thinking about,
+
+or could there be quite a lot of complexity going on in the subsurface
+
+that's giving us a more complicated texture.
+
+If we think about our crystal size distributions
+
+and what that might tell us about order of crystallization,
+
+in this example, the largest things are likely to have grown first,
+
+and the finer-grained things are likely to have grown last.
+
+This is assuming that everything has the same growth rate.
+
+Mineral inclusions provide evidence for order of crystallization.
+
+I touched on this with the poikilitic texture,
+
+but you can also do this with, you can have phenocrysts that include small
+
+minerals.
+
+So anything that has been included and has been grown around,
+
+that has to have started growing first.
+
+The surrounding mineral has to have grown later.
+
+So whenever you see this kind of texture,
+
+you can start to pull apart the order of crystallization.
+
+Sometimes it is very complicated.
+
+You may have mineral A enclosed in mineral B
+
+and examples of mineral B enclosed in mineral A,
+
+and that would tell you that they're probably both growing around about the same
+
+time.
+
+But seeing, observing, and noting, and sketching is the key thing here.
+
+Crystal size distributions, I'm just going to skate over this
+
+because this is again a lot of words,
+
+but we can talk about things being equi-granular,
+
+things that are, everything is the same crystal size
+
+versus things that are in equi-granular,
+
+things that have very different crystal sizes.
+
+We use different words to describe the texture of ground masses in this example.
+
+So this texture, porphyritic because we've got the bimodal size distribution
+
+and aphanitic means a ground mass where you can see the crystals,
+
+whereas vitrophyric would be something where you don't have any ground mass
+
+crystals,
+
+you just have a glass.
+
+So you can make, if you have a lot of time, plots of grain size distribution
+
+and you can start to pull this apart and do some statistics
+
+and think about how long magmas sit around in magma chambers.
+
+This is beyond what you need to know for the course,
+
+but people spend a lot of time worrying about crystal size distributions
+
+in order to figure out what's going on beneath.
+
+So hopefully I have now given you a whistle stop tour
+
+between the relationship between cooling rate, nucleation rate, and growth rate.
+
+I've given you some examples of key textures that you can observe in thin
+
+sections.
+
+The main ones that I want you to be able to identify for this unit
+
+are in the practical reference handout.
+
+I've talked to you about how crystal size and shape tell us something about the
+
+cooling rate,
+
+and I've talked to you about how we can use textural observations
+
+to deduce the order of crystallization,
+
+or we can use textural observations to say we can't interpret the order of
+
+crystallization.
+
+If I show you on the virtual microscope,
+
+if you want further examples of any of these textures,
+
+you go to teaching resources, manual of minerals,
+
+and then scroll down to textures.
+
+There's a lot of words in here.
+
+Many of them I have not used.
+
+If I haven't used them, I don't expect you to know them for this course.
+
+Lots of these are actually words that we might use for metamorphic rocks,
+
+but let's look at one that I did mention, ophitic.
+
+So we can see here is an example of an ophitic texture in the virtual
+
+microscope.
+
+Phenacristic, something that contains phenacrysts.
+
+This word can be used interchangeably with porphyritic,
+
+but it basically means something that's got large phenacrysts in some kind of
+
+ground mass.
+
+So if you want examples of textures, the virtual microscope has got plenty of
+
+examples.
+
+You can also stick the words into Google, search for ophitic thin section,
+
+and there's plenty of really, really good resources out there.
+
+So for the end of this lecture,
+
+I want to move away from mineralogical and textural classification of igneous
+
+rocks
+
+and think about the chemical process of crystallization.
+
+So we've seen that mineralogical classification is pretty easy.
+
+All you need is a thin section.
+
+You can do it in the field.
+
+You can do it with a microscope.
+
+But what if your rock is really, really fine grained or glassy?
+
+You're not going to get enough information to be able to do a modal mineralogy.
+
+You may not get enough information to tell where in this chart your rock sits.
+
+You're going to get very limited information about the chemical composition.
+
+So we also use chemical means to classify igneous rocks.
+
+This is quantitative compositional data, and you can do this on a rock of any
+
+grain size.
+
+The downside is that it's a bit more expensive.
+
+It requires laboratory analysis.
+
+It requires some sample preparation,
+
+and you lose information about the texture of the rock.
+
+The laboratory preparation usually involves taking your hand specimen
+
+crushing it to fine particles and then milling it to a fine powder
+
+and then doing something with that powder,
+
+either analyzing it directly or dissolving it into a solution
+
+using various acid digestions and then running it through a mass spectrometer.
+
+But as a broad flavor of what's going on with compositions,
+
+our mafic and ultramafic rocks have the lowest silica content,
+
+and that increases as we go towards felsic.
+
+Iron and magnesium concentrations are highest in our ultramafic end,
+
+and they decrease as we go towards our felsic end.
+
+Sodium and potassium, the alkalis, are at low concentration in our ultramafic
+
+end,
+
+and they increase as we go towards the felsic end.
+
+So this is the same kind of information, but tabulated with some actual numbers.
+
+And you've probably heard of incompatible and compatible elements.
+
+Give me a nod if those words are familiar. Perfect.
+
+Compatible elements are the ones that like to be sequestered into crystallizing
+
+minerals.
+
+Incompatible elements are the ones that get concentrated in the melt
+
+because they are too large or have too high a charge to go into the
+
+crystallizing minerals easily.
+
+Now, if we're thinking about fractional crystallization,
+
+what we are doing is taking away minerals as they crystallize,
+
+and we are then only interested in the leftover liquid.
+
+So what we would expect is that compatible elements are being sequestered into
+
+crystallizing phases
+
+and are being removed from the system.
+
+Their concentrations should drop as fractional crystallization proceeds.
+
+MgO, magnesium oxide, magnesium is compatible in olivine, a magnesium silicate,
+
+and clino peroxine, also a magnesium silicate.
+
+As crystallization proceeds, the magnesium concentration of the leftover liquid
+
+goes down.
+
+Calcium is the same, so calcium is pretty compatible in clino peroxines,
+
+it's pretty compatible in plagioclase.
+
+As crystallization proceeds, calcium is sequestered into the crystallizing
+
+phases and its concentration goes down.
+
+Potassium, not so compatible, doesn't fit into olivine, doesn't fit into clino
+
+peroxine,
+
+doesn't fit into hornblend, does fit into biotite.
+
+So as we crystallize a basaltic liquid, initially potassium will be being left
+
+behind in the liquid,
+
+and it's not really until we start crystallizing something at the rhyolitic
+
+compositional end of the spectrum
+
+that something like biotite or muscovite might start joining in the
+
+crystallizing assemblage
+
+and biotite starts being pulled, sorry, potassium, starts being pulled into the
+
+crystallizing minerals.
+
+When you're looking at tables like this, iron is an interesting element because
+
+it exists in two valence states,
+
+and you may see iron reported as FeO or as Fe2O3.
+
+It's actually very difficult to analyze these two oxidation states
+
+independently.
+
+Normally, particular techniques will report iron as one of these two things.
+
+So it's pretty unusual to get iron broken down into FeO and Fe2O3.
+
+Water is another interesting one. It's very, very difficult to analyze water,
+
+dissolved water, in igneous rocks.
+
+So often analyses will be done on a kind of dry basis,
+
+and it's quite unusual to see water concentrations being reported.
+
+We tend to then classify our igneous rocks on the basis of their composition
+
+using this total alkalize versus silica diagram.
+
+Silica content is on the x-axis, and the total alkalize, which is the sum of the
+
+sodium and potassium oxides on the y-axis.
+
+Each of these fields, there's a lot of words again, corresponds to a different
+
+classification type.
+
+This red line is going to become our friend in a couple of weeks' time,
+
+but we refer to rock compositions that lie below this red line as being foliotic
+
+compositions,
+
+and rocks that are above that red line as being alkaline compositions.
+
+Those are just words for now, but be aware that that's going to come back in a
+
+couple of weeks' time.
+
+So we now have a broad understanding of how compositions should change during
+
+fractional crystallization.
+
+When we go to a volcano and we collect a suite of igneous rocks, we can measure
+
+all of their compositions,
+
+and we can plot them on what are called variation diagrams.
+
+Silicon might be plotted on the x-axis, and a whole range of other oxides can be
+
+plotted on the y-axis.
+
+What we're looking for is systematic changes as the silicon concentration
+
+increases.
+
+In this set of diagrams, our starting composition is these open circles,
+
+and crystallization is proceeding from left to right.
+
+As crystallization proceeds, the calcium oxide concentration is going down,
+
+sodium going up, magnesium going down.
+
+We're getting a broad flavor of how fractional crystallization is working in
+
+this particular system.
+
+Zilliqa is a really good choice to put on the x-axis when you're looking at a
+
+volcano
+
+that produces a very wide range of rock compositions, all the way from basalt to
+
+rhyolite.
+
+But not all volcanoes do this. Some of them erupt only a fairly restricted
+
+compositional range,
+
+mainly basalts. In that case, people will often use magnesium oxide as their
+
+choice on the x-axis.
+
+In this case, our starting composition is something that's got the highest
+
+magnesium oxide content,
+
+and crystallization is proceeding from right to left.
+
+As crystallization proceeds in this example, the titanium concentration is going
+
+up,
+
+and then something happens and the titanium concentration starts to go down.
+
+What we can then start to ask ourselves is, why is this not carrying on in just
+
+a straight line?
+
+Why is there this very obvious change in trend? What's causing that? Can we
+
+quantify it?
+
+Let me just do a quick recap of how crystallization works.
+
+If we take liquid one and we crystallize olivine on our phase diagram, we'll
+
+drop it to the liquidist temperature.
+
+We'll crystallize an olivine at temperature one, cool it a bit more.
+
+We'll crystallize some more olivine with composition a bit more iron-rich at
+
+temperature two.
+
+Same at temperature three. We'll drop the temperature, we'll crystallize olivine
+
+of a different composition,
+
+and so on and so on until the rock is solidified.
+
+If we plot this on an XY plot with silicon on the x-axis and magnesium on the y,
+
+what should this look like?
+
+Here is our olivine composition and here is our starting liquid.
+
+As we crystallize olivine, we are going to be removing the chemical ingredients
+
+of olivine from the liquid.
+
+Therefore, if the composition of olivine is fixed, the composition of the liquid
+
+must evolve directly away from olivine.
+
+Olivine is being subtracted and the liquid composition is changing directly away
+
+from olivine.
+
+We call this a liquid line of descent.
+
+This is descent as in parent versus child descent rather than going down
+
+descent.
+
+I'll say olivine is going to stop crystallizing, but we're going to allow
+
+plagioclase to start crystallizing.
+
+We would do exactly the same thing.
+
+Here is our liquid. We've extracted a load of olivine. This is our leftover.
+
+Let's let this crystallize some plagioclase.
+
+Crystallization of plagioclase is going to remove the chemical ingredients of
+
+plagioclase from the melt.
+
+The melt composition will evolve directly away from plagioclase.
+
+When we were extracting olivine, we're extracting something that takes away
+
+magnesium. Our magnesium concentration is dropping.
+
+We're now extracting something that doesn't want any magnesium.
+
+In our leftover, the concentration of magnesium can go up again.
+
+Can you see that we now have a very pronounced change in gradient on our model
+
+liquid line of descent?
+
+When you see a change in gradient on liquid line of descent, it means that the
+
+mineral or the mineral assemblage that's crystallizing has changed.
+
+What we've done here is say olivine is going to stop crystallizing and
+
+plagioclase is going to start crystallizing.
+
+In nature, we don't usually turn one thing off and turn another thing on. We
+
+usually allow an extra mineral to join in.
+
+What if we allow olivine and plagioclase to crystallize together?
+
+If we take some rock compositions, what we can do is draw a trend line through
+
+those and just project it backwards.
+
+I'm also going to draw a tie line between olivine and plagioclase.
+
+The intersection of that backwards projection with our olivine-plagioclase tie
+
+line tells us,
+
+one, yes, this trajectory can be created by crystallizing these two minerals.
+
+Two, we can also use the lever rule to work out the proportions of crystallizing
+
+minerals.
+
+I think you've come across the lever rule in Principles of Geochemistry, so I
+
+don't think I need to explain that to you.
+
+But if that's unfamiliar, please come and talk to me in the practical.
+
+In this case, our lever rule is telling us that this part of the liquid line of
+
+descent can be created by crystallizing a mixture of 40% olivine plus 60%
+
+plagioclase.
+
+Now we're starting to get a flavor of how real magma chambers might behave. We
+
+can crystallize more than one thing at the same time.
+
+In basalts, we're typically crystallizing a three-phase assemblage.
+
+What if we add another mineral, and this time we're going to add orgite
+
+clinoperoxene?
+
+This time, let's do the same liquid line of descent, and we're going to project
+
+that back again.
+
+I've got tie lines between each of my three minerals, and I've just shaded the
+
+area between them.
+
+We've already seen that this trajectory could be created by crystallizing
+
+olivine and plagioclase in proportions defined by the lever rule. That's fine.
+
+But our back trajectory is also intersecting this tie line between clinoperoxene
+
+and plagioclase.
+
+We could also create this liquid line of descent by crystallizing a combination
+
+of these two minerals in proportions that we could calculate using the lever
+
+rule.
+
+We can also see that that back trajectory crosses the area that's filled by this
+
+triangle.
+
+That means we could create that liquid line of descent by crystallizing a
+
+combination of these three minerals,
+
+but we can't figure out what proportions those three minerals would be
+
+crystallizing in using this diagram alone.
+
+In this graphical method, we have three possible answers for how do we create
+
+this liquid line of descent.
+
+We could do olivine and plagioclase, plagioclase and CPX, or a combination of
+
+all three.
+
+We also have a family of wrong answers. We cannot create this liquid line of
+
+descent by crystallizing any one of these minerals on its own.
+
+We cannot create this liquid line of descent by crystallizing a combination of
+
+olivine and orgite.
+
+We can use this back trajectory to arrive at some correct answers, some
+
+incorrect answers, and that's about as far as we can go.
+
+If we combined this with another plot that's had calcium oxide on the y-axis and
+
+we combined that with some textural observations, we'd be able to arrive at the
+
+correct answer.
+
+If we had a rock that had lots of olivine and lots of plagioclase but no
+
+clinoperoxene in it, we could say this is probably our crystallizing assemblage.
+
+We would look at a thin section to determine which of these answers is the most
+
+plausible.
+
+You're going to have a go at some of this in the practical.
+
+We've looked at the key chemical differences between mafic, intermediate and
+
+evolved igneous rocks,
+
+and we've thought about how fractional crystallization is going to drive that
+
+compositional evolution
+
+and how you can figure out which minerals are involved in that fractional
+
+crystallization process to create the compositions we can see being erupted by
+
+volcanoes.

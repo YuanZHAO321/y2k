@@ -1,0 +1,1561 @@
+---
+title: "EART29102 - 16-Mar-transcript"
+source: "Sophomore/Hilary Term/EART29102/Lecture/Week 7/EART29102 - 16-Mar-transcript.txt"
+type: transcript
+---
+
+'EART29102 - 16-Mar', automated transcript
+03/08/2026
+---
+
+Hello, everyone. Thank you for coming. Good morning
+
+So today's lecture then I'll put this up again at the end in case you missed the
+
+seats code
+
+Today the topic is terrain analysis
+
+So the sort of general outline of the the lectures given there
+
+I'm going to start off by saying something about what terrain analysis is what
+
+kind of data we use
+
+some of the primary attributes of
+
+Terrain which are listed there and I'll go into more detail how we apply these
+
+for example in
+
+Catchment studies or hydrology and then moving on to a couple of other things
+
+line of sight viewsheds
+
+And then I'll talk about solar radiation mapping at the end
+
+Okay, so
+
+What's terrain analysis all about then?
+
+Well a useful starting point is this
+
+sort of visual
+
+Hierarchy of
+
+complexity that's given there
+
+So we started off sort of talking about how the earth is
+
+essentially a
+
+spheroidal shape
+
+So that's sort of based on geometry and then we the next sort of layer of
+
+realism
+
+Was to consider it as a geoid which brings in gravity the equip potential
+
+surface
+
+of gravity usually taken at sea level and
+
+then
+
+Having something that's much more realistic is the actual
+
+land surface or the shape of the the land
+
+or
+
+Terrain so it's that kind of hierarchy
+
+That we're sort of using and we're going to be considering
+
+You know how we actually model the land surface
+
+Energy is and and how that's why that's useful to us
+
+So essentially it's all about using topographic data to derive terrain features
+
+so the shape of the surface and the influence this has on
+
+kind of environmental
+
+geological processes
+
+Now when it comes to
+
+topographic data
+
+Most of what we have is related to
+
+Elevation and we
+
+Represent elevation in a number of ways so we could use a point cloud there of
+
+LIDAR data
+
+On maps we were very familiar with the use of contours
+
+But we can also use raster data so we have a grid of
+
+Elevations which are sort of color-coded there that raster pattern
+
+Or we can use tins
+
+triangulated irregular networks
+
+So essentially we're representing the same surface
+
+But in a number of different formats and some of those are better
+
+For doing certain types of terrain analysis than others and we'll talk primarily
+
+about
+
+raster and tin data in today's lecture
+
+Hmm
+
+So, what is it the data that we use well, we generally use remote sensing data
+
+backed up by ground surveys
+
+So we use remote sensing data. We capture that we analyze it
+
+We come up with our terrain models. We then use those models to tell us
+
+something interesting about
+
+environmental processes
+
+But ground surveys are of course very important because
+
+We're using remote sensing data. So we're having to apply some degree of
+
+interpretation
+
+to those data, so we need to go out into the field and
+
+validate
+
+quite a lot of that data and
+
+also
+
+It quite often gives us much higher spatial resolution if we go out and do
+
+ground surveys
+
+So there might be that we're doing a kind of multi-scale
+
+Application where we need very detailed data plus some more general
+
+Data to go along with it
+
+So ground surveys are important for both collecting data and also for verifying
+
+the data that we have
+
+and often the kind of
+
+Remote sensing data. Hopefully most of these are familiar with you you're
+
+familiar with now after last week's lecture
+
+And previous lectures so things like, you know photogrammetry radar altimetry in
+
+saw
+
+Lidar and all of these data sets
+
+Most of them are in the form already of a DEM digital elevation model
+
+But
+
+We can readily transform them if we need to
+
+Yeah, so I should should say that if we are using
+
+Digital elevation models one of the factors we have to consider is the spatial
+
+resolution of that data
+
+so net, you know nowadays we can go down to
+
+grid sizes or cell sizes within the grid that are you know down to a meter in
+
+terms of resolution and
+
+again, it very much depends on on what the application is and what the scale of
+
+the application is as to
+
+That level of resolution that we need but it's something we always need to
+
+consider
+
+Okay, so a little bit about
+
+What it is, let's some consider some of the applications to try and make it a
+
+bit more
+
+Sound a bit more useful to you
+
+So as we've already said terrain analysis about the shape of the land and how it
+
+influences
+
+natural processes
+
+What kind of things are commonly used for well one of the common uses is mapping
+
+drainage networks and
+
+We'll talk about that a little bit more detail later on
+
+It's used for flood modeling
+
+For assessing erosion risk. So where where is soil going to be eroded?
+
+wetland and groundwater recharge mapping give morphological mapping
+
+Deriving shape parameters. So last year I had a project with a fourth-year
+
+student looking at shape parameters of
+
+subglacial volcanoes on Mars
+
+using remote sensing data and terrain analysis
+
+Detecting landslide prone slopes and mapping glacial features. So there's lots
+
+and lots of applications
+
+That it's useful for we won't consider them all here, but we'll mention one or
+
+two
+
+In a previous lecture we introduced the
+
+triangulated irregular networks or tin
+
+Which is a vector based
+
+way of representing
+
+elevation data
+
+And if you remember back tin is basically made up of non overlapping triangles
+
+Linking three adjacent elevation points. So you still you need still need to
+
+start off with known elevation values
+
+And then you can connect these together using triangles
+
+One of the nice things about using a tin is that it's more or less independent
+
+of data scale
+
+So what that means it is
+
+that where you have a lot of
+
+complex surface changes so surface roughness
+
+On the land surface you can represent that by using a lot of triangles a lot of
+
+small triangles
+
+On the other hand where you have relatively flat areas
+
+You need only fewer triangles a much larger size and that's what's
+
+Trying to be indicated on this diagram here. So on the first one here, you've
+
+got a very irregular surface. So you have a lot of
+
+Connected triangles whereas on a less variable surface your triangles are much
+
+larger and much fewer in number
+
+The advantage of this is that it makes it very efficient in terms of data
+
+storage compared to a
+
+Digital elevation model which is made up of grid of cells
+
+However
+
+Once you get to a very flat surface like a desert or an upland Plateau
+
+You begin to lose
+
+some of the subtle variation using a tin
+
+Tends to even out things more
+
+Than using a fixed cell size which you have with a digital elevation model
+
+So they're not quite so useful for some terrains
+
+And and the surface becomes a little bit more
+
+Unrealistic looking as well where you have those large connected triangles
+
+Representing
+
+Important features and
+
+Slope changes with a tin so breaks in slope
+
+Requires the use of this thing called brake lines
+
+and
+
+It forces the tin surface to follow a specific shape essentially
+
+To to avoid them smoothing over
+
+Something that might be useful in the landscape. So a couple of examples here on
+
+this map
+
+You can see there's a tin
+
+And then a couple of other features this solid red line here is a road
+
+Well a road itself may not actually represent a break a change in a gradient in
+
+the landscape
+
+It may be just a rather sort of
+
+Continuous feature in the overall shape of the land surface, but you still want
+
+to represent that
+
+Using a tin and and in that case, it's called a soft brake line
+
+So that may not require any
+
+Discontinuity in the slope. Okay, so soft brake line does not change the local
+
+shape of a terrain surface
+
+But it's still something that you need to map
+
+in the landscape and
+
+Conversely a hard brake line is a discontinuity in the slope of a surface
+
+So here for example the shaded in blue is a lake
+
+And there should be a sharp
+
+Discontinuity between the land surface and the water surface and you need to
+
+represent that in a tin
+
+So the triangles don't cross over that boundary and smooth it out
+
+So brake lines are something that you need that need to be
+
+incorporated into a tin which you don't have to worry about with a
+
+digital elevation model
+
+Anyway enough about
+
+Tins
+
+Let's move on to talk about terrain attributes
+
+now we tend to
+
+subdivide terrain attributes into two types primary and secondary the secondary
+
+ones sometimes also known as compound
+
+so primary terrain attributes are
+
+things like the elevation the slope aspect and
+
+Curvature of the lands at the land
+
+surface, okay, so elevation slope
+
+direction that the slope is facing and
+
+Curvature and we'll define each one of these terms that we're using there
+
+so those data are captured by the
+
+The method or the remote sensing method that we use so they're primary
+
+attributes
+
+Now if you combine two or more of those you then can gain
+
+secondary attributes
+
+things like the flow direction
+
+flow accumulation flow length flow order drainage network, etc of a catchment
+
+area could be considered as
+
+more like secondary attributes and
+
+Those secondary attributes are really, you know, that's what we're trying to get
+
+at. We're trying to get at information
+
+That's telling us something important about the environment
+
+Hopefully this will come a bit a little bit clearer as we work through
+
+So the primary attributes are always derived from a DM or a tin and
+
+They're represented as rasta layers. So even though we may start off with a
+
+vector based tin
+
+the secondary
+
+Attributes that we get will usually be in the form of a rasta
+
+Okay, so as I said secondary attributes compete from two or more primary
+
+attributes
+
+And they're the more important things that we're trying to
+
+Understand so, you know tells us things about how water moves around in the
+
+landscape
+
+How much solar radiation is received at a particular surface?
+
+And they affect other things like soil characteristics
+
+soil water content
+
+Erosion erosion ability erosion ability of the landscape and you know how
+
+Vegetation animals, etc are distributed or all sort of the secondary terrain
+
+attributes
+
+Right. So let's have a look at some of those primary
+
+attributes slope nice easy one to understand
+
+The maximum angle is given by the height or
+
+Change in height or rise
+
+divided by the change in distance or the run and we can represent that either as
+
+a percentage or
+
+as a
+
+angle in degrees
+
+okay, that's nice simple one to understand and
+
+By using a DEM
+
+Which has information about elevation
+
+Contained within it we can get idea of slopes
+
+We can produce a slope map. So here's an area that's say about 20 kilometers by
+
+And it's color-coded according to the angle of the slopes of the surface
+
+All right, and you can already begin to pick out places where it's relatively
+
+flat
+
+Compared to which are in green compared to
+
+Areas which are steep and that's simply just based on the elevation data
+
+That's contained within the DEM
+
+The other thing that the DEM or this slope will give you is an aspect map
+
+So that's the orientation of the slope
+
+Given as an azimuth so a compass bearing
+
+So this map here you can see is divided up into a number of smaller quadrants
+
+which is shown by the
+
+compass at the top here and
+
+Scaled according to color using this in the legend here. So it's the same map
+
+Just showing you the direction in which the slopes are facing
+
+So the ones in blue and green here generally south facing and the ones in red
+
+and purple colors are north facing
+
+And that's all just based on
+
+the elevation values
+
+Of course we can show the slope in the form of a two-dimensional
+
+Graph as a terrain profile
+
+So here we've got our original. I think it's a tin
+
+In this image and we've got a profile line a B, which is shown
+
+In graphical form here
+
+relative to the elevation and
+
+Not only do we get elevation. We also get the slope and not only do we get the
+
+slope. We also get curvature
+
+So the landslides not made up of this sort of zigzag pattern
+
+It's curved on the surface and you can see that on some of these peaks here you
+
+get in this
+
+Curvature pattern so you've got sort of convex shapes here and you've got
+
+concave upward facing shapes here
+
+so another important characteristic that we can look at is the
+
+curvature of the surface
+
+So surface curvature then is the amount by which a surface deviates from being
+
+flat
+
+All right, and we tend to use two
+
+criteria
+
+And there are lots of other ways of measuring this but the two that a lot of GIS
+
+is used is profile curvature and
+
+plan curvature
+
+And they're illustrated in the diagrams here
+
+So let's look at profile curvature
+
+You can think of profile curvature is simply being the maximum slope of a
+
+surface
+
+So where we have a flat surface here
+
+We see that the the maximum slope runs straight down the surface
+
+given by this arrow
+
+Whereas there are two other ways that we could have profile curvature we can
+
+have convex up
+
+Shown by a and concave up shown by B and we give these so this is flat
+
+Convex up concave up
+
+And we assign values to them on a scale that goes from negative values through
+
+to zero
+
+Which is flat
+
+To positive
+
+So negative values represent convex up
+
+Positive values concave up and zero is flat. All right, and
+
+this is important because
+
+It determines the acceleration or the deceleration of flow
+
+So if water is moving through the environment, it's very dependent
+
+the rate of flow is dependent on
+
+The shape of that surface
+
+Now the other one plan curvature or plan form curvature is the curvature
+
+Perpendicular to the direction of the maximum slope, which is quite hard to
+
+remember
+
+I think it's easier just to think of it in terms of convergence or divergence of
+
+flow
+
+So again, if we start off with our flat surface, there's no all the flow is
+
+parallel. There's no convergence or divergence
+
+but we can think of two
+
+examples here
+
+Where we have a sort of bulging shape or a convex?
+
+Outward shape where flow is going down the sides here. So the flow is generally
+
+down, but it's also
+
+diverging and
+
+Then we can think of this other example here where we have a more
+
+Concave facing surface where flow is converging
+
+Okay, and again we give these positive and negative values
+
+depending on the shape so we can
+
+From our elevation data our primary data. We can work out a profile curvature
+
+map
+
+So again, the same area is shown here on the map
+
+And it's gray scaled values
+
+running from
+
+Positive high values shown in the light colors
+
+and
+
+Dark colors here are high negative values
+
+So if we look at the map the fun of the things we can sort of work out is well
+
+There are these white areas running along here
+
+which
+
+if you remember
+
+for profile curvature a
+
+negative value
+
+Is
+
+Convex up positive value is
+
+Concave up
+
+so concave up
+
+Values tend to be concentrated along these lines here and
+
+Convex up tend to be these darker lines here if you use your imagination
+
+You can always you can already begin to think that you're picking out ridges
+
+Valleys or stream values
+
+On this map depending on the shape of the surface and there's a useful
+
+Information here. So the slope influences the overall rate of movement down
+
+slope
+
+The aspect determines the direction of flow
+
+The profile curvature affects the acceleration flow acceleration, which will
+
+control
+
+erosion or deposition of sediment and
+
+The plan curvature affects the convergence
+
+Or divergence of flow. So all of that is derived from just simply the elevation
+
+data
+
+So already beginning to map out quite a lot of detail about the surface the
+
+shape of the surface the terrain
+
+So let's look at an example of how we might apply this then
+
+Let's use
+
+Use it for watershed analysis
+
+so watershed is just a place where water collects and is drained from
+
+Okay watershed an example shown on the right-hand image here
+
+Shows the boundaries of the watershed defined by the ridge lines
+
+The drainage network and then the outlet point here
+
+Which might be into another watershed or it might be into a stream a lake a
+
+wetland area
+
+It might go into the sea
+
+So water is collected into these drainage into the drainage network and
+
+Exits the watershed from the outlet or sometimes it's known as a pour point
+
+So what does watershed analysis allow us to do well obviously it's going to
+
+model the movement of water over the land surface
+
+But the kind of applications are interesting so we can use it to track pollution
+
+We can estimate the amount of stream flow over the whole area, so we don't have
+
+to go out and install
+
+gauges to monitor
+
+Stream levels we can actually estimate those
+
+using the model
+
+predict water quality qualities we can make
+
+Inferences about future climate change changes that might occur and affect the
+
+watershed
+
+We can understand how sediment is moving around in the system
+
+And we can look at how the different land forms may develop or have developed
+
+over time
+
+So it's quite a powerful method and remember. This is just based solely on
+
+remote sensing data
+
+So we're not actually going out into the field and actually making any
+
+measurements
+
+Apart from just perhaps verifying some of the data that we or that or some of
+
+the predictions that the model gives us
+
+So we start off usually with watershed analysis we tend to use a raster based
+
+data set so we use a digital elevation model
+
+Based on a grid of cells don't tend to use triangulated irregular networks for
+
+this kind of application
+
+Now the first thing you have to do the first step in the process is to check the
+
+digital elevation model for something known as sinks
+
+And this is a process called hydrological conditioning now sinks are pits or
+
+sometimes they're
+
+Spikes and
+
+Which are surrounded by higher elevation values, okay, so here's part of a
+
+Raster
+
+Data set digital elevation model. It's divided up into cells each one of those
+
+has a value in it
+
+which represents the elevation perhaps in meters and
+
+We noticed that there are there is an odd one here. There is a particularly low
+
+value in this
+
+cell
+
+Which is surrounded by higher values
+
+Now if we plot, you know some of these rows out
+
+As a bar chart we can see where there are
+
+So we can see that this artificially or unusually low value occurs
+
+Or perhaps if there is a spike, okay, so this one here is an artificially high
+
+value on
+
+The right hand side. We have a sink a value here
+
+now
+
+The problem with these sinks is that they prevent water from flowing over the
+
+landscape
+
+Okay, because the water if it's trying to flow down slope
+
+Suddenly it will hit a sink go down into the sink and then it will be difficult
+
+to get that water to flow any further
+
+And there's a number of reasons why we have sinks in our data set
+
+They may be quite often they're related to man-made features
+
+bridges roads quarries or they could be
+
+Noisy data or we've made some kind of error in processing the data
+
+So there's a number of possible reasons for it. But essentially the first thing
+
+we have to do is to fill the sinks
+
+So the next slide shows what happens if you don't do that
+
+So if we look at this top diagram here, this is our digital elevation model
+
+shown as the hill shade
+
+Containing sinks and now if we highlight where those sinks occur so you can see
+
+these little black
+
+squares
+
+Dotted around here are sinks places which are have artificially low elevation
+
+now if we don't
+
+Go through this process of hydrological conditioning
+
+We may end up with a stream network or a drainage network that doesn't look or
+
+is not at all realistic
+
+Okay
+
+but if we take that
+
+That digital elevation model and we fill the sinks and then we do our
+
+hydrological
+
+Modeling we end up with something that looks much more realistic
+
+And most GIS based systems including ArcGIS will have a tool built into them
+
+Which will automatically fill sinks for you. So you don't have to go through
+
+Manually filling the sinks. It's an important step might seem like a trivial
+
+one, but it really does affect the output
+
+of your model
+
+Okay, so we filled our sinks in our digital elevation model, what's the next
+
+step?
+
+Well, the next thing thing to do is to work out flow directions
+
+So here
+
+If we pay attention to this side first
+
+We've got a section of our digital elevation model just a few squares
+
+And each one of those squares has an elevation within it again
+
+This could be in meters and now what we need to determine is well if we have
+
+water in this top left cell here
+
+Which says 67 which direction will it flow?
+
+Okay. Well water tends to flow
+
+Down the steepest slope doesn't it so we look at the values surrounding
+
+that cell and
+
+Determine which direction which is the angle of steepest slope?
+
+So we've got a couple of examples shown here. So this is just as the same DEM
+
+segment
+
+But let's consider the difference in slope
+
+For water that may
+
+Go from this cell 67 to this 153 and this 167 to this 144
+
+well for
+
+To make things simple each of the cells here has a side length of 1 which might
+
+be 1 meter
+
+1 kilometer
+
+So we can calculate the angle you remember it's the the height change in height
+
+the change in distance
+
+Well going from the center of this cell
+
+67 to the center of this cell 53 is one side length
+
+So all we need to do is change in height
+
+67 minus 53 change in distance 1 so that would give us a slope of 14
+
+For the diagonal here going from 67 to 44. It's just a little bit more complex.
+
+We
+
+you need to use
+
+Pythagoras theorem here again, we've got our direction
+
+And and our sorry the the side length here is
+
+The square root of 2. Okay. So remember Pythagoras is it'll be the square root 1
+
+squared plus 1 squared
+
+So our distance traveled
+
+is square root 2
+
+67 minus 44 gives us this slope. So we know that water will preferentially flow
+
+Along this diagonal from here to here
+
+Okay, it's a bit labored, but it gives you the idea of generally how it's worked
+
+out
+
+so if we apply that reasoning to the whole of our or a
+
+slightly larger part of our grid we can
+
+end up with
+
+Something that looks like this which is a series of flow directional arrows
+
+Okay
+
+Then the next step is to
+
+Connect those up. So we've got three arrows here all pointing in the same
+
+direction
+
+So we can connect those together in a line like this and then we can take
+
+account of other
+
+flow
+
+Directions, so we've got one here one there
+
+One coming in from this direction and we can see that we have three lines that
+
+connect in that cell
+
+So there are that node there are three connections
+
+So we can just join all those arrows together in a series of lines like this and
+
+then we can give each one a value
+
+So this top left cell here doesn't have any
+
+Arrows coming into it. So we could give that a value of zero
+
+Whereas the next one down in the diagonal it has one two three cells
+
+Connected to it so that gets a value of three
+
+and we can go through the whole grid and just count the number of connections in
+
+each one of those cells and
+
+then finally
+
+We come up with a
+
+new raster
+
+Okay, so we've removed all those lines and just replaced it with values and I
+
+should point out that this
+
+Cell here has a value of 11
+
+So what that means is that it gains three
+
+From this point here plus another one from this cell
+
+Okay, so that's three plus one is four two plus one
+
+That's seven two plus one is ten and then gets one from here. So that gives it
+
+eleven
+
+So you get the idea how it all connects?
+
+So you end up with a new raster, which is your flow accumulation raster
+
+So it's a raster that's been derived
+
+from your starting elevation raster and
+
+Of course you can produce a flow accumulation map, which doesn't look that
+
+exciting
+
+but essentially it shows the number of upstream cells that flow into each cell
+
+and
+
+But the one thing you can see is that where you have high values means you've
+
+got lots of cells flowing into that cell
+
+That's shown in the white color here. And that's essentially tracing out what
+
+could be your stream network
+
+Where you've got very few cells that are flowing into or receiving water
+
+From upstream
+
+These are shown by these dark lines here
+
+Which you can probably maybe just about make out and these are going to be your
+
+ridge lines
+
+So it's reflecting the topography
+
+And you're already beginning to see how you could maybe get some stream channels
+
+from that
+
+So the next step is to decide where your threshold is going to be
+
+So what's my threshold in terms of number of upstream cells that defines my
+
+stream network?
+
+So there's two examples shown in the next map one. I think a thousand and one at
+
+seven thousand
+
+And you can see
+
+that if you
+
+Lower your threshold you're going to increase your stream
+
+Network or you're the complexity of your stream network
+
+You can have a you know more a higher stream order value
+
+Compared to if you increase your stream
+
+Straight your threshold, then you're only going to see the sort of major
+
+channels of your stream network
+
+So there are numerical cutoffs that you need to use and effectively decide
+
+Where surface runoff becomes a stream?
+
+And this is one of the areas where you may need to go and do a ground survey
+
+to verify some of these
+
+decisions that you need to make and then finally the other thing that you can do
+
+is to divide this up into
+
+one or more watersheds
+
+So we can see that we have connecting streamways here. So we have some sort of
+
+Stream channels that are running along and eventually they reach the edge of our
+
+map area here
+
+So they're all connecting so we can divide this up into a number of
+
+watershed boundaries so
+
+Between each one of those we have these connecting points which are called pour
+
+points
+
+So all we've done here is draw some boundaries around our stream network
+
+So we just go back you can see this green one here and this purple one here
+
+So let's just hop back to the previous slide. So that purple one represents this
+
+stream running through here and the green one is
+
+Capturing most of this stream channel in this area here
+
+okay, so
+
+There's a lot of things we can do with that now when now that we've got that
+
+information and I alluded to some of those
+
+When we were talking about, you know what we could do with watershed analysis.
+
+Let's just look at another example
+
+This is an example of using terrain analysis to
+
+estimate
+
+landslide risk
+
+So mapping out where landslides may occur and also their risk level
+
+So risk zoning sometimes it's called so you're trying to get two bits of
+
+information here
+
+And this was based on a publication from a year ago
+
+That looked at the okra Bamba River Basin in Peru, so this is just a map showing
+
+the location
+
+This is an elevation map here. The elevation is shown on this legend on the side
+
+here
+
+and
+
+Sometimes this is sort of known as multi criteria modeling
+
+So you're using lots of different criteria to try and model
+
+What where the landslides might occur and what the effects of those are
+
+So generally you start off with lots of different
+
+types of information
+
+Spatial information and you assign some kind of weighting to them. So some of
+
+them are going to be more important than others
+
+And you can play around with the weighting to see what the effects are in the
+
+model, but you can see here
+
+I won't go through them all but there's loads of different maps here. So we've
+
+got slope. We've got geology. We've got precipitation
+
+Drainage density, we've got profile curvature here, which we've talked about
+
+And then there is proximity data. So we've got distance to roads
+
+distance to population so that that's going to help us in terms of
+
+Mapping out the risk zone because it obviously it doesn't matter if something is
+
+prone to landslides, but it's a long way from anywhere
+
+TW1 is
+
+Topographic wetness index, which is again a terrain derived
+
+hydrological indicator of soil moisture content
+
+So it's based on the hydrological modeling that we've just described
+
+and
+
+Then you can play around with all those
+
+different criteria and
+
+come up with a
+
+Risk map so class of risks to the landslide based on that information here
+
+You can see it's graded from very low to very high
+
+and then
+
+Ones which are sort of close to
+
+Roads or people are shown in red here
+
+And it's generally as you might expect where you've got steep slopes
+
+High rainfall and proximity to population is where you have the highest risk
+
+Okay, but you can do all of that from your desktop
+
+You can do all of that from your desktop and then you can go out in the field
+
+and you can evaluate
+
+The risk level yourself. You can do some ground surveys. So you're effectively
+
+It's multi-scale because you're looking at lots of different scales over a whole
+
+basin
+
+and
+
+so to try and do that by just going out in the field and
+
+Collecting data evaluating risk etc is going to take you an awful lot of time
+
+and money
+
+Whereas if you can use remote sensing data to come up with this kind of model
+
+And then you can go out and test it or check it in various places. Then
+
+obviously that's a lot more
+
+Efficient to do it that way
+
+Okay, I've got a couple of other things quickly go through
+
+Visibility analysis, it's not strictly speaking terrain analysis, but it's
+
+related to it
+
+And I'm sure you know kind of what it means. You've got an observer here
+
+And a target that they're looking at and you're looking at the line of sight
+
+And you're looking for places that you can see in the landscape and places which
+
+are hidden
+
+so it simply draws a line between an observer and a target to indicate
+
+visibility and
+
+Generally what you get in your GIS if you do this is that you get a map
+
+With the line drawn between the viewpoint and the target. So here's your
+
+observer
+
+Looking across the landscape to the target shown by the blue triangle here and
+
+then you get colored segments of the line
+
+Where red indicates the invisible areas and green indicates the places that you
+
+can see the visible areas
+
+and that's also shown as a profile here and
+
+generally this point here is the
+
+Sort of elevation at which you can no longer see your target shown by this black
+
+star
+
+It's a fairly
+
+Common one. I'm sure many of you have used this kind of thing previously
+
+a slight
+
+More complex version of that is something known as a viewshed
+
+a viewshed shows the visibility of
+
+An area from a specified viewpoint. So on this map here, here's our viewpoint or
+
+Our observer shown where in the blue dot location there and anything shaded in
+
+green is visible to that
+
+Observer anything that's not shaded is invisible can't be seen and we say the
+
+green area we call that the viewshed
+
+Okay, that's known as the viewshed and viewsheds can be simple or they can be
+
+multiple
+
+so another example here shows a
+
+Sometimes it's called viewshed to
+
+Where you've got two observers shown by the green dot and the blue triangle
+
+Each one of them has its own viewshed
+
+Shown in green and blue, but it's also sometimes useful to know where
+
+Which areas are visible to both observers? Okay
+
+so you could there's various levels of complexity that you can build into your
+
+viewshed analysis and
+
+your
+
+Practical this week. You'll be using a viewshed to
+
+Look at the environmental impact of a wind turbine location
+
+Then finally, I just want to talk about solar radiation mapping
+
+Sure, you're kind of familiar with this is to try and estimate how how much
+
+radiation the earth's surface receives
+
+Geographically over an area and also over time. So throughout a year typically
+
+So we know that solar radiation is the energy that's emitted by the Sun directly
+
+we sort of divide it into three
+
+We have direct radiation. So that's in a straight line
+
+To the earth's surface from the Sun
+
+We have diffuse radiation, which is radiation that scattered by clouds and dust
+
+in the atmosphere
+
+And then is received at the earth's surface and then we have some kind of
+
+A
+
+mixture of those two that's then
+
+Reflected so we have reflected radiation that reflected radiation could be
+
+direct. It could be
+
+Diffuse and then the total solar radiation or the global is just the sum of
+
+those direct diffuse and reflected
+
+types
+
+to generate a
+
+Model of solar radiation
+
+Received over an area we've used something called an upward looking
+
+Hemispherical viewshed model. So basically looking up
+
+We have to calculate maximum angles of sky obstruction in all directions
+
+So basically looking along specific bearings to see where the topography blocks
+
+out the Sun
+
+So you might be in a valley and you're looking up and you're seeing the ridges
+
+either side and you're looking at the
+
+directions and the angles at which
+
+those occur and
+
+There's an example here showing some of the horizon angles that might be used in
+
+a viewshed
+
+So we've got a digital elevation model in the background
+
+And that's shown as a topographic profile along here and these would be in two
+
+dimensions
+
+These would be some of the horizon angles
+
+So we work out these horizon angles in every direction
+
+And then we come up with this
+
+Upward looking view of the sky. So it's like a fish eye
+
+view of the sky looking upwards
+
+For a given location, so the light gray area is where
+
+It is visible and the the darker areas where it's obstructed
+
+So that's our sky map
+
+That we can see but then we need to superimpose upon that the radiation that's
+
+received
+
+and that depends upon
+
+Direct radiation is mapped using a sun map
+
+I don't know if you've ever seen one of these things before but basically it
+
+shows where the sun is in the sky
+
+at any time during the year
+
+And at any time during the day
+
+and it depends upon the
+
+latitude that your
+
+Location of interest is at and in this one particular one is at 39 degrees
+
+north. So it's it's like the mediterranean
+
+For us it's further south than the uk
+
+It goes from
+
+The summer solstice through to the winter solstice
+
+So it only shows six months, but essentially what happens is
+
+once we reach the summer solstice the sky then moves back in the opposite
+
+direction
+
+towards
+
+december again position, so
+
+Generally only shown for half the year, but it's
+
+Effectively covers the whole year
+
+And it's shown for different times of the day
+
+It's a bit weird because we know that the sun rises in the east and yet the
+
+earliest times of the day is shown
+
+In the west, but we've got to remember that we're looking up
+
+And it's a mirror image
+
+So east is always on our right hand side. So if you look at the map
+
+East is on your right hand side. If you're looking straight up east is on your
+
+right hand side, which
+
+Um
+
+In this case, if you think that's north south then your right hand side if you
+
+align yourself in the north south direction looking upwards
+
+Uh east is over this side
+
+You don't need to know the details, but it's worth just pointing some of that
+
+out
+
+and then also uses a map to try and
+
+estimate the amount of diffuse radiation as well centered on your
+
+the area of interest
+
+Essentially you superimpose
+
+Uh
+
+The sun map and the sky map onto your viewshed and that allows you to work out
+
+the amount of solar radiation
+
+Of course, that's all done within the gis for you
+
+So you don't need to know
+
+How to do it what you end up with are solar surface solar radiation maps
+
+Um very often displayed in watts per hour per square meter
+
+Or if you're looking at um working out solar power estimates for
+
+An urban area you might be interested in rooftops
+
+um, so you might have something that looks a bit more like this and the
+
+Uh practical you're doing next week. We'll be looking at working out solar
+
+radiation. Um
+
+The amount of solar energy that can be generated over an area of manchester,
+
+okay
+
+So have a look at the textbook. There's a chapter on terrain analysis
+
+Have a go at the quiz. Hopefully that will help you reinforce some of the
+
+concepts
+
+There's some training you can have a look on esri if you want to find out more
+
+information or go over anything again
+
+And then there's also a story map about terrain analysis for a particular
+
+catchment area
+
+in switzerland
+
+Okay. Well, thank you very much for your attention and um, hope you enjoy the
+
+practical this week and i'll see you all again next week

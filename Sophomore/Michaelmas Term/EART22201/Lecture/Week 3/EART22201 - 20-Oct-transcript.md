@@ -1,0 +1,1601 @@
+---
+title: "EART22201 - 20-Oct-transcript"
+source: "Sophomore/Michaelmas Term/EART22201/Lecture/Week 3/EART22201 - 20-Oct-transcript.txt"
+type: transcript
+---
+
+'EART22201 - 20-Oct', automated transcript
+03/08/2026
+---
+
+Good afternoon, everyone.
+
+It is 2 o'clock, so I will now make a start.
+
+Thank you all for being here.
+
+A little bit of admin before we get going
+
+into this week's content.
+
+So as ever, I've put the solutions to last week's
+
+practical on Canvas.
+
+You can find that in the module 2 folder.
+
+And you'll find practical 2 solutions
+
+should now be visible to you.
+
+I just wanted to draw to your attention
+
+something that I forgot to say over the past couple of weeks.
+
+Some of the practicals, we've been printing out pages
+
+that you need to annotate.
+
+But the entire worksheet is all online.
+
+And for today's practical, all of the questions are in Canvas.
+
+So we're not going to be providing a printed handout.
+
+I try to indicate in Canvas which pages I'm
+
+going to provide as printed copies.
+
+And if you then want your own printed copy to work off,
+
+you can arrange that in advance.
+
+The reason I'm doing that is to try and make us a little bit greener.
+
+I found that when I was printing out all of the practicals,
+
+I ended up with a lot of waste paper.
+
+And a lot of you are working on digital devices anyway.
+
+So it gives you a bit of flexibility.
+
+However, if you know that you definitely want a printed copy
+
+and you want me to provide that consistently,
+
+do feel free to ask for it.
+
+Because I can arrange for a small number of printed copies
+
+to be made available for you.
+
+Second thing to say was that on Canvas, somebody
+
+had written a question in the discussion board.
+
+Thank you for that.
+
+You were asking about whether you
+
+could have PowerPoint versions of the slides that I'm using.
+
+Because some of you have spotted that I've
+
+got some little notes underneath each slide.
+
+The answer to the question is, I don't distribute the PowerPoints
+
+because some of those notes are my notes to myself that tell me
+
+what works, what hasn't worked in previous classes.
+
+But some of the academic notes are the script
+
+that I'm using to record the videos.
+
+And if you want to have that material,
+
+you can get that from the videos themselves.
+
+So if I go into this week's video,
+
+if you want a transcript of the video,
+
+you can click on this little button here and download transcript.
+
+And that will open you a text file of everything that I say.
+
+So if that saves you a bit of time transcribing notes from the video,
+
+you can always get that.
+
+All of the lectures themselves are being recorded and podcast.
+
+I've done the video editing for those.
+
+And they should be available to you in a podcast portal.
+
+And again, those get subtitled.
+
+And you can probably download a transcript,
+
+although I can't vouch for how good the transcript is
+
+in identifying technical words like mineral names.
+
+But that should all be available.
+
+And if you can't find it, please let me know.
+
+I have been asked to flag mid semester surveys.
+
+I'm aware that we are only on week three of this particular unit.
+
+And we're not actually in the middle of the semester.
+
+However, these surveys are closing on Sunday of this week.
+
+So if there's anything that you do want to flag
+
+at this early stage of the unit, please feel free to use this QR code
+
+and answer some short questions and provide some feedback about the unit.
+
+If you don't want to do that at this point,
+
+please carry on using the discussion boards.
+
+And we'll deal with questions as and when they come up.
+
+OK. How did you all get on with the video material this week?
+
+Are there any questions arising?
+
+Silence. That means that you all know everything that you need to know.
+
+The big takeaway, I think, that you really want to know about
+
+is this silicate mineral group.
+
+So the silica tetrahedron being the building block of all silicate minerals
+
+and how those tetrahedra form chains or rings or sheeps
+
+within a mineral structure is an important aspect of the mineral's
+
+crystallography
+
+that also gets expressed in its physical and its optical properties.
+
+So you probably do want to be familiar with all of these different silicate
+
+mineral groups
+
+and, in particular, the orthosilicates, the single-chain silicates,
+
+and these three, double-chain, sheet, and framework silicates.
+
+If you can recognise the class from the diagram
+
+and give an example of a mineral that belongs to each of those classes,
+
+you'll be setting yourself up for good things.
+
+I also pointed out last week that there are lots of little videos on Canvas
+
+showing you talks through the key silicate minerals
+
+that you're going to need to be able to identify in thin section as part of this
+
+unit.
+
+And I said you didn't need to look at all of these in advance,
+
+and the purpose of today's class is that I'm going to show you
+
+what these minerals look like in thin section
+
+and provide you with some tools that will help you identify them going forwards.
+
+These are the kinds of notes that you should be adding to your own practical
+
+reference handout
+
+because you need to know what you are going to recognise
+
+that will help you identify these things in thin section.
+
+And the things that pop for you might not be the same as the things that pop for
+
+me.
+
+For example, I imagine that in a room of this size,
+
+there may be some people who experience colour blindness
+
+for whom colour is not going to be a very useful property.
+
+But you might notice other things that I don't really emphasise, like the relief
+
+of a mineral.
+
+So what I'm going to do today is show you this virtual microscope homepage,
+
+which is a really useful online resource.
+
+And then we're going to use this to talk through the key silicate minerals
+
+that make up the suite of igneous rocks
+
+that you're going to be working with for the rest of the semester.
+
+There's a link to this virtual microscope homepage in Canvas
+
+under this course unit resources tab.
+
+If I just pop down there, this is the online petrology and microscopy resources.
+
+And there's a link to the virtual microscope in here.
+
+There are some other resources that you're welcome to check out as well.
+
+So this was a website that was put together by the Open University
+
+to help distance learning students with their earth sciences practical work.
+
+And they've scanned loads of different collections of rocks from different
+
+universities,
+
+different parts of the UK.
+
+There's some Apollo samples on there.
+
+There's some meteorite samples on there.
+
+It covers igneous, metamorphic and sedimentary rocks.
+
+And it covers lots of the rock forming minerals.
+
+The teaching resources tab is quite useful.
+
+You can go down here and have a look at some links to other sites.
+
+But this manual of minerals I find quite useful.
+
+So if you've got a mineral that you want to find and identify,
+
+you can click through here and it will take you to some nice examples of
+
+particular minerals.
+
+If you want to see a particular kind of feature of a mineral like
+
+what is playachroism?
+
+Just remind yourself what that is from last week.
+
+What is relief?
+
+What is cleavage?
+
+What is extinction?
+
+This will talk you all through that and it will supplement what we did last
+
+week.
+
+There's more in here than we talked about last week.
+
+So if there are some terms that are unfamiliar to you,
+
+that's obviously not going to be accessible material.
+
+There's also a little useful bit down here about weird things that can pop up in
+
+thin sections.
+
+So for example, what does dirt on a glass slide look like?
+
+It will show you examples of, here's a kind of shaded little bit in this
+
+mineral.
+
+It looks a bit bizarre.
+
+What could that be?
+
+Somebody's probably put a thumbprint on the slide and that's what you're seeing.
+
+Some muck on the slide.
+
+What does an air bubble look like?
+
+Something like this.
+
+So if you see a weird thing in a thin section,
+
+coming down here and saying, is that a kind of just an artifact
+
+or is it a mineral that I need to be aware of?
+
+This is quite a useful thing.
+
+Collections tab shows you some of the collections that they've got.
+
+In this unit, I select from a whole range of different things in here.
+
+And then the explore tab, if you're looking for a particular rock kind
+
+or a particular mineral kind, you can search.
+
+So let's search for an igneous rock that contains the rock forming mineral
+
+olivine.
+
+We submit the choice and it will find us all of the thin sections,
+
+all of the rocks in this repository that contain that mineral in that rock type.
+
+And you can narrow down your search as much or as little as you wish.
+
+So let's go in and have a look at one of the rocks.
+
+Here's one I selected earlier.
+
+This is a basalt and igneous rock.
+
+And you land on a page that looks like this.
+
+Some of them have a little fact sheet that tells you something about the rock.
+
+So this one comes from Edinburgh.
+
+And then you can click on this tab, microscope,
+
+and you get what looks like a digital thin section.
+
+And you can view this in plain polarised light or under cross polarised light.
+
+And you can use this little bar here to zoom in, zoom back out.
+
+You can measure the size of features if you want to
+
+using this little measure tab, plain polarised light.
+
+So this gives you a view of the whole thin section image.
+
+And then most of them also have these little rotations.
+
+So if I click on one of those and open it up,
+
+it will take you to what you might be looking at down the oculus of a
+
+microscope.
+
+And you can actually rotate this,
+
+and you can see what this particular mineral would look like under plain
+
+polarised light.
+
+This is where the polariser is aligned east-west.
+
+And under cross polarised light, when you put the analyser in,
+
+and you're now viewing the light through the north-south polariser as well.
+
+So I selected this particular thin section
+
+because it's got a really good example of the mineral olivine.
+
+Hopefully this is one that you met last year, but that was a long time ago.
+
+So let's go through this.
+
+Olivine is a magnesium iron silicate.
+
+And it's found in basalts and gabros, more mafic igneous rocks.
+
+In thin section, it's got quite a high relief.
+
+So you can see the edge of the crystal.
+
+And this one has what I would describe as a well-formed crystal habit.
+
+So it's not a completely randomly shaped crystal.
+
+You can just about see where the faces of this crystal are.
+
+So these nearly flat edges.
+
+So it's a fairly well-formed crystal.
+
+We could call this u-hedral or potentially sub-hedral
+
+if you think the crystal habit is not quite as perfect as it might be.
+
+As I rotate the stage, look at what happens to the colour in plain polarised
+
+light.
+
+So hopefully what you're seeing is absolutely nothing is happening to the colour
+
+at all.
+
+So this mineral is not playochroic.
+
+It's colourless and it's not playochroic.
+
+It does not change colour as we rotate the stage.
+
+What else can we see in plain polarised light?
+
+We can see lots of these dark curving cracks going through the mineral.
+
+These are not cleavage because they are not planar.
+
+They are simply cracks in the mineral.
+
+Now imagine that you're a mineral that is growing happily in a magma chamber
+
+somewhere at high pressure in the crust.
+
+And a volcanic eruption picks you up and carries you up to the surface.
+
+The change in pressure can cause the mineral to crack.
+
+And in olivine that is expressed in these curving fractures.
+
+And this is quite common to see.
+
+What we can also see around the edge of this crystal is this green-brown gungy
+
+stuff.
+
+This is an alteration product called serpentine.
+
+And this is again a very common thing that we can observe in olivines,
+
+particularly in volcanic rocks that have erupted in submarine conditions.
+
+But we can also see it in coarse-grained plutonic rocks.
+
+So the olivine is being attacked by the water surrounding it.
+
+There's a chemical reaction going on there.
+
+And a new mineral, serpentine, is growing around the edge of the olivine.
+
+If the mineral is particularly rotten,
+
+then that alteration will also enter these curving fractures.
+
+And so the whole thing can start looking very gungy and very unhappy.
+
+Whereas here we've only got the gungy, unhappy stuff around the crystal edges.
+
+Now let's have a look under cross-polarized light.
+
+So as I rotate the stage, you'll see that every 90 degrees the mineral goes
+
+extinct.
+
+That's not a particularly useful observation.
+
+Every mineral does this unless it's isotropic.
+
+But we can look at the interference color.
+
+So this is quite a bright color.
+
+This is a second-order blue.
+
+You'll get a hang of the borders as we go along.
+
+And we can look at the extinction angle.
+
+So here what we see is that the olivine goes extinct
+
+when these crystal faces are oriented parallel to the crosshairs.
+
+And we would describe this as having straight extinction
+
+with respect to the crystal edges.
+
+There's no visible cleavage in the mineral,
+
+so we can't describe the extinction with respect to the cleavage.
+
+So this is olivine.
+
+I find this one is a fairly easy one to recognize in thin section
+
+because of its colorless nature and because of the curving cracks.
+
+Those are the two things that I would really look for.
+
+Coupled with the serpentine alteration.
+
+Here is another rock that contains olivine
+
+but a suite of other minerals as well.
+
+So on this particular entry in the virtual microscope
+
+there's also a picture of the hand specimen.
+
+We can click on this object tab
+
+and you can zoom in on the hand specimen itself
+
+and you can get an idea for what's the grain size,
+
+what's the texture of the rock.
+
+We'll talk a bit more about those in future weeks.
+
+But here I want to click on the microscope slide
+
+and this rock's got some olivine in it
+
+and it's this really high relief unhappy looking material.
+
+So if we just compare this with what we had in the previous thin section.
+
+Let me go back and zoom in over here.
+
+These are the crystals that we were looking at in that rotation.
+
+The difference here is that the cracks and the alteration
+
+are much, much more pronounced.
+
+So let's just flick back again.
+
+This is olivine in a volcanic rock.
+
+High relief curving cracks.
+
+Bit of alteration to serpentine.
+
+This is olivine in a plutonic rock.
+
+Same optical properties
+
+but the cracks are much more pronounced.
+
+And again, they're not cleavage
+
+because they're not parallel to one another.
+
+Everybody happy so far?
+
+Fab.
+
+Let's move on to pyroxenes.
+
+So in this thin section we are going to look at clino pyroxene.
+
+There are two kinds of pyroxenes
+
+that you're going to look at during this unit.
+
+They are called ortho pyroxene and clino pyroxene.
+
+And the names reflect the crystal system
+
+that the minerals belong to.
+
+So ortho pyroxene belongs to the orthorhombic crystal system.
+
+Clino pyroxene belongs to the monoclinic crystal system.
+
+This is clino pyroxene again in a volcanic rock.
+
+And we'll look at it in plain polarised light to start with.
+
+So here it is.
+
+There's two crystals of it here.
+
+They've got this faint pinky browny colour.
+
+If we compare that with the olivine from the last one,
+
+this is colourless.
+
+This is a pinky brown.
+
+It's quite subtle, but when you see the two next to each other,
+
+often you can tell the difference.
+
+And I'll show you that in a minute.
+
+In the olivine, we didn't have any parallel fractures.
+
+We only had curving fractures.
+
+In this clino pyroxene, we have a set of parallel fractures.
+
+So these are the cleavage trace.
+
+In this mineral here, or this crystal here,
+
+we can see one set of those cleavage traces.
+
+And they're running north-south down this mineral.
+
+But in this view here, we can see two sets of cleavage traces.
+
+And the angle that they make to each other,
+
+if you get a perfect slice through the mineral, is 90 degrees.
+
+So both pyroxenes are characterised by having two sets of cleavages at 90
+
+degrees.
+
+But depending on how the 3D object has been sliced to make the thin section,
+
+you may only see one of them, or you may see both of them.
+
+So we need to look at both of these sections in turn.
+
+Let's rotate the stage,
+
+have a look at what you see in plain polarised light.
+
+Does anyone see any change of colour?
+
+No.
+
+So not playachroic.
+
+Or nothing notable anyway.
+
+So we're kind of medium to high relief, faintly coloured.
+
+We can see the cleavage traces and no playachroism.
+
+Let's now look under cross-polarised light.
+
+And I want you to keep your eye on this mineral here,
+
+the one with the orange interference colours, as I rotate the stage.
+
+So we're going to see that the mineral goes extinct every 90 degrees.
+
+Not a very useful observation.
+
+But what we can do is we can look at the angle
+
+between the crosshairs and the cleavage when it goes extinct.
+
+So I'll just rotate that.
+
+Here the mineral is in complete extinction, no light is reaching the eye.
+
+Can you see that the cleavage traces are making an angle to the crosshairs?
+
+So this mineral has inclined extinction.
+
+And when you're thinking about pyroxenes,
+
+this kind of clino inclined, my clinic,
+
+they all fit together, they all have this clino thing.
+
+So clino pyroxenes can have inclined extinction.
+
+In cross-polarised light.
+
+And we can actually use the microscopes in the petrological lab
+
+to measure that extinction angle.
+
+And in typical clino pyroxenes, that is somewhere around 30 to 40 degrees.
+
+So the angle between the crosshairs and our cleavage traces
+
+should be somewhere between 30 and 40 degrees, give or take.
+
+Now, if we look at this section here,
+
+that's got the two cleavage traces,
+
+we see some interesting things in cross-polarised light.
+
+So you can see here, half of the mineral is blue
+
+and half of it's this kind of grey colour.
+
+And there's this distinct plane in here.
+
+This is a twin plane.
+
+A twin's form when there is some kind of defect in the crystal lattice.
+
+So maybe along that plane,
+
+the crystal has started growing mirror images of the lattice
+
+or the lattice has started growing at slightly the wrong orientation.
+
+We see this as these parallel planes in cross-polarised light.
+
+You can't really see that twin plane in plain polarised light,
+
+but in cross-polarised light, it's immediately obvious.
+
+And the two halves of the crystal go extinct at different angles.
+
+What we can then see is what does the extinction do
+
+with respect to our two cleavage traces?
+
+And what we should see is that the mineral should go extinct
+
+when the cleavage is bisected by the crosshairs.
+
+This isn't perfectly expressed in this particular crystal,
+
+but can you see here the cleavages are kind of crossing the crosshairs?
+
+So this is what we would call symmetrical extinction.
+
+So when you've got these two cleavage traces,
+
+the extinction angle should bisect the two cleavages.
+
+So this is clinopyroxene.
+
+Now a word to the wise is that clinopyroxene and olivine
+
+are often quite difficult to tell apart.
+
+And depending on the rock, this might be really easy
+
+or it might be utterly, utterly confusing.
+
+A lot of my research is on rocks that contain these two minerals
+
+and sometimes I get it wrong.
+
+So don't panic.
+
+When you are trying to describe these things for yourself in a rock,
+
+the important thing to do is to describe, describe, describe, describe.
+
+What can you see?
+
+If you write down this mineral is clinopyroxene
+
+with no justification and it's not clinopyroxene,
+
+I can't give you any marks for that.
+
+But if you write down the mineral is lightly coloured in plain polarised light.
+
+It has one perfect cleavage.
+
+It has no pleochroism.
+
+Under cross polarised light, it has second order interference colours
+
+and inclined extinction at 30 degrees with respect to the cleavage trace.
+
+I think it is clinopyroxene.
+
+You get all the marks.
+
+If you write all those observations and then write,
+
+I think it's olivine, you still get all the marks
+
+because you've done the hard work of observing the properties.
+
+So describe, describe, describe, describe, describe.
+
+Then decide what the mineral is.
+
+How do you tell this apart from orthopyroxene?
+
+Another thin section and here we go.
+
+So this mineral has got both clinopyroxene and orthopyroxene in it.
+
+This crystal here is your clinopyroxene.
+
+So again, lightly coloured and first order interference colours.
+
+And if I rotate the stage,
+
+we can see that it's got inclined extinction with respect to our cleavage.
+
+Now let's compare it with this crystal here.
+
+They look very, very similar in plain polarised light.
+
+But in cross polarised light, there are some subtle differences.
+
+This one has much lower interference colours.
+
+Orthopyroxene tends to have grey to a sort of washed out yellow
+
+set of interference colours.
+
+And if we look at the extinction angle with respect to the cleavage traces,
+
+the cleavage is running in this sort of direction here.
+
+And when the mineral is in extinction,
+
+it has straight extinction with respect to the crystal edges.
+
+So orthopyroxene always has straight extinction
+
+with respect to the cleavage traces.
+
+That is the way to tell it apart from clinopyroxene.
+
+You look for the interference colour and you look for
+
+does it have inclined or does it have straight extinction?
+
+Everybody happy with those so far?
+
+You'll get a lot of practice at this.
+
+Good.
+
+So I just want to show you back in this thin section here,
+
+we saw that the olivine was very unhappy looking
+
+and these lightly coloured but no dark fractures
+
+and some well-formed cleavage traces,
+
+these are the pyroxenes in this particular rock.
+
+Back to this one.
+
+Again, you can see the pyroxenes here are these large crystals ever so slightly
+
+coloured
+
+and often you can see the cleavage traces.
+
+If I pop that into cross-polarised light,
+
+we can see that we've got a range of interference colours
+
+but most of the pyroxenes are pink to orange to blue
+
+and they're quite brightly interference colours.
+
+Moving on to a slightly more complex silicate mineral,
+
+we'll look at hornblende next.
+
+Hornblende is a mineral that we find typically in andesitic rocks
+
+from subduction zone volcanoes
+
+and one of the important things about hornblende
+
+is that it's a mineral that incorporates water into its crystal lattice
+
+so you can't grow much hornblende in a dry environment
+
+but you can grow it in a wet environment
+
+and this is going to be important when we think about
+
+tectonic environments in which volcanism happens.
+
+So if we think about the association between volcanoes and where is water,
+
+subduction zones are a good place for water to be being cycled around in the
+
+deep earth
+
+and supplied to magma chambers
+
+so we tend to see hornblende in rocks from subduction zone settings
+
+and again we'll talk a lot more about this later in the unit.
+
+So these darker coloured minerals here are all hornblende crystals
+
+and if we compare that with the klinoperoxene that we looked at in the previous
+
+rock,
+
+just have a look at the intensity of the colour.
+
+So these klinoperoxenes are coloured but not best as it's still quite light
+
+whereas the hornblends are quite intensely coloured
+
+and if we have a look at what they look like under plain polarised light,
+
+keep your eye on this as I rotate the stage,
+
+are you seeing a change in colour?
+
+Yes, so hornblende is often strongly coloured and strongly playachroic.
+
+The typical colours in igneous rocks, in volcanic rocks are shades of yellow and
+
+brown
+
+and in plutonic rocks, browns and greens.
+
+I'll show you an example of a green one in a second.
+
+So if we look at these sections in plain polarised light,
+
+hopefully you can also see that there are these two cleavage traces
+
+running through the mineral, parallel sets of fractures
+
+but these are different from klinoperoxene in that these are now at 60 degrees
+
+to one another.
+
+So hornblends and amphiboles cleavages are at 60 degrees, pyroxenes at 90.
+
+We can see a little reaction rim at the edge of the crystal.
+
+This is actually not high relief which is a bit confusing,
+
+this is actually the hornblend starting to react chemically with the material
+
+surrounding it
+
+but often in volcanic rocks hornblende will have this rim of dusty material.
+
+It has quite a distinctive shape in this rock, this kind of hexagonal prismatic
+
+shape
+
+and here we're looking kind of down that sort of hexagonal axis.
+
+It's not perfectly hexagonal so this is not part of a hexagonal crystal system
+
+but these kind of six-sided prisms are quite characteristic.
+
+If we look at this under cross-polarised light again you will see symmetrical
+
+extinction
+
+so the angle of extinction will bisect the cleavage
+
+and if I rotate the stage you should be able to see that.
+
+So here our crystal is in full illumination and as I rotate the stage
+
+here it's fully extinct and our cross hairs, our east west and our north south
+
+will be bisecting those cleavage traces.
+
+So when you get the two cleavage slice through the mineral you get symmetrical
+
+extinction.
+
+You can also see down here there's a little twinned crystal so again
+
+half of the crystal is going extinct while the other half is illuminated
+
+and then the other half of the crystal goes extinct so we've got a twin plane
+
+sitting in hornblende here.
+
+We also need to consider what the elongate section of hornblende looks like
+
+so that was a view kind of down the hexagonal six-sided prism.
+
+This is a view down the kind of long axis of our prism
+
+and again let's look at it under plane polarised light.
+
+Do you see a change in colour as I rotate the stage?
+
+Lots of nods, yes so it's still playachroic although the colours that we see are
+
+slightly
+
+different.
+
+That is because hornblende is a biaxial mineral there are three different
+
+colours associated with
+
+it and we see different colours depending on how the crystal's been sliced.
+
+If we look at this same crystal in cross polarised light I want you to keep your
+
+eye
+
+on this upper part of the crystal.
+
+There's a twin plane running down the crystal like this that makes it a bit
+
+confusing.
+
+Can you see that here I have the crystal edge oriented north-south parallel with
+
+the cross hairs.
+
+Can you see that the mineral is not yet in complete extinction?
+
+So this mineral does not have straight extinction with respect to the crystal
+
+edge.
+
+I need to rotate it to this angle now it's in complete extinction and again we
+
+could measure
+
+that extinction angle and in amphiboles and hornblends that angle is usually
+
+between 15
+
+and 20 degrees.
+
+They're different from pyroxenes which are about 30 to 40 these are more like 15
+
+to 20
+
+so that's a property that we can actually measure.
+
+The cleavage traces here in this particular crystal are not that visible but the
+
+cleavage
+
+traces here would be running parallel to the crystal edge so we could also
+
+measure this
+
+extinction angle with respect to the cleavage and again we get about 15 to 20
+
+degrees.
+
+Everyone happy with that?
+
+Okay I'll just show you quickly an example of the green amphiboles so this is a
+
+more
+
+coarse-grained igneous rock and here you can see the three pleoperoic colours
+
+really quite
+
+distinctly you've got this kind of light browny green dark browny green and kind
+
+of sludge
+
+green but there's three quite distinctive colours in there and if we have a look
+
+at those in one
+
+of the rotating sections here we go so keep your eye on the on the pleoproism
+
+and plain
+
+polarised light we've got kind of brown through to the green colour and here you
+
+can see the
+
+cleavage traces they are currently horizontal east west and our mineral is not
+
+in extinction
+
+we measure the extinction angle it's about 17 degrees.
+
+We've got a twin plane in this crystal.
+
+The next ones I want to show you are biotite and muscovite so these are the
+
+sheet silicate minerals
+
+that I don't know if you looked at these in a practical in the first year but
+
+they're quite
+
+memorable to me because they look like kind of flakes or or sheets of paper
+
+they've got one
+
+perfect cleavage trace and that is really the feature that I use to identify
+
+biotite and
+
+muscovite this particular rock has got both of them in this rotation here so
+
+we'll start
+
+with biotite that is this mineral here this brown coloured one keep your eye on
+
+this as
+
+I rotate the stage do you see a colour change quite distinctive so you get this
+
+straw yellow
+
+or light brown then 90 degrees later you get this dark reddish brown colour this
+
+is really
+
+really distinctive in biotite but didn't we just see brown yellow playa croism
+
+in horn blend
+
+so one of the things to look out for is it's quite easy to confuse biotite and
+
+horn blend
+
+in thin section so what would I use to tell them apart
+
+can you see that in this biotite crystal there are thin fractures running north
+
+south in this
+
+orientation these are the cleavage traces now look what happens when I orient
+
+these cleavage traces
+
+parallel with our crosshairs the mineral is quite dark but it's not fully in
+
+extinction
+
+keep your eye on what happens to this in cross polarised light as I rotate the
+
+stage so at full
+
+illumination we get this really quite weird looking interference colour it's a
+
+little bit
+
+psychedelic these are very high order interference colours they look a bit odd
+
+when we put the
+
+cleavage parallel to one of our crosshairs the mineral doesn't really go into
+
+full extinction
+
+we call this speckled extinction so it never really goes completely black
+
+and we could contrast that with our horn blend where there's definitely none of
+
+that speckly
+
+stuff going on this has definitely gone completely black completely extinct so
+
+just compare that
+
+with that it's subtle but it is different
+
+we could also look at the crystal shape so here you've got quite a well-formed
+
+prism
+
+of horn blend and if you look at the short axis again it's quite a well-formed
+
+crystal face
+
+but if we look at our biotite again this is slightly subtle here but you'll get
+
+used to
+
+quite ragged so you get really nice flat crystal faces parallel to the cleavage
+
+but perpendicular to the cleavage you get this horrible ragged effect
+
+so that's quite characteristic of biotite you can also see these really dark
+
+spots
+
+inside the biotite not all biotites have this but if you do see it it's quite
+
+characteristic
+
+i'll talk about why we see those in another lecture later in the course but you
+
+don't see
+
+this effect in amphiboles okay so this is biotite this is hello yes so the
+
+speckled
+
+extinction refers to if we put it into the position where we think it ought to
+
+be an extinction
+
+it's not quite so and that would be when the cleavage is parallel to the
+
+either east west or north south let's look at this mineral here this is
+
+muscovite so you can
+
+see some of the properties are quite similar in that the crystal shape is quite
+
+similar to biotite
+
+it has one perfect cleavage similar to biotite but this time it's colorless and
+
+it's not play
+
+parallel to the crosshairs again it's not quite extinct can you see that
+
+and the interference color you often get these bright blues or bright oranges
+
+for muscovite
+
+so i tell muscovite and biotite apart primarily by their color one's intensely
+
+colored and
+
+player proic one is colorless and i tell them apart from other minerals using
+
+this property
+
+of straight but speckled extinction these two minerals are most frequently found
+
+together in
+
+granites so you'll often see these two together in the same rock so if you see
+
+one it's a good
+
+idea to have a look and see if you can find any of the other last set of
+
+minerals are all colorless
+
+in plain polarized light so these are ones where you have to work a little bit
+
+harder
+
+to figure out what's what and i'm going to start with quartz because we looked a
+
+bit at that
+
+last week so if we look at this particular rock there's a lot of colorless
+
+material in
+
+our plain polarized light view if i pop the analyzer in you can see that there's
+
+an awful
+
+rock is quartz so each of these crystals is a quartz crystal identify quartz by
+
+the fact that
+
+it's pretty boring and pretty featureless so it's low relief it's very hard to
+
+see the crystal edges
+
+it's colorless in cross polarized light it has low interference colors grays to
+
+white
+
+it has no twinning and let's see if i can find a rotation that will show you
+
+what it's extinction
+
+looks like yeah so these are all quartz crystals up here it's not playa crowick
+
+it's got no twinning there's no cleavage there's very little going on there's
+
+some subtlety going
+
+on in this particular crystal because this rock has undergone a little bit of
+
+deformation
+
+and that can distort the crystal lattice and mean that you get these sort of
+
+shadowy sub grain
+
+effects where the crystal lattice has been bent you don't always see this it's
+
+not uncommon in
+
+plutonic rocks it would be very uncommon in volcanic rocks but if you see it
+
+it's a good
+
+thing to kind of note down so that's colorless mineral the featureless one
+
+colorless mineral
+
+the slightly more obvious one that you're probably familiar with from first year
+
+is plagioclase
+
+so these colorless areas are all plagioclase crystals and the most recognizable
+
+feature
+
+about them is the multiple lamellar twinning so black and white stripes parallel
+
+to one another
+
+running down the length of the crystal so like quartz in plain polarized light
+
+plagioclase is
+
+colorless featureless low relief unlike quartz in cross polarized light we see
+
+the multiple
+
+lamellar twinning and that is its distinguishing feature this rock here there's
+
+lots of colorless
+
+material if i pop the analyzer in you can now see there's loads of features in
+
+that material that
+
+was colorless is colorless we can now see here there's lots of this multiple
+
+lamellar twinning
+
+so that is very distinctive plagioclase in a volcanic rock they're often quite
+
+elongate
+
+we might say that they're a circular inhabit needle like in plutonic rocks like
+
+this one
+
+they're a bit kind of wider and fatter but the twins will usually run along the
+
+length of the
+
+crystal the third one in our colorless mineral sandwich is alkali feldspar and
+
+the form of alkali
+
+that you get depends on the cooling rate of the rock in volcanic rocks we get a
+
+form of alkali
+
+feldspar called sanadine this is not a brilliant example but i'll attempt to
+
+show it to you
+
+so if i just pop the analyzer in here most of the phenocrysts in this rock are
+
+actually quartz
+
+but this one here is that an alkali feldspar and the subtle feature that tells
+
+me it is an alkali
+
+feldspar is this twin plane here and what i want you to notice why is this
+
+different from
+
+plagioclase there's only one twin plane so in plagioclase we get multiple
+
+lamellar twins
+
+but in volcanic alkali feldspar we get one twin plane we call this simple
+
+twinning and you
+
+only really see this form of alkali feldspar in volcanic rocks in plutonic rocks
+
+we get some
+
+slightly different things going on in one of the videos i talk a little bit
+
+about x solution
+
+which is a chemical separation within the crystal and in alkali feldspar that
+
+gives rise to a
+
+dusty looking and this is really typical of rocks that have undergone
+
+hydrothermal alteration
+
+so feldspars will often display this dusty looking alteration quartz does not do
+
+this
+
+only feldspars undergo hydrothermal alteration but more than the hydrothermal
+
+alteration if we look
+
+under cross polarized light can you see that there are these kind of wormy
+
+looking lines running
+
+through the crystal this is an x solution texture so the interior of the worm
+
+might be
+
+sodium rich and the exterior of the worm might be potassium rich so the crystal
+
+itself is starting
+
+to separate chemically which is a property of its crystal structure you don't
+
+need to know the
+
+mechanics of why this happens but i think that those of you who are doing
+
+principles of geochemistry
+
+will talk about this either this week or next week so this perthitic perthite
+
+texture is something
+
+that we would expect to see in slowly cooled plutonic rocks and the thicker the
+
+wormy texture
+
+the slower the cooling rate so in a volcanic rock we would never expect to see
+
+this because
+
+there is not enough time for this chemical x solution to occur we only see this
+
+in
+
+plutonic rocks the other texture in alkaline feldspar we can see in plutonic
+
+rocks is
+
+microcline twinning so that is your kind of tartan or cross hatch twinning which
+
+is quite
+
+easy to see in cross polarized light here are some more examples and this again
+
+only forms
+
+in very slowly cooled plutonic igneous rocks it's quite easy to confuse with the
+
+lamellar
+
+twinning of plagioclase and what you should look for is that in plagioclase we
+
+only see those twins
+
+in one direction in microcline we see them in two directions so these three
+
+minerals quartz
+
+plagioclase and alkali feldspar you want to have some notes for yourself about
+
+how you're going
+
+to tell the difference between them given that they're all colorless and low
+
+relief in plain
+
+polarized light and it's these properties of twinning and x solution versus
+
+completely
+
+featureless that are going to be your friends okay so we've now walked through
+
+the essentials
+
+of all of the minerals that you're going to need to be able to identify over the
+
+course of this
+
+one of the things that i'm going to be asking you to do is technical drawing
+
+thin section diagrams
+
+to illustrate what you see and just for a bit of fun i thought that i would
+
+share with you
+
+some of my undergraduate indiscretions of how not to do thin section
+
+descriptions
+
+this is assuming that i can get this to work you may not be able to see the
+
+indiscretions
+
+come and see me afterwards if you want to see how i started this is how it's
+
+going now
+
+um go back to this one then i'll show you some good examples of
+
+what thin section drawings look like so you've been doing field sketches in
+
+aliaga a thin section
+
+is works on a very similar basis it's not an artistic drawing it's a technical
+
+drawing where
+
+we are trying to represent something about the mineralogy and the texture of the
+
+rock
+
+you can use color you can use shading but the key things here are we're trying
+
+to portray
+
+and as accurate as we can representation of the crystal shape and we're also
+
+trying to portray
+
+how the mineral fits within the overall texture of the rock so i could say does
+
+this rock contain
+
+olivine and you might draw me a kind of circular blob with an arrow that says
+
+olivine and i'd be
+
+but like well okay maybe but why is it olivine so you could then list me a set
+
+of the properties
+
+that you you saw but even more informative is if you can say well this is
+
+olivine and here's what
+
+it's sitting in and in this particular rock i can see these long acicular
+
+crystals which
+
+look to me like plagioclase and these lightly shaded crystals that this person
+
+has labeled as
+
+orgite clinopyroxene so there's some examples of thin section drawings that this
+
+particular
+
+person has done this is not the only way that you could set out a drawing but
+
+the essential
+
+things are trying to capture an accurate representation of the crystal and its
+
+features
+
+and what it sits in it should have a scale bar and everything in it should be
+
+labeled
+
+so in the practical today the main objective is to take notes for yourself that
+
+will enable
+
+you to distinguish these minerals when you see them again but do as you go along
+
+have a go at
+
+one or two of the thin sections that i've put out for you and as we go on we'll
+
+build these
+
+thin section drawing skills there'll be a chance to get some feedback on how
+
+you're doing later
+
+in the semester and this will be one of the skills that i'll look for in the
+
+practical
+
+at the end of the semester. We'll reconvene in G20.

@@ -1,0 +1,1383 @@
+---
+title: "EART22201 - 17-Nov-transcript"
+source: "Sophomore/Michaelmas Term/EART22201/Lecture/Week 7/EART22201 - 17-Nov-transcript.txt"
+type: transcript
+---
+
+'EART22201 - 17-Nov', automated transcript
+03/08/2026
+---
+
+So the first thing I want to do today is to give you some feedback of the
+
+practical exercise that we did last week
+
+so last week for those who were here, we had a look at some examples of
+
+Questions that might come up on the practical paper and in the practical I gave
+
+you this
+
+example of a full
+
+Petrographic thin-section description that you could have a go at some of you
+
+handed in your work and I've written some feedback
+
+For each one of you that you can collect from me in today's practical
+
+But there are some common themes of feedback that I think will be worth
+
+everybody hearing
+
+So I want to talk about those to start with
+
+So my first one is that when you encounter this kind of question in a real
+
+practical exam when you're under time pressure
+
+Do you make sure that your answer has actually ticked off all parts of the
+
+question?
+
+So this one had
+
+With a fairly open-ended style of question, but there are five distinct tasks on
+
+here
+
+describe the rocks mineralogy
+
+describe the rocks texture
+
+interpret the order of crystallization
+
+give the rock a name or a classification and
+
+then interpret the tectonic setting
+
+If you want to pick up more than half the marks
+
+You have to do more than just sketch the rock and name the minerals in it
+
+There's a few other steps to go through as well
+
+So top tip is to just make sure that you've ticked off at least
+
+Something in each one of those categories so that I can give you the marks for
+
+it
+
+Now back at the beginning of the semester
+
+I promised you some examples of how not to do a thin-section description from my
+
+past undergraduate work and now that I have a
+
+Projector working I'm going to show you an example of a pretty rubbish thin
+
+-section description
+
+so
+
+What's good about this?
+
+There are three minerals in this rock and I have attempted to sketch each one of
+
+them
+
+I've given one example of each crystal and I've labeled it
+
+I've provided a
+
+modal mineralogy and I've given the rock type a name
+
+I've read I've said something about the grain size and I've said something about
+
+the relative proportions of light minerals to dark minerals
+
+What's not good about this?
+
+Observation one there's no scale bar every diagram must have a scale bar
+
+And it's not enough just to write down
+
+I use the times for objective that tells me what magnification you were looking
+
+at the thin section
+
+But it doesn't tell me how big it is how big the features are on your diagram
+
+If you don't know how big the field of view is on the microscope take a clear
+
+plastic ruler and
+
+Stick it underneath the objective lens and measure the field of view
+
+You'll find that the times for objectives on the mag the microscopes in the
+
+practical class have a field of view of about
+
+three millimetres
+
+And you should actually draw the scale bar
+
+Okay other things that could be improved on this I haven't given any
+
+observations
+
+To explain why I think that this mineral is pelagic lays
+
+So something that I could do to change this
+
+Might be to say here is my here is my mineral in question
+
+Labels so I'm going to list the observations in plain polarised light
+
+and I'm going to list their observations I can see cross-polarised lights and
+
+then
+
+I'm going to give it that means that if I get the mineral name wrong, I've
+
+provided loads of detail of what I saw and
+
+I'll pick up most of the marks. You only need to do this once per mineral. So if
+
+that
+
+Mineral appears somewhere else in your diagram
+
+Get to do the work for you. And if I have another mineral, I can do the same
+
+thing
+
+So let's say I have another mineral here
+
+polarised light
+
+My observations in cross-polarised light
+
+You're allowed to use colour and shading on your sketches if you think that that
+
+would help
+
+If you've got phenocrysts sitting in a ground mass, it's a good idea
+
+to just add some kind of indication
+
+and a label
+
+To demonstrate that the phenocrysts are not floating in the air. They're
+
+actually contained within something and so on and so forth
+
+Okay
+
+What else should I improve? I can comment on the rock's texture now in the
+
+practical reference handout
+
+There's a page of diagrams that have some named rock textures and you can use
+
+that to help you
+
+So this one
+
+Would have let's say a porphyritic
+
+Which tells me that there are large phenocrysts that probably grew slowly at
+
+high temperature in a magma chamber
+
+Sitting in a fine grained ground mass and in this case that probably grew
+
+quickly
+
+during rapid quenching
+
+When the magma was erupted
+
+So when I come to give this rock a name
+
+I want the name of a fine grained rock because we always name rocks according to
+
+the grain size of the ground mass
+
+Now in the samples that I gave you in this set this practical they were all
+
+basalts
+
+Now some of you gave me the name mafic rock. That's correct, but it's not very
+
+specific
+
+You can do better than mafic rock by looking at the grain size and telling me is
+
+this a volcanic rock with fine grained ground mass
+
+Therefore a basalt
+
+A coarse grained rock therefore a gabbro or an intermediate grained rock which
+
+would be a dolerite
+
+And if you're not sure where to get that kind of information
+
+There is a slide in
+
+Practical reference handout and there's also lots of information in lecture four
+
+about
+
+How to name rocks and the mineral associations that you need to give something a
+
+name
+
+What you'll find is that there are particular groups of minerals that always
+
+occur together
+
+So if you see
+
+Klinoperoxene and plagi together, we know that it's going to be a mafic rock. So
+
+either a basalt or a gabbro
+
+In a few weeks time you'll see that if we find
+
+Plagioclase and alkali feldspar and quartz all together in the same rock
+
+Then that will be a granite or a rhyolite the fine grained equivalent
+
+If you don't like the way that I just set that that diagram out
+
+You can also try to write your observations down in a table and then just label
+
+your minerals a b c and so on
+
+And again, this is all in in lecture four
+
+so
+
+Let me go back to
+
+The projector and i'll show you a kind of slightly better
+
+Example of a thin section description
+
+This is one that I spent a lot of time on and it's not one that I would expect
+
+you guys to be able to
+
+Reproduce under exam conditions
+
+But you can see here. I've made some of those improvements
+
+The scale bar is now present
+
+I've filled in the whole field of view showing the textures that how the
+
+minerals will fit together
+
+Each mineral has got a label with some of the key observations
+
+I've done a little bit more work with the minerals present
+
+and
+
+there's something here about the
+
+Uh the texture and some stuff about trying to interpret the rock history
+
+So this is how I was taught to do it as an undergrad your questions are slightly
+
+different
+
+But this is the kind of of level of detail that you would be aspiring to if you
+
+were doing this
+
+Over a couple of days as a piece of coursework
+
+You're not doing it over a couple of days as a piece of coursework, but still
+
+set yourself high standards and you won't go wrong
+
+The other thing to just point out to you as feedback from this exercise is
+
+This question about interpreting the tectonic setting now
+
+This is somewhere that it's very very easy to pick up marks
+
+By tectonic setting I mean choose from a mid-ocean ridge
+
+An ocean island or a subduction zone and explain your choice
+
+You haven't yet covered all of that information
+
+But in a couple of weeks time you will be able to make some inferences about the
+
+tectonic setting
+
+If you don't know
+
+Use your intuition and just give the justification because you will pick up
+
+marks for guessing
+
+And having a sensible reason for your guess
+
+Plutonic or magma chamber or volcanic are not examples of tectonic setting
+
+Because you could have magma chambers at mid-ocean ridges you could have magma
+
+chambers at subduction zones
+
+They're not unique you find them if it's a volcano you'll have those systems
+
+So by tectonic setting I am specifically meaning
+
+What kind of plate boundary would you find this rock being formed at or is it in
+
+the middle of a plate?
+
+Nothing to do with plate tectonics
+
+Does that make sense?
+
+Wonderful so come and collect your work from me
+
+If you handed yours in
+
+And if you get your individual feedback
+
+Let's move on then to
+
+today's
+
+Lecture which is about intraplate volcanism. So this is one of the tectonic
+
+settings that you could choose
+
+Last week we looked at mid-ocean ridges and we saw that melting at mid-ocean
+
+ridges was controlled by adiabatic
+
+Decompression melting so thin the lithosphere we allow the convecting
+
+asthenospheric mantle to upwell
+
+the dry peridotite
+
+Crosses the solidus and is enabled to melt
+
+Now ocean islands or mantle plumes we have a slightly different mechanism of
+
+melting going on
+
+And that is
+
+Called active upwelling
+
+So I talked last week about the concept of mantle potential temperature
+
+Which is what you get when you extend the gradient of the conducting geotherm
+
+upwards towards the surface
+
+now if we
+
+increase the mantle potential temperature
+
+then
+
+We can cause deep melting at high temperature and this is what's going on in
+
+mantle plume settings
+
+All right, so these these diagrams kind of illustrate the concept this is your
+
+normal situation
+
+No melting the geothermal gradient is always below the solidus
+
+And if we extend the gradient of the conduct convecting geotherm upwards we get
+
+the ambient mantle potential temperature
+
+Which is about 1280 degrees
+
+If we increase the mantle potential temperature
+
+Enough
+
+Then we induce melting by causing the geotherm to cross the peridotite solidus
+
+and the extent to which you
+
+Increase the mantle potential temperature determines the depth
+
+That the solidus gets crossed and also determines how much magma can be produced
+
+by the melting
+
+So at hawaii there's a the lithospheric thickness is at about 100 kilometers
+
+For a mantle potential temperature of about 1550 degrees and we can compare that
+
+with a mid-ocean ridge where the lithospheric thickness is about seven
+
+kilometers
+
+For a mantle potential temperature of 1280 degrees
+
+And iceland is somewhere in the middle lithospheric thickness reaches a maximum
+
+of about 45 kilometers
+
+For mantle potential temperature of about 1400 degrees
+
+This diagram shows it just a little bit differently with pressure and
+
+temperature plotted
+
+Plotted here this red line is
+
+The solidus so the temperature at which peridotite undergoes melting and the
+
+only thing that I want to point out here
+
+Is that if you increase the mantle potential temperature you intersect the
+
+solidus at a greater
+
+depth
+
+And that changes the type of peridotite that can undergo melting
+
+So those of you who were here in week five will remember that the mantle is made
+
+of peridotite, which is olivine
+
+Clinoperoxine
+
+Orthoperoxine and an aluminium bearing phase and the nature of the aluminium
+
+bearing phase depends on the pressure
+
+so if we have
+
+Fairly low pressure melting like a mid-ocean ridge
+
+Then the peridotite solidus is intersected in the spinel peridotite field so the
+
+aluminium bearing phase is spinel
+
+If we increase the mantle potential temperature
+
+We also increase the pressure or the depth that melting starts and we start
+
+melting in the garnet peridotite field
+
+So the aluminium bearing phase is garnet
+
+Happy so far fantastic
+
+I then talked you through the example of hawaii as the type example of a mantle
+
+plume location
+
+and the takeaways here are that
+
+Volcanoes on hawaii have a very distinctive eruptive life cycle
+
+So they start in the pre-shield stage where the melt production is relatively
+
+low
+
+And we produce alkali basalts
+
+They then go into their main shield building stage
+
+Where the magma production rate is significantly higher and the magma
+
+composition is foliotic basalt
+
+They then die back down again magma magma production rate drops off and we go
+
+back to alkali basalt compositions
+
+Then there's a period of no activity
+
+and then as the edifice is eroded
+
+Old and frozen melts can undergo
+
+Remelting by decompression in response to erosion
+
+And this produces a selection of really weird magma compositions that we won't
+
+really look at in this unit
+
+So why do volcanoes on hawaii have this very distinctive eruptive life cycle?
+
+It is because the pacific plate is moving over
+
+The stem of the hawaiian plume
+
+So as your lithosphere first impinges over the plume you get a little whiff of
+
+heat
+
+You get a little bit of melting of alkali basalt compositions
+
+Then your plate and your volcano move over the main plume stem you get a lot of
+
+melting a lot of magma production
+
+Then your plate passes over the plume stem
+
+The heat dies down the magma production rate drops off and then eventually you
+
+pass right over the plume stem and the
+
+Active upwelling part of the volcano's life comes to an end
+
+So this diagram here shows you the three factors that we really are interested
+
+in when it comes to thinking about
+
+the magma composition
+
+That's being produced by partially melting the mantle. So the three variables
+
+that we're interested in are the temperature
+
+The pressure and also the melt fraction
+
+So how what to what extent are we melting the solid peridotite?
+
+Are we melting it just a little bit or are we really extracting a lot of melt
+
+liquid from it?
+
+So what you see is that at mid-ocean ridges you get typical melt fractions of
+
+about 10
+
+So about 10 percent
+
+at pressures of about 1 gigapascal 30 kilometers or so and at
+
+Temperatures around about 1250 degrees and as we as we up the mantle potential
+
+temperature our melt fraction can go up
+
+And the pressure of melting can also go up
+
+But in the early stages of a hawaiian volcano's life the mantle potential
+
+temperature is still quite high
+
+But the melt fraction is low and this tips us into this alkali basalt field here
+
+You're not expected to reproduce this diagram
+
+But just know that temperature pressure and melt fraction are the three trade
+
+-offs in controlling
+
+What magma compositions are being produced?
+
+Everybody okay so far
+
+So what I wanted to do next is just to work on this kind of exam style question
+
+together
+
+So we've talked over the past two weeks about melt production at mid-ocean
+
+ridges and you've looked this week at
+
+Melt production at oceanic islands like hawaii
+
+So what i'd like you to do is to turn to the person or people sitting next to
+
+you and just have a quick chat
+
+About this answer compare and contrast the melting processes at mid-ocean ridges
+
+and ocean islands
+
+Think about the type of mantle being melted
+
+The conditions of melting and the types of melts being produced and remember
+
+that compare and contrast questions are not
+
+Right everything you know about these things. It's in what ways are these two
+
+systems similar and in what ways are they different?
+
+I spend a couple of minutes on that and then we'll come back together and
+
+feedback go
+
+Together I haven't given you very long to get that but hopefully you've got a
+
+few highlights
+
+So the first part of this question was to compare and contrast the melting
+
+processes
+
+Occurring at mid-ocean ridges and ocean islands
+
+so
+
+Can I have a brave volunteer? What is the melting process?
+
+the name of the melting process at mid-ocean ridges
+
+adiabatic decompression brilliant, so we'll start off with
+
+Melting adiabatic
+
+Decompression it's a very good idea to include diagrams in exam answers because
+
+you can say with
+
+With one diagram what it might take you a thousand words to say so i'm going to
+
+sketch this out
+
+mid-ocean ridge is that within the lithosphere
+
+and our new
+
+geotherm
+
+Equivalent for ocean islands the name of the melting process any brave
+
+volunteers
+
+So again, we can sketch this out
+
+temperature
+
+Normal geotherm we're going to do here is increase the mantle potential
+
+temperature
+
+So we drive this part of the geotherm
+
+in that direction
+
+And we'll end up with something that looks hopefully not too wonky
+
+So we could also label that as a kind of compare and contrast the mantle
+
+potential temperature here would be about
+
+Which are here. Let's go for something like so these are quite schematic
+
+sketches
+
+I haven't haven't given any quantities on any of the axes, but I've captured the
+
+essence of what the differences are
+
+so
+
+The melting mechanism here is really
+
+Lithospheric thinning a question also said something about what's the type of
+
+mantle?
+
+Being melted do you think of any similarities or any differences between these
+
+two settings?
+
+Predatory brilliant. So we have a similarity. They're both melting pretty tight
+
+in mid-ocean ridge setting the melting is relatively shallow
+
+so we're melting
+
+Spinel peridotite
+
+Whereas at an ocean island the melting is relatively deep
+
+So we're actually melting in the garnet peridotite stability field
+
+It can be enough another similarity that I haven't flagged for you, but it'll be
+
+apparent next week why I say this is that they're both
+
+Dry and we'll see what adding water to peridotite does
+
+We were asked to comment in the question on the conditions of melting the
+
+pressure and temperature
+
+So our two diagrams have actually done a lot of that work for us, but let's be
+
+explicit
+
+the pressure
+
+is
+
+Fairly low hence. We're in the spinel peridotite field
+
+and the temperature
+
+Is also
+
+Potential temperature will be about 1200 nature degrees c
+
+So our melting temperature will not be any hotter than that
+
+Whereas oceanic island our pressure is and our temperature potential temperature
+
+degrees
+
+Melting will be no hotter than this but that's
+
+Certainly compared to the mid-ocean ridge
+
+Is is a high temperature compare and contrast the types of primary melt that are
+
+produced here
+
+Has anybody picked up any similarities or any differences in the types of melts
+
+that you can produce at these two locations?
+
+Alkali basalt which where can you get the alkali basalt yet? So we can get
+
+alkali basalts at you can also get foliotic basalts
+
+Whereas those of you who didn't go to sleep last week will remember that I
+
+banged on about mid-ocean ridge basalts being incredibly boring
+
+And uniform in composition and they're all
+
+So our similarity here is that the primary melts both basalts
+
+Another similarity is that we can have foliotic basalts erupted in both settings
+
+But a difference is that in ocean islands we can get alkali basalts as well
+
+And this is related to the position of the volcano
+
+over
+
+The mantle plume stem
+
+So if we've got our volcano here
+
+We'll have our foliotic basalts
+
+Our volcano here moving over the plate
+
+Sorry listen
+
+The lithosphere is moving over the plate stem as well. Okay, so for an exam kind
+
+of compare and contrast style question
+
+We've got a really good answer there. We've picked up the key points and we've
+
+got the similarities and the differences
+
+What I want to do now is then to go
+
+Back to our notes and we'll just have a look at some more
+
+Key similarities and differences between these two locations
+
+To prepare for this I want to just give you a quick review of trace elements in
+
+igneous petrology
+
+Now I know that you talked about this in chemistry of the earth last year
+
+And I know that you've talked about this in principles of geochemistry this
+
+year. So hopefully this will be nice and familiar
+
+That trace elements are elements that have very very low concentrations in
+
+magmas on the parts per million
+
+level
+
+And we use a term called the partition coefficient
+
+to describe whether that element likes to go into a solid or
+
+whether it would prefer to stay in the melt
+
+And at any point during a melting or a crystallization process
+
+There will be a chemical equilibrium between the liquid melt and the solid
+
+crystals, so we're interested in
+
+Whether our element would prefer to be in the liquid melt or in the solid
+
+crystals
+
+If this partition coefficient is less than one we would say the element is
+
+incompatible and it prefers to stay
+
+into in the liquid
+
+If the partition coefficient is greater than one we say the element is
+
+compatible and it would prefer to be in the solid
+
+Does that feel familiar? Good
+
+And hopefully you've also come across this geochemist's
+
+periodic table. So when I talk about incompatible trace elements
+
+I'm referring to elements like strontium, barium, lead and this group of
+
+elements here called the rare earth elements
+
+Also called the lanthanides if you're a chemist
+
+And we like to divide them into the light rare earth elements and the heavy rare
+
+earth elements
+
+There's a continuum of behavior in this group of elements
+
+So they're all pretty incompatible in igneous systems, but they do exhibit some
+
+subtleties of behavior
+
+There's also two other groups of incompatible trace elements that are worth
+
+looking at and these will be important next week
+
+I'll introduce them now and we'll come back to them next week
+
+The light ion lithophile elements in orange and the high field strength elements
+
+in blue
+
+So what's all that about?
+
+Elements that are incompatible
+
+In solids are usually incompatible for one of two reasons
+
+Either they have a very high ionic radius
+
+So they are too big to fit into the cation sites of our silicate mineral crystal
+
+lattices
+
+Or they have a high charge
+
+So when you introduce them into the silicate mineral lattices, they produce
+
+distortion effects
+
+Which are not particularly thermodynamically favorable and the mineral doesn't
+
+like them
+
+The large ion lithophile elements are incompatible because they have a high
+
+ionic radius
+
+So they're large
+
+They don't fit in easily into crystal lattices and a property of this group of
+
+elements is that they are highly mobile in aqueous fluids
+
+So if you've got water or a mixed water co2 fluid hanging around
+
+That will pick up the large ion lithophile elements and move them around
+
+The high field strength elements are incompatible because they have a high
+
+charge
+
+So they don't go into crystal lattices because they introduce too much
+
+distortion to the lattice
+
+And this group of elements are largely immobile in aqueous fluids
+
+So they don't care whether there's an aqueous or co2 fluid around
+
+They stay put the rare earth elements fit mainly into this large ion lithophile
+
+category
+
+So they're somewhat mobile in aqueous fluids
+
+But they all exhibit kind of related behaviors
+
+when
+
+Magmas are crystallizing or when solids are melting
+
+Okay
+
+So the rare earth elements are all incompatible in silicate minerals
+
+So they have mineral melt partition coefficients that are less than one
+
+With the exception of the heavy rare earth elements in garnet
+
+Why is this important?
+
+If you are melting a garnet peridotite where there is solid garnet in your
+
+mantle rock
+
+The garnet is going to want to hold on to the heavy rare earth elements
+
+And so if you look at the trace element composition of a magma produced by
+
+melting of garnet peridotite
+
+It will not have very many of these elements in it
+
+If you're melting a spinel peridotite, those elements will just go into the
+
+magma
+
+So that is the only key takeaway from this slide
+
+Heavy rare earth elements are highly compatible in garnet, but garnet will want
+
+to hold on to them
+
+Okay
+
+So armed with that little tool kit
+
+Let's have a look at the trace element signatures of mid-ocean ridge basalts
+
+morb and ocean island basalts oib
+
+we know that there's a
+
+There's a funny way of plotting
+
+geochemical signatures
+
+Of trace element signatures and on this
+
+Kind of spider plot we order the elements from the most incompatible on the left
+
+to the least incompatible on the right
+
+Now if we plot just the bog standard element concentration the odo-harkins rule
+
+makes this difficult to look at
+
+Elements with even atomic numbers are more abundant than those with odd atomic
+
+numbers. We get this spiky pattern
+
+It's very difficult to see anything
+
+So what we do instead is that we will normalize our measured element
+
+concentrations to something of known
+
+Composition and in this case, we've taken the primitive mantle
+
+Although you have to read the graph's axis to figure out what the normalizer is
+
+Different geochemists will use different things in different contexts
+
+but the effect of doing that normalization is that we smooth out that odo
+
+-harkins effect and
+
+That makes it easier for us to compare between different rocks and different
+
+magma types
+
+So when we do this for mid-ocean ridge basalts and ocean island basalts, we see
+
+some distinctive differences starting to occur
+
+on these spider plots
+
+our mid-ocean ridge basalts have
+
+a positive
+
+ish gradient
+
+They're quite strongly depleted. That means they have relatively lower
+
+Concentrations in of the highly incompatible trace elements
+
+And they have lower concentrations of pretty much everything compared to our
+
+ocean island basalts
+
+Now our ocean island basalts have a steep negative gradient
+
+They're strongly enriched in these incompatible trace elements
+
+And they have slightly lower concentrations of the heavy rare earth elements
+
+And that's enriched and depleted i'm using in relative terms because if we look
+
+at the actual concentrations here
+
+Anything that's greater than one means that there's a higher concentration of
+
+this element in our sample
+
+Than there is in our normalizer, which in this case is the mantle. So all of
+
+these elements are behaving incompatibly
+
+They're all preferring to be in the melt
+
+But they're displaying different degrees of incompatibility that's giving rise
+
+to these different slopes in the spider plots
+
+Okay
+
+So we can now ask ourselves what process is causing this difference in the shape
+
+of the spider plots
+
+There are two possible explanations
+
+one is that we could be
+
+Doing something different with the melting process. We're starting with the same
+
+Starting ingredient and we're doing something different to it melting at a
+
+different pressure or a different temperature or to a different extent
+
+The second option is that we're not starting with a common source material
+
+Maybe the mantle itself is heterogeneous in its composition
+
+So how can we differentiate between these two scenarios?
+
+One of the ways that we could do this is by taking a rock a piece of mantle
+
+peridotite and
+
+Experimentally melting it in a laboratory and then measuring the composition of
+
+the trace elements in the melts that we produce
+
+So people have done this experiment
+
+And here are some example outputs so in green this is what you get if you melt
+
+peridotite by one percent
+
+blue five percent
+
+Purple ten percent red thirty percent and so on
+
+Now by definition all of these elements here are incompatible
+
+So they all go into the melt
+
+And the highly incompatible elements on the left go into the melt more strongly
+
+than those on the right
+
+And what we see that is as the partial melt fraction increases the degree of
+
+enrichment
+
+decreases
+
+So you can imagine that if you melt your rock by one percent all of the very
+
+strongly incompatible elements go straight into the melt
+
+And then as you add more fractions of melt to that what you're basically doing
+
+is
+
+Diluting the concentrations of those very highly incompatible elements in your
+
+melt
+
+So what we can see is that all of these different melt fractions produces
+
+lines with a negative slope
+
+And if we extended this to a hundred percent of melting we then just end up with
+
+a straight line
+
+Going through one all of the elements that were in our original solid are now in
+
+our melt
+
+By this melting process we can never change the slope of this line
+
+So that means we cannot make this difference
+
+in
+
+slope between the ocean
+
+oib and the morgue trace element signatures by just
+
+Doing something different in the melting process
+
+of a common mantle source
+
+If we have different mantle sources, we can explain this difference
+
+So
+
+Uh
+
+What we see particularly in ocean island basalts is this depletion in the heavy
+
+In heavy rare earth elements. This is because we're melting in the presence of
+
+garnet
+
+The garnet is holding on to our heavy rare earths
+
+And that gives you that kind of negative slope on the tail of the rare earth
+
+element plot
+
+Whereas mid-ocean ridge basalts
+
+are
+
+Pretty flat at that right hand end of the plot and instead we've got this
+
+depletion in the fairly incompatible elements
+
+So the take home here is that we need to have different mantle compositions
+
+To make these two different kinds of basalts
+
+And this makes geochemists wonder. Okay, how do you get this?
+
+so the question that geochemists ask is
+
+Do we have evidence for compositionally layered mantle? Let me set this up a
+
+little bit
+
+So
+
+The earth's mantle is convecting pretty slowly
+
+Otherwise, we wouldn't have mantle plumes
+
+But the question is is this is the mantle convecting in one single layer?
+
+Or do we have the upper mantle behaving in one way and the lower mantle behaving
+
+in another way?
+
+And people have looked at the compositions of mid-ocean ridge basalts and ocean
+
+island basalts and suggested
+
+Maybe mid-ocean ridge basalts are coming from the upper mantle
+
+So when we thin the lithosphere, we're not really doing anything about the lower
+
+mantle
+
+We're just allowing that upper portion of the mantle to undergo some passive
+
+adiabatic upwelling
+
+We can extract some melt
+
+And we get a particular composition
+
+Whereas in our ocean islands where we're increasing the mantle potential
+
+temperature
+
+We need a pretty robust convection cell to be able to do that
+
+Maybe that is bringing material out from the from the lower part of the mantle
+
+that hasn't previously
+
+undergone lots of melt extraction and that's giving us
+
+That's giving us a different magma composition
+
+One of the ways that we can look at this is by looking at the isotopic
+
+signatures of different
+
+magmas so
+
+melts of the depleted upper mantle have relatively
+
+low strontium isotopic signatures and high
+
+neodymium isotopic signatures
+
+Whereas if we compare that with the bulk silicate earth on this diagram that
+
+sits kind of in the cross in the middle
+
+Have you seen this kind of diagram before?
+
+I don't know if you have
+
+Anyway
+
+What it shows is that isotopically there are kind of what we might call
+
+different flavors of mantle
+
+Bulk silicate earth kind of represents the whole mantle
+
+everything
+
+Whereas the depleted upper mantle is just that upper part the upper kind of 600
+
+kilometers of the mantle
+
+And this is the bit that undergoes melting beneath mid-ocean ridges
+
+So
+
+If we melt something from the upper mantle
+
+We'd expect it to have a different isotopic signature than if we melt it from
+
+somewhere in the lower mantle
+
+So we can then take this hypothesis and go and measure the isotopic signatures
+
+of basalts from hawaii
+
+And basalts from mid-ocean ridges and see what happens and this is what we get
+
+so
+
+Focusing on this gray field here mid-ocean ridge basalts plot in the top left
+
+part of this isotopic plot
+
+In the same region as depleted morb mantle
+
+So mid-ocean ridge basalts have an isotopic signature that says yes
+
+These magmas are being produced by melting the shallow part of the upper mantle
+
+Whereas if we look at basalts produced in the
+
+Shield main shield stage of hawaiian volcanoes they plot
+
+Towards the bulk silicate earth
+
+They don't look like
+
+depleted morb mantle anymore
+
+So we must be able to sample material from deeper in the earth in order
+
+To move the isotopic composition of these erupted basalts from up here
+
+to down here
+
+And if we look at the alkali basalts that are erupted in the pre and the post
+
+shield stages of hawaiian volcanoes
+
+They're closer to the mid-ocean ridge basalt field
+
+But they're tipping a little bit towards bulk silicate earth
+
+So what could we envisage might be happening here?
+
+As our plume is moving our plate is moving over the plume stem
+
+The first bits of melting will be relatively shallow
+
+You'll be melting mostly in the depleted upper mantle field
+
+But the temperature anomaly allows some melt from deeper in the mantle to be
+
+mixed in with that magma
+
+as
+
+The plate moves directly over the plume stem
+
+Now most of our melting is happening much deeper in the earth and we're sampling
+
+mantle that has a composition much more similar to bulk
+
+silicate earth
+
+And then as the plate continues to move over the plume stem and things cool down
+
+again
+
+Our melting goes from being quite deep to being quite shallow again
+
+sampling more of the
+
+upper part of the mantle
+
+And then the melting will stop as the plate moves away from the plume stem
+
+So if we wanted then to go back to our exam answer and think about what are the
+
+types of melts being produced?
+
+If you wanted to really show off your knowledge
+
+You could then bring in a little bit of knowledge about the trace element
+
+signatures and the isotopic signatures of mid-ocean ridge basalts
+
+And ocean island basalts and say not only do we know that these are melting
+
+different kinds of peridotite
+
+But that this is affecting the trace and isotopic signatures of the basalts that
+
+are being produced
+
+So in the practical today, you've got some calculations that will work through
+
+some of this kind of thinking
+
+to do with the hawaiian mantle plume
+
+Again, if you handed in work last week to get feedback do make sure you come and
+
+get that from me
+
+I will stop talking there and we'll reconvene in g12 in 10 minutes. Thank you

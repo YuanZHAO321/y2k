@@ -1,0 +1,1579 @@
+---
+title: "EART26201 - 01-Dec-transcript"
+source: "Sophomore/Michaelmas Term/EART26201/Lecture/Week 9/EART26201 - 01-Dec-transcript.txt"
+type: transcript
+---
+
+'EART26201 - 01-Dec', automated transcript
+03/08/2026
+---
+
+Hello.
+
+Hello.
+
+Hello.
+
+How are you?
+
+I'm good.
+
+Hello.
+
+Hello.
+
+All right, hello.
+
+Okay. Um, afternoon everybody. Well done for making it to the rain. What I do is
+
+only five,
+
+ten, fifteen, twenty. A bit less than normal, so slightly higher chance of
+
+winning the quiz
+
+So hopefully you managed to get to a lab practical last week. This week we'll do
+
+the write-up for that, like you did two weeks ago.
+
+That was your last week doing lab chemistry, okay? So this week you're with me,
+
+and then next week we're just doing a class-based exercise on stabilizers.
+
+Okay, so that's the end of your hands-on chemistry experiments. Right, okay. Put
+
+this back up at the end if you haven't got it.
+
+So, today we're going to look at something called redox. So again, those of you
+
+who are geochemists will have seen some of this,
+
+but there's quite a lot more content than I covered in the other unit where I
+
+kind of touched on redox. So hopefully it'll be useful for all of you.
+
+So it's probably a concept you haven't come across unless you're a chemist. So
+
+we've talked quite a lot about pH and the effects of pH,
+
+and how we can measure pH and use pH in calculations and things, but there's
+
+another thing that quite often goes with pH in natural environments
+
+to essentially control what the fluids are really like, and that's something
+
+called EH or PE, and I'll come back to exactly what that is later.
+
+So diagrams like this are actually quite common, okay, these things called EH-PH
+
+diagrams.
+
+And this EH bit here is to do with this concept of redox, or reduction oxidation
+
+reaction.
+
+So today, I hope to just give you like a little inkling into what redox actually
+
+is.
+
+Okay, so a bit of a wordy slide to start with, but I can't really avoid it. So
+
+reactions that involve a change in oxidation state are called redox reactions.
+
+Okay, it's important for two, I guess two main reasons.
+
+The first is that the oxidation state quite often controls the mobility in
+
+fluids of a particular element.
+
+So I would say this several times today, think back to MANTOR and Fe ions in
+
+solution.
+
+You remember there was the idea of Fe2 plus ions and Fe3 plus ions, and some
+
+were in solution and some weren't in solution and precipitated.
+
+So the oxidation state is very, very important in determining mobility because
+
+it controls essentially the solubility.
+
+From a human point of view, it also controls the toxicity. So there's an example
+
+there of arsenic, arsenic 3 plus, so that's the charge on the arsenic ion.
+
+It's in reducing conditions and it's more toxic to humans than the oxidized 5
+
+plus ions as well.
+
+So both in terms of how these things get around in the near surface fluids and
+
+also how they affect humans, we need to understand something about those redox
+
+conditions and oxidation states.
+
+And it's something that's always changing. Redox conditions are always changing
+
+in fluids that are near the surface.
+
+And most of the near surface applied geochemistry environments that we think of,
+
+things like water quality, things like fluids flowing through landfill and
+
+leaking stuff out,
+
+organic pollutants, acid mines, even things like radioactive waste containment,
+
+all need you to understand redox because all of those processes react
+
+differently under different redox conditions.
+
+So it's kind of fundamental really to fluid geochemistry and applied
+
+geochemistry as a sub-product, I guess. So it's worth spending a session on it.
+
+And most elements actually show redox behavior. So major elements, things like
+
+carbon, sulfur, nitrogen, iron, they all show redox behavior.
+
+I'll say exactly what that is on the next slide. And most metals, minor elements
+
+and minor metals do as well.
+
+So all the nasty things like arsenic and lead and cadmium and mercury, all those
+
+things that are not good at the environment, have multiple oxidation states.
+
+Therefore, they behave very differently in fluids with different redox
+
+conditions.
+
+So what I actually mean by redox, redox state and oxidation state, at the
+
+Earth's surface, it does relate to oxygen.
+
+I think naturally most of us think oxidation is something to do with the
+
+reaction of the oxygen.
+
+And that's kind of true at the Earth's surface, but it's not a definition of
+
+what redox or oxidation is.
+
+Oxidation, from a chemistry point of view, is just loss of electrons.
+
+So oxidation is loss of electrons, reduction is the opposite that is gaining of
+
+electrons.
+
+And there's that oil rig acronym at the top. Remember that? That's the only
+
+thing you remember from today that will be useful for you.
+
+Oxidation is loss, reduction is gain.
+
+So then we have the idea of oxidizing agents, which do the opposite. They accept
+
+those electrons, but they themselves are reduced.
+
+So an oxidation state, or sometimes it's called an oxidation number, it's also
+
+called a redox state and sometimes even called a redox number.
+
+So it's one of those things that's got lots of names, but it's basically the
+
+charge that's on an iron within a molecule if you split that molecule up.
+
+So if you took a molecule with lots of atoms in it, it's the charge on those
+
+individual irons, it's the oxidation state.
+
+So anything that's just an element on its own, like oxygen in that example, is
+
+zero because all those electrons are shared equally between atoms of the same
+
+element.
+
+But as soon as you start having molecules with different atoms in them, then the
+
+individual atoms or irons have different oxidation states.
+
+Oxygen is almost always in this two minus state. So in something like sulfate,
+
+we've seen this before with sulfuric acid, you've got four oxygens there.
+
+Each of those with a charge, an oxidation state of two minus, so that's eight
+
+minus.
+
+Overall, this molecule has a charge of two minus, so the sulfur itself must have
+
+a plus six oxidation state in that particular molecule.
+
+Equal to total, it's got to add up to minus two. So you've got plus six on the
+
+sulfur, four times two on the oxygens.
+
+Hydrogen is always in the plus one state. So again, water is two minus there and
+
+then two hydrogens plus one.
+
+So that's what we mean by oxidation state. Different amount of electrons
+
+associated with a particular ion.
+
+And electrons don't exist on their own. You don't get electrons floating around
+
+in water. Otherwise, if you stuck your finger in, you'd get electrons, I guess,
+
+simplistically.
+
+So what actually happens with redox reactions is that you get these things
+
+called redox couples, or sometimes they're called redox pairs.
+
+Two elements, in this case two metals, where one is reduced and one is oxidized.
+
+So here we've got solid copper, so that's just got an oxidation state of zero,
+
+and then some zinc in solution with two plus oxidation state.
+
+And they can exchange, like any other reaction, it's an equilibrium reaction,
+
+and they can swap.
+
+So the copper can go from zero to plus two, and the zinc will therefore go from
+
+plus two to zero.
+
+So the oxidation half reaction, we talk about these things having half
+
+reactions, the oxidation half reaction is the copper going to two plus.
+
+So that's copper, zero, losing two electrons. Remember, oxidation is loss, so
+
+the oxidation part of that reaction.
+
+And then the zinc ions pick up those two electrons to turn into zinc with a
+
+charge of zero.
+
+And that's the reduction bit, because that zinc is gaining those two electrons.
+
+So when we do chemical equations and balance chemical equations, you should
+
+actually include this redox stuff as well.
+
+So if you think that's GCSE chemistry or A-level chemistry, you'll have
+
+definitely done how to balance an equation in terms of the different elements
+
+that are there, and so the numbers of moles are the same.
+
+But actually, you also need to make sure that everything else matches as well,
+
+so the charges balance as well.
+
+Otherwise, in the environment, you'd have situations where things will just
+
+naturally charge up, which isn't what happens.
+
+So you actually have to balance the stuff that's there and also the charges as
+
+well.
+
+So I just thought we'd step through an example of that just so you can see the
+
+stepwise processes that you use.
+
+So let's imagine we're oxidizing iron two plus.
+
+So again, think Mantoor. This is exactly what happened in Mantoor.
+
+Iron two plus oxidized to iron three plus, which then actually precipitates as
+
+iron hydroxide.
+
+So that is the oxidation step.
+
+And then the manganese four plus, which exists as MnO2, because remember, oxygen
+
+is always two minus.
+
+Therefore, the manganese in that is going to be plus four is reduced to
+
+manganese two plus.
+
+So the first thing we need to do is get the balance of those atoms up in this
+
+bit here.
+
+So we're just looking at the metal elements to start with.
+
+So we can write half reactions.
+
+Iron is oxidized, releases one electron.
+
+That's the oxidation step.
+
+Then the reduction step is manganese gains two, because manganese is starting
+
+off with a plus four charge and has to go to plus two.
+
+So there's an imbalance there that we have to sort out as a first step.
+
+So to make that step balance in terms of atoms and charge, we need to have two
+
+ions,
+
+because each of that oxidation step is only producing one, whereas we're using
+
+up two here.
+
+So we end up with two Fe two plus plus one.
+
+Mn four plus gives you an Mn two plus and two Fe three pluses.
+
+So the number of atoms balances, but also the charges on those atoms balances as
+
+well.
+
+But of course, this just doesn't happen in a vacuum.
+
+This happens in the natural environment, in water.
+
+Obviously, we've got, as you can see at the top, we've got oxygen and hydrogen
+
+within the molecules of these particular bits we're talking about.
+
+So the first thing we need to do is add water.
+
+OK, so we need to add water by balancing.
+
+We need to have water to balance the oxygens.
+
+So this is our oxidation half reaction again.
+
+But now we're actually showing directly what the iron turns into.
+
+The Fe two plus, two of them, which is worked out from here, becomes iron
+
+hydroxide.
+
+Two iron hydroxides.
+
+Within that, we've got three OH groups.
+
+So you've got three oxygens twice, because we've got two of that molecule.
+
+So two times three is six oxygens.
+
+So to balance the oxygens in that oxidation reaction, we need to have something
+
+that gives us six oxygens on the left hand side.
+
+And obviously we're using water because that's what's providing the oxygen.
+
+So we add six waters to the left hand side to balance the oxygens.
+
+We've also got six hydrogens on this side, so we've got three hydrogens here
+
+times two is six.
+
+But we've just added twelve hydrogens to the left side because there's two
+
+hydrogens in each water molecule.
+
+So to balance that, we have to add the right number H plus to the other side.
+
+So we've already got six H plus, eight hydrogens here.
+
+We've got twelve here, so we add six more H plus.
+
+So we're on this row here now, balance the hydrogens.
+
+We do that and then we look at the charges.
+
+We've got two times plus two is plus four on the left.
+
+And now we've got six plus on the right because we've added six hydrogens.
+
+So now we have to balance the charge as well. That's the final step.
+
+So after adding six hydrogens to the right hand side, we also have to add two
+
+electrons.
+
+And that's the order that you need to go through at the bottom there to get
+
+everything balanced in that half reaction.
+
+And you do the same thing for the reduction reaction.
+
+So we're starting off with manganese oxide here.
+
+We've got two oxygens here, so we know we need two waters.
+
+Two waters here contains four hydrogens, therefore we have to add four hydrogens
+
+to this side.
+
+If we do that, we have a charge imbalance. We've got four plus charges here,
+
+only two plus charges here.
+
+So we have to add two electrons.
+
+So it's exactly the same process as the oxidation step as well.
+
+And you can see now that there's some repeats of water and electrons and
+
+hydrogens.
+
+So if we add them together, so what we've done is just put everything on the
+
+left hand side here, everything on the right hand side here.
+
+There's repetitions of things on both sides of that reaction and you can just
+
+cancel those out.
+
+So if you cancel them out, that's what you end up with.
+
+So that now is the reaction that balances in terms of the atoms that are there,
+
+but it also balances charge-wise.
+
+So it's got plus four on the left, but it's got plus four on the right, so
+
+there's no charge change.
+
+And that's important when we're dealing with redox reactions.
+
+Right, we need that example.
+
+So how can we actually use this redox idea? How can we quantify it?
+
+Well, the first thing we need to do is understand what electrical potentials
+
+different elements have.
+
+So the way to do this in the lab is to set up a system like this, which has got
+
+two electrodes, a wire, a voltmeter and this thing called the salt bridge, which
+
+just connects it.
+
+So you've got a circuit that runs like that, or potentially this way as well.
+
+It can run in either direction.
+
+One of those electrodes is always hydrogen, so hydrogen is kind of like the
+
+standard that we begin with.
+
+SHE stands for standard hydrogen electrode.
+
+So everything is measured in terms of redox potential.
+
+Will it oxidize or will it reduce? Will it gain electrons or will it lose
+
+electrons relative to hydrogen?
+
+That's that kind of baseline.
+
+So the one electrode here has hydrogen gas and some kind of solution with A for
+
+activity.
+
+So concentration of H plus ions is one, so quite a concentrated acid, something
+
+like HCl.
+
+And then there'll be something else on the other electrode.
+
+So in this case, we've got zinc.
+
+We have a zinc solution, again with an activity of one, and then a zinc
+
+electrode, solid electrode here.
+
+And what will happen is that relative to hydrogen, the zinc will either get
+
+oxidized or reduced, depending on this thing called the redox potential that
+
+that particular element has.
+
+In zinc's example, and you can see it's drawn in terms of arrows on this diagram
+
+here, the zinc solid,
+
+so that's this black box here, will give up electrons and turn into zinc two
+
+plus ions.
+
+So essentially the zinc will go into solution and those electrons will go off
+
+around here and be measured directly as a voltage.
+
+So I guess you all understand that electricity is essentially flow of electrons.
+
+So if electrons are produced, you can actually measure that voltage.
+
+Those electrons then combine with H plus ions in solution.
+
+So the electrons are taken up by the hydrogen, so the hydrogen is reduced.
+
+Yeah, the zinc bit is oxidized, hydrogen is reduced.
+
+And actually, when you're doing it with zinc, you'll see bubbles forming here,
+
+which is hydrogen gas forming from the H plus ions that are in solution.
+
+So in that particular example, it goes kind of clockwise as you're looking at
+
+it, and zinc is being oxidized.
+
+So you can do that for every metal.
+
+OK, we're talking about metals here today.
+
+Every metal will either be oxidized or reduced relative to hydrogen, and that's
+
+what this table is here on the right.
+
+So that same experiment's been done for all these different elements.
+
+And to cut a long story short, if it's got a negative number, it means it's
+
+oxidized and the hydrogen gas is reduced.
+
+If it's got a positive voltage, it means that actually the metal itself would be
+
+reduced and the hydrogen would be oxidized.
+
+So what you end up with then is a table of voltages that tells you what the
+
+redox potential is of a particular element relative to hydrogen.
+
+So remember that. We'll come back to that in a minute.
+
+Oh, yes, this slide as well.
+
+So also, if you happen to have two particular electrodes, so get rid of the
+
+hydrogen one and put another metal on, you can actually work out what the
+
+voltage would be.
+
+OK, because it's just this example here is zinc and copper.
+
+So the zinc reaction is minus 0.76.
+
+The copper reaction is plus 0.34, so that's on the other side of zero, if you
+
+like.
+
+So the difference between those two is 1.1 volts.
+
+So actually, if you connected that with zinc and copper, you'd get 1.1 volts as
+
+a voltage.
+
+There's some extra words on these slides, but that's the gist of it.
+
+That's all you really need to know.
+
+So we have tables of different metals and how they oxidize or reduce.
+
+What do we do actually in nature? So how would we do it in the field?
+
+Well, usually we would take out something like this here, which is a handheld
+
+redox monitor.
+
+It says redox on it. Yeah.
+
+You take out handheld meters like this and within this white bulb on the end is
+
+a hydrogen electrode.
+
+So it's actually the same thing as we've just seen on that schematic, just
+
+crammed into that little bulb on the end.
+
+So one of your electrodes is hydrogen, as it is in those test cases with all the
+
+different metals.
+
+And then the other will be free to go directly into water.
+
+So if you dip it in water, it will measure some kind of voltage.
+
+And that voltage will be a function of everything that's in that water and how
+
+oxidizing that water is.
+
+It's either measured as something called EH or PE.
+
+And some books and some instruments will have it as an EH measurement, some will
+
+have it as a PE measurement.
+
+PE, you can think of the P being the same as pH, you can think of it as minus
+
+log of the concentration of electrons
+
+in the same way that pH is minus log of the concentration of hydrogen ions.
+
+It's a bit of a cheat, to be honest, because you don't have free electrons in
+
+the same way that you have free hydrogen ions in water.
+
+But for the level of chemistry that we are looking at, it's fine to just think
+
+of it as minus log of the concentration of electrons.
+
+And that's what we'll use in a calculation in a minute.
+
+So it has activity essentially in the water without having free electrons there.
+
+But the key point is that an aqueous solution will have one PE value.
+
+So natural water will have one PE value measured by that little probe.
+
+And we can use that voltage and compare that to the voltages in the tables,
+
+different production oxidation potential voltages,
+
+to work out the ratio of oxidized and reduced species of different elements
+
+within that water.
+
+And that's the whole point, right? Because as a geochemist, that's what we want
+
+to know.
+
+We want to know the oxidation state of different elements within that water.
+
+Don't learn this slide, this is just the conversion between the two.
+
+So, pH and PE are related, they're related via this thing called Faraday
+
+constant, such that PE is 16.9 times pH.
+
+So if you see one in one format and one in the other, one is just 16.9 times
+
+bigger than the other.
+
+That's all you have to worry about.
+
+But they mean the same thing, so high pH is the same as high PE, it means high
+
+oxidized potential.
+
+So, how can we do something quantitative?
+
+I always like to try and get some numbers out of the geochemistry.
+
+So how can we use an equation to calculate some oxidation states and redox
+
+states?
+
+Like a lot of things we do in this part of the course, it starts with an
+
+equilibrium constant.
+
+We've seen that before, we've used it in all sorts of ways.
+
+Step one is to get an equilibrium constant from that simplistic oxidation
+
+reduction reaction.
+
+So, oxidized form, electrons reduce form.
+
+Sorry, that should be an equilibrium sign, not an equal sign.
+
+But we can make an equilibrium constant, as we can for any reaction, in the
+
+normal way.
+
+So, products over reactants, if you've got a number before something, it becomes
+
+to the power of that in the equilibrium constant.
+
+Do not, please do not learn any of this.
+
+Don't even look at it, unless you really want to.
+
+But every year I have a slide with not all of this on it, and some people want
+
+to know how you get from one point to the other point.
+
+So I put it on, but please don't worry about it.
+
+All I want you to know is that you can get from here to here via rearranging and
+
+taking blocks.
+
+So the important point is that you get an equilibrium constant from an
+
+equilibrium constant.
+
+You get an equation called the Nernst equation.
+
+And the Nernst equation has got several bits in it.
+
+It has a P E, which is what you've measured naturally with your probe in the
+
+environment.
+
+It has a P E naught, so the naught there refers to a particular element.
+
+You would look that value up in that table that we looked at a couple of slides
+
+ago.
+
+And then it has a log term and a ratio of reduced to oxidised.
+
+So you can see that if you can find out these two numbers, you can actually
+
+calculate directly the proportion of reduced atoms or ions
+
+and the portion of oxidised atoms or ions for a particular element.
+
+We'll come back and look at an example in just a second.
+
+So it's kind of a summary then. If P E is low, then the solution is providing a
+
+source of electrons that's reducing.
+
+If P E is high, it is oxidised.
+
+As I've said several times, the P E is important for minimal solubility.
+
+So if you think back to Mantoor, I've just written down a few notes seeing as I
+
+keep saying it.
+
+We started off with iron two plus ions in solution at Mantoor.
+
+The groundwater came into contact with the atmosphere.
+
+If you think back, you have to walk up the hill with lots of dark grey weathered
+
+stuff.
+
+The water was mainly coming out of that rock face, contacting the air and
+
+oxidising to iron three plus ions,
+
+which then precipitated as that orange gunk that was at the top, which was iron
+
+hydroxide.
+
+That precipitation occurred because iron two plus is about 15 orders of
+
+magnitude higher solubility than iron three.
+
+It's not 15 times, 15 zeros.
+
+So billions and billions of times more soluble than iron three plus.
+
+That's an indication of how important P E or E H is in terms of solubility.
+
+So this happens a lot, this particular process.
+
+And actually, if you look at any slow moving string, you'll quite often see some
+
+orange gunk.
+
+Because there's lots of dissolved F E in water.
+
+And you'll quite often see this natural process of precipitation of iron
+
+hydroxide.
+
+Right, so let's have a quick look at an example.
+
+So let's say we wanted to know what form the copper was in, in a particular
+
+string that we've just measured.
+
+So copper can either be copper one plus or copper two plus.
+
+We took our probe and we measured the stream as an E H value of plus point two
+
+volts.
+
+And we know from that table that the copper half reaction, copper plus to copper
+
+two plus, has an E nought of point one six volts.
+
+So the first thing, even without doing a calculation, we'd say, is that that's a
+
+slightly more positive voltage than that.
+
+So actually, the water itself is slightly more oxidizing than that copper
+
+reaction.
+
+So instinctively, we would think you would expect the copper to be more in this
+
+state than the copper one plus state.
+
+Because the water is actually at a slightly higher oxidizing voltage than the
+
+reaction of copper one plus to copper two plus.
+
+But we can use the Nernst equation to actually do that.
+
+So first thing we need to do, because Nernst equation uses P E, is convert those
+
+two numbers into P E from E H.
+
+So we just multiply two voltages here by 16.9.
+
+We get 3.38, 2.7.
+
+And we just plug those numbers directly into the Nernst equation here.
+
+So this one's P nought, which is the copper one. P E is the actual measured
+
+stream value.
+
+And you get this term here.
+
+Subtract 2.7 from both sides, and you get 0.68 equals minus log of copper one
+
+plus over copper two plus.
+
+So if 0.68 is the minus log of that ratio, it's one of those rules of logs you
+
+just have to accept.
+
+The ratio itself is 1 over 10 to the power of 0.68.
+
+Just accept that that's how logs work.
+
+So you can go from this line here just by one of the log rules.
+
+One over 10 to the power of 0.68 is 0.21.
+
+So 0.21 is the ratio of one plus to two plus.
+
+So the majority of copper is in that two plus one.
+
+We said we knew that just from looking at these two numbers here, but this
+
+equation allows us to calculate that.
+
+Which is quite useful, because if it was arsenic, for example, it would tell us
+
+how many of those arsenic atoms are in the toxic state and how many are in the
+
+less toxic state.
+
+And you quite often see diagrams like this, so hopefully this makes a little bit
+
+more sense now.
+
+These are called P E P H or E H P H diagrams.
+
+P H on the x-axis, P E on this y-axis here.
+
+Sometimes they're called Pourbaix diagrams after a French guy called Marcel
+
+Pourbaix who first used them.
+
+And they take a little bit of explaining.
+
+They have an upper limit and a lower limit in terms of redox.
+
+So remember P E, the higher it is, the more oxidizing it is.
+
+So there's a line here beyond which you can't go in nature.
+
+So that line is defined as a pure oxygen atmosphere environment.
+
+So that's as oxidizing as you can get, right? Just pure oxygen.
+
+At the other end of the scale, we have a pure hydrogen atmosphere environment.
+
+You can't get more reducing than the opposite, which is pure hydrogen.
+
+And then things exist somewhere between those two.
+
+And these shaded regions here are regions where particular minerals are stable.
+
+So again, if you think back to Mantoor, Fe2 plus is what it was when it came out
+
+of the rock.
+
+We don't know what the P E value was, but the pH was quite acidic.
+
+Presumably it got more oxidizing as it was in contact with the atmosphere.
+
+So the fluid would have evolved in this kind of direction as it mixed with less
+
+acidic water.
+
+And it would have entered into the iron hydroxide field and therefore
+
+precipitated iron hydroxide.
+
+These calculations here just show you where you get these upper and lower bounds
+
+from.
+
+So these are the half reactions.
+
+We know that the hydrogen half reaction, oxidation reduction reaction has a P E
+
+of zero because that's our SHG, our defined starting point.
+
+Oxygen has a number of plus 20.7 relative to that.
+
+Plug those numbers into the Nernst equation.
+
+So this line here is just that Nernst equation written in one line.
+
+P E, P E naught minus log reduced over oxidized.
+
+If you multiply all that out, the P E naught is zero.
+
+So that's that bit there.
+
+Minus log of partial pressure of hydrogen, where we're saying that partial
+
+pressure of hydrogen is one.
+
+So one to the power of half is one.
+
+Log of one is zero.
+
+So that bit there is that zero.
+
+And then log of H plus is good old pH.
+
+We know what log of H plus is.
+
+So that's the pH here.
+
+So multiplying out that bracket there, log A over B equals log A minus log B.
+
+So that's why that dividing line disappears and it becomes minus pH at that
+
+point there.
+
+So therefore, if pH is zero, all of these bits are zero and P E is zero.
+
+So where pH is zero, P E is zero.
+
+Where pH is 14, P E is minus 14 because you're subtracting pH from that on the
+
+end there.
+
+Oxygen is exactly the same.
+
+It's just the starting point is 20.75 higher.
+
+So it's a parallelogram.
+
+It's exactly parallel that line to this one, but it's just offset by that 20.75.
+
+And if you plug the numbers in for the Earth's surface, so that 0.21 there is
+
+the 21% of oxygen in the atmosphere.
+
+It plots about there.
+
+Just inside a pure oxygen atmosphere.
+
+But it's more oxidizing than it is reducing, obviously, because the Earth's
+
+atmosphere has oxygen in it, no hydrogen in it.
+
+Right, what else have we got?
+
+Is that just kind of summarizing?
+
+Yeah, so it's a kind of intermediate summary point then.
+
+P E and pH are both really important variables.
+
+P E particularly determines the oxidation state.
+
+And both P E and pH determine the solubility and formation of oxides.
+
+Generally speaking, environments that are in the surface in contact with the
+
+atmosphere have higher P E.
+
+Because there is oxygen there to do the oxidation reactions.
+
+So higher P E tends to be rainwater, ocean streams.
+
+If you isolate that water from the surface, then you lower the P E and you have
+
+things like peat bogs, which are a bit more reducing.
+
+But generally speaking, surface waters are nearer that upper bound.
+
+So they're kind of up here rather than down here, because the Earth's surface is
+
+more like an oxidizing environment than a reducing.
+
+We've only talked so far about oxygen.
+
+But from our definition, the oxidation is just loss of electrons.
+
+It doesn't need to be oxygen.
+
+Anything that can either give up or take electrons can do that job of oxidizing.
+
+So at the surface, it tends to be oxygen.
+
+But as you go deeper, other elements can do it, particularly sulfur and iron,
+
+the agents of oxidation, if you like, as you go deeper into the subsurface.
+
+Yeah, so it's just kind of a summary diagram.
+
+So oxic waters then, these are the ones with dissolved oxygen, things like mine,
+
+rain, streams, I've just said.
+
+Reducing waters tend to be bog waters, water bog soils, things like that, where
+
+you don't have fresh oxygen supply into those waters.
+
+The pH is not as well defined as P E in that sense.
+
+The surface environments are here, deeper environments are here, but both can
+
+have either alkaline or acidic conditions.
+
+It just depends what else is present.
+
+So both at the surface and also deeper, if you have a lot of sulfur, think
+
+pyrite from Mantoor, it generates essentially sulfuric acid, quite acidic
+
+conditions.
+
+Equally, if you have rocks that can provide carbonate by carbonate ions, you're
+
+generating high alkalinity.
+
+If you think back to last week, that can make it more alkaline.
+
+So you still get the full range of pH, both at the subsurface and at the
+
+surface.
+
+A couple more slides, just looking at a couple of case studies, I guess.
+
+I don't talk very much about organic matter because I'm not an organic
+
+geochemist and plenty of people in the department are.
+
+So I kind of steer away from it.
+
+But something that we should just briefly look at is reactions oxidizing organic
+
+matter.
+
+So at the surface then, it's slightly acidic.
+
+We know all about carbonic acid, CO2 being produced and then reacting with water
+
+to give you carbonic acid.
+
+Typically, it's oxidizing acid at the surface and then, as we've just seen in
+
+the previous slide, trends to more reducing conditions as you go down.
+
+But it's only at the surface that oxygen is driving that oxidation process.
+
+You can see here, or I should say, so CH2O is just a simplification of organic
+
+matter.
+
+So wherever you see CH2O, that just means organic matter.
+
+But once you go into what we call anaerobic conditions, so no free oxygen, it
+
+becomes nitrogen that does the oxidizing.
+
+So it's the oxidizing agent, the process of denitrification as you go deeper
+
+still.
+
+Manganese, so we've got MnO2, so it's Manganese 4+, going to Manganese 2+.
+
+So Manganese is being reduced there, therefore organic matter is being oxidized.
+
+Deeper still, iron does the job, iron hydroxide, back into iron 2+.
+
+And then deeper still, it tends to be sulfur, but itself is reduced, but is the
+
+oxidizing agent.
+
+So you have this kind of sequence of different reduction reactions using
+
+different oxidizing and reducing agents.
+
+And then you also have what's called methanogenesis, which is just gas
+
+production directly from organic matter.
+
+But you can see that this is generally bacterially mediated.
+
+So all of these reactions, most reactions really of this nature of organic
+
+matter tend to have bacteria involved.
+
+As it gets deeper, there's less and less energy produced.
+
+So it gets harder and harder for things to live in the subsurface as you get
+
+deeper.
+
+And it also tends to be associated with higher hydrogen concentrations as well.
+
+So naturally it gets more reducing as you go further down.
+
+So natural systems like sediments tend to have these sort of steps, these
+
+different processes here in this order in a kind of layered sequence.
+
+If you're looking at something a bit more applied, like a landfill, it's a bit
+
+different because landfill doesn't have natural fluid flow.
+
+It tends to circulate oxygenated groundwater within it.
+
+So sometimes it ends up upside down.
+
+You kind of get methanogenesis near the surface and then flow of groundwater
+
+causes oxidation from oxygen at depth.
+
+But broadly speaking, that's the sequence that you'd expect.
+
+But it is, redox reactions are really important for what happens with bacteria
+
+and organic matter.
+
+If you're kind of like an ERG student, for example, redox reactions are also
+
+critical for understanding what happens in reservoir rocks.
+
+So this is the picture that we had right at the start.
+
+Hopefully it makes a little bit more sense because you have some idea of what an
+
+EHPH diagram is.
+
+What have we got here?
+
+So on the left we've got, there's two different photographs here.
+
+This split here.
+
+So this is like a cross section.
+
+So it's essentially looking at a wall of rock.
+
+It's almost horizontally layered carbonates, mainly carbonates.
+
+There's a crack here that's a fault, which is a conduit for fluid.
+
+Most of the rock is this kind of dark brown material.
+
+And then where the fault exists, you've got this lighter material here, which is
+
+called the bleached zone.
+
+Remember, we talk about rocks like this.
+
+So this is looking at kind of a rock surface in cross section.
+
+If you look at the surface expression, the fluids that travel up this fault come
+
+out like this.
+
+So they're bubbling, CO2 rich gas, which then also precipitate carbonates at the
+
+surface.
+
+And I've tried to match on the right here the colors on the EHPH diagram to the
+
+colors on the left.
+
+So the sort of brownie, I haven't done it perfectly, but the brownie colors
+
+here, the dark browns, are meant to be the hematite.
+
+And then this bleached lighter color is this anchorite dolomite carbonates.
+
+There's a little black square there.
+
+That shows you the compositions of the fluids.
+
+So they're slightly acidic, slightly reducing.
+
+The fluids from this system were directly sampled and measured.
+
+And they have EHPH values in that region there.
+
+And importantly, you can see that's kind of within the carbonate field where
+
+carbonate minerals are happy.
+
+Also pyrite as well, but not hematite.
+
+Hematite is not, this fluid is not compatible with a rock made out of hematite.
+
+Because the redox conditions are not, hematite is not stable in those redox
+
+conditions.
+
+So what happens is that the fluid flows through the rock and dissolves a lot of
+
+the hematite.
+
+It dissolves hematite and it re-precipitates some carbonate.
+
+I don't know if you can see it here, but it will also precipitate pyrite as
+
+well.
+
+Because that's the conditions under which the fluids will precipitate these
+
+minerals.
+
+So in this particular reservoir rock here, this is a place called Green River in
+
+the United States,
+
+hematite is actively dissolving and other minerals, pyrite and anchorite,
+
+dolomite, carbonate, are actively precipitating.
+
+So it's a dynamic system. It's not just water flowing through a rock.
+
+It's water flowing through a rock that's dissolving some minerals and
+
+precipitating other ones.
+
+And you can look at thin sections of this.
+
+So this is just a thin section across the boundary between the bleached zone and
+
+the unbleached zone.
+
+There's lots of secondary carbonates. There's some other bits and pieces of
+
+secondary oxides as well.
+
+But the key point is that at that contact between the bleached zone and the
+
+unbleached zone,
+
+the fluid reaction front, if you like, there's carbonates forming, but also
+
+trace metals are being precipitated as well.
+
+So there's just two of them shown here, cobalt and copper.
+
+You can see there's a big spike in cobalt and copper concentrations at the
+
+interface between the bleached zone and the unbleached zone.
+
+So where that fluid flow reaction front is.
+
+So two things are happening.
+
+One thing that's happening is that trace metals are being immobilized, being
+
+taken out of the solution and precipitated at that reaction front.
+
+And also carbonate rocks are being redeposited.
+
+So I don't know how many of you are ERG students, but this is kind of a really
+
+important thing for understanding what will happen to oil, gas,
+
+even things like carbon capture and storage, CO2 storage reservoirs.
+
+Because these redox fluids, depending on their EHPH values, can dissolve the
+
+reservoir rocks generally.
+
+But particularly in terms of reservoir preservation, they can dissolve the cap
+
+rock, the carbonate cap rock that we tend to have in reservoir systems like
+
+this.
+
+So it's important from that point of view, but it's also important potentially
+
+as a mechanism for removing harmful metals.
+
+So preventing harmful metal transport.
+
+And that kind of feeds back into some of the ideas about radioactive waste
+
+disposal and stopping those radioactive metals moving.
+
+So what I'm trying to say is there's lots of different areas of geoscience where
+
+redox or fluids really matters.
+
+So it is something we need to at least get a handle on.
+
+Right, I'll stop there.
+
+A couple of summary slides.
+
+We've got quick time for a quick quiz.
+
+If we're super quick about it, let's see if we've picked up anything.
+
+So we've walked through election nine, haven't we?
+
+Right, let's go.
+
+There is slightly less of you today, so we might all be able to go.
+
+Are we all in?
+
+Anyone else?
+
+We all there?
+
+Three, two, oh!
+
+One.
+
+Okay.
+
+Hopefully most of these are quite simple.
+
+Let's see.
+
+Oxidation is?
+
+It's the acronym.
+
+Do you remember the acronym?
+
+Yep, well most of you got it.
+
+Oxidation is lost electrons.
+
+Let's get through there.
+
+Neutral atom has what oxidation state?
+
+Very good?
+
+Okay.
+
+In carbonate, oxygen has what oxidation state?
+
+I might have said this early on.
+
+I probably did.
+
+Are we still waiting on someone?
+
+There we go.
+
+Yep, oxygen is almost always two minus oxidation state.
+
+Okay.
+
+Still early days.
+
+In carbonate, carbon has what oxidation state?
+
+I don't think I did say this earlier on, so you'll have to work that one out.
+
+Ooh, a bit harder that one.
+
+Yeah, so oxygen is two minus.
+
+We've got three of those, so the oxygen is six minus.
+
+But the overall charge is two minus, so the carbon must be plus four.
+
+Ooh, that's down again.
+
+And copper is?
+
+Copper two plus two electrons could be copper solid.
+
+So it's got to be either red or blue.
+
+Fifty-fifty.
+
+Yep.
+
+Who's the smart arse who picked it?
+
+All right, close at the top.
+
+Need three marks in it.
+
+Chemical equation is balanced when?
+
+Drive and point home, I think.
+
+Yay, hooray.
+
+Finally got more right.
+
+Ooh, and it was really quick from that one.
+
+Oxidation potential.
+
+Eh is measured relative to which element?
+
+I should all get that as well, really.
+
+Yeah, hydrogen, the standard hydrogen electrode.
+
+So it's hydrogen.
+
+Okay.
+
+Ten point me for hand still.
+
+Most equations used to...
+
+Oh, I don't know what this thing is going to ask.
+
+KK dissociation, quantify oxidation states, quantify number of electrons,
+
+predict pH.
+
+Somebody's still not decided.
+
+It's going to time out.
+
+Yeah, well that makes a bit of a right.
+
+A, those, the red one and the green one, that Henson-Hasselbal equation, if you
+
+remember.
+
+The other equation.
+
+So this one helps you quantify oxidation states.
+
+Hands back at the top.
+
+Three questions left.
+
+Which of these elements controls pH in subsurface?
+
+I might, maybe I should have worded that question better.
+
+Yeah, diesel three.
+
+I mean, I guess you don't get much, much oxygen in subsurface, but you still do
+
+get some.
+
+Two questions left.
+
+I'm exposed to the surface.
+
+Ground waters precipitate minerals primarily because of...
+
+Yeah, that's right.
+
+Most of you got that.
+
+Oxidation by oxygen as a gas.
+
+Okay.
+
+Down the nanoball.
+
+Okay, last question.
+
+Heat blogs tend to have four options there.
+
+High pH, low pH, low pH, high pH, high pH, low pH, low pH, low pH.
+
+Low pH.
+
+Not much in that diagram, so...
+
+Definitely low pH.
+
+Usually low pH.
+
+I'm really tired.
+
+Well done, B, but you don't get prize.
+
+Oh!
+
+Down J second. Who won that?
+
+Who's down the bell?
+
+Who's down the bell?
+
+Who won?
+
+Dan got the last question wrong, did he?
+
+You've got either double...
+
+Double drop round.
+
+I'm excited.
+
+Well done, everyone.
+
+See you Wednesday morning.
+
+Is this for seats?
+
+Yes.
+
+Get it back again.
+
+Thank you.
+
+Thank you. See you Wednesday.
+
+Don't worry about that.
+
+He wins every week.
+
+Yeah, exactly.
+
+You have won two.
+
+I will do, yes.
+
+I will, I...
+
+Yes, I'll try and do it sometime this week.
+
+I'll certainly do it before the end.
+
+And I'll...
+
+Yeah.
+
+Either in the lecture next week or in one of the practicums.
+
+I'll show you.

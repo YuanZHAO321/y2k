@@ -1,0 +1,1429 @@
+---
+title: "EART26201 - 17-Nov-transcript"
+source: "Sophomore/Michaelmas Term/EART26201/Lecture/Week 7/EART26201 - 17-Nov-transcript.txt"
+type: transcript
+---
+
+'EART26201 - 17-Nov', automated transcript
+03/08/2026
+---
+
+Right okay, so hopefully you all made it to a practical session last week. If
+
+you
+
+didn't it doesn't actually matter too much because as you'll probably be aware
+
+none of these practicals are assessed so there's no coursework mark who goes
+
+with
+
+it okay so if you didn't for whatever reason managed to get to a practical
+
+session last week you can borrow somebody else's data and still do the
+
+calculations so the pressure's off the only assessment is the one that you've
+
+either just done or are currently doing for for a map. Right okay so we'll do
+
+the
+
+same as last week then so we'll do about half an hour like that and then we'll
+
+do
+
+quiz just to see if any of it makes any sense at all and I might cough all the
+
+way
+
+through because I've got another cold. Okay so today we're going to look mainly
+
+at solubility I'll say a little bit about complexing because that's kind of
+
+the practical but most of what we'll talk about is solubility in aqueous
+
+solutions so I mentioned last time that the fluid is really important we need to
+
+do some fluid geochemistry because the certain parts of earth science it's
+
+critical and in general it's how matter is transported through the crust so
+
+this is putting a little bit more information on that really it's
+
+essentially the solubility of minerals and different ions in aqueous solutions
+
+but the masses so understanding solubility itself it's essential to
+
+getting a grip on fluid properties and how that relates to things like crystals
+
+growing, crystals dissolving and all those processes that are dependent on
+
+dissolution precipitation of different minerals in the earth's crust and also
+
+to some degree in the upper mantle as well. So we'll go through a few concepts
+
+essentially and we'll have some examples and calculations so you can see the
+
+sorts of things you can get out of textbook information and data that you
+
+get. So it's just a little cartoon we'll come back to what that cartoon
+
+means when we talk about complexing in a year. So I'll talk I might say the word
+
+salts during today when I say salt I don't mean salt salt I don't necessarily
+
+mean sodium chloride salt. Sodium chloride is a salt but there's actually a
+
+chemical definition of what a salt is and a salt is anything that has a cation
+
+it isn't hydrogen or an anion that isn't OH. So water isn't a salt because it's
+
+made up of H plus and OH minus but lots and lots of other things are. And it's
+
+generally
+
+salts that we talk about when we talk about this ability today. So dissolution
+
+of solid salts is generally a two-stage process the first step is a breakup of
+
+a crystalline ionic lattice and then bonding reactions with water molecules. So
+
+chemically it's just described like that you have a solid a solid salt which
+
+splits up into cations and pallions in solution and the AQ denotes the fact
+
+that those ions are in solution and this has to balance so where you have P
+
+amounts of B and N amounts of A that obviously is at the front of that letter
+
+because you can't gain or lose atoms. So this is kind of graphically what we're
+
+what we're talking about when we look at this little equation here over time
+
+then concentration of something B plus increases in solution. You can see that
+
+there's a period here of time that takes to get to that saturation point so
+
+everything we're going to talk about today is talking about equilibrium.
+
+Equilibrium is where you essentially achieve saturation. We're not going to
+
+talk about this bit this disequilibrium bit. Whenever I say anything about these
+
+sorts of calculations and the science we're doing today I won't mention that
+
+kinetically it may be favorable or unfavorable. So I'm assuming that we're
+
+always at this point we've always got to this equilibrium state here even though
+
+in real life it may take a reasonable amount of time to get from here to here.
+
+This sort of disequilibrium process. When we talk about solubility we think
+
+usually about
+
+moles per kilogram which is that from last week that molality with a small M
+
+or moles per litre with a big M. Sometimes you'll see solubility written
+
+as weights so in that case it will be grams per kilogram or even you might be
+
+more familiar with parts per million and parts per billion. They're easy to
+
+convert
+
+between the two of them so to go from moles to grams you just multiply it by
+
+what's called the gram formula weight there or you might think of it as
+
+molecular mass and vice versa if you want to go from grams back to moles you
+
+just divide by the molecular mass. So you'll see those two different units but
+
+they are
+
+interchangeable. It's convert by the molecular mass.
+
+Okay so first concept I want you to kind of get a handle on is the idea of
+
+solubility products. So last week we talked about K the equilibrium constant
+
+and we talked about it being products over reactants the general equilibrium
+
+constants. We talked about acids and bases being a special case where you
+
+had dissociated ions on the top and the undissociated acid or base on the
+
+bottom.
+
+This is kind of another special case of an equilibrium constant and it's
+
+something called the solubility product. So it's the same idea you start with a
+
+salt here and it dissociates into B plus and A minus and therefore solubility
+
+product is just the concentration of B to the power of whatever that number was
+
+for the equation. So that's exactly the same as the formula for the generalized
+
+equilibrium constant except you haven't got anything on the bottom. So remember
+
+the equilibrium constant had stuff on the top and stuff on the bottom. In this
+
+case we're just talking about dissolving this mineral. So on the bottom would be
+
+the solid and if you think about it the concentration of the solid is just a
+
+it's not a moles per litre or anything. It's either there or it's not. So it's
+
+irrelevant in that calculation. It's always just one essentially when you've
+
+got some solid present. So therefore the solubility product just reduces to that
+
+term there. I've just put a sentence in just to remind ourselves that although I
+
+keep talking about concentration and square brackets concentration what I
+
+really mean is activity. If you remember back to last week I said that in
+
+certain
+
+solutions you need to consider the concept that the apparent concentration
+
+is not quite the same as the real constant, the absolute concentration and
+
+this so therefore I'm really talking about that term activity. Like most
+
+things in in a fluid geochemistry solubility product is a function of
+
+temperature and pressure and pH. So when you find a number given for a
+
+particular mineral, a particular salt, it should be given at a particular
+
+temperature, pressure and pH. There's no hard fast rule but solubility products
+
+bigger than about 0.1 you can think of that as being quite soluble mineral
+
+less than 0.1 obviously less soluble it's a lot less than 0.1 it's really
+
+quite an insoluble mineral. So just qualitatively you can think you can get that
+
+information out of solubility product data. So here's an example this is
+
+gypsum, so calcium sulfate, hydrated calcium sulfate. When it dissolves in
+
+water you get calcium ions, sulfate ions and there's a couple of waters that
+
+join
+
+the rest of the water but the solubility product itself then is just calcium
+
+ions multiplied by sulfate ions gives you a value of 2.5 110 to the minus 5.
+
+That will be at
+
+standard temperature and pressure so 0 degrees C and then 1 and a sphere. You
+
+don't
+
+normally see units given for solubility products although in effect it is
+
+multiplied. So 2.5 10 to the minus 5 is the solubility product for gypsum which
+
+is quite a small number so without doing any calculations we can estimate
+
+that gypsum is not very soluble in water. But we can actually do a little
+
+calculation and work out how
+
+much gypsum will dissolve in water. So these top three bits the same
+
+information we've just gone through we have dissolution of gypsum with a Ksp of
+
+2.5 10 to the minus 5 here. We're assuming it's it's an ideal solution okay so
+
+assuming
+
+that there's no correction there. If we just say that X moles of gypsum dissolve
+
+then that will give us the same X moles of calcium and X moles of sulfate
+
+because one of those turns into one of those and one of those so it's no
+
+straight simple calculation. So if X moles of gypsum is dissolving then that's
+
+the
+
+same X in each of these two. So that one's the calcium one and that one's the
+
+sulfate one. Therefore the
+
+solubility product is actually X squared. We're thinking about it in terms of X.
+
+So if the
+
+solubility product itself is X squared then actually the solubility is just the
+
+square root of that value of the solubility product. And the square root of 2.51
+
+times 10 to the minus 5 is that number there 5 times 10 to the minus 3.
+
+So that's how many moles per litre, that's X, so that's how many moles per litre
+
+of gypsum
+
+that will dissolve. And you can convert that into an actual amount of gypsum
+
+just by
+
+multiplying it by the molecular mass, so that's the molecular mass of gypsum
+
+there, to give you
+
+0.9 grams in one litre of water. So 0.9 grams is not very much as it is with
+
+gypsum, so it's not
+
+very soluble. But we kind of knew that because we knew the solubility product is
+
+quite a small
+
+number, so therefore it's not likely to be very soluble. But you can just do a
+
+simple bit of algebra
+
+to actually calculate exactly how much gypsum you can dissolve in water. So
+
+that's kind of the simplest
+
+example. We'll look at a slightly more involved example here, but it's the same
+
+process. We're now
+
+talking about aluminium sulfate, which dissolves to give you, for every one
+
+aluminium sulfate
+
+molecule you've got, you generate two aluminiums and three sulfates because of
+
+this formula here.
+
+So the solubility product then is then the square of that and the cube of that.
+
+That's just the rules
+
+of equilibrium constants. And as a value, the solubility product for aluminium
+
+sulfate is 69.9,
+
+so that's, we said on the previous slide here, that more than 0.1 we think of as
+
+soluble. So that's,
+
+we already know that that's really quite a soluble number. We've got a big
+
+number like that. But we can
+
+again do a little bit of algebra to work out what the solubility is. So same
+
+process as last time.
+
+We'll say that X moles is the amount of aluminium sulfate that dissolves,
+
+therefore we're generating
+
+three times that amount of sulfate and twice that amount of aluminium 3+. Okay,
+
+so we've got 2X and
+
+2X and 3X and 3X and 3X. 2X because we've got 2 times aluminiums squared, so
+
+that's 2X times 2X.
+
+And then we've got three sulfates there, so it's 3X cubed. So the solubility
+
+product in terms of X
+
+then is written like that. If you multiply all those out, you get this strange
+
+term here,
+
+108X to the power of 5 must equal 69.9. That's our solubility product that we
+
+were given at the start.
+
+So if 108X to the power of 5 is 69.9, divide both sides by 108 and you get X to
+
+the power of 5
+
+equals 69.9 over 108. Therefore X itself must be to the power of 0.2. Okay, so
+
+you just invert that
+
+X to the power of 5. Have a best round of the calculator yourself and it gives
+
+you a value of 0.91
+
+4 sandwich of a hex. So again that's relatively simple algebra. Therefore twice
+
+that, 2X is the
+
+amount of aluminium, so 1.8 mL and 3X is the amount of sulfate, 2.7 mL. And if
+
+you want to work that
+
+out as a mass of aluminium sulfate, it's just that 0.9147 moles multiplied by
+
+342, which is the
+
+13 grams, 0.6 grams per litre, which is loads, right? 300 grams is like a big
+
+handful. So
+
+you can quantitatively work out exactly how much aluminium sulfate will dissolve
+
+in a litre of water
+
+from that 69.9 solubility product. Okay, so that's what a solubility product is.
+
+That's by definition solubility at saturation. That's the maximum amount that
+
+you can dissolve
+
+in water. So we're saying that solubility product equals saturation. However,
+
+that's just talking
+
+about an anion and a cation for a particular molecule. And obviously real life's
+
+not like that.
+
+We don't have natural waters that have exactly the right amount of a cation and
+
+exactly the
+
+right amount of an anion to give you a particular mineral with nothing left
+
+over. It's not what we
+
+call stoichiometric. Okay, i.e. the ratios of different cations and anions do
+
+not match
+
+a particular chemical formula here, interestingly. You will never see water
+
+that's got exactly the
+
+right amount of calcium and sulfate to just give you gypsum precipitation with
+
+nothing left over.
+
+So in real life, you have all sorts of cations and all sorts of anions.
+
+And we have to think, well, is this solution undersaturated, saturated, i.e. at
+
+that
+
+solubility product value or over or supersaturated with respect to particular
+
+minerals? And obviously
+
+there's all sorts of different minerals that you might be interested in
+
+precipitation from one fluid.
+
+So the alternative then is to work out something called the ion activity
+
+product. So the ion
+
+activity product is what you actually have in water. So to work it out, you just
+
+substitute the concentrations of particular dissolved ions
+
+into the little mass action. So that same, multiply the two concentrations
+
+together,
+
+ignore what's on the bottom. Again, we don't have anything, it's just a solid
+
+with an activity of
+
+one. And see what that IAP, that ion activity product, looks like compared to
+
+the solubility
+
+product for a particular mineral. So IAP, the ion activity product, is what you
+
+actually have
+
+in some real world water. Solubility product is just the conditions needed for
+
+saturation
+
+for a particular mineral. So let's look at an example, hopefully it will make a
+
+bit more sense.
+
+So last week we had a data table of Ganges River water amongst other things.
+
+And it had these concentrations. So the calcium concentration was 0.6 times 10
+
+to the minus 3
+
+small m's, that must be moles per kilogram, and sulfate 0.088 times 10 to the
+
+minus 3.
+
+So to get the ion activity product, all we do is multiply those two together,
+
+and you get this
+
+number here, I don't know why I've written that to 56, 5.6 times 10 to the minus
+
+8, which is much
+
+smaller than the solubility product. So remember, if the ion activity product is
+
+bigger
+
+than the solubility product, super saturated, if they're the same, it's at
+
+saturation,
+
+nothing happens. If the ion activity product is less than the solubility
+
+product, it's
+
+under saturated. If you had that solid present, it would dissolve. Sometimes in
+
+the book you'll
+
+see it called this term here, the mineral saturation, but it's just the
+
+relationship
+
+as a ratio between the ion activity product and the solubility product.
+
+As I said, I'm not going to talk about kinetics, just because something should
+
+dissolve or should
+
+precipitate doesn't necessarily mean it will, but in our context, we're just
+
+assuming these things
+
+do happen. Okay, so we've got Ganges River water then, that is clearly under
+
+saturated
+
+with respect to calcium sulfate and gypsum. So let's look at an example that's a
+
+fabricated one,
+
+so we can actually do a little calculation. So what if the water had higher
+
+concentrations
+
+of calcium sulfate? So let's say five times 10 to the minus two moles per litre
+
+of calcium
+
+and seven times 10 to the minus three moles per litre of sulfate. The question
+
+then is,
+
+will gypsum precipitate from groundwater containing those concentrations and if
+
+so, how much?
+
+So again, we do that same calculation, just multiply concentrations of those two
+
+things
+
+together, five times 10 to the minus two multiplied by seven times 10 to the
+
+minus three
+
+gives you that, 3.5 times 10 to the minus four. That is higher than the
+
+solubility product, so
+
+that means that that groundwater will precipitate some gypsum, so you will get
+
+gypsum form. The
+
+question is, can we work out how much? Obviously the answer is yes, we can. So
+
+if we make the
+
+assumption that X moles of gypsum is going to precipitate, we're saying that
+
+whatever we
+
+started with in terms of the amount of calcium, we're going to lose X from it
+
+because one calcium
+
+ion and one sulfate ion gives you one gypsum, so it's a nice simple one to one
+
+to one. So if we're
+
+making X moles of gypsum, we must lose that same X moles of calcium and also
+
+that same X moles of
+
+sulfate from whatever we started with. But we know that that precipitation will
+
+stop when the
+
+amount of calcium multiplied by the amount of sulfate is that 2.5 times 10 to
+
+the minus five
+
+value because that's the saturation point, it's the solubility product value. So
+
+what we have to do is
+
+work out what this X is such that if we subtract the same amount from this
+
+number and this number,
+
+the end of this number. So if we put that into the equation,
+
+we've got calcium bit, sulfate bit equals solubility product value here, turn it
+
+into quadratic,
+
+so expand out that brackets, you get this term here, which is a quadratic
+
+equation.
+
+And I think you do this in GCSE maths, don't you? I guess lots of you haven't
+
+done it for two or
+
+three years, you might vaguely remember it, but this calculation here allows you
+
+to solve quadratic
+
+equations and that's what we can use here. Okay, we just plug the numbers from
+
+this into this
+
+calculation here and you get two answers because you've got plus or minus, so
+
+depending on whether
+
+you choose plus or minus, you get two answers here. One is 5.06 times 10 to the
+
+minus two and
+
+6.43 times something minus three. That number is too big, that's bigger than
+
+what we started
+
+with in both of them, so that can't be right, so we have to use this other value
+
+here. So if we take
+
+that in terms of multiple liter away from what we started for the calcium and
+
+sulfate, we end up with
+
+these two new concentrations here, which if we look at the ratio of them,
+
+changes the composition
+
+of the fluid and this is kind of the point that this calculation just does. We
+
+can work out
+
+exactly how much gypsum precipitates, let's go back a sec, so we've worked out
+
+that x was 6.43
+
+times 10 to the minus three, multiply that by that molecular mass of gypsum
+
+gives you 1.11 grams
+
+gypsum precipitate. So you can quantitatively work out how much gypsum will
+
+precipitate from that
+
+water. But in a wider geological context, the important point is that the
+
+process of gypsum
+
+precipitation changes the ratio of calcium to sulfate that's left in solution.
+
+So before
+
+precipitation the calcium to sulfate ratio was about seven, afterwards it's
+
+about 70, so it's
+
+changed by a factor of 10. So when minerals precipitate for fluids, yes it does
+
+reduce the
+
+but it also changes the composition of that fluid and that's important because
+
+that's the
+
+process that drives the change in fluid compositions as it travels through the
+
+crust.
+
+There's one particular environment where this is particularly important and
+
+that's
+
+evaporate sequences, so where you have salts precipitating particularly places
+
+like deserts,
+
+you have what's called an evaporation effect and an evaporation path
+
+for precipitation. And this is, I wouldn't say particularly well understood,
+
+it's well defined
+
+because you see these precipitation evaporate sequences everywhere but the
+
+chemistry behind it
+
+is actually very complicated and far more complicated for people like me who
+
+aren't chemists.
+
+Okay so this is showing the ionic strength, remember the ionic strength from
+
+last
+
+week? Ionic strength on the y-axis with degree of evaporation on the x-axis here
+
+and you can
+
+see to start with it follows a straight line and you're just getting some
+
+gypsum precipitation as we've just calculated initially and that bit is fairly
+
+well understood
+
+and then at a certain ionic strength you get halite precipitation and that's
+
+relatively consistent straight line and to be honest that's very fairly well
+
+understood as well
+
+because we're at relatively low ionic strength but once you start getting up
+
+here you can see
+
+that there's no obvious trend the ionic strength kind of bounces around this bit
+
+of the line and
+
+this bit of the line here you can relatively easily calculate what's going on
+
+just from using
+
+the solubility data that we've just looked at things like the solubility
+
+products.
+
+Once you get up to here you have all sorts of strange effects because you have
+
+all these extra
+
+interactions between ions and now those solutions are no longer behaving in an
+
+ideal way. Okay so
+
+it gets really quite involved in terms of the chemistry the physical chemical
+
+processes that happen. Yeah so that's the first kind of part today I guess that
+
+the idea of
+
+solubility product and ion activity products how they relate to each other. The
+
+second concept I
+
+want to run past you today is this idea of the common ion effect. Okay so we've
+
+just said that
+
+natural waters have mixtures of all sorts of anions and cations and they're
+
+precipitating all
+
+different salts at the same time. What happens if you're in a situation where
+
+two different
+
+minerals want to use the same anion or the same cation? So let's consider a
+
+situation where
+
+we've got a solution that's saturated with respect to gypsum which we've just
+
+looked at
+
+calcium sulphate but also barium sulphate. So those are the two equilibria
+
+calcium sulphate, calcium ions and sulphate ions, barium sulphate, barium ions
+
+and sulphate ions.
+
+In red there is the common ion. Okay so what I mean by the word common ion same
+
+ion used in two
+
+different equilibria. So we can do a normal law of mass action application. So
+
+the solubility product
+
+for calcium sulphate is 2.5 times 10 to the minus 5 and the solubility product
+
+for barium
+
+sulphate is one times 10 to the minus 5. Because we're talking about the same
+
+fluid here the
+
+sulphate must be the same in both of those equations because it's the same same
+
+bit of
+
+water with the same sulphate dissolved in it. So if that's the case then you can
+
+cancel those
+
+two out and we're just looking at solubility products values themselves that
+
+then therefore
+
+reflects the calcium to barium ratio. So because that number is much bigger than
+
+that number
+
+calcium to barium ratio is actually 250,000 ish so that means there's 250,000
+
+times more calcium
+
+in that water at saturation than there is then there is barium. Okay so we can
+
+cheat a little
+
+just make the calculation simpler and say well the solubility of calcium
+
+sulphate is much much
+
+higher than barium sulphate yeah and when the sulphate is the same so we're
+
+saying the amount
+
+of calcium present is much much higher than the amount of barium present 250,000
+
+times higher
+
+therefore we can actually just think of the calcium concentration as we can
+
+ignore the
+
+barium and just think of the calcium concentration on its own as being the same
+
+as the sulphate.
+
+So what I mean by that is in this equilibrium here a little bit of the sulphate
+
+is going to be
+
+associated with barium but because only one part in 250,000 is barium actually
+
+for this calculation
+
+we can ignore that and just say the calcium is the same as the sulphate okay so
+
+the calcium is
+
+the same as the sulphate and the amount of calcium equals the amount of sulphate
+
+which is the square
+
+root of that which is from slide four five times ten to the minus three actually
+
+that's out by
+
+one part in 250,000 right because a little bit of that sulphate relates to
+
+barium but
+
+just for the example here we can ignore that so we said the amount of sulphate
+
+is five times
+
+ten to the minus three moles per unit we know that the barium multiplied by the
+
+sulphate must be one
+
+times ten to the minus ten because that's a solubility product therefore when
+
+you're in
+
+a situation where you've got fluids and saturated with respect to gypsum the
+
+amount of barium must
+
+be one times ten to the minus ten divided by five times ten to the minus three
+
+it's just a
+
+rearrangement of that and plugging five times ten to the minus three in there so
+
+where we have gypsum
+
+calcium and sulphate the barium ion concentration is two times ten to the minus
+
+eight it has to be
+
+because these are the only numbers that we've got to play with but if you've got
+
+no gypsum at all
+
+we're just looking at a solution separated from any gypsum so there's any barium
+
+and the associated
+
+sulphate present then the barium concentration must be one times ten to the
+
+minus five because
+
+in that situation it would just be the square root of that number as in the
+
+first example we
+
+did with the gypsum so what i'm trying to say in probably not a very clear way
+
+is that when we've
+
+got sulphate involved with both calcium and barium the solubility of the barium
+
+is suppressed by the
+
+presence of the calcium so when we have got gypsum the barium ion concentration
+
+is two times ten to
+
+the minus eight that saturation when we haven't got any gypsum it's one times
+
+ten to the minus
+
+five so it changes by a factor of 500 depending on whether you've got the fluids
+
+saturated with
+
+respect to gypsum what does that actually mean in in practice so if we actually
+
+had some solution
+
+then that was saturated with barium sulphate flowing through a rock and it
+
+contacted
+
+um gypsum minerals within that rock that fluid would be under saturated with
+
+respect to gypsum
+
+so the gypsum itself calcium sulphate would dissolve and increase the sulphate
+
+ion
+
+concentration in the water as soon as that starts to happen because we're saying
+
+that the barium is
+
+at saturation the solution will be supersaturated or oversaturated with respect
+
+to barium sulphate
+
+because you've now got too much sulphate coming from the gypsum in the solution
+
+the
+
+solubility product is the sulphate multiplied by the barium so if the sulphate
+
+goes up the barium
+
+concentration must go down to keep that number the same so if that's the case
+
+barite will then
+
+begin to precipitate at the same time as the gypsum is dissolved so the barite
+
+as we look
+
+at it happening in real life real time will replace the gypsum so that's what
+
+i've just
+
+been describing in those last two slides the concept of mineralization
+
+replacement i don't
+
+know if you've really thought about it if you've looked at thin sections and
+
+somebody's maybe
+
+mentioned that some mineral is a replacement of a different mineral sometimes
+
+you might have come
+
+across the idea of pseudomorphs where minerals have replaced other minerals but
+
+still got the
+
+shape of the original maybe you have maybe you haven't thought about why does
+
+that happen
+
+this is why that happens okay it's a chemical reason why you get replacement
+
+mineralization
+
+so that replacement will continue until that calcium barium ratio achieves what
+
+it needs to
+
+be for them to both be at saturation okay and this replacement mineralization is
+
+extremely
+
+common it's really really common in sulfates carbonates and sulfites all ore
+
+mineralogy
+
+involves replacement mineralization so those of you doing that pathway will
+
+consider this process
+
+quite a lot um yeah so as a general case then the introduction of common iron
+
+here sulfates
+
+will cause solution to be super saturated in the less soluble compound okay so
+
+the less soluble
+
+compound in this case the barium sulfate will always replace the more soluble
+
+one in this case
+
+the gypsum right last five minutes say a little bit about iron complexing
+
+because this is what
+
+we did in the practical hopefully um so fresh waters we call the meteorite
+
+waters tend to be
+
+quite dilute have quite a low ionic strength seawater has a higher ionic
+
+strength something
+
+like about 0.7 we had this term last week once you get to ionic strengths of
+
+something like
+
+seawater then you get all sorts of interactions between cations and anions and
+
+you get amongst
+
+other things something called complex ions or complex ion formation is
+
+essentially increases
+
+solubility of things but particularly metal ions metal cations it's a very
+
+efficient way
+
+of dissolving metal ions that perhaps otherwise wouldn't dissolve and moving
+
+them transporting
+
+them around the environment we have this this kn which is a definition of how
+
+well a complex
+
+forms so it's the the complex bit over the uncomplex bit i think kn will come up
+
+in the
+
+right time i'll explain what a ligand is in a minute
+
+but yeah so if that's a big number you have a very very efficient
+
+complexing process this is one of these areas of
+
+chemistry that you could go into a lot of detail about what we're not going to
+
+because again it
+
+can get very complicated but you can think of these three different ways of iron
+
+complexing as
+
+essentially being the bits that matter where you have relatively high
+
+concentrations of
+
+of different ions and solution even though they're not actually directly bonded
+
+they will still be
+
+attracted because they have opposite charges so it's quite weak not very stable
+
+but you get
+
+positive ions and negative ions of something like for example calcium sulfate
+
+although they've
+
+sort of recombine if you like and be attracted to each other because they still
+
+have that positive
+
+negative charge and that high ionic strength they get almost forced together
+
+a more common one perhaps is is the coordination complexes so this is where you
+
+have a centralized
+
+atom surrounded by a neutral species which is quite often water so yeah
+
+something like this
+
+okay so that's that's different to actually bonding with with OH for example
+
+within water
+
+this is saying that that metal ions with a reasonable charge density on that
+
+positive metal
+
+ion attract water molecules as a whole and then the one that you did in the
+
+practical and the one
+
+that's by far the most common that you see in the environment is this idea of
+
+chelation
+
+which is complexing between metal ions and either dissolved anions and in your
+
+case you had
+
+ammonia ions i think or as is often the case nature organic material so we use
+
+this term ligands or
+
+chelating agents for these large organic ions that attach to the metal
+
+essentially metal ions
+
+so that's what this example is on the right here right in the middle that is
+
+it's a uranium iron
+
+and then there's all this organic material attached to it
+
+this is the sorts of molecule the sorts of processes that you see in soils and
+
+plants
+
+organic environments um most metals i would say immobilize that way things like
+
+hemoglobin in your
+
+is the same thing okay so in the middle you've got an iron iron surrounded by
+
+complex organic
+
+ligands but it's quite a useful process industrially so we could use the the
+
+idea
+
+of complexing an iron complex ion formation to extract metals in ways that we
+
+otherwise
+
+wouldn't be able to so quite a niche one i guess is gold gold is very unreactive
+
+but if you flow
+
+cyanide ions bubble it through oxygenated water you can actually generate some
+
+you can oxidize
+
+gold into gold plus ions and this formation constant for this iron is very large
+
+so it
+
+very efficiently bonds to the cyanide ions okay and there's the formula given
+
+the equation given
+
+there you have to be a bit careful you don't make hydrogen cyanide gas which is
+
+poisonous
+
+but once you've got the gold in this form here it's relatively easy to either
+
+adsorb that one
+
+directly onto carbon or electroplate it with electrolysis but that's quite a
+
+quite a good way of extracting gold which is to say is it's not very reactive
+
+on a larger scale we have aluminium production so aluminium ore aluminium oxides
+
+are often found together with iron oxides to separate the two is not actually
+
+that that easy
+
+without complexing what you can do is add an alkali a base to generate this
+
+aluminium hydroxide
+
+iron in solution so that that's in solution iron three plus okay iron three iron
+
+if you see what
+
+um is not very soluble you think back to mantaure last year talked about iron
+
+oxides hydroxides iron
+
+three plus precipitating all that orange mud it's the same process here the iron
+
+does not
+
+form a complex so yeah the aluminium in complex the iron doesn't you can then
+
+filter out and
+
+precipitate the aluminium as aluminium hydroxide it does leave lots of this iron
+
+oxide
+
+material left behind called red mud here's an example where where the storage
+
+facility for all
+
+of this iron oxide failed hungry yeah hungry actually killed nine people you can
+
+see all this
+
+mud which is the waste left over from this process that's all the iron oxide has
+
+been
+
+separated for from the aluminium on industrial scales so there's just two
+
+examples of using
+
+complexes industrially to extract metals right i will stop there there's just a
+
+couple of summary
+
+slides not a lot to cover today really just the idea of solubility solubility
+
+products
+
+inactivity products and then this common iron effect so let's do a quick quiz
+
+have we got time
+
+yeah we've got 10 minutes time for a quick quiz uh the prizes today are i'll
+
+tell you in a minute
+
+start thinking we've gone for all aero today so you've either got mint aero
+
+bubbles or just
+
+you know not yeah chocolate matter just chocolate aero or mint aero
+
+if you needed some inspiration to join
+
+time we got so i think there's only 40 spaces so don't actually need to be quick
+
+on that maybe
+
+five 10 15 20 25 30 35 about 45 i think so
+
+you might have to work in pairs
+
+is that everyone we've got two spaces left i think
+
+okay we'll get started we've only got eight minutes
+
+okay the equilibrium constant varies with
+
+i've got your clicking noise but no music oh we have got music there we go
+
+brilliant except for one
+
+well that wasn't much of a differentiator was it
+
+okay t was quickest to the puzzle
+
+in a solution if you aren't activity product is great from solidity product
+
+the following occurs
+
+oh that seems like that was a bit of a 50-50 guess as a class from you
+
+the mineral precipitates from a fluid the following four ways
+
+i don't know what i wrote for this one change in color change in ph change in
+
+composition changing
+
+so some of these things will happen when you persist at things but
+
+only one only one of those i think will always happen
+
+yeah you're right it might but not always but it will always change composition
+
+is
+
+what is the rule for replacement mineralization more soluble replaces less
+
+soluble less soluble
+
+more soluble high density replaces lower lower density replaces higher oh yes
+
+again it's kind
+
+of like a 50-50 yes isn't it yeah the less soluble mineral will always replace
+
+the more soluble
+
+example we have is the barium sulfate not very soluble replacing gypsum which is
+
+very
+
+okay we have a new leader placement mineralization is observed in which
+
+geological setting
+
+you can only pick one it might be true in more than one but
+
+so
+
+yeah you're probably right it will be in some magnetic systems although they're
+
+quite primary
+
+so most of that is kind of initial precipitation all bodies are much more
+
+likely to have replacement mineralization
+
+right
+
+pore fluids sea water evaporate
+
+is it a trick question
+
+yeah let me pick four fluids on their own but yeah it is all three because all
+
+three have high
+
+ionic strength so they will probably have ion complexes
+
+okay or when still out in front ion complexing increases
+
+ph so we get the alkalinity or all three
+
+okay the dreaded all three is there again
+
+oh you're falling for it no
+
+it won't necessarily change these but it will change the solubility
+
+okay the whole point of ion complexing is that it increases the solubility of an
+
+iron
+
+all right didn't trick old one though
+
+okay so we've got two questions left
+
+complexing a high kn means oh you got the all three you got suckered into it
+
+last time
+
+people who really know is the weather to go for all three
+
+so in that case it is all three yeah
+
+high kn efficient complexing so that works really well the complexing presence
+
+removes the amount of metal ions that are free in solution
+
+but it increases their solubility because they're in the complex so the answer
+
+is all three
+
+Dan's catching up so this is the last question isn't it thank you final question
+
+fluids are important because they
+
+is it an all three or is it not an all three
+
+you lost all faith in all three
+
+it is all three yeah okay this is like so let's start
+
+this is why fluids are important all three of these reasons here
+
+um i will put the answers to these in in one of the folders on on the
+
+canvas by the way
+
+i put them all in the appropriate week folder somewhere
+
+uh down the stairs these seconds us us
+
+what does that mean all one there's one where's our one the regular the regular
+
+ones
+
+very sensible every second us us who's us
+
+oh well done good stuff okay so uh i'll see you Wednesday morning at nine o
+
+'clock
+
+in g12 g14 i'll do the the write-up of your experiments
+
+hello oh does somebody need the um
+
+i'll put it back up for you
+
+oh hang on so we change that to the other one there you go you need the seats
+
+home
+
+nobody claiming this no
+
+nobody wants somebody else's
+
+thank you thank you see you on wednesday
+
+see you it's all on wednesday everyone on wednesday yes just wednesday morning
+
+okay that's all we've got to do this week thank you thank you
+
+all right thank you
