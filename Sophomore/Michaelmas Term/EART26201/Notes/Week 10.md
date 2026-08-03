@@ -331,18 +331,16 @@ $$\Delta_{47} = \left(\frac{(47/44)_{\text{sample}}}{(47/44)_{\text{stochastic}}
 
 ### 2. 口头强调的重点与推导
 
-- **α 为什么"看起来没用"而 δ 好用**：α = 1.00xxx，几位小数很难记；δ 就是把它 ×1000，得到整数级别的 per mil。**per mil 符号 = 百分号再多一个 0**。
-- **1000·lnα 与 Δδ 可互换**："Thousand log alpha is essentially … dividing this back down from a thousand. So the delta difference … is essentially the same thing as thousand log alpha. You'll see them interchangeably on a y-axis of isotope charts."——这条是读图基本功。
+- **δ 的本质就是把 α ×1000**：α = 1.00xxx 小数难记，δ 得到整数级的 per mil；**per mil 符号 = 百分号再多一个 0**。
+- **1000·lnα 与 Δδ 可互换**（读图基本功）："the delta difference … is essentially the same thing as thousand log alpha. You'll see them interchangeably on a y-axis of isotope charts."
 - **SMOW 不是真海水**："It's not actually ocean water at all. It's actually a fabricated water with a specific composition, but it is very close to actually what present ocean water is."
 - **除 Li 外 δ 都按重同位素命名**——这个"冷知识"幻灯片上没有。
-- **氢分馏远大于氧的根本原因是相对质量差**（1/1 vs 2/16）。这道 quiz 题让不少同学答错："Gosh. Oh. Oh, interesting. Okay. Yes, it's because of the mass difference. That poxed a few of you."
-- **哪一步是平衡、哪一步是动力学**：**云 → 雨基本纯平衡**；**海面蒸发 = 平衡 + 动力学叠加**。这直接解释了 **GMWL 是平衡线，而海水略偏离它**。
-- **动力学分馏的三个控制变量**：湿度、温度、风速；**低湿度时最大**。
-- **锯齿曲线与米兰科维奇**：约 10 万年周期来自**偏心率与轨道变化**；有多个周期但 10 万年最显著。
-- **冰量效应的关键澄清**：变的**不是冰的同位素成分，而是冰的量**——"the actual composition of the ice stays broadly the same. It's just the amount of ice that changes. So it's kind of equally as light, but there's more of it. Therefore, it's the ocean."
-- **为什么必须用底栖有孔虫**："The ocean floor temperatures are pretty consistently the same everywhere, so it's a good place to collect forams."
+- **氢分馏远大于氧的根本原因是相对质量差**（1/1 vs 2/16）。这道 quiz 题让不少同学答错："That poxed a few of you."
+- **哪一步是平衡、哪一步是动力学**：**云→雨基本纯平衡**；**海面蒸发 = 平衡 + 动力学叠加**。这直接解释了 **GMWL 是平衡线，而海水略偏离它**。动力学分馏的三个控制变量：**湿度、温度、风速**，低湿度时最大。
+- **冰量效应的关键澄清**：变的**不是冰的同位素成分，而是冰的量**——"the actual composition of the ice stays broadly the same … it's kind of equally as light, but there's more of it. Therefore, it's the ocean."
+- **为什么必须用底栖有孔虫**："The ocean floor temperatures are pretty consistently the same everywhere."
 - **"两个过程，只有一个测量值"** 是整堂课的核心矛盾表述："we've got two processes and only one measurement." 孔隙流体与团簇同位素就是两条破解路径。
-- **团簇同位素的测量要点**：**绝对不能把分子拆成单个原子**——"we don't want to split this up into individual atoms … because we lose the key bit of information."必须以 CO₂ 分子整体测 47/44。
+- **团簇同位素测量要点**：**绝不能把分子拆成单个原子**——"we don't want to split this up into individual atoms … because we lose the key bit of information."必须以 CO₂ 分子整体测 47/44。
 - **课堂现场的近似算术**（值得学会）：老师看着分馏图口算——"the whole thing is 100 down to 20. Roughly 80 degrees C and 15 per mil roughly top to bottom. So you put those two numbers in, 0.75 per mil change, assuming that's a straight line, which it almost is, gives you a value of about 4 degrees C."
 
 ### 3. 随堂 Quiz 逐题（`lecture 10 quiz answers 2025.md` + 转写核对）
@@ -520,29 +518,17 @@ $$f = e^{-0.06757} = \mathbf{0.9347}$$
 
 > ⚠️ 以下条目**不是本周材料的内容**，是我为期末复习整合的全课回顾，来源为各周讲义标题与关键词。细节以各周原讲义为准。
 
-| 周次 | 英文 | 中文 | 一句话 |
-|---|---|---|---|
-| W1 | major / minor / trace element | 主量 / 次量 / 微量元素 | >1 wt.% / 0.1–1 wt.% / <0.1 wt.% |
-| W1 | partitioning, partition coefficient (D) | 元素分配、分配系数 | 相容（D>1）与不相容（D<1） |
-| W1 | chemical differentiation | 化学分异 | 行星尺度的元素再分配 |
-| W2 | decay constant (λ), half-life | 衰变常数、半衰期 | 放射性定年的基础 |
-| W2 | isochron | 等时线 | 母/稳定 vs 子/稳定 作图，斜率给年龄、截距给初始比值 |
-| W2 | model age, depleted mantle | 模式年龄、亏损地幔 | Nd 同位素演化图 |
-| W3 | equilibrium, Gibbs free energy | 平衡、吉布斯自由能 | 系统组成不随时间变化 |
-| W3 | phase diagram, phase rule | 相图、相律 | P–T–X 空间的稳定域 |
-| W4 | partial melting, fractional crystallisation | 部分熔融、分离结晶 | 相图的岩浆系统应用 |
-| W4 | solid solution (e.g. X_An) | 固溶体（如斜长石钙长石分数） | 成分随温度连续变化 |
-| W5 | kinetics vs thermodynamics | 动力学 vs 热力学 | "能不能" vs "多快" |
-| W5 | diffusion, activation energy | 扩散、活化能 | 扩散剖面反演时间尺度 |
-| W6 | solvent, ion, activity | 溶剂、离子、活度 | 流体地球化学开篇 |
-| W7 | solubility product (K_sp), IAP | 溶度积、离子活度积 | IAP<K_sp 欠饱和，>K_sp 过饱和 |
-| W7 | complexing, common ion effect | 络合、同离子效应 | 金属迁移机制 |
-| W8 | acidity / alkalinity | 酸度 / 碱度 | 给质子能力 / 接受质子能力 |
-| W8 | pKa, buffering | 酸解离常数负对数、缓冲 | 强度 ≠ 浓度 |
-| W9 | oxidation state, OIL RIG | 氧化态 | 失电子氧化、得电子还原 |
-| W9 | pE / Eh, Nernst equation | pE / Eh、能斯特方程 | pE = 16.9 Eh |
-| W9 | pE–pH diagram | pE–pH 图 | 判别元素赋存形态（如 Fe、Mn、As） |
-| W10 | δ, α, Rayleigh, ice volume effect, Δ47 | 见上表 A | 全课收尾 |
+| 周次 | 英文 → 中文 | 一句话 |
+|---|---|---|
+| W1 | major / minor / trace element → 主量 / 次量 / 微量元素；partitioning, partition coefficient (D) → 元素分配、分配系数；chemical differentiation → 化学分异 | >1 / 0.1–1 / <0.1 wt.%；相容 D>1、不相容 D<1 |
+| W2 | decay constant (λ), half-life → 衰变常数、半衰期；isochron → 等时线；model age, depleted mantle → 模式年龄、亏损地幔 | 等时线斜率给年龄、截距给初始比值 |
+| W3 | equilibrium, Gibbs free energy → 平衡、吉布斯自由能；phase diagram, phase rule → 相图、相律 | P–T–X 空间的稳定域 |
+| W4 | partial melting, fractional crystallisation → 部分熔融、分离结晶；solid solution (X_An) → 固溶体 | 相图的岩浆系统应用 |
+| W5 | diffusion, activation energy → 扩散、活化能 | 热力学"能不能" vs 动力学"多快"；扩散剖面反演时间尺度 |
+| W6–W7 | activity → 活度；solubility product (K_sp), IAP → 溶度积、离子活度积；complexing, common ion effect → 络合、同离子效应 | IAP < K_sp 欠饱和，> K_sp 过饱和 |
+| W8 | acidity / alkalinity → 酸度 / 碱度；pKa, buffering → pKa、缓冲 | 给质子 / 接受质子能力；强度 ≠ 浓度 |
+| W9 | oxidation state (OIL RIG) → 氧化态；pE / Eh, Nernst equation → 能斯特方程；pE–pH diagram | pE = 16.9 Eh；判别 Fe、Mn、As 赋存形态 |
+| W10 | δ, α, Rayleigh, ice volume effect, Δ47 | 见上表 A |
 
 ---
 

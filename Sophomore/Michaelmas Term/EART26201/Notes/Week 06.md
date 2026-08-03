@@ -376,7 +376,7 @@ pKa = 9.3（室温）；A⁻ 为**粉红色**，HA 为**无色**。
 | (20) | (15) | 2.5（示例） | 113.5（示例） |
 | (20) | (10) | 待测 | 待测 |
 
-⚠️ 表中两行是**印好的示例数据**（推测为设备／课程提供），其余需自己测。示例数据的总体积与"稀释到 100 ml 后滴定"不自洽，见勘误第 12 条。但示例数据本身在斜率上是自洽的：log(10.6/2.5)/log(30/15) = 0.627/0.301 = **2.08**，已经暗示 n ≈ 2。
+⚠️ 中间两行是**讲义印好的示例数据**，其余需自己测。示例的总体积与"稀释到 100 ml 后滴定"不自洽（见勘误 18），但斜率是自洽的：log(10.6/2.5)/log(30/15) = 0.627/0.301 = **2.08**，已暗示 n ≈ 2。
 
 #### 7. 数据处理（讲义要求）
 
@@ -392,16 +392,16 @@ pKa = 9.3（室温）；A⁻ 为**粉红色**，HA 为**无色**。
 
 #### 8. 预期结果
 
-📎 背景补充（讲义未直接给出答案，以下为标准化学知识与量纲检查）：**主导物种应为二氨合银(I)离子 Ag(NH₃)₂⁺**，即 **n = 2**，最佳拟合直线斜率应接近 2。这也是照相定影液（"海波"体系）与银氨溶液（Tollens 试剂）中的标准物种。代入一组典型数据（40 ml NH₃ → 0.08 mol；KBr 6.7 ml → 1.34×10⁻⁴ mol；AgNO₃ 2×10⁻⁴ mol）可得 **Kn ≈ 8 × 10⁶**，量级上合理——说明银与氨的络合能力很强。
+📎 背景补充（讲义未给答案，以下为标准化学知识 + 量纲检查）：**主导物种应为二氨合银(I)离子 Ag(NH₃)₂⁺**，即 **n = 2**，拟合直线斜率应接近 2。代入一组典型数据（NH₃ 0.08 mol；KBr 6.7 ml → 1.34×10⁻⁴ mol；AgNO₃ 2×10⁻⁴ mol）得 **Kn ≈ 8 × 10⁶**，量级合理——银与氨的络合能力很强。
 
-**第 5 题的答题方向** 📎：越过终点后溶液持续变浑，说明体系中已经析出**大量固体 AgBr**，反应不再处于"AgBr 刚开始沉淀"的临界平衡状态；此时 **AgBr(s) ⇌ Ag⁺ + Br⁻ 及 Ksp = [Ag⁺][Br⁻] 这一步失效**——多加的 Br⁻ 不再通过 Ksp 对应溶液中剩余的 Ag⁺，而是直接进了沉淀，于是"moles KBr"不再是终点时的平衡量，整条推导链断裂。
+**第 5 题答题方向** 📎：越过终点后溶液持续变浑，说明已析出**大量固体 AgBr**，体系不再处于"刚开始沉淀"的临界平衡；此时 **AgBr(s) ⇌ Ag⁺ + Br⁻ 及其 Ksp 关系失效**——多加的 Br⁻ 直接进了沉淀而不再通过 Ksp 对应溶液中剩余的 Ag⁺，"moles KBr"不再是终点平衡量，整条推导链断裂。
 
 #### 9. 安全注意事项
 
-- **氨水必须在通风橱中取用**——氨蒸气强烈刺激呼吸道和眼睛（讲义明确要求 2 M NH₃ 从 fume cupboard 的大烧杯取）。
-- **硝酸银具腐蚀性，会把皮肤和衣物染成永久的黑褐色**（📎 背景补充：AgNO₃ 遇皮肤蛋白质光解为单质银）。全程戴手套、护目镜、穿实验服。
-- **AgBr 废液严禁倒入下水道**，必须倒进通风橱内的指定收集烧杯（讲义用大写强调：DO NOT dispose of the SILVER BROMIDE down the sink）——既是重金属污染问题，也是银的回收问题。
-- 使用滴定管前先润洗、排气泡；粗滴定先摸底可减少试剂浪费和终点冲过头。
+- **氨水必须在通风橱（fume cupboard）中取用**——氨蒸气强烈刺激呼吸道和眼睛。
+- **硝酸银具腐蚀性，会把皮肤和衣物染成永久黑褐色**（📎 AgNO₃ 遇皮肤蛋白质光解为单质银）。全程戴手套、护目镜、穿实验服。
+- **AgBr 废液严禁倒入下水道**（讲义大写强调 DO NOT dispose of the SILVER BROMIDE down the sink），必须倒进通风橱内的指定收集烧杯——既是重金属污染，也涉及银的回收。
+- 滴定管使用前先润洗、排气泡；先做粗滴定可减少试剂浪费与冲过终点。
 - **课前必须完成 Section 3 的危险步骤识别**，有疑问先问 supervisor 再操作。
 
 ---
@@ -490,15 +490,14 @@ pKa = 9.3（室温）；A⁻ 为**粉红色**，HA 为**无色**。
 | 5. 同上，"Relationship between ionic strength (I) and activity" | "Ganges river water (I = 0.0034) **the activity of Ca²⁺ is 0.80** and in seawater (I = 0.685) it is about 0.26" | 0.80 与 0.26 是**活度系数 γ**（无量纲），不是**活度 a**。活度 a = γm，量纲是 mol/kg，恒河 Ca²⁺ 的活度应约 0.8 × 6.34×10⁻⁴ = 5.1×10⁻⁴ mol/kg | 应写 "the **activity coefficient** of Ca²⁺ is 0.80"。转写中老师口述"effective concentration … 20% less"是对的 |
 | 6. 同上，"Ionic strength" 与 "Relationship…" 两页 | 一处写 "Seawater has an ionic strength of **0.7** mol/Kg"，另一处写 "seawater (I = **0.685**)" | 同一材料内两个数值不一致 | 二者不矛盾（0.7 是 0.685 的取整），但计算题请统一用 **I = 0.685 mol/kg** |
 | 7. 同上，"Activity Coefficient" 页 | "**Values of γ are <1** which means the effective concentration … is less than their actual concentration" | 过度概括。在 I ≳ 0.5 mol/kg 的浓盐水中，因"盐析效应"（离子把自由水分子占用），许多离子的 γ 会回升并**超过 1** | 应表述为"在天然水常见的离子强度范围内 γ 通常 < 1"。油田卤水（I ~3.4）就是 γ > 1 的典型场景，而讲义自己提到了油田卤水 |
-| 8. 同上，Ca²⁺ molality 算例 | "grams of Ca²⁺ = **25.4/1000** = 0.0254 g/L … = 0.634 × 10⁻³ **mol/kg**（electrons have no mass）" | ①25.4 的单位未标（由除以 1000 反推应为 **mg/L**）；②起算单位是 g/**L**（molarity），结果却标 mol/**kg**（molality），二者被默认等同而未说明；③"electrons have no mass" 表述错误——电子有质量，只是可忽略 | 应写 "Ca²⁺ = 25.4 **mg/L**"；并注明"稀水溶液中 1 L ≈ 1 kg，故 M ≈ m"；括注应为"电子质量可忽略不计"。计算本身正确：0.0254 / 40.08 = 6.34 × 10⁻⁴ |
+| 8. 同上，Ca²⁺ molality 算例 | "grams of Ca²⁺ = **25.4/1000** = 0.0254 g/L … = 0.634 × 10⁻³ **mol/kg**（electrons have no mass）" | ①25.4 的单位未标（反推应为 **mg/L**）；②起算是 g/**L**，结果却标 mol/**kg**，M 与 m 被默认等同而未说明；③"electrons have no mass" 说法错误——电子有质量，只是可忽略 | 应写 "25.4 **mg/L**"，并注明"稀水溶液中 1 L ≈ 1 kg，故 M ≈ m"；括注改为"电子质量可忽略"。计算本身正确：0.0254/40.08 = 6.34 × 10⁻⁴ |
 | 9. 同上，"Acid-Base properties of minerals" | "2KAlSi₃O₈ + 2H₂O → Al₂Si₂O₅(OH)₄ + 2OH⁻ + 2K⁺" | **未配平**：左侧 Si = 6、O = 18，右侧 Si = 2、O = 11，缺失 4 个 Si 和大量 O、H | 常用的正长石→高岭石水解式为 **2KAlSi₃O₈ + 2H⁺ + 9H₂O → Al₂Si₂O₅(OH)₄ + 4H₄SiO₄ + 2K⁺**（消耗 H⁺、故升高 pH）。同页的橄榄石式、方解石式、jarosite 式经核算**均已配平，无误** |
 | 10. 同上，"Summary - 2" 最后一条 | "Most minerals are the salts of a **strong acid and weak base**" | **方向写反**，且与同一份讲义"most minerals react with water to raise the pH"自相矛盾。强酸弱碱盐水解显**酸性**（那是 jarosite 的情形），能使水偏碱的是**弱酸强碱盐** | 应为 "Most minerals are the salts of a **weak acid and a strong base**"（如 CaCO₃ = 弱酸 H₂CO₃ + 强碱 Ca(OH)₂；硅酸盐 = 极弱酸 H₄SiO₄ + 碱金属／碱土金属强碱），水解产 OH⁻ |
-| 11. 同上，"Basic revision" 页 | "1 amu = … = **1 66043 x 10⁻²⁴** g" | 小数点在 PDF 转换中丢失 | 应为 **1.66043 × 10⁻²⁴ g** |
-| 12. 同上，"Basic revision" 页 | "1 mole = **6.02252 × 10²³**" | 该值为 2019 年 SI 改制前的旧测量值 | 现行 SI **定义值为 6.02214076 × 10²³ /mol**。差异 < 0.01%，不影响本课计算，但引用时宜用现行值 |
-| 13. `lecture 6 quiz answers 2024.md` — 全文件 | 文件名即 "**2024**"，且首行注明"图片 OCR、识别质量低" | 本周讲义与转写是 **2025 版**，题目顺序与措辞已不同；OCR 把选项、对错勾叉几乎全部打乱（如 "x « x x ff x x x < ff" 一类乱码），**无法据此判定正确选项** | **一律以 2025 讲义与转写为准。** 由转写还原的 2025 版答案见「四、课堂补充 §4」 |
-| 14. `lecture 6 quiz answers 2024.md` — Slide 3 "7- Quiz" | "The log of **V** is" | OCR 把数字 "1" 认成字母 "V" | 应为 "**The log of 1 is**"，答案 **0**（转写："What is the log of 1? … It was either 0 or 10. Yes."） |
-| 15. `lecture 6 quiz answers 2024.md` — Slide 2 "5- Quiz" 与 Slide 3 编号 | Slide 2 给出 Q4、Q5；Slide 3 直接跳到 Q7 | **Q6 整题在 OCR 中缺失**；且 2024 版把"Water releases H⁺ …"编为 Q5，而 2025 转写的顺序是 Q5 =「水解离成什么」、Q6 =「水释放 H⁺ 会怎样」 | 缺失题按转写补：**水会轻微自解离成 H⁺ 与 OH⁻**；**水释放 H⁺ 会降低 pH**（转写明确纠正了多数人的错答） |
-| 16. `EART26201 - 10-Nov-transcript.md` — 全文 | ASR 误听多处：`amol`（= a mole）、`one oil carbon has mass of`（= one mole of carbon）、`one liter of blood`（= one litre **flask**）、`Miseratec`（= the **Misra** text）、`phenol failing`（= **phenolphthalein**）、`a minus 2Ha`（= **A⁻ to HA**）、`kaO`（= **Ka**）、`Romant`（= 另一位讲师姓名）、`Seats code`（= **Kahoot** code）、`pH equals pKa plus the log of A minus over H`（= over **HA**） | 自动转写的识别错误，非授课内容错误 | 阅读转写时按上表还原即可；本笔记正文已按还原后的意思引用 |
+| 11. 同上，"Basic revision" 页 | "1 amu = … = **1 66043 x 10⁻²⁴** g"；"1 mole = **6.02252 × 10²³**" | ①小数点在 PDF 转换中丢失；②Avogadro 用的是 2019 年 SI 改制前的旧测量值 | ①应为 **1.66043 × 10⁻²⁴ g**；②现行 SI **定义值 6.02214076 × 10²³ /mol**（差异 < 0.01%，不影响本课计算） |
+| 12. `lecture 6 quiz answers 2024.md` — 全文件 | 文件名即 "**2024**"，首行注明"图片 OCR、识别质量低" | 本周讲义与转写是 **2025 版**，题序与措辞已不同；OCR 把选项与对错勾叉几乎全部打乱（如 "x « x x ff x x x < ff"），**无法据此判定正确选项** | **一律以 2025 讲义与转写为准**；由转写还原的 2025 版答案见「四、课堂补充 §4」 |
+| 13. 同上 — Slide 3 "7- Quiz" | "The log of **V** is" | OCR 把数字 "1" 认成字母 "V" | 应为 "**The log of 1 is**"，答案 **0**（转写："What is the log of 1? … It was either 0 or 10. Yes."） |
+| 14. 同上 — Slide 2 与 Slide 3 的题号 | Slide 2 给出 Q4、Q5；Slide 3 直接跳到 Q7 | **Q6 整题在 OCR 中缺失**；且 2024 版把"Water releases H⁺ …"编为 Q5，而 2025 转写的顺序是 Q5 =「水解离成什么」、Q6 =「水释放 H⁺ 会怎样」 | 缺失题按转写补：**水会轻微自解离成 H⁺ 与 OH⁻**；**水释放 H⁺ 会降低 pH** |
+| 15. `EART26201 - 10-Nov-transcript.md` — 全文 | ASR 误听：`amol`(= a mole)、`one oil carbon has mass of`(= one mole of carbon)、`one liter of blood`(= one litre **flask**)、`Miseratec`(= the **Misra** text)、`phenol failing`(= **phenolphthalein**)、`a minus 2Ha`(= **A⁻ to HA**)、`kaO`(= **Ka**)、`Romant`(= 另一位讲师姓名)、`Seats code`(= **Kahoot** code)、`the log of A minus over H`(= over **HA**) | 自动转写的识别错误，非授课内容错误 | 阅读转写时按左列还原；本笔记正文已按还原后的意思引用 |
 | 17. `EART26201 - 10-Nov-transcript.md` — 活度段 | "activity is that coefficient multiplied by m, **the molar concentration**, where that's expressed in moles per kilogram of water" | 口误：mol/kg 是 **molal**（质量摩尔浓度），不是 molar（体积摩尔浓度）；同一句里自相矛盾 | 应为 "the **molal** concentration"。讲义写的 "Activities are expressed as molalities" 是正确的 |
 | 18. `EXPERIMENT 1 2025-1.md` — DATASHEET 示例数据 | 第 2 行 KBr 10.6 ml / 总体积 **115.6** ml；第 3 行 KBr 2.5 ml / 总体积 **113.5** ml | 与步骤 4.3–4.4 不自洽：稀释到 100 ml 后再滴入 10.6 ml 应为 **110.6** ml，滴入 2.5 ml 应为 **102.5** ml。两行的"总体积 − KBr 体积"分别是 105 与 111，也彼此不等，违反了本实验"各次滴定终点总体积必须相同"的核心前提 | 示例数据仅供参考斜率（log 比值给出 n ≈ 2.08，方向正确）。**实际操作时必须自己记录真实总体积，并靠补加去离子水把各次总体积调到一致** |
 | 19. `EXPERIMENT 1 2025-1.md` — 步骤 4.5 | "Repeat steps 4.1 to 4.4 however this time using only **10 ml** of the 2M NH₃ solution." | 只写了重复**一次**（10 ml），但 DATASHEET 有 **四行**（40、30、15、10 ml），且两点无法可靠拟合直线 | 应重复至覆盖数据表全部四个氨用量（**40 / 30 / 15 / 10 ml**）；若时间不够，至少完成表中留白的 40 ml 与 10 ml 两行，配合已给的 30、15 ml 示例值凑成四点 |
