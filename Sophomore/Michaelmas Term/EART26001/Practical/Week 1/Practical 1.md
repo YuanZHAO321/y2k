@@ -30,3 +30,26 @@ Map 1
 0.8<br>13<br>0.08 3<br>7<br>1<br>8<br>0.07 14<br>7 0.8<br>11<br>3<br>0.8 3 1<br>0.5 6<br>6<br>11<br>5<br>2 0.7<br>7<br>10<br>13<br>8 12<br>15<br>8 2<br>9<br>12 22<br>2<br>21<br>8 5 0.6<br>8<br>0.25<br>2<br>0.7 7 15 4<br>0.6 9<br>0.08<br>18<br>3 0.37<br>0.5 km<br>5 km<br><!-- End of picture text -->
 
 Map 2
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 2
+
+0
+0
+
+£00°0
+
+onoo
+
+[< —
+[ot | el
+i | |
+sO el
+jwied ajdues @ lwo
+
+(uidd ui sonyea) puosa7
+
+Map 1

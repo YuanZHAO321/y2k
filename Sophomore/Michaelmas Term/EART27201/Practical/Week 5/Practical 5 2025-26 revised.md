@@ -79,3 +79,46 @@ Use bedform phase diagrams to track bedforms to provide a framework for drawing 
 - most useful for purely unidirectional and oscillatory flow, much more difficult to do for multidirectional flows
 
 - keep in mind that there is a lag time between a change in flow and the bedform created so that the bedform may be out of equilibrium with the flow (best for ripples and high velocities, worst for dune and low velocities)
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+### Page 3
+
+Mean flow velocity (m 5-1)
+(standardised to 10°C water temperature)
+
+2.0 |—
+
+0.4
+
+0.2
+
+rT L | | ttt rT TT TT)
++ . am
+
++ _ + Antidunes
+Fr=10 + 4) #4) _ :
+
++ Fr=0.84 * ee
+A nN 4
+A e
+
+No movement
+
+; x No movement on plane bed
+
+j ° Ripples “|
+* Dunes
+
+v © Lower stage plane bed
+ao A Upper stage plane bed +
+- + Antidunes
+
+Lt | ee |
+
+0.1 1.0
+Median sediment size (mm)
+
+North

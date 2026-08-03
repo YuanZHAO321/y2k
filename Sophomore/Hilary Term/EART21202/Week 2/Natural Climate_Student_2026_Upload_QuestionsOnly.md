@@ -582,3 +582,125 @@ How do scientists use ice cores to reconstruct long-term natural climate variabi
 ## **Q10.**
 
 **Why can’t natural climate drivers explain the observed warming since the mid-20th century?**
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+### Page 9
+
+Variations in Solar Activity
+
+Reflected Solar
+Radiation
+101.9W m?
+
+Reflected by
+Clouds and
+Atmosphere
+
+Absorbed by
+' Surface
+
+Incoming
+Solar
+Radiation
+341.3Wm?
+
+C—O
+Thermals Evapo= i _ Surface
+transpiration “Radiation
+
+Net absorbed
+0.9
+W m?
+
+Outgoing
+Longwave
+Radiation
+238.5 Wm”
+
+Atmospheric
+
+Downwelling
+Radiation
+
+333
+Absorbed by
+
+a Surface ——
+
+LbE_URI Veith earn ariclrester
+
+### Page 39
+
+Volcanic Climate Influence
+
+Global ocean
+
+—
+i)
+~_—
+
+Temperature anomaly (°C)
+
+=>
+iz)
+~~
+
+Temperature anomaly (°C)
+
+1950 1960 1970 1980 1990 2000
+
+Year
+
+Pacific ocean
+
+AVI \
+0.0 FAAS FPO
+VA ALAA I
+
+Ln A
+
+a r
+
+1950 1960 1970 1980 1990 2000
+Year
+
+_—
+Ss
+
+Temperature anomaly (°C)
+
+—_—
+&
+
+Temperature anomaly (°C)
+
+Atlantic ocean
+
+-0.3 ; ;
+1950 1960 1970 1980 1990 2000
+Year
+
+Indian ocean
+
+Chichon | Pinatubo |
+
+3
+1950 1960 1970 1980 1990 2000
+Year
+
+MANCHESTER
+
+The University of Manchester
+
+SS jj
+4 LE— SF Uf
+W(WCEERXXYA
+
+### Page 56
+
+Feedback
+
+Join at menticom|use code 5809 2619

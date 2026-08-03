@@ -475,3 +475,15 @@ http://www.scotese.com<br><!-- End of picture text -->
 **Carbonate response to relative sea level can be understood by comparing rates of carbonate production and sea level rise/fall.**
 
 46 – EART23202: Carbonate dynamics
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 5
+
+Carbonates and sea level
+
+### Page 37
+
+Carbonates through time

@@ -18,3 +18,18 @@ type: pdf
 
 <!-- Start of picture text -->
 12<br>0.7 0.08<br>0.07<br>0.6 8 2<br>0.5<br>8<br>0.1<br>3 1 2 1<br>0.8 0.8<br>5<br>15 5<br>5 5 1<br>7 3<br>9 10<br>18 6<br>15<br>8<br>22 13<br>21 11<br>9 20 11 14<br>12<br>8 10<br>13<br>8<br>7 7<br>4<br>6<br>7<br>0.37 5<br>2<br>2 3<br>0.08 3<br>1 0.7<br>1<br>0.6<br>0.8<br>0.25<br>0.1<br>0.5 km<br><!-- End of picture text -->
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+### Page 3
+
+Legend (values in ppm)
+<0.01 @ sample point
+
+o—— 0.01-0.1
+— 0.1-0.5
+ome 0.5-1
+
+— >]

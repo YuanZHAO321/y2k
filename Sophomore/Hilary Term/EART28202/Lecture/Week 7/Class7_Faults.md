@@ -690,6 +690,20 @@ Figure right (from Kokelaar & Moore, 2006, Classical Areas of British Geology: G
 
 ## Slide 46
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+7
+
+ie
+
+:
+hgh.
+
+ae
+
+ces
+
+
 ### Fault segmentation
 
 **Notes:**

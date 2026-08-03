@@ -56,6 +56,17 @@ type: slides
 
 ## Slide 4
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Global Climate Change
+Student FO
+
+https://go.blueja.io/a7 OVNkKwObEWN 1ftWmHq9GA
+
+To access the evaluation, scan this QR code with your
+mobile phone.
+
+
 - Comments/Questions
 
 ## Slide 5
@@ -169,6 +180,13 @@ For further reading, look at how it differs with wavelength!
 
 ## Slide 18
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Aerosol-cloud interactions
+
+f : assessment
+
+
 ## Slide 19
 
 - Exploiting the Cloud Interaction
@@ -268,6 +286,28 @@ This is done over the ocean because there is lots of water vapour, and marine st
 - An outdoor deployment of MCB to test it at small scales.
 
 ## Slide 27
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Physical science research needed to evaluate the viability and risks
+of marine cloud brightening
+
+GRAHAM FEINGOLD @, VIRENDRA P. GHATE ©. LYNN M. RUSSELL ©. PETER BLOSSEY ©. [...], AND XUE ZHENG iD) +26 authors Authors Info & Affiliations
+
+Global temperature stabilization via controlled albedo enhancement of low-level
+
+maritime clouds ®
+
+John Latham &%; Philip Rasch; Chih-Chieh Chen; Laura Kettles; Alan Gadian; Andrew Gettelman; Hugh Morrison; Keith Bower; Tom Choularton
+
+Can marine cloud brightening reduce coral bleaching?
+
+The early history of Marine Cloud Brightening (MCB); the legacy of John
+
+Latham and Stephen Salter
+
+Alan Gadian
+
 
 ## Slide 28
 
@@ -385,6 +425,11 @@ Compared to MCB, this is far less of an engineering challenge.
 - Promises of future carbon removal later instead of reducing emissions now are essentially a huge gamble with future generations paying the cost
 
 ## Slide 40
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+ohee
+
 
 - Forests and better management
 
@@ -569,6 +614,17 @@ Moving on to slide 7
 Post-training evaluation survey
 
 ## Slide 54
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Global Climate Change
+Student FO
+
+https://go.blueja.io/a7 OVNkKwObEWN 1ftWmHq9GA
+
+To access the evaluation, scan this QR code with your
+mobile phone.
+
 
 - Comments/Questions
 

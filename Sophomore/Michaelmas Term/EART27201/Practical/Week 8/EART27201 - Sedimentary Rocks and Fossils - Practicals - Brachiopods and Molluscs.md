@@ -116,3 +116,73 @@ Biostratigraphy task 2: Cool,  huh,  but given that we know these lines represen
 Biostratigraphy task 3: You have hand specimens of Calceola  (a Devonian rugose coral)  and Monlivaltia  (a Jurassic scleractinian coral)  in front of you.  Remind yourself of what these look like,  and how they differ.  For this exercise, let’s assume that Calceola is present in every bed after its appearance until Monlivaltia appears.  The label A on the left of the locality 2 column,  marks an unconformity in these beds.  What event in the history of life occurred between the deposition of the beds above and below this unconformity? You learned about it with Rob in Year 1.  What minimum time must this unconformity represent? Justify your answer  (you’ll probably want to look at a geological column).
 
 9
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 5
+
+Attached by pedicle
+Epifaunal — hard substrate (1)
+(plenipedunculate)
+
+Epifaunal — soft substrate (2)
+(rhizopedunculate)
+
+Cryptic
+
+Interstitial
+
+BRACHIOPOD TAXA
+
+Orthides, rhynchonellides,
+spiriferides and terabratulides
+
+Chlidonophora and Cryptopora
+
+Argyrotheca and Terebratulina
+
+Acrotretides and Gwynia
+
+Encrusting (3)
+
+Clasping spines (4)
+
+Unattached
+Cosupportive (5)
+
+Coral-like (6)
+
+Recumbent
+
+Pseudofaunal (7) and inverted (8)
+
+Free-living (9, 10)
+
+Mobile
+Infaunal (11)
+
+Semi-infaunal (12)
+
+Craniops and Schuchertella
+
+Craniids and disciniids
+
+Linoproductus and Tenaspinus
+
+Orthotetoids
+
+Pentamerids and trimerellids
+Gemmellaroids and
+richthofeniids
+Strophomenides
+
+Waagenoconcha and Marginifera
+
+Cyrtia, Chonetes, Neothyris
+and Terebratella
+
+Linguloids
+
+Camerisma and Magadina

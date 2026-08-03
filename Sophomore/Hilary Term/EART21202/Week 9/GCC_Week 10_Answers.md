@@ -14,6 +14,17 @@ type: slides
 
 ## Slide 2
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Global Climate Change
+Student FO
+
+https://go.blueja.io/a7 OVNkKwObEWN 1ftWmHq9GA
+
+To access the evaluation, scan this QR code with your
+mobile phone.
+
+
 - Comments/Questions
 
 ## Slide 3

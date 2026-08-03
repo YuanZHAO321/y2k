@@ -80,6 +80,66 @@ type: slides
 
 ## Slide 7
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+Change in effective radiative forcing from 1750 to 2019
+
+Carbon dioxide
+
+Other well-mixed
+greenhouse gases
+
+Ozone
+
+CH, N20 Halogens
+
+Stratospheric
+water vapour
+
+Albedo
+
+Contrails & aviation-
+induced cirrus
+
+Aerosols
+
+Light absorbing particles on
+
+Land use snow and ice
+
+Aerosol-cloud Aerosol-radiation
+
+Total anthropogenic
+
+Solar
+
+-2 -1 0 1 2 3
+Effective radiative forcing (W m7?)
+
+ERF (W m7?)
+
+2.16 [1.90 to 2.41]
+
+0.54 [0.43 to 0.65]
+0.21 [0.18 to 0.24]
+0.41 [0.33 to 0.49]
+
+0.47 [0.24 to 0.71]
+0.05 [0.00 to 0.10]
+
+-0.20 [-0.30 to -0.10]
+0.08 [0.00 to 0.18]
+
+0.06 [0.02 to 0.10]
+
+-0.22 [-0.47 to 0.04]
+-0.84 [-1.45 to -0.25]
+
+2.72 [1.96 to 3.48]
+
+-0.02 [-0.08 to 0.06]
+
+
 - Measurements
 
 ## Slide 8

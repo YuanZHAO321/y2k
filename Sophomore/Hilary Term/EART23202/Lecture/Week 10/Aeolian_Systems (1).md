@@ -460,6 +460,22 @@ By Ed Stevenhagen (Overleg) . - from nl.wikipedia Afbeelding:Aeolus1.jpg, Public
 
 ## Slide 37
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+re al
+
+wind directian &
+direction of migration
+
+gralnfall blankellng lee slope
+
+grainflow tongues
+
+Battomset
+wind-ripple
+dominated
+
+
 - Aeolian Dune Facies
 
 ## Slide 38

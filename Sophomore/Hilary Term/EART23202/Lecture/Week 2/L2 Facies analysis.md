@@ -122,6 +122,57 @@ type: slides
 
 ## Slide 8
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Sedimentary rocks
+
+Observation, measurement
+and description
+
+Lithological
+characteristics
+
+Modern environment
+
+Observation and measurement
+of processes of transport
+and deposition
+
+Interpret in
+terms of processes
+
+Facies
+
+Combine into
+
+Interpret in
+terms of depositional
+environments
+
+Recognition of combination
+of processes in depositional
+environments
+
+Facies associations
+Facies sequences
+
+3-D patterns
+
+Interpret in terms of
+climatic and tectonic
+changes through time
+
+Geographical distribution of
+environments in modern
+sedimentary basins
+
+‘Architecture’ of the
+stratigraphic successions
+
+Fill of sedimentary
+basins
+
+
 ### Facies to environment
 
 **Notes:**
@@ -156,6 +207,29 @@ I don’t use my own papers because I’ve got a huge ego, it’s because I know
 
 ## Slide 12
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+lunipew
+
+aul
+auly AldA
+QU0}S}IS
+
+QU0}SAe}O
+
+A las
+
+=.
+—
+
+10
+
+(wi) ajeos
+
+iu Scale\(m) i]
+7. 0-5 0.75
+
+
 ### Facies Associations
 
 **Notes:**
@@ -169,6 +243,26 @@ grained low-density turbidites. Lens cap is 55 mm in diameter. (E) Rippled bed t
 Plant imprints in an intra-bed division.
 
 ## Slide 13
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+lunipew
+
+aul
+auly AldA
+QU0}S}IS
+
+QU0}SAe}O
+
+A las
+
+=.
+—
+
+10
+
+(wi) ajeos
+
 
 ### Facies Associations
 
@@ -185,11 +279,83 @@ bases and overlying layers of varying mud content. Hammer handle is 150 mm long.
 
 ## Slide 15
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+lunipew
+
+aul
+auly AldA
+QU0}S}IS
+
+QU0}SAe}O
+
+A las
+
+=.
+—
+
+10
+
+(wi) ajeos
+
+claystone
+siltstone
+
+| Py egal . . .
+| 3 Facies - descriptive Facies - Process interpretation
+
+High-density turbidity current
+Thick bedded, mostly massive, deposits (high-density turbidites)
+amalgamated fine-grained sandstones
+
+Scale (m)
+
+Thin-medium bedded mud-rich and mud- | Combination of high
+
+clast-rich sandstones concentration turbidity current and
+thin debris flow deposits - ‘hybrid
+beds’
+
+High density turbidity current
+Medium bedded, massive fine-grained deposits
+sandstones with mudstone clasts
+
+Combination of high
+Thin-medium bedded mud-rich and mud- | concentration turbidity current and
+clast-rich sandstones thin debris flow deposits - ‘hybrid
+beds'
+
+Medium bedded, massive fine-grained High density turbidity current
+sandstones with mudstone clasts deposits
+
+
 ## Slide 16
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+SK20  =SK19 SK18 SK17—- SK16 SK14 SK12 SK11 SK9
+
+© Sscale(m) “
+
+Scale (km)
+iS StC—“‘'C
+0.5
+
 
 ### Facies Associations - context
 
 ## Slide 17
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+SK20  =SK19 SK18 SK17—- SK16 SK14 SK12 SK11 SK9
+
+© Sscale(m) “
+
+Scale (km)
+iS StC—“‘'C
+0.5
+
 
 ### Facies Associations - context
 

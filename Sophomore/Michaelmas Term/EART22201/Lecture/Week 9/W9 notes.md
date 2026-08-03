@@ -1010,3 +1010,24 @@ EART 22201
 margaret.hartley@manchester.ac.uk
 
 EART 22201
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 24
+
+“Magmatic sedimentation” in large mafic intrusions creates cumulate textures
+
+1. Large, euhedral crystals grow
+free-floating in the magma
+
+2. Dense crystals settle through the
+magma and accumulate at the floor
+of the chamber
+
+3. Minerals crystallize in the pore
+spaces between the cumulus
+phases
+
+Intercumulus minerals

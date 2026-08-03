@@ -146,6 +146,22 @@ type: slides
 
 ## Slide 10
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+WAVELENGTHS
+
+Longer Wavelength
+(lower frequency)
+1
+
+ne
+
+Shorter Wavelength
+(higher frequency)
+
+i<> I
+
+
 - Electromagnetic Radiation
 
 ## Slide 11
@@ -489,6 +505,17 @@ type: slides
 - Note especially the strong absorption of infrared radiation by water vapour and carbon dioxide.
 
 ## Slide 36
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Total absorption
+
+and scattering
+
+black-body spectra &
+S
+°
+
 
 - Energy Balance
 

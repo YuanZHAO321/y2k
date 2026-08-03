@@ -268,3 +268,115 @@ https://doi.org/10.1016/j.ocecoaman.2018.12.021<br><!-- End of picture text -->
 ESRI training Getting started with spatial analysis (components 1-3 only; 1hr 15 min).
 
 https://www.esri.com/training/catalog/5bca58f8f77b99238f8 45e1c/getting-started-with-spatial-analysis/
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 7
+
+Example — query by attribute
+
+% Wet rissa
+b st 4,574,268.86W 2.828,547.95N ftUS_¥
+election: “jg Select By Attributes SB Switch
+
+CANADA
+
+Pe: ony
+/ TR
+
+Wan \
++ 2,730,163.67E 2,680,971.53N RUS ¥
+
+Guif of
+
+eee
+
+Project Portal Favorite
+
+BOB A
+
+Select By Attributes
+Input Rows:
+| USA_Major_Cities
+© The input has a selection. Records to be processed: 5
+Selection Type
+
+?
+
+x
+
+y|
+~
+ce
+
+[ New selection
+Expression
+fa@ Load bal save X Remove
+
+v so. OD
+
+Where POPULATION + | is oreate ~ 10000
+
+= r
+[Ana + | |FEMALES ‘| is greate ~ | |MALES
+
++ Add Clause
+
+C) Invert Where Clause
+
+Project Portal Favorites
+
+ABABA
+Select By Attributes ? x
+Input Rows
+USA_Major_Cities ~| ae
+© The input has a selection, Records to be processed: 3,305
+Selection Type
+[New selection =
+Expression
+lm@ load Fel Save Remove
+v So. OD
+Where [POPULATION | is greate * { 10000 +| *
+‘And ~| [FEMALES + | [is greate ~ | MALES |x
+
++ Add Clause
+
+(C Invert Where Clause
+
+Select By Attributes ? x
+Input Rows
+USA_Major_Cities -l =
+© The input has a selection. Records to be processed: 3,305 rs
+Selection Type
+New selection bd
+Expression
+
+la@ Load
+v SaL@D
+
+POPULATION > 10@@@ And FEMALES >» MALES
+
+fal Save XX Remove
+
+(_} Invert Where Clause
+
+### Page 13
+
+Map algebra
+
+Type Operators/functions
+
+Arithmetic +,-—, X, 4 square, square root, exponentials, logarithms
+Logical AND, OR, NOT
+
+Relational =>,25,5
+
+Conditional IF...THEN..., IF...THEN...ELSE
+
+Trigonometric (inverse) cosine, (inverse) sine, (inverse) tangent
+
+Statistical maximum, minimum, mean, range, standard deviation, sum,
+
+median, majority, minority, variety

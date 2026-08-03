@@ -309,3 +309,186 @@ https://www.esri.com/training/catalog/5d9cd7de5edc347a71611cc - <u>c/gis basics/
 _Have a look at Geo-Wiki and OpenStreetMap_ https://www.geo-wiki.org/ https://www.openstreetmap.org/#map=6/54.910/-3.432
 
 32
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 9
+
+Non-spatial data: a summary of the Spatial data:
+locations of the landslides occurred in Australia since 1900
+
+[DATE | Oo: | ae anes) |. oe N
+
+23/03/1997| Trinity Beach, Cairns ldebrisfall | _145.70|
+ees basset sn foteane [oreo | ve
+debris flow 1/04/1911|Nisbet Range, 5 km E of Cairns debris flow 145.80]
+debris slide 1/01/1925}
+Pest saul arn | — ar
+debris topple 30/04/1988]|Coledale debris flow 150.93}
+dry sand flow 22/09/1983|Sulphur Creek, NWTasmania___—[debrisflow | 146.02|
+learth block slide 1/05/1996] Mt Mitchell, near Cunningham's Gap, Qld [debris flow | 152.40]
+learth fall 19/01/1997}
+
+earth flow
+earth slump
+rock fall
+rock slide
+rock slump
+
+rock topple
+slump-earth flow
+slump and topple
+soil creep
+wet sand or silt flow
+
+debris flow 148.31,
+debris flow 146.78)
+debris flow 146.84
+
+30/07/1997|Thredbo, Snowy Mountains
+
+10/01/1998|Mt. Stuart, Townsville, Queensland
+
+11/01/1998|Near Kelly St, Nelly Bay, Qld Y
+7/08/1998| Below Seaforth Crescent,Sydney ebesflon |_sa2a
+
+17/08/1998] Wollongong debris flow
+
+11/02/1999] Kuranda Range Road, Kuranda, Qid
+
+11/02/1999
+
+3/03/1999|Great Western Tiers, Meander, Tasmania_|debris flow 146.62!
+debris flow 150.83,
+
+23/10/1999] Nareena Hills, Wollongong
+
+bh 7
+2 en hs %
+Darwin ah (
+ne S , “4
+| " e } a
+we )
+% Townsville
+pa Northern Territory ic
+p Alice Springs,
+ee
+
+\ Western Australia |
+
+\ °.
+
+) South Australia
+\ ‘~ | }
+
+\ oe Dd
+Perth)” a FS, 5 . New South Wales? RJ e
+
+, aren LS fadetaide oo . tial
+EPe | Ney
+L = Viototia 93 NS
+
+Ca '° >
+
+Melbourne
+0
+
+© Landslide ocurrence
+0 150 300 600 Kilometers.
+Ses es eres
+
+. }
+>) a
+Tasmania X sed Hobart
+
+### Page 25
+
+Spatial transformation
+
+### Page 28
+
+ArcGlS Pro
+
+Untitled | 2 Command Search (ait+Q) | ray.burgess@manchester.ac.uk_UoManchester - The University of Manchester RB) =? = o x
+View Edit Imagery ~— Share
+Cd | BI a
+cut (BB Add Graphics Layer yu Attributes & fin Ai Pause 2 Lock El ‘Syne
+cov | ilseze a ¢| oF | = 18 arnoees 2, | lc .
+Paste tpladinted * Bookmarks Go | Basemap Add Select Select By Select By Measure Locate Infographics Coordinate Convert Download *
+. Copy Path | . ToXY Data Attributes Location «!! Zoom To . Conversion  @@ More ~ . Map~
+ics | iis ae es 4 ay a eee -
+Contents, vax ~ Catalog vax
+h Pp ~| Project Portal Favorites =
+T
+LGU/ROR ©[a[senroes
+eee ;
+Drawing Order > gy Teo
+4(E] Map » (Databases
+[World Topographic Map > Styles
+(J World Hillshade » ie rote
+> GH Locators
+Rox
+ie
+ruRore
+arnica
+souTn
+Samenica
+ANTARCTICA
+109.4632905°E 80.5947417°N v selected Features 0| |i Catal... |Geop.. Modi. Creat... Elem... Symb..
+
+28
+
+### Page 30
+
+- = z _? Fy) A Ray Burgess
+Home Gallery Map Scene Groups Content Organization al Anise
+
+ray.bt
+
+‘'t ANC HESIE R
+
+Theiprersty of Manchester,
+
+aN
+
+ArcGIS Online Spatial Data Infrastructure
+
+Explore, Create and Publish Spatial Data for Teaching and Research @ The University of Manchester
+
+Web Mapping Application Web Mapping Application Web Map Web Map
+A socio-economic analysis of th... Access to Alexandra Park, Man... Looper Project Population Den... Peak District National Park Wild...
+
+### Page 31
+
+. .
+@esri Products Industries Support & Services Stories About Q & Q
+
+A | Esri Academy
+
+Catalog Certification My Academy
+
+Courses for ArcGIS Online
+
+ArcGIS Online training options accommodate different schedules, learning styles, and experience levels.
+
+Whether you have an ArcGIS Online public account or you're a member of an ArcGIS Online Organization with a
+curated collection of mapping capabilities and content at your fingertips, the right course can help you be more
+productive, faster.
+
+Getting Started
+
+Gain the skills you need to author and share informative web maps, explore data, and perform analysis.
+
+R-LEL EB COURSE
+
+Creating Stories with ArcGIS ArcGIS Online: Essential Workflows ArcGIS Online Basics
+
+2 Days (16 Hours) 1 Day (8 Hours) 1 Hour, 50 Minutes
+
+Free
+
+ee60e 9 ®@ eeee¢ 9 © e86ee¢ 9 ®@
+
+31

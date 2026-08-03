@@ -314,3 +314,49 @@ _EART29102 Practical 8_
 _EART29102 Practical 8_
 
 14
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 14
+
+EART29102 Practical 8
+
+Solar Radiation for Buildings in South Burnage, Manchester, UK
+
+Mauldeth Road
+e
+
+yal :
+
+A Burnage Cricketer = * am
+g @Ground ‘a
+
+a)
+
+Py pooms:
+
+Greater
+Manchester
+
+Salford
+°
+
+Manchester
+
+1 Kilometers
+
+Annual Solar Radiation (kW/hr/m2)
+
+Average annual solar energy potential values for rooftops
+in kilowatt-hours per square meter. Red colours indicate
+| | 600.2 - 828.1 higher-yielding locations for installing solar panels . North
+(0) 828.2 - 855.6
+
+facing roofs were excluded from the analysis.
+(NN 855.7 - 866.9
+GE 867 - 884.7
+HMM 884.8 - 1012.4
+
+14

@@ -169,3 +169,23 @@ Sparite cement
 
 <!-- Start of picture text -->
 foraminifera<br><!-- End of picture text -->
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+### Page 1
+
+Outcrop overview
+
+### Page 15
+
+(o)
+©
+oy
+"©
+<
+o
+o
+2
+1)

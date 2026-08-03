@@ -69,6 +69,53 @@ COOPER, M. M., EASTON, S. D. W., LYNCH, J. J. & FOZDAR, I. M. 2005. The Caister�
 
 ## Slide 6
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+451000
+Carboniferous faults
+
+Complex relationship bs d
+
+of reverse faults ahd with >100' throw
+
+tight folds Carboniferous faults
+
+with >300' throw
+
+Post-Rotliegendes
+faults
+
+Contours at
+
+Base Permian
+
+Contours at Top
+Westphalian B sand
+
+Westphalian B
+Murdoch Sst.) Upper sand pay
+
+Westphalian CD
+Seal between H & TA7) Gross effective pay
+Boulton F set up by
+Westphalian B shale
+sequence
+
+Boulton H
+
+Trap defined by Base
+Permian closure at
+-12825' to SW, SE
+and NE
+
+44/26b | 44/27a Development Well
+
+Surface
+Location
+
+- 4171
+
+
 - Cooper et al. 2005.
 
 ## Slide 7
@@ -106,3 +153,42 @@ Moscariello, A. 2003. The Schooner Field, Blocks 44/26a, 43/30a, UK North Sea. G
 Besley, B.M., Burley, S.D., and Turner, P. 1993. The late Carboniferous 'Barren Red Bed' play of the Silver Pit area, Southern North Sea. Petroleum Geology of Northwest Europe: Proceedings of the 4th Conference (edited by J. R. Parker). © 1993 Petroleum Geology '86 Ltd. Published by The Geological Society, London, pp. 727-740.
 
 ## Slide 10
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+nor 12 3
+
+|
+|
+abe, |
+fi
+i cu
+Set |
+| | Ky. *
+Ni P
+ARE
+ik
+4 |
+‘ J |
+a sees
+& |
+es
+13181 13096"
+— ——
+Tae rrr
+Cross bedding - vertical A, Root traces
+Burrows
+— = Horiz./low angle bedding = - horizontal ff Evolved pedogenic texture
++ Cross lamination 44 Bioturbation xi Pedogenic haematite
+
+Fig. 7. Sedimentological log extracts: UK Well 44/28-1. Lithological symbols conform to the Shell Standard Legend. Sequence is red through-
+
+out. Facies interpretation
+waterlogged flood basi
+upward pattern in flood basin lake fill sequence.
+
+‘igs 7a and b is as follows. 1: major alluvial channel; 2: well-drained flood plain with evolved palaeosol; 3:
+penetratively oxidized. Abbreviations in Figs 7c and d are as follows. P: evolved palaeosol; CU: coarsening-/shallowing-
+
+ially
+

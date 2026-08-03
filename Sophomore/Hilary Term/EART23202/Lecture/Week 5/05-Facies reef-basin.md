@@ -488,3 +488,20 @@ Turbidite<br><!-- End of picture text -->
 **Plants with calcite skeletons: Coccolithophorids Plants with silica skeletons: eg Diatoms Animals with calcite skeletons: planktonic Foraminifera Animals with aragonite skeletons: Pteropods (pelagic gastropods) Animals with silica skeletons: Radiolaria**
 
 **0.5 mm**
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 15
+
+Pie, Ry 4
+
+Ancleiitreéfs’and-bulldupe_»
+
+ts i atv i
+lad: Mae avai : aa
+ff eae) i we
+
+mae te sale
+a ee

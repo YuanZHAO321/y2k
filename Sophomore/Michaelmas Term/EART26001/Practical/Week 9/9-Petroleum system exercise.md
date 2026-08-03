@@ -32,6 +32,31 @@ type: slides
 
 ## Slide 2
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Petroleum System Events Chart
+
+Timing of Elements and Processes
+
+Scale
+Paleozoic | Mesozoic |_Genozoie
+Petroleum
+Poqwle Tefal» [« [exp setetine
+
+es oe
+ee
+
+ritical Moment
+Magoon and Dow,
+eet Time of Expulsion and Migration. (Trap must already exist)
+
+. , Elements
+
+Processes
+
+JMA
+
+
 - Petroleum system
 
 ## Slide 3

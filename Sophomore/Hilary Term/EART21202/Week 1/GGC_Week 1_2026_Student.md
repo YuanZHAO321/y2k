@@ -96,6 +96,25 @@ type: slides
 
 ## Slide 6
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Dr Simon O'Meara
+
+National Centre for Atmospheric Science Researcher
+Simon.Omeara@manchester.ac.uk
+
+Dr Emily Matthews
+PDRA in the Centre for Atmospheric Science
+
+Emily.Matthews@manchester.ac.uk
+
+Dr Nick Marsden
+National Centre for Atmospheric Science Instrument
+Scientist
+
+Nicholas.Marsden@manchester.ac.uk
+
+
 - Guest Lecturer
 
 - WEEK 4
@@ -234,6 +253,34 @@ type: slides
 
 ## Slide 16
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+angen ars mean
+recon (=)
+
+NOx BrOx CFCs HFCs O,
+HOx ClOx HCFCs
+
+Aq. Chem.
+
+Sustainability
+
+Policy
+
+sauman and ECOSYstem Heap,
+Societal :
+Issues
+
+Regional
+
+Global
+
+1 Data
+undamental “a q \ =Evaluations
+Science ae
+Atm. Modelind
+
+
 ## Slide 17
 
 - Natural Variability In Climate
@@ -241,6 +288,32 @@ type: slides
 - WEEK 2 and 5
 
 ## Slide 18
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+World's first year-long breach of key
+1.5C warming limit
+
+© 6 days ago -
+
+COP28
+
+| Chile has seen forest fires in several regions in February, including La Araucania (pictured)
+
+By Mark Poynting
+BBC News climate reporter
+
+ipcc
+
+INTERGOVERNMENTAL PANEL ON Climate change
+
+Global Warming of 1.5°C
+
+An IPCC Special Report on the impacts of global warming of 1.5°C
+above pre-industrial levels and related global greenhouse gas emission pathways,
+in the context of strengthening the global response to the threat of climate change,
+sustainable development, and efforts to eradicate poverty
+
 
 - IPCC Special Report
 
@@ -301,6 +374,99 @@ type: slides
 - WEEKS 2, 3, 4
 
 ## Slide 24
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+Global Energy Flows W m?
+
+Reflected Solar Incoming Outgoing
+
+Radiation Solar Longwave
+
+101.9W m? Radiation Radiation
+341.3Wm? 238.5 Wm?
+
+Reflected by
+
+Clouds and :
+Atmosphere, ; mosphere
+Emitted by 187
+Atmosphere
+
+Downwelling
+Radiation
+
+333
+
+Radiation Absorbed by
+Surface
+
+7
+Thermals Evapo- Surface
+
+transpiration
+
+Net absorbed
+0.9
+Wm?
+
+Natural
+
+Radiative Forcing Components
+
+RF Terms RF values (W m*) [Spatial scale| LOSU
+
+1.66 [1.49 to 1.83]
+
+Long-lived
+greenhouse gases 0.48 [0.43 to 0.53]
+0.16 [0.14 0.0.18] | Global
+
+0.34 [0.31 to 0.37]
+
+i
+1
+I
+1
+\ -0.05 [-0.15 to 0.05]] Continental
+0.35 [0.25 to 0.65] | to global
+
+i
+
+Ozone i Tropospheric
+
+Anthropogenic
+
+f
+Stratospheric water 1
+vapour from CH, ' 0.07 [0.02 to 0.12} } Global | Low
+1
+! -0.2[-0.4100.0] | Localto | Med
+Surface albedo Black carbon ; peck
+pe cares 0.1 [0.00 0.2] | continental
+Direct effect 0.5 [-0.9t0-0.1] | Commons! | New
+Total
+Aerosol | Cloud albedo Continental
+
+-0.7 [-1.8 to -0.3]
+
+effect to global
+
+Continental
+
+Linear contrails 0.01 [0.003 to 0.03]
+
+Solar irradiance
+
+PUYV-LOM :200Z DOdIO
+
+Total net
+
+; 1.6 [0.6 to 2.4]
+anthropogenic
+
+Radiative Forcing (W m2)
+
 
 - Energy in the Climate System
 
@@ -414,6 +580,42 @@ type: slides
 
 ## Slide 31
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+“e
+Atmospheric
+wap 7
+
+Oracle Procurement: & x ¥ (G] Thomas Bannan -Outl x ¥ >) Final Report FAPESP-1, x © [') wwwaatmos-meas-teci x ¥ ) Potential of mass spect x ¥ ["j downloadspringer.con x ¥ BEY DKershaw’s likes on So: x Y [fq CROSSFTT HXS Membe
+C fi [) filey/nask.man.acuk/home$/Desktop/Final%20Report%20FAPESP-NERC%202014_50297_2%20IFUSP%20Univ%20Manchester.pdf
+Hf Apps [J sleckbot|Leb105s... [ly 8inch DEQ Serial YA, [) FAMMWorks @ pubs.acs.org/doi/pd... @ Efficient soprene Se... [EJ wwwtandfonline.co,. Alder House Cat Ho... G Login fi) Dame Kathleen Oller... [1 Google Calendar
+
+Final
+
+FADESP-NE Figura 3.3 — Foto de dentro da estacdo de amostragem do site ZF2 TT34. No lado esquerdo pode ser observado o HR-
+AMS, ao fundo o HT-DMA da Universidade de Manchester, CCNC, Nefelémetro, SMPS e monitor de 03 e no lado direito
+o ACSM do IFUSP.
+
+Final Report FAPESP...paf | (gj ZF2-2016 tseriestrac..jpg ° @) SOMForsummerFaudoce > 15th Feb 2017 Sum...docx 7 DavePLotelst.pxp ~ Telecom summary vndocx 7 F Show all downloads.
+IPO
+
+Goals
+
+Policy
+
+Societal
+Issues
+
+Fundamental
+Science
+
+Sustainability
+
+Regional
+
+Global
+
+
 ## Slide 32
 
 - Collaborative airborne studies of emissions
@@ -442,6 +644,22 @@ type: slides
 | NO2 | 20 ppb |
 
 ## Slide 34
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+Atmospheric Composition and Greenhouse Gases
+
+Global Composition Trace Gases
+Helium (1.3%)4 [Methane (0.4%)
+
+Argon (0.9%) omni t—Trace Gases (0.1%) — Nitrous Oxide (0.08%)
+Dla
+1 > =~
+
+Ozone
+
+> Neon (4.7%) (0.01%)*
+
 
 - Atmospheric Composition
 
@@ -506,6 +724,27 @@ type: slides
 - Figure 1.1, AR5 Synthesis Report
 
 ## Slide 40
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+2021 ties 2018 for Sixth Warmest Year on Record
+Global Temperature Anomaly (°C compared to the 1951-1980 average)
+
+1.004
+
+0.7575
+
+0.507
+
+0.255
+
+0.00
+
+-0.25 4
+
+0.50
+1880 1900 1920 1940 1960 1980 2000 2020
+
 
 - Global Mean Temperatures
 
@@ -597,9 +836,78 @@ type: slides
 
 ## Slide 49
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Drivers of
+climate change
+
+Changes to the
+climate system
+
+Impacts
+
+More extreme
+‘weather
+
+Warming oceans Fe
+
+Changesin
+ocean currents
+
+4 h
+ey
+
+Global greening
+
+(Ocean acidification Pesing sealevels roe
+
+
 - WEEK 8
 
 ## Slide 50
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Global greenhouse gas emissions and warming scenarios Qaaveid
+
+— Each pathway comes with uncertainty, marked by the shading from low to high emissions under each scenario. in Data
+—Warming refers to the expected global temperature rise by 2100, relative to pre-industrial temperatures.
+
+Annual global greenhouse gas emissions
+in gigatonnes of carbon dioxide-equivalents
+
+150 Gt
+No climate policies
+4.1-4.8°C
+~ expected emissions in a baseline scenario
+if countries had not implemented climate
+reduction policies.
+
+100 Gt
+
+Current policies
+0G. 2.8-3.2°C
+
++ emissions with current climate policies in
+place result in warming of 2.8 to 3.2°C by 2100.
+
+Pledges & targets
+2.5-2.8°C
+
++ emissions if all countries delivered on reduction
+pledges result in warming of 2.5 to 2.8°C by 2100.
+
+Greenhouse gas emissions
+up to the present
+
+2°C pathways
+1.5°C pathways
+
+1990 2000 2010 2020 2030 2040 2050 2060 2070 2080 2090 2100
+
+Data source: Climate Action Tracker (based on national policies and pledges as of December 2019).
+OurWorldinData.org - Research and data to make progress against the world’s largest problems. Licensed under CC-BY by the authors Hannah Ritchie & Max Roser.
+
 
 - Future projections
 
@@ -700,6 +1008,11 @@ type: slides
 - How evidence from past climates (e.g. ice cores) helps us understand natural climate change and put today’s changes into context.
 
 ## Slide 56
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Join at menti.ccom| use code 5809 2619
+
 
 - Feedback
 

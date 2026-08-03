@@ -258,3 +258,72 @@ ESRI Training: Terrain Analysis Using ArcGIS Pro
 https://www.esri.com/training/catalog/57630436851d31e02a43f18f/terra in-analysis-using-arcgis-pro/
 
 Esri Storymap: Terrain Analysis Case study: Rauriser Ache Catchment https://storymaps.arcgis.com/stories/d21814c2303448ef84a6d50ae571c2 <u>4b</u>
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+### Page 9
+
+Slope
+
+Rise (/)
+
+<—— Run (¢) ——>
+
+Percentslope: 6= 100 (h/d) (%)
+Degree slope: @=arctan(h/d) (degree)
+
+### Page 10
+
+Slope map
+
+### Page 11
+
+Aspect map
+
+SZ
+
+NW
+
+W270°
+
+sw
+
+[sem
+GER Soctrrwees (2025-2475
+BEE Wren rar sone 5)
+= treat (292 5.337 5
+BEE erm (297 5-280)
+
+### Page 12
+
+Terrain profile
+
+Vertical exaggeration 3.0 X
+
+1000 7400 1800
+
+PaO
+TR
+
+Orstance
+
+Elevation (m)
+2700 - 3000
+2400 - 2700
+2100 - 2400
+1800 - 2100
+1400 - 1800
+
+BS 100 «200
+
+[) 800 - 1100
+500 - 800
+200 - 500
+
+### Page 17
+
+Hydrologically correct DEM
+
+{d) DEM without sinks {e) Drainage lines from the DEM without sinks

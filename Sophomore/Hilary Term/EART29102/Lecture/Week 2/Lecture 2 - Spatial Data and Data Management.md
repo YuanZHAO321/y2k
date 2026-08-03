@@ -282,3 +282,46 @@ Introduction to Spatial Data | Esri Training Web Course https://www.esri.com/tra
 Read the text, don’t attempt the ArcGIS Pro exercises
 
 31
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+### Page 7
+
+Topography (hillshade)
+
+### Page 8
+
+Relief and topography
+
+### Page 9
+
+3D visualisation
+
+### Page 13
+
+DEM using TIN
+
+498.889 -
+MB 433.333 -
+MM 367.778 -
+
+302.222 -
+
+236.667 -
+Me 7.111 -
+
+105.556 -
+
+40 - 105.556
+
+564.444
+498.889
+433,333
+367.778
+302.222
+236.667
+171.111
+
+13

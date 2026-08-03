@@ -302,3 +302,54 @@ S10<br>S12<br><!-- End of picture text -->
 
 <!-- Start of picture text -->
 S20<br>A(3)<br><!-- End of picture text -->
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 1
+
+Classification scheme for sediments & sedimentary rocks
+
+SEDIMENTARY ROCKS
+
+Mineral grains Lithic fragments Biogenic material Chemical precipitates
+
+Different rocks Different rocks Different rocks Different rocks
+may include: may include may include: may include:
+pieces of:
+
+Quariz Limestone Shells Carbonates
+Mica Mudrock Skeletal material Chlorides
+Feldspar Volcanic rock Plant debris Sulphates
+Calcite Metamorphic rock Algae/Bacteria Silica
+etc, Chert Bone etc.
+etc. etc.
+
+PRINCIPAL
+COMPONENTS
+
+### Page 8
+
+Worked example: Thin section description
+
+Thin section view
+
+* GRAINS (>70%)
+> Bhd fragerenla Ot = fungmeati carded muita , sip Le Son
+—7 Plaidy 20-30, - uhde , < Imam.
+—> Iubiudeds - up To Lm? 10%!
+~? Bhrayagon + tahinale , fugminlid up So Lem, 207?
+
+“mami x (<10%)
+— Micra Aettinan, Aarne gassing endy Loally
+* CEMENT (c- 20%?)
+~> Loa ula cryetatr up Ue Lin,
+DESCRIPTIVE NAME : Berlei, peladal pachelone with « 16% gross,
+lo% omule melcr ome ¢.20% Longs cagatola of-
+tbube werk,
+
+### Page 20
+
+$10 : $12
+A(3) ; ; $20

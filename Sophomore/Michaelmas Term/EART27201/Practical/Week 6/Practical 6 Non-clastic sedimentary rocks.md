@@ -253,3 +253,86 @@ Evaporites may leave traces of their former presence even though they are no lon
 of evaporites?.……………………………………………………………………….
 
 …………………………………………………………………………………………
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 10
+
+L207
+
+L173
+
+### Page 14
+
+Oo tds
+
+Spherica! or ellipsoidal grauns < 2mm vn ckhameter
+Witka ‘nocleus' in fhe nidd/e (e.g. quartz Green, plece
+of shell) and concentric coatings of fine-grained calervte.,
+
+X-sections ?
+nucleus
+
+concentric coat of Ffine-grainedl calcite
+Peleids
+Rounded jrouns of structureless fire- grained carbomake.,
+
+Bioclasts
+All hard pares of Organisms, complete or frag mented.
+
+coral
+Skell Fragment Crinoid gastropod fragment
+ossicle
+Intraclasts
+~~=—_,.-anareneeee
+
+Most aif ficult category. Literally means & re-worked
+fragments €.9. angular fragments of carbone te pw or
+
+La re AG rains. y-) orignal Separate rans
+i J J cemented el bo form
+RD
+
+eed
+
+### Page 15
+
+"ayn xagp jp euosgisedeyo
+U0 pesny “Satwo0g saws) fo wolg BIIFISS 2]? mE ne ay
+
+-Ulwy
+
+; uo igisodeyp “paul
+Gursny BzwUucgsvdD aqeucg ted SU} U0)
+120432 Coz SHPUT
+youioeg
+D\qvsiuborasun Sqzveveduoa
+pousbg avyqrlog purcq ou SpUevedWwod youl
+
+“014 !30d2 72 Cv ssay
+
+FIN AI
+
+prouciqisodag ajyos ;vGoon aanz229 jeuorgisedag
+
+### Page 16
+
+Worked example: Thin section description
+
+Thin section view
+
+*Gaains (270%)
+—> Mbil Jragerenla HON ~ fuegmeatiy  cranded cuitiliiod ssp Le Sum.
+—2 Plaidy 20-30, - sthde , <loum,
+> Iuliedeks - sp So Umm? 10%!
+— Bhrgegon + tchinaae , fgmintid up So Imm. 20%?
+
+“MATRIX (<10%)
+— Micke Acttineny dame gaviog Oy Lally,
+* CEMENT (c- 20%?)
+> Long, cabeile. catty np He Loan,
+OBSCRIPTIVE NAME : Trarleeli, mladal pachelore  usth « 16% grasa
+10% mune malice ane 20% Lange cayatale of-
+tabude wmer£,

@@ -242,3 +242,87 @@ https://geoxc-apps.bd.esri.com/DangermondPreserve/VirtualTour/index.html
 **Further resources**
 
 Esri ArcGIS tutorial: Introduction to Cartography (useful resource, more in-depth, worth looking at few topics for interest) https://introduction-to-cartography-learngis.hub.arcgis.com/
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+### Page 2
+
+Cartographic elements
+
+Title
+
+Households with Very High Income in Melbourne
+by Local Government Areas in 2006
+
+North arrow
+
+Map body
+
+Legend
+inset
+
+Scale bar
+
+Credits Neatline Other text information
+
+### Page 18
+
+Visual hierarchy
+
+S GUYS” ERRGT.
+Be AW?
+SEN
+
+oN
+
+<
+
+so
+MS
+
+### Page 26
+
+Map layout
+
+Very High Income Households in Melbourne
+
+Data source: Australian Bureau of Statistics Title
+No. of households Vy
+[1] <=300 Households with Very High Income in Melbourne
+(B 301 - 600 by Local Government Areas in 2006
+HN 601 - 900
+HE 901 - 1200
+tL] 1201 - 1500 North arrow
+HM > 1500
+9 = 1,000 2,000 Map body
+No. of households
+(1) <= 300
+[EE 201 - 600
+[HEB 601 - 900
+Legend > [I 001 - 1200
+HB 1201 - 1500
+HE > 1500 Inset
+o 12.5 25 50 Kilomete
+Scale bar Prririiirids eee
+Data Source: Australian Bureau of Statistics Date of production: 18/04/2014
+A A
+
+A
+
+Credits Neatline Other text information
+
+### Page 27
+
+Effective map layout design
+
+### Page 29
+
+Bivariate choropleth map
+
+1997 World Rural Population Density and Arable Land
+
+### Page 31
+
+Stepped statistical surface

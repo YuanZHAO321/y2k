@@ -147,3 +147,184 @@ Source: National<br>Geographic<br><!-- End of picture text -->
 - By-product
 
 - Social/environmental pressures
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 2
+
+Supply Risk
+
+a0
+
+as
+
+10
+
+@ LREEs
+
+Source: EU Commission
+
+; @ HREEs
+; @ Germanium @Niobium @
+‘ Magnesium
+A @ Phosphorus
+‘ ®@ Borate
+‘ @ Scandium
+3 @ Strontium ‘@ Cobalt
+H o
+@ Sapelie wood : @ Natural gaphites @ Beryilium PGMs
+. Bismuth
+‘e Bauxite @ Antimony
+
+@ Natural Teak wood >
+e @ Vanadium
+
+. 8
+
+Helium
+
+@ Tungsten
+@ Tantalum Ttanium
+
+, ® Siliconmeta
+Arsenic@® Cokngcoal FWD @ Phosphate rock Natural Rubber
+finianinnlionanmnentlano nian "Swanrattanc "=~ "=" "oor ennn nnn = © NManeshesey
+
+e Feldspft Zirconium @ Potash MO um Chromium
+
+‘a Svogeeigense = > Nickel = @ Aluminium ‘
+iron
+se Sag “
+
+es oa
+
+givdrosen ©
+
+<a
+
+anaes ina eo iad
+
+15 2.0 25 3.0
+
+35 40 45 5.0 5.5 60 65 7.0 75 8.0 8.5
+Economic !mportance
+
+9.0
+
+### Page 3
+
+Solar PV: Copper demand more than doubles by 2040, but continued innovation to reduce
+mineral intensity helps to offset demand growth for silicon and silver
+
+Demand for copper, silicon and silver for solar PV by scenario
+Copper Silicon Silver
+= 1200 1 200 6
+
+1000 1 000 5
+800
+600
+400
+
+200 200
+
+2020 2030 2040 | 2030 2040
+| STEPS
+
+2020 2030 2040 2030 2040 2020 | 2030 2040 | 2030 2040
+
+IEA. All rights reserved.
+
+Note: kt = thousand tonnes.
+
+### Page 5
+
+Copper supply chain
+
+. 40
+Resources Sc Sulfide ore Oxide ore =
+30
+Processing
+20
+Primary 10
+products
+
+End uses Industry, construction, transport,
+electrical applications
+
+Total copper demand by sector and scenario
+
+2020 2030 2040 2030 2040
+
+STEPS SDS
+
+100%
+
+75%
+
+50%
+
+25%
+
+Other sectors
+= Hydrogen
+@EVs and storage
+"Electricity networks
+=Low-carbon power
+
+generation
+
+@ Share of clean
+energy technologies
+(right axis)
+
+IEA. All rights reserved
+
+Notes: EVs = electric vehicles. Sx-Ew = solvent extraction and electrowinning. High-grade oxide ore is processed in pyrometallurgy. Demand does not include the
+
+volume reused in a semi-fabricated form.
+
+### Page 8
+
+Cobalt supply chain Total cobalt demand by sector and scenario
+
+Australia, Indonesia
+
+i! 800 100%
+H Nickel ore | x Other sectors
+
+Mining Copper ore
+
+600 75%
+Processing | e = EVs and storage
+°
+400 50% = Low-carbon power
+e e generation
+Primary
+products
+200 25% 6 Share of clean
+e energy technologies
+
+(right axis)
+
+Super-alloys,
+End uses Battery cathode carbide tools, 2020 2030 2040 2030 2040
+magnets, etc. STEPS SDS
+
+### Page 11
+
+Location of copper and lithium mines and water stress levels, 2020
+
+Low (<10%)
+
+20°S- _—- Low-Medium (10-20%)
+
+HP Medium-High (20-40%)
+
+BE High (40-80%)
+
+MM Extremely high (>80%)
+No data
+
+IEA. All rights reserved.

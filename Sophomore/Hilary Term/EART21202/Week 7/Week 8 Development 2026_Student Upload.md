@@ -126,6 +126,76 @@ type: slides
 
 ## Slide 9
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+(a)
+
+200
+
+Annual anthropogenic CO, et
+
+Annual emissions (GtCO,/yr)
+
+100
+
+100
+
+WGll scenario categories:
+
+1 >1000
+© 720-1000
+580-720
+1) 530-580
+i 430-530
+1) 430-480
+
+— Historical
+emissions
+
+RCP scenarios:
+— RCP8.5
+— RCP6.0
+—— RCPAS
+— RCP2.6
+
+1950
+
+2000
+
+Year
+
+2050
+
+2100
+
+scenario database in 2100
+
+Full range of the WGIII ARS
+
+(b)
+
+Temperature change relative to 1861-1880 (°C)
+
+Warming versus cumulative CO, emissions
+
+Total human-induced warming
+
+2000s
+
+2000 Gtc
+L
+
+1000 2000 3000 4000 5000
+
+6000
+
+7000 = 8000
+
+Cumulative anthropogenic CO, emissions from 1870 (GtCO,)
+
+9000
+
+
 - Climate Sensitivity
 
 ## Slide 10
@@ -220,7 +290,76 @@ type: slides
 
 ## Slide 14
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Drivers of
+climate change
+
+Changes to the
+climate system
+
+Impacts
+
+More extreme
+‘weather
+
+Warming oceans Fe
+
+Changesin
+ocean currents
+
+4 h
+ey
+
+Global greening
+
+(Ocean acidification Pesing sealevels roe
+
+
 ## Slide 15
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
++1.1°C
+Today
+
+#1.2°C
+(#07 to 15°C)
+
+Temperature
+Hottest day in
+a decade (+°C)
+
+Drought
+
+Adrought that used to occur
+
+‘once in a decade now
+
+h x17
+’appens x times more (00.7 04.1)
+
+Precipitation
+
+What used to be a wettest
+
+day in a decade now 4
+happens x times more Pocm
+
+Snow
+‘Snow cover extent
+change (%) Tal
+
+Tropical cyclones
+Proportion of intense tropical
+cyclones (%)
+
++2°
+
+#1.9°C
+
++10%
+
 
 - What impact will this have?
 
@@ -711,6 +850,66 @@ type: slides
 - Figure SPM.8, 2.4, AR5 synthesis report
 
 ## Slide 48
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Climate-related drivers of impacts
+
+Level of risk & potential for adaptation
+
+il
+
+e.
+
+ms © su ver
+
+toys
+ogo
+
+gop
+
+Potential for additional adaptation
++ toreducerisk ;
+—
+
+t t
+Risk level with Risk level with
+
+Warming Extreme Drying Extreme Precipitati Snow Damaging Sea Ocean Carbon dioxide
+trend temperature _ trend precipitation recipitation cover cyclone level acidification _fertilization high adaptation _—_ current adaptation
+Africa
+: oe Climatic p Risk & potential for
+Key risk Adaptation issues & prospects dha Timeframe adaptation
+Compounded stress on water resources facing ¢ Reducing non-climate stressors on water resources Ney Medium NET
+ignifi inf loitati d Coe _ low high
+signiticant strain trom overexploitation and © Strengthening institutional capacities for demand management, Present
+degradation at present and increased demand in the groundwater assessment, integrated water-wastewater planning, resen
+future, with drought stress exacerbated in _ and integrated land and water governance Near term
+drought-prone regions of Africa (high confidence) : (2030-2040)
+¢ Sustainable urban development Sy
+[22.3-4] i Long term 2°¢
+RRA || (2080-2100)
+a°C Jf,
+Reduced crop productivity associated with heat and © Technological adaptation responses (e.g., stress-tolerant crop Very Medium very
+drought stress, with strong adverse effects on varieties, irrigation, enhanced observation systems) sy ‘J
+regional, national, and household livelihood and food Enhancing smallholder access to credit and other critical production Present
+security, also given increased pest and disease resources; Diversifying livelihoods Near term
+damage and flood impacts on food system © Strengthening institutions at local, national, and regional levels to (2030-2040)
+infrastructure (high confidence) support agriculture (including early warning systems) and Py]
+gender-oriented policy ail Long term 2°¢ T,
+[22.3-4] Agronomic adaptation responses (e.g., agroforestry, conservation SQN |] (2080-2100) a /)
+agriculture ac
+Changes in the incidence and geographic range of Achieving development goals, particularly improved access to safe vey Medium Bee
+vector- and water-borne diseases due to changes in water and improved sanitation, and enhancement of public health
+the mean and variability of temperature and functions such as surveillance Present LL
+precipitation, particularly along the edges of their ¢ Vulnerability mapping and early warning systems Near term
+distribution (medium confidence) , ny pping y gy (2030-2040) (‘4
+© Coordination across sectors
+[22.3] Sustainable urban development Long term 2°€ Vf ff
+(2080-21 00).
+
+Continued next page 3
+
 
 ## Slide 49
 

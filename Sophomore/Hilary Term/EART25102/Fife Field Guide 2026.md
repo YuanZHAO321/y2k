@@ -932,3 +932,293 @@ Underhill JR, Monaghan AA, Browne MAE (2008) Controls on structural styles, basi
 Upton BJG, Stephenson D, Smedley PM, Wallis SM, Fitton JG (2004) Carboniferous and Permian magmatism in Scotland. _In_ Wilson M, Neumann ER, Davis GR, Timmerman MJ, Heeremans M, Larsen BT _(eds)_ Permo-Carboniferous magmatism and rifting in Europe. Geol Soc Lond Spec Publ 223:195-218, <u>https://doi.org/10.1144/GSL.SP.2004.223.01.09</u>
 
 53
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 39
+
+Terminology for bedding trends and contacts
+
+ree Rape
+iiss.
+ths ct
+
+|
+|
+
+sharp sharp gradual, gradual, transitional,
+planar erosive coarsening fining coarsening
+upward upward upward
+
+mudcracks, rootlets, burrowed
+
+exposure soil, surface,
+exposure ?firmground
+
+palaeokarst, encrusted, phosphate, pressure stylolite
+exposure bored surface, Fe-Mncrust, dissolution
+after Tucker, 2003) hardground hiatus seam
+
+### Page 40
+
+Useful structures for determining the way up of strata
+
+cross-stratification (all scales: cross bedding, cross lamination, etc)
+
+7S. See
+=e Aes
+—Sa ow
+
+truncated tops, curved bases
+
+erosional structures (all scales: channel! scours, micro scours, etc)
+
+normal grading common but BEWARE
+because reverse / s! re ling
+also occurs!! Look SCOUF ut
+
+water-escape structures (dishes, burst-throughs, sand volcanoes)
+
+= Sey A
+SSE BSi= BSS
+geopetals grazing trails (bed surface) _ fossils in growth position eg.stromatolite
+ae, Oe
+
+aa a
+Suty sediment fil AR LLGENE
+
+(after Stow, 2005)
+
+39
+
+### Page 41
+
+Classification of siliciclastic rocks
+
+Most usefully described in terms of grain size and grain composition.
+Textural properties (such as grain morphology and sorting) are also described.
+
+Grain size typically reported in terms of three
+descriptor * Gravel/conglomerate (>2.00 mm)
+
+b anette. * Sand/sandstone (<2.00 mm to >0.063 mm)
+ry * Mud/mudstone (<0.063 mm)
+
+Suffix the term -stone on the grain-size
+descriptor to imply the sediment has been
+lithified (except gravel which becomes
+gravel conglomerate or breccia when lithified
+
+conglomerate fl : i
+toon ded clasts) depending on the angularity of the clasts).
+
+Sedimentary rock composed of:
+
++ Framework grains (residual components of
+weathering i.e. quartz, feldspar and lithic
+fragments)
+
+* Non-framework component
+
+* matrix
+* diagenetic pore filling components
+(e.g. cement)
+
+breccia
+(angular clasts)
+
+Definition of matrix:
+
+* Conglomerates: <2 mm
+
++ Sandstones: frequently very fine material
+
+<30 ym, (Dott, 1964) but <63 ym is also used as
+this is mud/sand boundary
+
+* Be wary about the origin of clay: use textural
+analysis to identify an authigenic clay
+component masquerading as matrix
+
+* Use the Udden-Wentworth scale
+
+40
+
+### Page 42
+
+Composition of sandstones
+
+Grain composition is described in terms of varying proportions of quartz,
+feldspar, and rock fragments (lithic grains):
+
++ “Arenite”: clean sand(stone) (>50% sand sized grains) containing
+<15% matrix
+
++ “Wacke” or “Muddy sandstone”: dirty sand(stone) (>50% sand sized
+grains) containing >15% and
+< 75% matrix. Sometimes called a greywacke.
+
+* “Quartz arenite”: arenite containing >95% quartz grains
+
++ “Arkosic arenite”: arenite containing >25% feldspar and in which the
+amount of feldspar is greater than that of rock fragments
+
++ “Litharenite”: arenite containing >25% rock fragments and in which
+the amount of rock fragments is greater than that of feldspar
+
++ Put together in 3D, a typical sandstone classification is:
+
+Mudstones
+
+Quartz Arenite:
+Sub Arkose
+
+Arenite
+Feldspar
+
+6 Modified from Dott (1964)
+Rock Fragments and Pettijohn et al. (1972)
+
+Grain morphology: shape, sphericity and roundness
+
+Definitions:
+
+Shape: defined by the ratio of long, intermediate and short axes of the grain
+Sphericity: a measure of how closely the grain shape resembles a sphere
+Roundness: a description of the smoothness of the corners of the grain
+
+Clast shape is generally a function of:
++ the composition of the source material
+* any planes of weakness in the rock (e.g. bedding/lamination, cleavage or jointing)
+
+The clast morphology is not generally a reliable indicator of depositional environment,
+although a population of very well rounded grains does suggest either:
+
+* many cycles of transport or
+
++ intense abrasion in a special environment (e.g. a desert or beach)
+
+=
+ES
+3
+5
+2
+2
+3
+3
+
+0
+very angular angular subangular subrounded rounded well-rounded
+
+Categories of roundness for sediment grains
+(after Pettijohn et al., 1987)
+
+41
+
+### Page 43
+
+Quantification of textural properties: sorting
+
+Moderately sorted (1.00) Poorly sorted (2.00)
+Diameter Ratio* PHI Standard Verbal
+(mm) Deviation Scale
+
+——+ Frequency
+
+* ratio between the largest and smallest grain (after Folk, 1965)
+
+Poorly sorted Positive or fine skew
+Controls on sorting:
+* source rocks
+* grain size
+
++ depositional mechanism
+
+Well sorted Symmetrical + distance transported
+Sorting and skewness are of
+dubious value in determining
+depositional environments
+
+Bimodal Negative or
+
+| distribution | } coarse skew
+(after Folk, 1965)
+
+——~ Decreasing Coarser Finer
+grain size
+Frequency distribution curves showing types of
+sorting and skewness
+
+### Page 47
+
+metres above
+
+> ee Crystal fragments
+
+=| Pumice fragments
+
+Basal
+breccia
+lithofacies
+
+“\Avalanche &
+grain-flow
+deposits
+
+Sheet-flood
+deposits
+uv
+830 =
+fo}
+(2)
+Upper
+2 massive ®
+rs lithofacies =
+S ts)
+2 “h
+°
+825 = Fine shards
+Qa Dense lava
+oO lithoclasts
+me)
+°
+7)
+=
+2)
+
+Fossiliferous limestone |
+
+Lj T T
+Limestone cement conglomerate ash 2mm fapilli 64mm
+
+a .
+Volcano-sedimentary
+
+— { facies
+‘ E
+Lava flow 3 2
+’ td
+} a.
+Lava flow 2 a.
+’ =)
+ry
+Lava flowl
+= = Y
+a ~____»Limestone nek eames
+Unit 3
+Breccia facies
+hes Massive lava flow E
+fx
+, Oo
+Pillow-lavas =
+°
+i
+Unit |
+
+Massive basalt
+
+Lower conglomerate
+
+Cambrian-Ordovician basement

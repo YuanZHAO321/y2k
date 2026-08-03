@@ -1707,3 +1707,110 @@ I also agree to use safety belts in minibuses where fitted.
 79
 
 80
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 51
+
+-50-
+
+### Page 80
+
+6 = angle of repose
+
+erosion ~ 25°-30° subaqueous
+height ~
+wavelength
+100 subaqueous
+H = 0.0677 L°° wave ripple dune sandwave
+107 wavelength _ _0.01-0.6m 1-10m 5 - 500+ m
+_ note the break: height 0.003 -0.25m 0.1-1m 0.5-5+m
+£ 17) dunes are not just co
+# large ripples ot
+D> o&
+2 o17
+puree
+0.01 + e
+oe ——
+cross-bed if > 6 mm
+0.001 : : y z cross lamination if < 6 mm
+0.01 0.1 1 10 100 1000 3
+wavelength (m) 3
+set
+set geometry
+Planar tabular cross-stratification Planar wedge-shaped cross-stratification Trough cross-stratification
+Set Set
+set | Coset Set | Coset
+Set
+increasing flow strength fluctuating current strength
+- with limited erosion
+= —S
+angular tangential sigmoidal
+bedform size controlled by: dune wavelength dune height
+. 1 14 7— -
+clast size 8 044 x, / 4 044
+a
+flow velocity |= | 2 7 7 1
+c
+flow depth 3 E024 |  £ 02+ Ripples
+g g
+3 3
+z 3
+3 &
+= 014 qT F on
+08 4 7 08 4
+For subaqueous dunes: 08 ; 7 ey / 7
+; ot T aL T
+flow depth 6 x dune height 04 06 08 10 15 04 06 08 1.0 1.5
+dune height ~ 3 x set thickness flow velocity (m/s) flow velocity (m/s)
+
+clast size 350 um
+
+79
+
+### Page 81
+
+Tidal bedforms
+herringbone cross-stratification
+
+tidal bundles
+mud drapes
+period of lunar cycle
+0.0 0.25 0.5 0.75 1.0
+
+spring
+
+neap spring neap
+
+sand
+
+transport
+
+| threshold
+i
+
+15 16 17 18 19 20/21 22 23 24 25 2
+
+current velocity
+
+mixed sand and during neap tides,
+
+mud deposition bundles consist of thin single tidal tidal bundles reach maximum bundle boundaries
+drapes of mud with bundle product of size during spring tides when characterised by
+
+mud deposition only no sand deposition one tidal cycle current velocity reaches mud drapes deposited from
+due to weak current a maximum suspension as tide turns
+
+bedform migration
+———SSSSSSSSSSF—FF
+
+waxing peak waning
+angular tangential sigmoidal
+>
+
+“overturned” cross-bedding
+(formed before lithification)
+
+80

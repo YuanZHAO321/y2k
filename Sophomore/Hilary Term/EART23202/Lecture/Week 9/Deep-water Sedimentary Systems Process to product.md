@@ -161,6 +161,59 @@ https://theconversation.com/in-our-wi-fi-world-the-internet-still-depends-on-und
 
 ## Slide 13
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Flow type and structure Flow characteristics Interaction with topography
+
+Debris flow
+
+Density/ Debrite
+
+Composite flow Concentration
+
+= C*G 9)
+
+Transitional flow
+
+Flow height
+Flow height
+
+Banded
+sandstone
+
+=a
+[oo
+o a
+rf o
+= ay
+fo} =)
+) oa
+oe
+> 2
+a fom
+© c
+g a
+Qo ij
+£ a
+o)
+
+High-density turbidity current
+
+YDOG as 2)
+
+Low-density turbidity current
+
+High-density
+turbidite
+
+Flow height
+
+Flow height
+
+Density/ Low-density
+Concentration} turbidite
+
+
 ### Sediment Gravity Flows
 
 ## Slide 14
@@ -465,6 +518,59 @@ A major surprise from both the 2009–2010 and 2013 measurements was that indivi
 
 ## Slide 30
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Flow type and structure Flow characteristics Interaction with topography
+
+Debris flow
+
+Density/ Debrite
+
+Composite flow Concentration
+
+= C*G 9)
+
+Transitional flow
+
+Flow height
+Flow height
+
+Banded
+sandstone
+
+=a
+[oo
+o a
+rf o
+= ay
+fo} =)
+) oa
+oe
+> 2
+a fom
+© c
+g a
+Qo ij
+£ a
+o)
+
+High-density turbidity current
+
+YDOG as 2)
+
+Low-density turbidity current
+
+High-density
+turbidite
+
+Flow height
+
+Flow height
+
+Density/ Low-density
+Concentration} turbidite
+
+
 ### ‘hybrid beds’
 
 ## Slide 31
@@ -525,6 +631,30 @@ A major surprise from both the 2009–2010 and 2013 measurements was that indivi
 
 ## Slide 38
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Processes and nomenclature: debris flows
+
+Processes within the flow
+terminal snout
+outrunner
+block
+
+velocity profile = basal shearing
+
+laminar flow
+
+Deposits: debrites
+
+Ne zoe common inverse grading
+b Pootiysones
+b’
+
+debris flow lobe matrix rich: >2% clay
+
+Modified after Peter Haughton (UCD)
+
+
 ## Slide 39
 
 ### Debris flow deposits
@@ -550,6 +680,19 @@ A major surprise from both the 2009–2010 and 2013 measurements was that indivi
 - Soutter et al. 2018.
 
 ## Slide 42
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+slides
+
+Oa
+ma
+
+—HS thickness —Top Chalk depth
+Translation
+
+3 pcomulation
+
 
 - Soutter et al. 2018.
 
@@ -633,9 +776,77 @@ A major surprise from both the 2009–2010 and 2013 measurements was that indivi
 
 ## Slide 52
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Thrust & fold=:-"
+
+region we
+
+Count (N)
+
+OOBORAVONN2000>—-NNEoARADDD
+BeRsRSRSRSRoRSRSASRSASHOOoN
+
+Seismically
+homogenised
+
+He nash
+
+Megaclasts
+disintegration
+
+Mean= 247.3° WSW
+id
+
+tren
+
+
 ### Subamarine landslide deposits
 
 ## Slide 53
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+Concentric
+
+frontal margi
+
+‘Fig. 7b
+a <a
+
+MTD-B
+megaclasts
+
+held at end of ©
+
+grooves
+
+-2325
+
+- grooves ©
+
+TWT
+
+-2575
+
+Debris#low ~’
+
+‘directions
+
+255
+304
+
+MTD-B stats
+Gn =65
+
+G1 grooves (WSW!
+
+Mean = 284.7° WNW mcg ( )
+
+trend G2 grooves (NW)
+(G1 =3, G2 =7 Il G3 grooves (WNW)
+G3 = 26, G4 = 29) Hl G4 grooves (W)
+
 
 - Nwoko et al. 2020
 
@@ -664,6 +875,43 @@ A major surprise from both the 2009–2010 and 2013 measurements was that indivi
 - Classification: Internal     2011-09-03
 
 ## Slide 57
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+80% microplastic input Rivers, surface runoff, and wind, transport
+from terrestrial sources|\_"pi'oPlastic to coast 20% microplastic input
+
+Wave, storm and alongshore currents (re)suspend | from marine sources
+and transport microplastic to shelf edge
+
+Source: Sediment-gravity- Seafloor gyre
+Source:Urban Farming flows from shelf (see Fig. 1A)
+and industrial
+
+Source: Shipping
+
+Turbidity
+current
+deposits
+
+Continental slope
+
+c> Alongshore currents
+cC> Gravity current Je: contourite
+
+drift
+=> Deep thermohaline
+currents
+Microplastic captured
+
+° Fibres from turbidity currents,
+and their deposits, by
+Fragments/particles | bottom currents
+
+Bedrock subcrop
+
+Mounded contourite drift Contourite moat
+
 
 ## Slide 58
 

@@ -335,3 +335,13 @@ Now carry out the steps done previously to query how many buildings are in the F
 _EART29102: Practical 2_
 
 16
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 16
+
+EART29102: Practical 2
+
+16

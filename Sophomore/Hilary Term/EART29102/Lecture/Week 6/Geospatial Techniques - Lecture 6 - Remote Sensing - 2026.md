@@ -507,3 +507,15 @@ European Sentinel 2 Earth Observation viewer https://www.sentinel-hub.com/explor
 Landsat image viewer
 
 https://landsatlook.usgs.gov/explore
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 38
+
+Landsat orbits
+
+Landsat Next A '
+
+Elapsed: Odays 1.50 hours

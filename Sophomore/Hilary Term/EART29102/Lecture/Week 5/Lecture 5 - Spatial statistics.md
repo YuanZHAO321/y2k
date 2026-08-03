@@ -223,3 +223,70 @@ ESRI training: Mapping Clusters: Introduction to Statistical Cluster Analysis (5
 https://www.esri.com/training/catalog/5d39b6106b9c176 64bb656eb/mapping-clusters-introduction-to-statisticalcluster-analysis/
 
 24
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 8
+
+Complete spatial randomness
+
+IF features were
+randomly distributed ...
+
+we lation
+dchetry mal
+of the U
+would look
+like this
+
+.. elevation map aoe
+of the US ;
+would look
+like this
+
+### Page 13
+
+Nearest neighbour analysis
+
+e
+e @vjojave
+8 Desert
+
+ee
+e @ e
+@
+e
+Ye
+
+ers
+
+Average Nearest Neighbor Summary
+
+Nearest Neighbor Ratio 0.866323 Significance Level
+z-score -3.304793 Ha (ovalue)
+p-value 0.000950 ,
+
+HO00008
+
+|
+|
+
+Clustered
+
+Critical Value
+(z-score)
+<-2.58
+-2.58 - -1.96
+
+-1.96 --1.65
+
+71.65 - 1.65
+1.65 - 1.96
+1.96 - 2.58
+> 2.58
+
+Given the z-score of -3.304793, there is a less than 1% likelihood that this clustered pattern
+
+could be the result of random chance.

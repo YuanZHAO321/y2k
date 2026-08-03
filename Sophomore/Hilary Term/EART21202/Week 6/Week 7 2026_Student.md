@@ -532,6 +532,93 @@ type: slides
 
 ## Slide 32
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+(a)
+
+200
+
+Annual anthropogenic CO, et
+
+Annual emissions (GtCO,/yr)
+
+100
+
+100
+
+WGll scenario categories:
+
+1 >1000
+© 720-1000
+580-720
+1) 530-580
+i 430-530
+1) 430-480
+
+— Historical
+emissions
+
+RCP scenarios:
+— RCP8.5
+— RCP6.0
+—— RCPAS
+— RCP2.6
+
+1950
+
+2000
+
+Year
+
+2050
+
+2100
+
+scenario database in 2100
+
+Full range of the WGIII ARS
+
+Global greenhouse gas emissions and warming scenarios Qaaveid
+
+— Each pathway comes with uncertainty, marked by the shading from low to high emissions under each scenario. in Data
+—Warming refers to the expected global temperature rise by 2100, relative to pre-industrial temperatures.
+
+Annual global greenhouse gas emissions
+in gigatonnes of carbon dioxide-equivalents
+
+150 Gt
+No climate policies
+4.1-4.8°C
+~ expected emissions in a baseline scenario
+if countries had not implemented climate
+reduction policies.
+
+100 Gt
+
+Current policies
+0G. 2.8-3.2°C
+
++ emissions with current climate policies in
+place result in warming of 2.8 to 3.2°C by 2100.
+
+Pledges & targets
+2.5-2.8°C
+
++ emissions if all countries delivered on reduction
+pledges result in warming of 2.5 to 2.8°C by 2100.
+
+Greenhouse gas emissions
+up to the present
+
+2°C pathways
+1.5°C pathways
+
+1990 2000 2010 2020 2030 2040 2050 2060 2070 2080 2090 2100
+
+Data source: Climate Action Tracker (based on national policies and pledges as of December 2019).
+OurWorldinData.org - Research and data to make progress against the world’s largest problems. Licensed under CC-BY by the authors Hannah Ritchie & Max Roser.
+
+
 - Future projections
 
 ## Slide 33

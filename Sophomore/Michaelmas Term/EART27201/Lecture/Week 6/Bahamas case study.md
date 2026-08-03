@@ -129,3 +129,41 @@ Gastropods grazing on the carbonate mud sediment of the Bahamas lagoon.  Trails 
 - Only coralline algae, echinoids and some molluscs are calcite
 
 - Much of sediment will be subject to recrystallization or complete solution as a result of instability of aragonite.
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 3
+
+ee TIDAL-FLAT LAMINITES LAGOONAL MUDS
+
+=
+FAEWEATHIER WAVESASE? 7 BACK-REEF GRAINSTONE
+BACK-REEF PATCH REEFS
+
+REEFAL BUILDUPS
+MASSIVE;
+ce ELONGATE SPURS AND GROOVES
+
+o FORESLOPE
+On BIOHERMS
+
+RHVTHMITES/BRECCIAS Figure 5-7 —_ Diagram of a rimmed-shelf carbonate environment
+
+LEVEL
+
+FAIRWEATHER WAVE-BASE?
+
+TIDE-FLAT LAMINITES
+
+SHALLOW-RAMP BIOHERMS;
+WAVE ENERGY VARIABLE
+
+- Saas OOID SHOALS MAY REPLACE BIOHERMS
+DEEPER-RAMP MUDS; RAMP
+
+COMMON DOWNSLOPE BRECCIAS ABSENT
+BUILDUPS
+
+Figure 5-8 Diagram of a ramp carbonate environment

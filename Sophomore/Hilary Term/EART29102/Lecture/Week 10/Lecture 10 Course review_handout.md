@@ -309,3 +309,77 @@ _Answer:_ A and B are geometric corrections. The others are radiometric correcti
 ||correct answers|correct answer|one correct, one|incorrect|
 |||only|incorrect|answers|
 |0|2|1|0|0|
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 4
+
+GIS functional components
+
+Application Programming
+
+User Interface Interface
+. Interface f
+Spatial Data } | Spatial Data || Spatial Data [| Spatial Data | Too/s5
+Input Manipulation Analysis Output
+Data
+
+management
+
+### Page 27
+
+Map elements
+
+Title
+
+v
+Households with Very High Income in Melbourne
+by Local Government Areas in 2006
+
+North arrow
+
+Map body
+
+Legend
+inset
+
+Scale bar
+
+Credits Neatline Other text information
+
+### Page 33
+
+ONE HOUR THIRTY MINUTES
+THE UNIVERSITY OF MANCHESTER
+
+GEOSPATIAL TECHNIQUES
+
+08 June 2026
+
+14:00 — 15:30
+
+Instructions for candidates
+
+Answer ALL questions in the online exam.
+
+This is a closed book exam.
+
+The use of Al software is prohibited.
+
+There are 80 marks available on this exam. The number of marks for each question is
+shown and may be used as a guide to how much time you should spend on each.
+
+Some questions require you to select more than one correct answer from a list.
+
+You gain marks for each correct answer selected.
+You lose marks for each incorrect answer selected.
+You do not lose marks for answers you do not select.
+The minimum score for each question is 0.
+
+Answers to the online exam MUST be submitted at the end of the exam.
+
+Additional permitted materials
+
+The use of calculators is NOT permitted for this exam.

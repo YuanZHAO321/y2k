@@ -680,3 +680,17 @@ Also useful for in the field
 Tucker, 2011, Sedimentary rocks in the field: a practical guide (earlier editions just as good e.g., 2003)
 
 Stow, 2005, Sedimentary rocks in the field: a colour guide Coe et al, 2010, Geological Field Techniques
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 85
+
+boring
+
+tructures
+
+logenic s
+
+B

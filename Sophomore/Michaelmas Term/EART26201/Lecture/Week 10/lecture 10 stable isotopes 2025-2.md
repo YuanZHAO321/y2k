@@ -238,3 +238,78 @@ International Atomic Energy Authority: Environmental Isotopes in the Hydrologica
 – - downloaded from http://www naweb.iaea.org/napc/ih/IHS_resources_publication_hydroCycle_en.html
 
 Gat J.R. (1996) Oxygen and hydrogen isotopes in the hydrological cycle. Annual Reviews of Earth and Planetary Science 24, 225-262.
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 1
+
+PHARVIACO
+CHEMISTRY
+LIBRARY
+
+26
+
+STABLE ISOTOPES
+IN PHARMACEUTICAL
+RESEARCH
+
+EOE BY
+
+THOMAS R. BROWNE
+
+Stable Isotopes
+
+rest Stable Isotope
+
+r : O i
+Nuclear Transmutation ace eg
+
+of Stable and
+Radioactive Isotopes
+in Biological Systems
+
+tse!
+
+is. 4 i
+
+ie
+
+STABLE ISOTOPES IN
+HUMAN NUTRITION
+
+LESSRTSY METHSOS LAE REVUE APPIGET
+
+= =| Stable Isotope
+
+& Geochemistry
+
+### Page 21
+
+I
+Carbonate clumped-isotope thermometry
+
+CalCcleototrgo + Calzcl®Oo6o4g = Cal*Clotro6g + Cal2Cleottegt6o
+
+HPO,
+
+@ Inorganic calibration
+0 Corals
+
+© Fish otoliths
+
+O Soil carbonate
+
+as Brachiopods
+
+@ Mollusks C0 I8Q16O (mass 47)
+
+| Acces 1 |3¢1000
+(47/44)
+
+random
+
+Mass 47--- 13C'#O'8O (mostly)
+Mass 44— ??COtEO ‘a
+slide from W. Guo

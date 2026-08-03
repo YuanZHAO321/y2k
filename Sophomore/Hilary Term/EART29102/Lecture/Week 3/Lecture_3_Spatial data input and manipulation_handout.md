@@ -306,3 +306,42 @@ ESRI training: Getting Started with Imagery and Remote Sensing (component 1 only
 https://www.esri.com/training/catalog/634f16c15030f204ae8 e30f4/getting-started-with-imagery-and-remote-sensing/
 
 37
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 21
+
+Digital spatial data formats
+
+Vector Raster
+ESRI ArcInfo Coverage ESRI GRID
+ESRI ArcInfo E00 (ArcInfo Interchange Format) DTED (Digital Terrain Elevation Data)
+ESRI ArcView Shapefile ERDAS IMG (IMAGINE)
+MapInfo MIF (Map Interchange Format) BMP (Windows Bitmap)
+USGS DLG (Digital Line Graphs) TIFF (Tagged Image File Format)
+AutoCAD DXF (Data Exchange Format) GeoTIFF
+AutoCAD DWG (Drawing) GIF (Graphics Interchange Format)
+CGM (Computer Graphics Metafile, ISO) JPEG (Joint Photographic Experts Group)
+Microstation DGN (Microstation drawing file PNG (Portable Network Graphics)
+format)
+SDTS (Spatial Data Transfer Standard , US) USGS DEM
+NTF (National Transfer Format, UK) ECW (Enhanced Compressed Wavelet)
+
+TIGER (Topologically Integrated Geographic
+Encoding and Referencing System, US Bureau
+of Census)
+
+DIME (Dual Independent Map Encoding, US
+Bureau of Census)
+
+VPF (Vector Product Format, National Imagery
+and Mapping Agency, US)
+
+EML (Keyhole Markup Language, Google)
+WFS (Web Feature Service, Open Geospatial
+Consortium)
+
+NetCDF (Network Common Data Form, Unidata)
+8-457 (Intemational Hydrographic Organization)

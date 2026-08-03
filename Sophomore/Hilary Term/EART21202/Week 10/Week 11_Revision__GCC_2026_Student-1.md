@@ -34,6 +34,34 @@ type: slides
 
 ## Slide 3
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+angen ars mean
+recon (=)
+
+NOx BrOx CFCs HFCs O,
+HOx ClOx HCFCs
+
+Aq. Chem.
+
+Sustainability
+
+Policy
+
+sauman and ECOSYstem Heap,
+Societal :
+Issues
+
+Regional
+
+Global
+
+1 Data
+undamental “a q \ =Evaluations
+Science ae
+Atm. Modelind
+
+
 ## Slide 4
 
 - Natural Variability In Climate
@@ -60,7 +88,37 @@ type: slides
 
 ## Slide 7
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Global Climate Change
+Student FO
+
+https://go.blueja.io/a7 OVNkKwObEWN 1ftWmHq9GA
+
+To access the evaluation, scan this QR code with your
+mobile phone.
+
+
 ## Slide 8
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字。**识别质量低**——原件疑为手写或图件，文字大多不可靠，仅作线索，务必对照原件。)_
+
+# wv Lecture 11: Revision
+
+m1)
+
+=) Lecture 11: Revision: Description
+
+a}
+
+Lecture 11: Revision: Past Exam Papers
+
+m1)
+
+=] Lecture 11: Revision: Lecture Material
+
+Oo 8 9
+
 
 - Last Year’s Paper
 
@@ -97,6 +155,75 @@ type: slides
 - Could you maybe go over some approaches for long answer questions & what you expect to see/how much writing you expect for a sufficient answer?
 
 ## Slide 11
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+EART21202
+
+ONE HOUR THIRTY MINUTES
+THE UNIVERSITY OF MANCHESTER
+
+GLOBAL CLIMATE CHANGE
+18 May 2026
+
+09:45 — 11:15
+
+Instructions for candidates
+Answer ALL questions in the booklets provided.
+This is a closed book exam.
+
+There are 75 marks available on this paper. The number of marks for each question is
+shown and may be used as a guide to how much time you should spend on each.
+
+Clearly label which question each of your answers corresponds to. All writing must be
+LEGIBLE. Illegible documents cannot be marked.
+
+You may wish to use labelled sketches to illustrate your answers where appropriate.
+
+Additional permitted materials
+
+The use of calculators is permitted, provided they cannot store text, perform symbolic
+algebra, and have no graphing capability.
+
+© The University of Manchester, 2026
+
+Future Climate Projections
+
+(a) Explain why projections of future climate change are
+important and how they are produced. Discuss the main
+sources of uncertainty in these projections and explain why
+such uncertainties present challenges for climate policy and [15 marks]
+adaptation planning.
+
+Mark Scheme:
+
+Importance of future climate projections (3 marks)
+e Explanation of why climate projections are important for understanding future
+climate risks and impacts (2)
+(e.g. informing mitigation targets, adaptation planning, risk assessment)
+e Recognition that projections support decision-making at multiple scales (global to
+local) (1)
+
+How climate projections are produced (4 marks)
+e Use of climate models to simulate the climate system based on physical laws (2)
+e Use of emissions or concentration pathways/scenarios (e.g. different future
+emissions trajectories) to explore possible futures (2)
+
+Sources of uncertainty in climate projections (5 marks)
+e Physical process uncertainty, including climate feedbacks (e.g. clouds, aerosols)
+(2)
+e Model uncertainty, including differences in structure, parameterisation, and
+resolution (2)
+e Scenario uncertainty, arising from unknown future socio-economic pathways and
+emissions (1)
+
+Implications for policy and adaptation planning (3 marks)
+e Explanation of how uncertainty complicates decision-making for mitigation and
+adaptation (2)
+(e.g. range of outcomes, risk management, timing and scale of interventions)
+e Recognition of the need for flexible, adaptive, or precautionary approaches to
+policy (1)
+
 
 - Not needed!
 
@@ -278,6 +405,17 @@ type: slides
 
 ## Slide 23
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Total absorption
+
+and scattering
+
+black-body spectra &
+S
+°
+
+
 - Energy Balance
 
 ## Slide 24
@@ -383,6 +521,43 @@ type: slides
 - Since 1750, the warming driven by greenhouse gases coming from the human burning of fossil fuels is over 270 times greater than the slight extra warming coming from the Sun itself over that same time interval.
 
 ## Slide 31
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+How Sulphate Aerosols Affect Solar Radiation
+
+Reflection of
+
+incoming solar
+radiation back
+to space
+
+Reflection of
+
+incoming solar
+radiation back
+to space
+
+Scattering of
+
+incoming solar
+radiation back
+to space
+
+“Polluted” cloud
+with sulphate
+aerosols as cloud
+condensation nuclei
+(cloud is more reflective)
+
+se
+“Clean” cloud
+Sulphate | = without sulphate
+
+Aerosols aerosols as cloud
+
+condensation nuclei
+
 
 - Volcanic Climate Influence
 

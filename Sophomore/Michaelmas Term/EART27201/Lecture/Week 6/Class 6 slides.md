@@ -524,3 +524,11 @@ Distribution of pelagic and neritic sediments today
 - Cretaceous - early Eocene the CCD was much shallower due to intense volcanic activity = higher atmospheric CO2 concentrations (higher pCO2 in oceans) → increased dissolved CO 2 in surface waters
 
 - • Palaeozoic and early Mesozoic, prior to evolution of coccolithophores, siliceous oozes may have deposited at much shallower depths than when there was calcareous plankton available for sedimentation
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 57
+
+Revision from Year 1

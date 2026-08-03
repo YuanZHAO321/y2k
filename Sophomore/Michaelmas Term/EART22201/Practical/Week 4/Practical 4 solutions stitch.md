@@ -242,3 +242,138 @@ See separate file for a model petrographic description and interpretation
 
 <!-- Start of picture text -->
 16 Trend for magma compositions<br>between 5 and 10 wt.% MgO<br>14<br>12<br>10<br>8<br>Crystal addition<br>trend for picrites<br>6<br>4<br>Iceland<br>ol<br>Trend for magma compositions  plag<br>2<br>between 5 and 10 wt.% MgO<br>cpx<br>Picrites<br>0<br>0 5 10 15 20 25 30 35 40 45 50<br>MgO wt.%<br>FeO wt.%<br><!-- End of picture text -->
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 9
+
+i738
+
+pi ei
+
+Craskahbins taneous rock. Tupreal gran StL
+
+<b -— a3 ram. No welds
+
+banding | pretereed Nonreral abiqumrant Or ttennal  shauchure.
+
+Minerals
+
+OK ore
+
+~I5%
+
+Rugte (eon) -
+
+~3SZ
+
+Plagco clase
+~35%
+
+Oxcde
+(Nragnabte)
+~5%
+
+. Bae relrel, Curing cracks oa
+
+_— auarle; rterskthal lexhice
+ey baa
+
+: Typrcatly bo Zita (i OL) Kea Wenn)
+
+» Qudhedral, ankedral — oy outro dral fs <— Somaimes His 90 ortlrorlronlac
+
+Aeavages are WNLe
+
+. Occastonaly ras Opaque twckusvons, Cube Srape > sprel 7?
+” Resk aRpeacance; No evidence of alkecahion
+
+Range Of ‘tal stics Kemn  < Gti iG > 3m
+
+: Largest xtals Conkrains Wduuistonrs of ply (and occasxonall, ol)
+* \nkerskhal texture
+
+- In Was Sample cp Kas Lasge celiel + faut dusky loroum colour, Sonar
+
+Tohned.
+
+Taloular Vaiss, Ro utkore Hans lam co Length, Mawr  conshtuonk of tHe
+
+wOundmass .
+> Feund as Mclustars urttlur Cex Wore ack! Wada OG %)
+= Does nok tonkarn nuhreral mcliusranrs,
+
+- OANA tno ohh:
+
+\herstival Terhune
+
+- Gear sve 0.2mm ALLO eccastonall, Nacger coustals OCcegy
+wlershrces up to
+
+vlonnn “ moa. ddLOrASV'OU
+
+### Page 10
+
+Or Koguroxene ( nrot wW~ 2N0ny Hua sedron)
+
+- Stwolar aggeacance + lexhue bo Cee UW aa
+»Shragdak exbrebor, Lao I ordor Wav efrngence.
+
+Ordor of cyystaWizabar.
+
+As eat a - Olicne fucks euhedeal lo ankedral
+(°c) . hese a oe Pere ol aie
+Lace sox.
+SS is, ollies NAc cals
+Ses ' s : ; = fe Plagvoclase Laks skact Cryskallisrng hoxk
+. Puroxenes cnystallice UW Ukecchtdral spaces
+Looucon plastoclanes. Ply i crystalline
+hogatlver bo Gow or ndrucass.
+* Oxtdors Ceysrallize w becdnhal SPA coo.
+Texhure
+= clradacnusrs
+
+OPEC + flag are enclosed bey Cex Mititte. ol-oenych
+Pristine OGL Ne rice: enane, of secondony Nrerals Rad Hanh ain
+alse rahkan
+
+process. [So ak cas not Sponk a Lang Ware: UN a Wek enronnent._ |
+Rock Rone:
+
+OCUNINE POLERITE
+
+/ \
+
+Tok nannre implied You Medina
+Ri ey ee eae + essewNal nerals
+
+( Olina Qaderc aloo aceeptalee) .
+
+(to coane) Qyracn sire
+
+(hag + epx
+
+Ay TA biiiane: rock. Cran Size Suggests an urterane dcake Coding tale, SO Wiss
+
+bias Ko a Sample home ro duke OE ee ten Scule, (ies NOT a Vacge raga Oransber) .
+
+Oc, cake a he Wa Glee nae POmOE ras Wel Laure {lars,
+
+Miner Ahead os. ainadthenh UA an olinlke Holle Magara, and a Likely Le chance
+Auermrakyue — Ocean (sland —> tus wartd be earcebeat ul
+
+t. teLakvel.s ee shania The lack of 2° adberahon,
+
+because ck sth) Corkains of
+
+Nodal Progochkon of dire .
+
+Sarg AS aks Go Nias ocak Rage.
+
+Viger Lee rock cs en truseix| tee BG
+
+Ee ae -
+
+ce teens

@@ -46,9 +46,89 @@ type: slides
 
 ## Slide 3
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+EART21202
+
+ONE HOUR THIRTY MINUTES
+THE UNIVERSITY OF MANCHESTER
+
+GLOBAL CLIMATE CHANGE
+18 May 2026
+
+09:45 — 11:15
+
+Instructions for candidates
+Answer ALL questions in the booklets provided.
+This is a closed book exam.
+
+There are 75 marks available on this paper. The number of marks for each question is
+shown and may be used as a guide to how much time you should spend on each.
+
+Clearly label which question each of your answers corresponds to. All writing must be
+LEGIBLE. Illegible documents cannot be marked.
+
+You may wish to use labelled sketches to illustrate your answers where appropriate.
+
+Additional permitted materials
+
+The use of calculators is permitted, provided they cannot store text, perform symbolic
+algebra, and have no graphing capability.
+
+© The University of Manchester, 2026
+
+Future Climate Projections
+
+(a) Explain why projections of future climate change are
+important and how they are produced. Discuss the main
+sources of uncertainty in these projections and explain why
+such uncertainties present challenges for climate policy and [15 marks]
+adaptation planning.
+
+Mark Scheme:
+
+Importance of future climate projections (3 marks)
+e Explanation of why climate projections are important for understanding future
+climate risks and impacts (2)
+(e.g. informing mitigation targets, adaptation planning, risk assessment)
+e Recognition that projections support decision-making at multiple scales (global to
+local) (1)
+
+How climate projections are produced (4 marks)
+e Use of climate models to simulate the climate system based on physical laws (2)
+e Use of emissions or concentration pathways/scenarios (e.g. different future
+emissions trajectories) to explore possible futures (2)
+
+Sources of uncertainty in climate projections (5 marks)
+e Physical process uncertainty, including climate feedbacks (e.g. clouds, aerosols)
+(2)
+e Model uncertainty, including differences in structure, parameterisation, and
+resolution (2)
+e Scenario uncertainty, arising from unknown future socio-economic pathways and
+emissions (1)
+
+Implications for policy and adaptation planning (3 marks)
+e Explanation of how uncertainty complicates decision-making for mitigation and
+adaptation (2)
+(e.g. range of outcomes, risk management, timing and scale of interventions)
+e Recognition of the need for flexible, adaptive, or precautionary approaches to
+policy (1)
+
+
 - Not needed!
 
 ## Slide 4
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Global Climate Change
+Student FO
+
+https://go.blueja.io/a7 OVNkKwObEWN 1ftWmHq9GA
+
+To access the evaluation, scan this QR code with your
+mobile phone.
+
 
 ## Slide 5
 
@@ -142,7 +222,164 @@ type: slides
 
 ## Slide 9
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Drivers of
+climate change
+
+Changes to the
+climate system
+
+Impacts
+
+More extreme
+‘weather
+
+Warming oceans Fe
+
+Changesin
+ocean currents
+
+4 h
+ey
+
+Global greening
+
+(Ocean acidification Pesing sealevels roe
+
+
 ## Slide 10
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Regional key risks and
+
+Representative key risks for each region for
+
+Physical systems
+
+Biological systems
+
+Human and managed systems
+
+5 5 5 Glaciers, . .
+otential for risk reduction snow, ice Rivers, lakes, Coastal erosion Terrestrial ot 1g: Marine Food @ 6 Liveli
+P and/or floods and/or aL and/or sea level ecosystems r.) Wildfire << ecosystems fe) production Fa Livelihoods, health
+permafrost drought effects
+---- Risk level----
+Polar Regions (Arctic and Antarc Medium hi 4
+Risks fi Risks for health Unprecedented challenges, g
+ISSR OSYSIENIS and well-being especially from rate of change Present!
+ae Near term (2030-2
+at Long term2°C
+(2080-2100) gece
+ia 2 ; re otentialfor
+North Americ Increased damages from Risklevel with additional Risklevel with
+river and coastal floods high adaptation adaptation to current adaptation
+
+reduce risk
+
+Increased damages
+from wildfires
+
+Distributional
+
+shift and reduced
+fisheries catch
+
+potential at low latitudes
+
+Heat-related
+human mortality
+
+Increased damages
+from river and coastal
+urban floods
+
+Increased damages
+from extreme heat
+
+events and wildfires Increased flood damage to
+
+infrastructure, livelihoods
+
+Heat-related
+human mortality
+
+>
+
+Increased drought-
+related water an
+food shortage
+
+a
+
+and settlements é
+
+Se) |
+
+a
+4) e.
+Fa
+
+so ee
+
+24
+
+Compounded stress
+
+Central and South Ameriq on water resources
+
+Reduced water availability and
+
+increased flooding and landslides
+
+* BRR srattisiancs
+
+Australasia
+
+Increased mass coral
+bleaching and mortality
+
+Coastal inundation
+and habitat loss
+
+Zo
+
+4
+
+Reduced food production and quality
+
+Reduced crop productivity and
+livelihood and food security
+
+Vector- and water-
+borne diseases
+
+Loss of livelihoods,
+settlements, infrastructure,
+ecosystem services and
+
+economic stability
+
+=
+ri.
+
+Risks for low-lying
+coastal areas
+
+Significant change in composition
+and structure of coral reef systems
+
+Increased flood damage
+to infrastructure and
+settlements
+
+Increased risks to
+coastal infrastructure
+and low-lying
+ecosystems
+
 
 ## Slide 11
 
@@ -192,6 +429,34 @@ type: slides
 
 ## Slide 15
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Solar Climate
+Intervention Methods
+
+4) Space-based methods
+
+3) Increasing the amount of
+
+- stratospheric aerosol (SAI) 5) Decreasing the
+ee amount of high
+altitude cirrus
+clouds (CCT)
+
+10-16 km
+
+Tropopause
+
+2) Increasing the reflectivity
+of marine clouds (MCB)
+
+1) Surface albedo
+
+= iia eS
+
+ission of longwave radiation
+
+
 ## Slide 16
 
 - How much CO2 can we emit?
@@ -237,6 +502,127 @@ type: slides
 - adapted from Figure 2.3, AR5 synthesis report
 
 ## Slide 20
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Per capita carbon emissions
+
+Per capita carbon emissions
+
+y Income Group
+
+Hy 16% of population ' 51% of population 49% of population 1 9% of population
+1 38% ofglobalCO, |; 86% of global CO, 14% of global CO, ' 0.5% of global CO,
+<—>
+1 - I< ~
+
+'
+
+1
+
+15 tonnes High income
+1.2 billion people
+
+11.3tCO,/person/y |
+
+Low income
+
+i
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Upper-middle income '
+Lower-middle income 1 0.7 billion people
+
+1
+
+1
+
+1
+
+1
+
+'
+
+1
+
+1
+
+1
+
+g
+
+x
+
+a
+
+©
+
+B 10 tonnes 2.6 billion people
+
+8 6.4 tCO,/person/y 3 billion people 0.26 tCO,/person/y
+a 13.4 billion tCO,, 1.6 tCO,/person/y
+
+feMmeeRouues 38% global emissions ee.
+
+g 16.6 billion CO, 4,7 billion tCO, 0.17 billion tCo,,
+
+48% global emissions 13% global emissions 0.5% global emissions
+
+1 billion 2 billion 3 billion 4 billion 5 billion 6 billion 7 billion
+Population
+By Region
+
+North America
+17.6 tCO,/person/y ‘Oceania
+11 tCO,/person/y
+
+5% of population
+18% of emissions | |0.5% of population|
+20 tonnes 1% of emissions
+
+8 15 tonnes Europe Latin America
+
+5 7.6 tCO,/person/y | g the Caribbean
+
+c 6.2 tCO,/person/y
+
+8 10% of population ‘Asia
+
+8 40 tonnes 16% of emissions |] 994 of population 3.8 1CO,/person/y
+
+es 12% of emissions ; Africa
+
+be 60% of population 1.1 tCO,/person/y
+
+Q 49% of emissions
+
+- } 16% of population
+4 billion tCO, 4% of emissions
+
+(12%) 17.1 billion tCO, (49%)
+
+1 billion 2 billion 3 billion 4 billion 5 billion 6 billion 7 billion
+
+Population
+
+in Data based on data from the Global Carbon Proje! 8) & World Bank income groups.
+n from OurWorldinData.org, where you find 3 V hanging. Li
+
+CC-BY-SA by the authors Hannah Ritchie and Max Ros
+
 
 - GHG Emissions per capita
 
@@ -343,6 +729,49 @@ We now know how much CO2 we can release, we know one country cannot control its 
 - https://www.carbonbrief.org/mission-2020-new-global-strategy-rapidly-reduce-carbon-emissions
 
 ## Slide 31
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+Global greenhouse gas emissions and warming scenarios Qaaveid
+
+— Each pathway comes with uncertainty, marked by the shading from low to high emissions under each scenario. in Data
+—Warming refers to the expected global temperature rise by 2100, relative to pre-industrial temperatures.
+
+Annual global greenhouse gas emissions
+in gigatonnes of carbon dioxide-equivalents
+
+150 Gt
+No climate policies
+4.1-4.8°C
+~ expected emissions in a baseline scenario
+if countries had not implemented climate
+reduction policies.
+
+100 Gt
+
+Current policies
+0G. 2.8-3.2°C
+
++ emissions with current climate policies in
+place result in warming of 2.8 to 3.2°C by 2100.
+
+Pledges & targets
+2.5-2.8°C
+
++ emissions if all countries delivered on reduction
+pledges result in warming of 2.5 to 2.8°C by 2100.
+
+Greenhouse gas emissions
+up to the present
+
+2°C pathways
+1.5°C pathways
+
+1990 2000 2010 2020 2030 2040 2050 2060 2070 2080 2090 2100
+
+Data source: Climate Action Tracker (based on national policies and pledges as of December 2019).
+OurWorldinData.org - Research and data to make progress against the world’s largest problems. Licensed under CC-BY by the authors Hannah Ritchie & Max Roser.
+
 
 - Future projections
 

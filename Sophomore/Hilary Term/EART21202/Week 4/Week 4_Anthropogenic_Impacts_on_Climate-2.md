@@ -168,6 +168,24 @@ Individual introductions
 
 ## Slide 11
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+90% of ozone is in the
+GOOD. STRATOSPHERE
+
+ozone in the
+stratosphere
+
+OZONE (0,)
+
+10% of ozone is in the
+TROPOSPHERE
+Ground-level ozone is a
+
+GHG and a major
+component of smog
+
+
 - Ozone introduction
 
 ## Slide 12

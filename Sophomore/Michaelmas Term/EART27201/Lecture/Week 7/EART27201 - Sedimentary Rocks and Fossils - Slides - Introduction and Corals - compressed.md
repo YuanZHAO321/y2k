@@ -291,3 +291,24 @@ Left: Clarkson, E.N.K., 2009. Invertebrate palaeontology and evolution. John Wil
 Source: Benton, M.J. and Harper, D.A., 2020. Introduction to paleobiology and the fossil record. John Wiley & Sons.
 
 45
+
+## OCR 补充（原文中无文字层的页面）
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+### Page 11
+
+Phylogeny
+
+ir
+Deuterostomes
+
+Lophotrochozoans
+
+Ecdysozoans
+
+. Proterostomes
+
+The utility of fossils
+
+Taxonomy

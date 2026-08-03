@@ -24,9 +24,82 @@ type: slides
 
 ## Slide 3
 
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+GOOO
+
+ATMOSPHERE
+
+Global water cycle
+
+Extreme weather
+
+Clouds and convection
+Aerosols and
+
+OCEAN
+
+Modes of variability
+
+Coastal processes and waves
+Ocean currents and eddies
+Salinity and
+
+atmospheric chemistry biogeochemistry
+Radiative transfer Mixed layer processes
+Turbulence and Deep ocean circulation
+‘surface exchanges Sea ice
+Human interactions with Melt channels and
+land, water, and energy ice shelves
+
+Plant processes Ice sheets and glaciers
+Vegetation dynamics Snowpack
+Terrestrial biogeochemistry
+
+Soil hydrology
+
+CRYOSPHERE
+
+
 - Brief Answer
 
 ## Slide 4
+
+_(以下内容由图片 OCR 识别得到，原文件该处无可提取文字；识别可能有误，请对照原件。)_
+
+‘Changes in the Atmosphere: Changes in the
+Composition, Circulation
+
+Hydrological Cycle
+Changes in
+
+Solar Inputs
+
+‘Atmosphere
+
+NuOy Ar ‘Volcanic Activit
+H,0,CO,,CH,N,0, 0, etc, Yetanle Activity
+
+Aerosols a
+
+‘Atmosphere-Biosphere
+Precipitation
+
+Interaction
+Evaporation
+“Terrestrial
+iia Radiation
+
+Human Influences,
+Exchange Stress
+
+Land Surface
+ca-Ocsan Coup ‘Changes in the Cryosphere:
+
+i) Rhee taes Snow, Frozen Ground, Sea Ic, Ice Sheets, Glaciers
+Changes inthe Ocean: Changes inon the Land Surface:
+Circulation, Sea Level, Biogeochemistry Orography, Land Use, Vegetation, Ecosystems
+
 
 - Brief Answer
 
