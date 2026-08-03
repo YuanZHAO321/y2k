@@ -15,7 +15,9 @@
 
 ---
 
-这是本科纪元史上的第二个千年。
+这是人类文明的第二个千年,也是太阳的第二十个银河年。
+
+而在本科纪元里,此刻是第一年的最后一夜——时钟即将从 **01** 跳到 **02**。
 
 在旧纪元里,时间以「周」计,一共 **112** 个;记忆以「词」计,一共 **1,200,220** 个。而负责存储这一切的系统——一颗人脑——和 1999 年所有的老系统一样:**只用两位数记年,并且会遗忘。**
 
@@ -93,19 +95,38 @@
 
 ```
 y2k/
-├── README.md                  ← 本文件
-├── PLAN.md                    ← 项目企划书:总原则、流程、规范、进度追踪
-└── Freshman/                  ← 旧纪元的完整归档
-    ├── order.md               ← 13 门子课程学习顺序 + 排序理由
-    ├── manifest.md            ← 执行清单:周单元、材料词数统计、异常裁定
-    ├── EART11100/<Term>/<课程>/
-    ├── EART11200/<Term>/<课程>/
-    └── EART11300/...
-        └── <课程>/
-            ├── Course Notes.md    ← 课程总纲(主线 + 重点难点 + 勘误表)
-            └── Notes/
-                └── Week NN.md     ← 逐周详尽笔记
+├── README.md                                        ← 本文件
+├── PLAN.md                                          ← 项目企划书:总原则、流程、规范、进度追踪
+├── Freshman/                                        ← 第一纪元:大一(已归档)
+│   ├── order.md                                     ← 13 门子课程学习顺序 + 排序理由
+│   ├── manifest.md                                  ← 执行清单:周单元、词数统计、异常裁定
+│   ├── EART11100/                                   ← Understanding the Earth(叙事主线)
+│   │   ├── Michaelmas Term/
+│   │   │   ├── How to Build a Planet/
+│   │   │   ├── How to Grow a Planet/
+│   │   │   └── The Workshops/
+│   │   └── Hilary Term/
+│   │       ├── A Dynamic Planet/
+│   │       └── A Sustainable Planet/
+│   ├── EART11200/                                   ← Toolkit(数理化与编程工具箱)
+│   │   ├── Michaelmas Term/
+│   │   │   ├── Chemistry of the Earth/
+│   │   │   └── Mathematics and Physics/
+│   │   │       ├── Introductory Maths for Natural Scientists/
+│   │   │       └── Statistics for Natural Scientists/
+│   │   └── Hilary Term/
+│   │       ├── Computer Programming/
+│   │       └── Mathematics and Physics/
+│   └── EART11300/                                   ← 实践技能与野外实习
+│       ├── Practical Skills/
+│       │   ├── Michaelmas Term/
+│       │   └── Hilary Term/
+│       └── Hilary Term/
+│           └── 2025 Field Trip Material/
+└── Sophomore/                                       ← 第二纪元:大二(归档位已预留)
 ```
+
+每个课程文件夹内的固定构成:`Course Notes.md`(课程总纲:主线 + 重点难点 + 勘误表)+ `Notes/Week NN.md`(逐周详尽笔记)。
 
 ## 04 · 补丁规格
 
@@ -148,7 +169,8 @@ y2k/
 
 <div align="center">
 
-<sub>本 README 写于一个用两位数记年的时代,并已通过千年虫合规测试。<br>
+<sub>银河年(galactic year):太阳绕银心公转一周,约 2.3 亿年。46 亿岁的太阳,正走在它的第二十个银河年里。<br>
+本 README 写于一个用两位数记年的时代,并已通过千年虫合规测试。<br>
 整个仓库中,只有周号还在使用两位数(Week 01–12)——经验证,它们永远不会溢出。<br><br>
 🐛 <b>Y2K PROJECT</b> · 大二已死,大二永存</sub>
 
