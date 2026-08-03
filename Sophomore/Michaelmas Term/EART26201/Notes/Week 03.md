@@ -4,17 +4,13 @@
 
 **本周主题：地球化学体系中的反应——热力学与相图原理（Reactions in geochemical systems: thermodynamics and phase diagram principles）。**
 
-这个判定来自三处互相印证的材料证据，而**不是**来自文件名或课程大纲：
+判定依据（三处互相印证，均来自材料本身而非文件名）：幻灯片 Slide 1 标题原文即为 "Reactions in geochemical systems: thermodynamics and phase diagram principles"，标注 "Lecture 3"；转写开场原话 "Welcome to week three... we're going to be talking about everybody's most favorite topic, **thermodynamics and phase diagrams**"；Practical 3 feedback 标题为 "**Introduction to phase diagrams** FEEDBACK"。
 
-1. 幻灯片 `EART26201_Lecture3-1_RT-1.md` 的 Slide 1 标题原文即为 "Reactions in geochemical systems: thermodynamics and phase diagram principles"，并标注 "EART26201 | Principles of Geochemistry | Lecture 3"。
-2. 课堂录音转写（13-Oct）开场原话："Welcome to week three of this geochemistry course, and today, we're going to be talking about everybody's most favorite topic, **thermodynamics and phase diagrams**."
-3. Practical 3 的 feedback 标题原文为 "**Introduction to phase diagrams** FEEDBACK"。
-
-> ⚠️ **本周与放射性同位素定年无关。** 预处理阶段曾推测 Week 03 可能讲放射性同位素定年（等时线 isochron 之类），**材料证明这个推测是错的**。本周整节课没有出现任何核素、半衰期、衰变常数或等时线图；相应地，本笔记「三、公式与图表」中不包含等时线图解，「附：材料勘误表」中也无需核对母子体对应关系。
+> ⚠️ **本周与放射性同位素定年无关。** 预处理阶段曾推测 Week 03 可能讲放射性同位素定年（等时线 isochron 之类），**材料证明这个推测是错的**。本周整节课没有出现任何核素、半衰期、衰变常数或等时线图。
 
 **周次错位说明。** 课程大纲（`(EART26201) Principles of Geochemistry.md`）把本内容列在 "Week 4: Reactions in geochemical systems: thermodynamics and phase diagram principles"，把 "Isochron dating (PC based)" 列在 Practical Week 3。但**实际文件夹 Week 3 的讲义、录音、practical 三份材料全部指向热力学与相图**，且授课者本人口头称之为 "week three"、幻灯片称之为 "Lecture 3"。大纲的周次是学期周（从 Week 2 开课），文件夹周次是授课周（从 Week 1 连续），二者相差 1：**文件夹 Week N ≈ 大纲 Week N+1**。本笔记库统一采用文件夹编号，故这是 Week 03。
 
-**在全课四大块骨架中的位置。** EART26201 的四大块是：**（1）热力学与相图 →（2）反应动力学与扩散 →（3）酸碱溶解度与氧化还原 →（4）放射性与稳定同位素**。本周正是**第一块「热力学与相图」的开篇与理论地基**：它先把热力学的语言（体系、状态变量、四个基本量 U/H/S/G）搭起来，再落到相图这个「热力学的图形化表达」上，最后用二元固溶体相图（斜长石）把理论接回岩石学。
+**在全课四大块骨架中的位置。** EART26201 的四大块是：**（1）热力学与相图 →（2）反应动力学与扩散 →（3）酸碱溶解度与氧化还原 →（4）放射性与稳定同位素**。本周是**第一块的开篇与理论地基**：先把热力学的语言（体系、状态变量、U/H/S/G）搭起来，再落到相图这个「热力学的图形化表达」上，最后用二元固溶体相图（斜长石）把理论接回岩石学。
 
 课程内部的前后关系（材料明确写出）：
 - **回指 Lecture 1**（Slide 24 原文 "Think back to Lecture 1: element partitioning and Goldschmidt's Rules"；转写中"from the first week we discussed equilibrium and fractional processes"）——平衡/分离过程和元素分配的概念在第 1 周已铺垫。
@@ -30,46 +26,38 @@
 
 ### 1. 平衡（equilibrium）与失衡（disequilibrium）
 
-**定义（Slide 3 原文）**："Equilibrium is reached when constituents of a system do not change with time." 即**体系的各组成部分不随时间变化**时，体系达到平衡。
+**定义（Slide 3 原文）**："Equilibrium is reached when constituents of a system do not change with time." 即**体系各组成部分不随时间变化**时达到平衡。
 
-这个定义看似平凡，但它是整节课的前提：**热力学只描述平衡态**（转写原话 "Thermodynamics, it's only relating to equilibrium processes"）。热力学告诉你体系**最终会走向哪里**，但不告诉你**多快到达**——那是动力学（kinetics）的事，留到 Lecture 5。
+这是整节课的前提：**热力学只描述平衡态**（转写原话 "Thermodynamics, it's only relating to equilibrium processes"）。热力学告诉你体系**最终走向哪里**，但不告诉你**多快到达**——那是动力学（kinetics），留到 Lecture 5。
 
-地球体系里的典型例证（Slide 3–4 + 转写）：
-- 玄武质岩浆（basaltic magma）在**地幔条件**（高温高压）下，平衡态是**液态**；
-- 同样的成分在**地表条件**下，平衡态是**固态**；
-- 因此，**结晶作用（crystallisation）本质上就是热岩浆与较冷环境的再平衡过程**（"Crystallisation reflects the re-equilibration of hot magmas with cooler surroundings"）。
+地球体系里的典型例证（Slide 3–4 + 转写）：玄武质岩浆在**地幔条件**下平衡态是**液态**，同样成分在**地表条件**下平衡态是**固态**；因此**结晶作用本质上就是热岩浆与较冷环境的再平衡过程**（"Crystallisation reflects the re-equilibration of hot magmas with cooler surroundings"）。
 
-**熔岩湖是失衡的活标本**：夏威夷 Halemaʻumaʻu 熔岩湖（2018 年喷发前）是"out of equilibrium"，因为岩浆在地表本该是固体。转写解释："If they're not replenished, they will slowly crystallize, they will cool down... because they want to reach equilibrium."（若无岩浆补给，它们会慢慢冷却结晶，因为它们"想要"达到平衡。）Makaopuhi 熔岩湖 1965 年的结晶过程（Wright & Okamura, 1977）则是"approaching equilibrium"（趋近平衡）的例子。
+**熔岩湖是失衡的活标本**：夏威夷 Halemaʻumaʻu 熔岩湖（2018 年喷发前）"out of equilibrium"，因为岩浆在地表本该是固体。"If they're not replenished, they will slowly crystallize... because they want to reach equilibrium." Makaopuhi 熔岩湖 1965 年的结晶（Wright & Okamura, 1977）则是"趋近平衡"的例子。
 
 ### 2. 体系（system）——由你自己定义
 
-转写强调：**system 是人为任意界定的**，取决于你要回答什么问题。可以是一颗矿物颗粒（mineral grain）、一个岩浆房（magma reservoir）、同一花岗岩体中的若干岩石、一整颗行星，甚至整个太阳系。
+转写强调：**system 是人为任意界定的**，取决于你要回答什么问题——可以是一颗矿物颗粒、一个岩浆房、同一花岗岩体中的若干岩石、一整颗行星，甚至整个太阳系。
 
-📎 背景补充：热力学中通常还把体系分为**开放体系**（open，与外界既交换物质又交换能量）、**封闭体系**（closed，只交换能量）与**孤立体系**（isolated，两者都不交换）。本周材料没有引入这组分类，但它是理解"体系与环境（surroundings）"这对概念的标准框架。
+📎 背景补充：热力学中通常还把体系分为**开放体系**（既交换物质又交换能量）、**封闭体系**（只交换能量）与**孤立体系**（都不交换）。本周材料未引入这组分类。
 
 ### 3. 状态变量（state variables）：广度量 vs 强度量
 
 这是本周最需要牢记的一组区分。
 
-**广度量 / 广延变量（extensive variables）**：其数值**随体系大小改变**。
-- 材料列举：质量 mass、体积 volume、焓 enthalpy (H)、熵 entropy (S)、自由能 free energy (G)。
-- 直观检验：把体系一分为二，广度量也随之减半。
+- **广度量 / 广延变量（extensive variables）**：数值**随体系大小改变**。材料列举：质量 mass、体积 volume、焓 H、熵 S、自由能 G。检验：把体系一分为二，广度量随之减半。
+- **强度量（intensive variables）**：数值**与体系大小无关**。材料列举：温度 T、压力 P、体相成分 bulk composition。检验：倒掉半杯水，水温不变。
 
-**强度量（intensive variables）**：其数值**与体系大小无关**。
-- 材料列举：温度 temperature (T)、压力 pressure (P)、体相成分 bulk composition (X)。
-- 直观检验：把一杯水倒掉一半，剩下的水温不变。
+📎 背景补充：实用记忆法——**两个广度量相除得到强度量**（质量/体积 = 密度；Gibbs 自由能/摩尔数 = 化学势 μ）。这也是 Gibbs 相律只统计**强度量**自由度的原因：相的比例不影响强度量计数。
 
-📎 背景补充：一个实用的记忆法是——**两个广度量相除得到强度量**（如 质量/体积 = 密度，Gibbs 自由能/摩尔数 = 摩尔自由能即化学势 μ）。这也是为什么 Gibbs 相律只统计**强度量**的自由度：相的数量和比例不影响强度量的自由度计数。
+**重要提醒（转写反复强调）**：热力学中**温度必须用开尔文 K**。"don't forget to convert it to Kelvin."（相图坐标轴常用 °C 不矛盾——读图归读图，代公式才必须换算。）
 
-**重要提醒（转写反复强调）**：热力学中**温度必须用开尔文 K**，不能用摄氏度。"We're used to seeing temperature in Celsius or in centigrade, but don't forget to convert it to Kelvin."（注意：相图上的坐标轴常用 °C，这不矛盾——相图是读图，热力学公式代入才必须换算。）
-
-**状态方程（equation of state）**把状态变量彼此联系起来。最著名的例子：**PV = nRT**（理想气体状态方程）。转写指出还有很多其他状态方程，这只是最有名的一个。
+**状态方程（equation of state）**把状态变量彼此联系。最著名的是 **PV = nRT**；转写指出还有很多其他状态方程。
 
 ### 4. 热力学第一定律：能量守恒
 
-**内能（internal energy, U）** = 体系的**动能**（来自原子振动 atomic vibration）+ **势能**（储存在原子间化学键中 stored in the bonds between atoms）。
+**内能（internal energy, U）** = 体系的**动能**（来自原子振动）+ **势能**（储存在原子间化学键中）。
 
-第一定律：**能量既不能被创造也不能被消灭**。内能的变化 = 与环境交换的热 Q + 对体系做的功 W：
+第一定律：**能量既不能被创造也不能被消灭**。内能变化 = 与环境交换的热 Q + 对体系做的功 W：
 
 > ΔU = Q + W　→　微分形式　dU = dQ + dW
 
@@ -99,48 +87,29 @@
 
 > **dU = T dS − P dV**
 
-转写对两项的物理解读（对应 Slide 12 的三个小标题）：
-- **dU** —— change in internal energy（内能变化）
-- **T dS** —— heat exchanged with surroundings（与环境交换的热）
-- **−P dV** —— physical movement in space（体系在空间上的"物理运动"，即体积膨胀/收缩所做的功）
+转写对三项的物理解读（对应 Slide 12 的三个小标题）：**dU** = change in internal energy（内能变化）；**T dS** = heat exchanged with surroundings（与环境交换的热）；**−P dV** = physical movement in space（体积膨胀/收缩所做的功）。
 
 ### 7. 焓（enthalpy, H）
 
-**定义**：**H = U + PV**。焓是物质**总热含量（total heat content）**的量度。
+**定义 H = U + PV**，是物质**总热含量（total heat content）**的量度。**关键限制（转写强调）：焓的绝对值无法测量，只能测量 ΔH**。
 
-**关键限制（转写强调）**：**焓的绝对值无法测量，只能测量焓的变化 ΔH**。
-
-**恒压条件下**：
-
-> **dH = dQ**（当 dP = 0 时）
-
-即：恒压下体系吸收的热量全部体现为焓变——这就是为什么化学反应热（反应焓）一般都在恒压下定义。
-
-（⚠️ 转写此处有一句物理表述错误，见文末勘误表第 4 条。）
+**恒压条件下：dH = dQ**（当 dP = 0 时）——恒压下体系吸收的热量全部体现为焓变，这是化学反应热一般在恒压下定义的原因。（⚠️ 转写此处有一句物理表述错误，见勘误表第 4 条。）
 
 ### 8. 吉布斯自由能（Gibbs free energy, G）——本周的核心量
 
 **定义**：**G = H − T S**
 
-**物理含义**：在**恒温恒压**条件下，体系**可用于做功的能量**（"the energy available to do work at a constant temperature and pressure"）。
+**物理含义**：在**恒温恒压**下，体系**可用于做功的能量**（"the energy available to do work at a constant temperature and pressure"）。
 
-**判据（这是最需要背下来的一句）**：在 T、P 固定时，
+**判据（最需要记住的一句）**：T、P 固定时，**ΔG < 0** → 反应**自发进行**，朝 G 更低处走；**ΔG = 0** → **平衡**，**无净反应**。（📎 背景补充：ΔG > 0 → 正向不自发、逆向自发；材料未明说，是上两条的推论。）
 
-- **ΔG < 0** → 反应**自发进行**，朝 G 更低的方向走；
-- **ΔG = 0** → 体系处于**平衡**，**没有净反应**；
-- （📎 背景补充：ΔG > 0 → 正向反应不自发，逆向反应自发。这一句材料未明说，是上面两条的自然推论。）
-
-转写原话："Gibbs free energy describes whether a reaction will occur or not."——**G 决定反应发不发生（方向），不决定反应有多快（速率）**。
-
-老师提醒："Hopefully, you've all heard about that last year in Chemistry of the Earth."（Slide 13 亦写 "This should be familiar from Chemistry of the Earth"）——这是大一课程的复习点。
+转写原话："Gibbs free energy describes whether a reaction will occur or not."——**G 决定反应发不发生（方向），不决定多快（速率）**。老师提醒 "Hopefully, you've all heard about that last year in Chemistry of the Earth"，是大一课程的复习点。
 
 ### 9. 相图 = 吉布斯自由能的图形化表达
 
-**这是本周把「理论」与「图」缝合起来的那一句**（转写原话）：
+**这是本周把「理论」与「图」缝合起来的那一句**（转写原话）："At any given pressure, temperature and composition of a system, the equilibrium phase or phase assemblage is the phase with the **lowest G**. And the phase diagrams, that's what they show us graphically."
 
-> "At any given pressure, temperature and composition of a system, the equilibrium phase or phase assemblage is the phase with the **lowest G**. And the phase diagrams, that's what they show us graphically."
-
-也就是说：**相图上每一个点标注的那个相（或相组合），就是在该 P–T–X 条件下 G 最低的那个**。相图不是经验涂鸦，它是自由能竞争的结果。
+即：**相图上每个点标注的相（或相组合），就是该 P–T–X 条件下 G 最低的那个**。相图不是经验涂鸦，它是自由能竞争的结果。
 
 ### 10. 吉布斯相律（Gibbs phase rule）
 
