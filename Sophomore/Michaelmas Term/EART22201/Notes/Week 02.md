@@ -4,20 +4,15 @@
 
 **本周主题：光性矿物学与偏光显微镜（Optics and Mineralogy）——从晶体对称性推导矿物的光学性质。**
 
-这是我通读三份材料后判定的主题。判据很明确：讲义 `W2 notes.md` 的标题即 "Optics and mineralogy Lesson 2"，全篇按 1.1→6.3 六大节推进（偏光显微镜与偏振光 → 折射率 → 突起 → 光率体 → 均质体光性 → 多色性 → 双折射与干涉色 → 消光）；13-Oct 的课堂转写全程围绕 indicatrix、pleochroism、birefringence、extinction 四个词展开；Practical 2 的题目直接就叫 "Practical 2: Optics and mineralogy"。
+**判定依据**：讲义 `W2 notes.md` 标题即 "Optics and mineralogy Lesson 2"，按 1.1→6.3 推进（偏振光与显微镜 → 折射率 → 突起 → 光率体 → 均质体光性 → 多色性 → 双折射与干涉色 → 消光）；13-Oct 转写全程围绕 indicatrix、pleochroism、birefringence、extinction 四词；Practical 2 的标题就是 "Optics and mineralogy"。
 
-**在全课骨架中的位置。** 本课是大二两根"岩石材料学支柱"之一，骨架为：**硅酸盐矿物的晶体化学与偏光显微镜光性 → 相图与地球化学数据 → 解释岩浆的生成、分异与构造背景**。Week 02 落在第一根支柱的最前段，而且是其中"工具性"最强的一周——它不教任何一个具体的造岩矿物，而是**建立一整套把"显微镜下看到的现象"翻译成"矿物身份"的规则系统**。没有这一周，后面所有薄片鉴定都无从谈起。
+**在全课骨架中的位置。** 本课是大二两根"岩石材料学支柱"之一，骨架为：**硅酸盐矿物的晶体化学与偏光显微镜光性 → 相图与地球化学数据 → 解释岩浆的生成、分异与构造背景**。Week 02 位于第一根支柱最前段，是其中工具性最强的一周——它不讲任何具体造岩矿物，而是**建立把"镜下现象"翻译成"矿物身份"的规则系统**。
 
-**与 Week 01 的衔接。** Week 01 讲的是"晶体的几何对称性"：晶格与晶胞、七大晶系的格子参数、五种三维晶胞与 14 种布拉维格子、四种对称操作（反映/旋转/对称中心/旋转反伸）、晶体习性（habit）与自形程度、米勒指数、解理与双晶。Week 02 做的事情是**把这套几何对称性映射到光学上**：老师在课上原话是"这个折射率概念和我们上周看的七个晶系是怎么结合起来的呢——光穿过矿物时也有一种对称性"（"light passing through minerals also has a symmetry"）。于是：
+**与 Week 01 的衔接。** Week 01 讲晶体的几何对称性（晶格与晶胞、七大晶系格子参数、14 种布拉维格子、四种对称操作、晶体习性与自形程度、米勒指数、解理与双晶）；Week 02 把这套几何对称性**映射到光学上**。老师原话："light passing through minerals also has a symmetry"。对应关系：晶系 → 光率体类型；格子参数约束 → 折射率个数与取向约束；解理迹线与晶棱 → 消光类型的参照物；米勒指数 {hkl} → Practical Part 3 要求画 (100)/(001) 切片。
 
-- 上周的 **晶系（crystal system）** → 本周的 **光率体类型（indicatrix classification）**；
-- 上周的 **格子参数约束（a=b=c、α=β=γ=90° 等）** → 本周的 **折射率个数与取向约束**；
-- 上周的 **解理迹线与晶棱** → 本周的 **消光类型的参照物**；
-- 上周的 **米勒指数 {hkl}** → 本周 Practical 第 3 部分要求画 (100) 与 (001) 切片，直接复用米勒指数读切面方向。
+**与下一周的衔接（转写）。** Week 03 要"做很多显微镜工作"：pre-learning video 3 + Canvas 上的"在线矿物图集（online mineral atlas）"。即 **Week 02 是规则，Week 03 是把规则套到具体矿物清单上**。老师也提醒本周是"全课最烧脑的几节课之一"，但"别慌"。
 
-**与下一周的衔接（来自课堂转写）。** 老师明确预告：Week 03 要"做很多显微镜工作"，用 pre-learning video 3 加上 Canvas 上的一整套"在线矿物图集（online mineral atlas）"逐个过一遍本学期要用的造岩矿物。也就是说，Week 02 是**规则**，Week 03 是**把规则套用到具体矿物清单上**。老师还说本周"大概是全课程最烧脑的几节课之一（one of the more mind-bending lectures of the course）"，但"别慌，会没事的"。
-
-**上下游课程。** 📎 背景补充：上游 EART26201 地球化学原理提供热力学与二元相图（W03 原理、W04 An–Di 共结 / Ab–Or 溶线出溶 / Di–En 辉石 / Fo–Qz 包晶），本课后段的相图部分与之直接对接；下游 EART26001 能源与资源（层状侵入体铂族元素、金伯利岩与金刚石、造山型金矿）和 EART25102 高级野外技术（官方共修）都要求能在薄片/手标本上认矿物，本周的技能是那些课的前置。
+📎 背景补充（上下游）：上游 EART26201 地球化学原理提供热力学与二元相图（An–Di 共结、Ab–Or 出溶、Di–En、Fo–Qz 包晶），对接本课后段；下游 EART26001 能源与资源、EART25102 高级野外技术都要求能认矿物，本周技能是前置。
 
 ---
 
@@ -25,9 +20,9 @@
 
 ### 2.1 偏振光与偏光显微镜的两个偏光片
 
-**光是电磁波（electromagnetic wave）**。讲义强调的一句话：*"In minerals, energy disturbances cause vibrations. The vibration direction is always perpendicular to the direction of travel."*——**振动方向永远垂直于传播方向**。这一句是后面所有内容的物理基础：既然振动方向垂直于传播方向，那么在垂直于光路的那个平面内，振动方向就有"选择自由度"，也就有了"偏振"这件事。
+**光是电磁波**。讲义关键句：*"The vibration direction is always perpendicular to the direction of travel."*——**振动方向永远垂直于传播方向**。这是全周的物理基础：在垂直于光路的那个平面内，振动方向有"选择自由度"，于是才有"偏振"。
 
-**偏振光（polarized light）**：光只在某一个特定方向上振动。普通白光是各方向振动的混合，通过偏光片后只剩下一个振动方向。
+**偏振光（polarized light）**：光只沿单一方向振动。白光是各方向振动的混合，过偏光片后只剩一个方向。
 
 **偏光显微镜（petrological / polarizing microscope）上的两个偏光片**：
 
