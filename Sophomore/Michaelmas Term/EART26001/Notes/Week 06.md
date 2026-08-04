@@ -294,34 +294,23 @@ W03 还给出了热液体系的术语框架——**Vein（脉）/ Disseminated�
 
 ### 2.9 勘探方法
 
-**（1）地球化学填图（geochemical mapping）**——"倒推法"：在现代河流沉积物/土壤中找到金异常，**沿水系上溯回到原生矿脉**。讲义与课堂用**加利福尼亚淘金热**作例：原生脉 + 切过脉的河流中的次生砂金，把这个关系反过来用就能定位原生脉。
+**（1）地球化学填图**——"倒推法"：在现代河流沉积物/土壤中找到金异常，**沿水系上溯回到原生矿脉**。例：**加利福尼亚淘金热**（原生脉 + 切过脉的河流中的次生砂金）。
 
-**（2）构造填图（structural mapping）**——热液型矿床中断裂/裂隙方位与金的富集严格相关，讲义与课堂用**阿拉斯加**的例子展示矿化严格沿断层分布。
+**（2）构造填图**——热液矿床中断裂/裂隙方位与金的富集严格相关；例：**阿拉斯加**，矿化严格沿断层分布。
 
-**（3）砂矿的沉积学勘探（三级尺度，这是 Practical 6 的直接依据）**：
-- **大尺度**：河流从哪里进入盆地？总体流向如何？（讲义用 Wits 沉积**厚度图**勾出盆地轮廓，河流从北、西、东边缘进入，向中心流）
-- **中尺度**：单个扇体内**河道（fluvial channels，也叫 pay streaks 富矿带）** 在哪里——金就集中在这些河道里；
-- **小尺度**：在单条河道内部，用**物理沉积作用**的理解判断金具体聚在什么位置（底部滞留层、层面、构造凹槽）。
+**（3）砂矿的沉积学勘探（三级尺度，Practical 6 的直接依据）**：**大尺度**——河流从何处进入盆地、总体流向（用沉积厚度图勾盆地轮廓）；**中尺度**——扇体内的**河道（也叫 pay streaks 富矿带）**在哪里；**小尺度**——河道内部金具体聚在何处（底部滞留层、层面）。
 
-**（4）地球物理（讲义原文）**：
-- **磁法 Magnetics**——磁性矿物（Wits 的细粒页岩含磁性矿物）、主要构造；
-- **电阻率 Resistivity**——硅质与硫化物含量；课堂解释：金田处电阻率**高**，因为石英（硅）+ 黄铁矿（硫化物）都是高阻；
-- **重力 Gravity**——主要构造；
-- **地震 Seismic**——主要构造；反射层可与盆缘已知地层对比，从而恢复地下结构。
-- 讲义结论一句话：**"…nothing beats drilling"（什么都比不上钻探）**。
+**（4）地球物理（讲义原文）**：**磁法**（磁性矿物、主要构造）；**电阻率**（硅质与硫化物含量——金田处电阻率**高**，因石英 + 黄铁矿均为高阻）；**重力**与**地震**（主要构造；反射层可与盆缘已知地层对比）。讲义结论：**"…nothing beats drilling"（什么都比不上钻探）**。
 
 ### 2.10 开采趋势
 
-**（a）深度演化（Jébrak 2017 图）。** 近百年来矿山越来越深，**南非尤其突出，最深达约 4,000 m**。原因如前：追着向盆心倾斜的含金层走。
-**深度的代价（老师详列）**：额外的井下基础设施；**通风换气与降温所需的能源**（4000 m 深处岩温极高）；机械与维护费用；以及把大量废石运出地表。老师同时提醒**不要以为只剩深部**——"there's still a lot of gold deposits that are being found at shallower depths"。
+**（a）深度演化（Jébrak 2017）。** 近百年矿山越来越深，**南非最深达约 4,000 m**，原因是追着向盆心倾斜的含金层走。**深度的代价（老师详列）**：井下基础设施、**通风换气与降温的能源**、机械与维护、把大量废石运出。但老师提醒**浅部仍有大量新发现**。
 
-**（b）品位演化（Mudd 2007 图）。** 南非与澳大利亚的金品位随时间**显著下降**。老师**特别澄清了一个常见误解**：
+**（b）品位演化（Mudd 2007）。** 南非与澳大利亚品位均**显著下降**。老师**主动澄清了一个常见误解**：
 
-> "…that is very much related to the simple fact, or **it's not at all related to the fact that you have to go deeper**. It's more related to the fact that when you start exploring and when you start mining these deposits, you go for the **shallow and higher grade deposits first**, because it's just easier, and then over time as **technology advances**, you're able to actually extract gold economically from even **lower grade** deposits."
+> "…**it's not at all related to the fact that you have to go deeper**. It's more related to the fact that… you go for the **shallow and higher grade deposits first**… and then over time as **technology advances**, you're able to actually extract gold economically from even **lower grade** deposits."
 
-即：**品位下降的主因是"先易后难 + 技术进步降低了经济门槛"，而不是"越深品位越低"**。这是很容易答错的因果关系。
-- 当前经济品位：**地下 4–10 g/t，露天 1–4 g/t**；
-- **尾矿再处理（recycling tailings）有潜力**。
+即**主因是"先易后难 + 技术进步降低了经济门槛"**。当前经济品位：**地下 4–10 g/t，露天 1–4 g/t**；**尾矿再处理有潜力**。
 
 ### 2.11 选冶方法（beneficiation / production methods）
 
