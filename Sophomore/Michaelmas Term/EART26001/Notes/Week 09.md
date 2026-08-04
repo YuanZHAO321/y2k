@@ -340,8 +340,8 @@ salar 卤水
 - **锂在盐田里本质上是蒸发岩开采的"副产品（byproduct）"**——这是一个重要的定性判断，讲义没有明说；
 - 玻利维亚的盐田照片被用来展示**规模感**；
 - **卤水中锂的三个来源**（讲义只字未提，全靠口述）：① 老火成岩中含锂矿物的**风化**产物随地表水汇入；② 沿**断层上涌的地下卤水**带来的锂；③ **风成粉尘（windblown dust）**中的锂。三者的混合决定了卤水的地球化学与最终析出的矿物学；
-- 锂三角（阿根廷–玻利维亚–智利）与西澳"锂谷"；间歇泉地热流体含锂"最高约 50 ppm"（讲义写 28–47 ppm）；提取为 **LiCl**，卤水锂浓度约 **1500 ppm**；
-- **康沃尔的历史细节**：18 世纪铜锡矿工就注意到矿内流体富锂，**"当时那些锂被认为是无用的（considered useless）"**，只有今天才认识到其价值——这是一个很好的"资源的价值是随技术而变的"的例证（可用于 ILO 4 的社会语境论述）；
+- 口头把间歇泉地热流体含锂说成"最高约 50 ppm"（讲义写 28–47 ppm）；
+- **康沃尔的历史细节**：18 世纪铜锡矿工就注意到矿内流体富锂，**"当时那些锂被认为是无用的（considered useless）"**——"资源的价值随技术而变"的绝佳例证（可用于 ILO 4 的社会语境论述）；
 - 康沃尔的**高产热花岗岩（HHP granites）**同时是**地热靶区**与**铀相关**（老师明确回指铀讲座），锂与地热"go hand in hand"：**同一批钻孔既做地热又做 DLE**；
 - 一次口误：老师说 "lithium is one of these **lithophile minerals**"，应为 **lithophile element（亲石元素）**；他随后解释正确——锂倾向进入硅酸盐矿物。
 
@@ -357,16 +357,9 @@ salar 卤水
 
 ### 1. 概念框架（`9-Petroleum system exercise` Slide 1–2）
 
-**必需要素（Necessary elements）**：
-1. **Source rock（烃源岩）**
-2. **Reservoir rock（储层）**
-3. **Seal rock（盖层）**
-4. **Overburden（上覆岩层）**——提供埋深与热量，使烃源岩成熟
+**必需要素（Necessary elements）**：**Source rock（烃源岩）／Reservoir rock（储层）／Seal rock（盖层）／Overburden（上覆岩层——提供埋深与热量，使烃源岩成熟）**。
 
-**必需过程（Necessary processes）**：
-1. **Trap formation（圈闭形成）**
-2. **Generation of hydrocarbons (by maturation)（烃类生成，通过成熟作用）**
-3. **Hydrocarbon migration and accumulation in trap（运移与在圈闭中聚集）**
+**必需过程（Necessary processes）**：**Trap formation（圈闭形成）／Generation of hydrocarbons by maturation（成熟生烃）／Hydrocarbon migration and accumulation in trap（运移与聚集）**。
 
 **Petroleum System Events Chart（事件图，Magoon and Dow）**：横轴为地质时间，纵向逐行列出 **Source / Reservoir / Seal / Overburden / Trap formation / Generation-Migration / Preservation / Critical Moment**，每行用色条标出该要素或过程发生的时段。
 
