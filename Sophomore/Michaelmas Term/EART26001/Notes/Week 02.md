@@ -58,11 +58,7 @@
 
 - **定义**：温度随深度的增加率，dT/dz，单位 °C/km（也写 °C/m）。
 - **本质**：地球内部热（放射性衰变 + 原始余热）向地表的**传导散失**，梯度大小由热流（heat flow）与岩石热导率共同决定。
-- **构造背景差异是本讲的重点**（讲义 slide 5 图）：
-  - **克拉通（craton）**——前寒武纪的大陆古老核心，**因为老所以冷**（老师："as a consequence of it being very old, it's also very cold"），梯度最低，**~10 °C/km**。
-  - **裂谷（rift，图中为 Rio Grande rift）**——大量热量上涌，伴随火山活动，热流高，梯度最高，**~35 °C/km 甚至更高**。
-  - 中间还有两条曲线（**~15 和 ~25 °C/km**），标注为 Phanerozoic 与 Archean。
-- 两个端元之间可以有任意梯度值。
+- **构造背景差异是本讲的重点**（讲义 slide 5 图）：**克拉通（craton）**——前寒武纪大陆古老核心，**因为老所以冷**，梯度最低 **~10 °C/km**；**裂谷（rift，图中为 Rio Grande rift）**——热流高、伴火山活动，梯度最高 **~35 °C/km 甚至更高**；中间还有两条曲线（**~15 和 ~25 °C/km**），标注为 Phanerozoic 与 Archean。两端元之间可有任意值。
 
 > 📎 背景补充：全球平均大陆地温梯度常引用 **25–30 °C/km**，但这是"平均"值，稳定盆地往往 20–25，克拉通 10–15，弧后与裂谷可达 40–60，洋中脊局部可达数百 °C/km。Practical 2 算出的 Cheshire Basin ~20 °C/km 属于稳定盆地的正常范围，**低于全球平均并不代表算错了**。
 
@@ -137,10 +133,7 @@
 - 应力类型：**张性（tensional）、压性（compressional）、剪切（shear）**——一年级已学，用于断层成因。
 
 **（b）脆性 vs 韧性（brittle vs ductile）**
-应力—应变曲线（讲义图）：
-- 起始段为**弹性变形（elastic）**：卸载后回弹到原状，直到**弹性极限（elastic limit）**。
-- 越过弹性极限进入**韧性变形（ductile）**：卸载后**残留永久应变（permanent strain）**。
-- 继续加载最终**破裂（fracture）**。
+应力—应变曲线（图见第三节 图 3）：起始段为**弹性变形（elastic）**，卸载后回弹，直到**弹性极限（elastic limit）**；越过后进入**韧性变形（ductile）**，卸载后**残留永久应变（permanent strain）**；继续加载最终**破裂（fracture）**。
 
 | | 脆性材料 | 韧性材料 |
 |---|---|---|
@@ -153,10 +146,10 @@
 **（c）浅部脆性变形对成矿的意义**
 讲义原文：**"Brittle deformation in shallow crust via faults, fractures, joints, veins, and cleavage, which allow fluid flow and mineral precipitation"**——断层、裂隙、节理、脉、劈理**既是流体通道又是矿物沉淀的场所**。
 
-**（d）用应力方位预测流体通道（录音重点推导，见第四节）**
-- 与某个主应力**垂直**的面上只有**正应力（normal stress）**、没有剪应力 → **不可能滑动**，但**可以被拉开**形成**裂隙（fracture）**。
-- 与主应力**斜交**的面上有剪切分量 → 形成**断层（fault）**，两侧岩块相对滑动。
-- **裂隙被矿物充填后即为脉（vein）**。老师特别说："vein 这个词会在后面的课里反复出现。"
+**（d）用应力方位预测流体通道**（录音重点推导，完整版见第四节第 7 点）
+- 与主应力**垂直**的面：只有**正应力**、无剪应力 → **不可能滑动**，但**可被拉开**形成**裂隙（fracture）**。
+- 与主应力**斜交**的面：有剪切分量 → 形成**断层（fault）**，两侧岩块相对滑动。
+- **裂隙被矿物充填后即为脉（vein）**。
 
 ### 6. 流体运移的驱动力（大尺度）
 
@@ -167,13 +160,9 @@
 | **热对流（convection-driven）** | 冷流体因浮力下沉 → 深部加热 → 上升 → 地表/海底排放 → 冷却 → 再循环，形成**对流环** | **海底热液系统**（冷海水进入洋壳，加热后在海底喷出） |
 | **断层阀（超压驱动）** | 见上文 3(e) | 深部低孔渗地壳、地震活动带 |
 
-### 7. 如何创造"空间"（课堂互动，讲义完全没有）
+### 7. 如何创造"空间"
 
-老师提问："除了张开裂隙并充填之外，还有什么机制能在地下**创造空间**？"
-- 有学生答"**侵蚀（erosion）**"——**被否定**：侵蚀是**地表过程**，2 km 深处不适用。
-- **正确答案：溶蚀（dissolution）**。许多地下流体是**腐蚀性（corrosive）**的；当**流体成分与围岩之间存在不平衡（disequilibrium）**时，流体会**溶解、腐蚀围岩**，从而腾出空间。**热流体尤其如此**。
-
-→ 所以"造空间"至少两条路：**① 张裂隙/断层（力学）② 溶蚀（化学）**。
+两条路：**① 张开裂隙/断层（力学）② 溶蚀 dissolution（化学）**——腐蚀性热流体与围岩成分不平衡时溶解围岩腾出空间。（课堂互动全过程见第四节第 10 点）
 
 ### 8. 地壳中的流体类型（讲义 slide 16 + 录音）
 
@@ -209,14 +198,14 @@
 
 ### 10. 岩浆作用与矿床（Lecture 3 前半，本节课已讲）
 
-**（a）先要有熔体**：地幔是**固态**的，"正常"地温梯度**不与地幔固相线（solidus）相交**，不会自动产生熔体。四种触发**部分熔融（partial melting）**的机制：① **地幔异常高温**（热点、洋中脊 MOR）；② **减压熔融（decompression melting）**，地壳/岩石圈减薄；③ **加水（water addition）**，俯冲带；④ **造山增厚与加热**。
+**（a）先要有熔体**：地幔是**固态**的，"正常"地温梯度**不与地幔固相线（solidus）相交**，不会自动产生熔体。四种触发**部分熔融（partial melting）**的机制：① **地幔异常高温**（热点、洋中脊 MOR）；② **减压熔融（decompression melting）**，地壳/岩石圈减薄；③ **加水（water addition）**，俯冲带；④ **造山增厚与加热**。（加水降低固相线的完整因果链见第四节第 13 点）
 
-**（b）结晶与分异**：按**鲍文反应系列（Bowen's reaction series）**，熔点最高者最先结晶。镁铁质熔体先结晶**橄榄石** → 橄榄石下沉 → 残余熔体 Fe、Mg 减少、SiO₂ 增加 → 转与**辉石**平衡 → …… → 最终到**石英**；右支为长石系列（Ca-长石 → Na-长石）。**核心结论：结晶过程中熔体与晶体的成分持续变化（分异）**。
+**（b）结晶与分异**：按**鲍文反应系列（Bowen's reaction series）**，熔点最高者最先结晶（详见第四节第 14 点）。**核心结论：结晶过程中熔体与晶体的成分持续变化（分异 fractionation）**。
 
-**（c）Stokes 定律与堆晶**：晶体沉降速度决定能否形成堆晶层（公式见第三节）。**橄榄石沉降快**、在岩浆房底部堆积成**堆晶（cumulate）**——这是**层状侵入体中 Cr、PGE 富集的物理基础**（两周后详讲）。
+**（c）Stokes 定律与堆晶**：**橄榄石沉降快**、在岩浆房底部堆积成**堆晶（cumulate）**——这是**层状侵入体中 Cr、PGE 富集的物理基础**（公式核算见第三节 E）。
 
 **（d）元素分配的两把钥匙**
-1. **地球化学亲和性（geochemical affinity）**：**亲铁 siderophile**（与金属/铁）、**亲硫 chalcophile**（与硫）、**亲石 lithophile**（与硅酸盐）。讲义柱状图：**Cr、Ni、Pt、Au** 高度富集于**玄武质（镁铁质）熔体**（亲铁/亲硫）；**Li、U、F、Th** 富集于**流纹质（长英质）熔体**（亲石）。
+1. **地球化学亲和性（geochemical affinity）**：**亲铁 siderophile**（与金属/铁）、**亲硫 chalcophile**（与硫）、**亲石 lithophile**（与硅酸盐）。讲义柱状图：**Cr、Ni、Pt、Au** 高度富集于**玄武质（镁铁质）熔体**；**Li、U、F、Th** 富集于**流纹质（长英质）熔体**。
 2. **相容性（compatibility）**：由**分配系数（distribution coefficient）**控制，取决于**离子电荷与半径**。**相容元素**优先进晶体 → Ni、Au、Cr、PGE，早期结晶即被带走；**不相容元素**优先留熔体 → **U**（本课重点），留到最晚期 → 富集于**花岗岩**。
 
 **（e）火成矿床概览（讲义 slide 25）**
@@ -701,36 +690,27 @@ instructions 写："The value of 2.3 g/cm³ is assumed to be the maximum overpre
 |---|---|---|
 | 地下环境 | subsurface environment | 温度、压力、孔渗、变形的总和 |
 | 地温梯度 | geothermal gradient | dT/dz，°C/km；craton ~10，rift ~35 |
-| 热流 | heat flow | 📎 q = −k·dT/dz |
+| 热流 | 📎 heat flow | 📎 q = −k·dT/dz |
 | 传导 / 对流 | conduction / convection | 对流对成矿更重要，同时输运热与物质 |
-| 克拉通 | craton | 前寒武纪大陆核心；老 → 冷 → 低梯度 |
-| 裂谷 | rift | 高热流；图中实例 Rio Grande rift |
+| 克拉通 / 裂谷 | craton / rift | 老→冷→低梯度 ／ 高热流→高梯度 |
 | 静岩压力 / 围压 | lithostatic pressure / confining stress | 上覆岩石重量；ρ≈2.5 → 25 kPa/m |
 | 上覆压力 | overburden / load pressure | 静岩压力的同义表述 |
 | 静水压力 | hydrostatic pressure | 连通流体柱重量；ρ=1.0 → 10 kPa/m |
+| 地层压力 | formation pressure | 井下实测的孔隙流体压力 |
 | 超压 | overpressure | 实测地层压力 − 静水压力 |
 | 欠压实 | undercompaction | 流体排不出→承担载荷→超压 |
 | 烃类充注 | hydrocarbon charging | 油气进入孔隙抬高孔隙压力 |
-| 地层压力 | formation pressure | 井下实测的孔隙流体压力 |
 | 有效应力 | 📎 effective stress | 📎 σ' = σ − P_fluid（太沙基原理） |
 | 破裂 / 水力压裂 | rupture / hydrofracturing | 孔隙压力达静岩时发生 |
 | 孔隙度 | porosity (φ) | Vp/Vb；储存能力；无量纲 |
-| 孔隙体积 / 总体积 | pore volume (Vp) / bulk volume (Vb) | |
-| 岩石骨架 | rock framework / grains | |
 | 渗透率 | permeability (k) | 流动能力；m² 或 Darcy |
-| 达西 | Darcy (D) | 📎 1 D ≈ 0.987×10⁻¹² m²；常用 mD |
-| 达西定律 | 📎 Darcy's law | 📎 Q = (kA/μ)(ΔP/L) |
-| 孔喉 | pore throat | 连接孔隙的窄通道，控制渗透率 |
-| 曲折度 | tortuosity | 流动路径越曲折，渗透率越低 |
-| 应力 | stress | 单位面积上的力 |
-| 应变 | strain | 岩石对应力的反应 |
-| 三轴/差异应力 | triaxial / differential stress | σ₁>σ₂>σ₃ |
-| 主应力 | principal stress | σ₁ 最大、σ₂ 中间、σ₃ 最小 |
-| 张性/压性/剪切应力 | tensional / compressional / shear stress | |
-| 弹性 / 弹性极限 | elastic / elastic limit | 卸载可回弹的界限 |
+| 达西 / 达西定律 | Darcy (D) / 📎 Darcy's law | 📎 1 D ≈ 10⁻¹² m²；Q = (kA/μ)(ΔP/L) |
+| 孔喉 / 曲折度 | pore throat / tortuosity | 连接孔隙的窄通道；路径越曲折渗透率越低 |
+| 应力 / 应变 | stress / strain | 单位面积上的力 ／ 岩石对应力的反应 |
+| 三轴/差异应力 | triaxial / differential stress | σ₁>σ₂>σ₃，源于构造力的横向传递 |
+| 弹性极限 | elastic limit | 卸载可回弹的界限 |
 | 脆性变形 | brittle deformation | 低 T、低围压、高应变速率；浅部；断层 |
 | 韧性变形 | ductile deformation | 高 T、高围压、低应变速率；深部；褶皱 |
-| 永久应变 | permanent strain | 越过弹性极限后残留的变形 |
 | 断层 | fault | 面与主应力斜交，有剪切与位移 |
 | 裂隙 | fracture | 垂直 σ₃，无剪切、无位移，纯张开空间 |
 | 节理 / 劈理 | joint / cleavage | 浅部脆性构造，同为流体通道 |
@@ -739,44 +719,33 @@ instructions 写："The value of 2.3 g/cm³ is assumed to be the maximum overpre
 | 热对流环 | thermal convection cell | 冷水下渗—深部加热—上升—排放—再循环 |
 | 断层阀 | fault-valve（本课口述机制） | 压力累积→破裂→泄压→再封闭的循环 |
 | 质量迁移 | mass transfer | 元素自地壳一处向另一处的搬运 |
-| 溶蚀 | dissolution | 腐蚀性热流体溶解围岩以创造空间 |
-| 不平衡 | disequilibrium | 流体成分与围岩不平衡 → 溶蚀或沉淀 |
-| 热液系统 | hydrothermal system | 水携带热能的循环系统 |
-| 热液 | hydrothermal | 字面：水中所含的热能 |
+| 溶蚀 / 不平衡 | dissolution / disequilibrium | 腐蚀性热流体溶解围岩以创造空间 |
+| 热液（系统） | hydrothermal (system) | 字面：水中所含的热能 |
 | 间歇泉 | geyser | 热液系统"管道"的地表出口 |
-| 岩浆 | magma | 熔融岩石，本身是一种流体 |
-| 水溶液流体 | aqueous fluid | 一切含水的流体 |
-| 出溶 | exsolution | 挥发分从岩浆中分离出来 |
-| 挥发分 | volatiles | 主要为 H₂O，另有 CO₂、SO₂ |
+| 岩浆 / 水溶液流体 | magma / aqueous fluid | 均属地壳流体 |
+| 出溶 / 挥发分 | exsolution / volatiles | 主要为 H₂O，另有 CO₂、SO₂ |
 | 变质流体 | metamorphic fluid | 矿物相变脱水释放 |
 | 建造水 / 同生水 | connate (formation) water | 沉积盆地混合来源的高盐卤水 |
-| 卤水 | brine | 高盐流体；可来自蒸发岩脱水/溶解 |
+| 卤水 | brine | 可来自蒸发岩脱水/溶解 |
 | 海水 / 大气水 | seawater / meteoric water | 可沿断层进入地壳 |
 | 烃类流体 | hydrocarbon fluids | 油、气 |
-| 同生 | syngenetic | 与围岩同时形成 |
-| 后生 | epigenetic | 晚于围岩形成 |
-| 岩浆矿床 | igneous / magmatic deposit | 与岩浆形成、冷却、结晶相关 |
-| 岩浆热液矿床 | magmatic-hydrothermal deposit | 熔体派生流体的后生沉淀 |
-| 热液矿床 | hydrothermal deposit | 各种来源热液的后生沉淀 |
-| 沉积矿床 | sedimentary deposit | 沉积过程中的同生富集 |
+| 同生 / 后生 | syngenetic / epigenetic | 与围岩同时形成 ／ 晚于围岩形成 |
+| 岩浆矿床 | igneous / magmatic deposit | 同生，与岩浆形成冷却结晶相关 |
+| 岩浆热液矿床 | magmatic-hydrothermal deposit | 后生，熔体派生流体沉淀 |
+| 热液矿床 | hydrothermal deposit | 后生，各种来源热液沉淀 |
+| 沉积矿床 | sedimentary deposit | 同生，沉积过程中富集 |
 | 表生 / 次生富集 | surficial / supergene | 地表流体形成或改造已有矿床 |
 | 固相线 / 液相线 | solidus / liquidus | 之间为部分熔融区 |
 | 部分熔融 | partial melting | 热点、减压、加水、造山增厚四机制 |
 | 减压熔融 | decompression melting | 地壳/岩石圈减薄 |
 | 鲍文反应系列 | Bowen's reaction series | 按熔点排序的结晶顺序 |
 | 结晶分异 | fractional crystallization | 熔体与晶体成分持续变化 |
-| Stokes 定律 | Stokes' Law | V = (ρ₁−ρ)gd²/(18μ) |
-| 堆晶 | cumulate | 晶体在岩浆房底部堆积 |
-| 熔体不混溶 | melt immiscibility | Ni–Cu 矿床成因 |
-| 岩浆混合 | magma mixing | 层状侵入体成矿机制之一 |
-| 亲铁元素 | siderophile | 与金属/铁亲和：如 Pt、Au |
-| 亲硫元素 | chalcophile | 与硫亲和：如 Cu、Ni |
-| 亲石元素 | lithophile | 与硅酸盐亲和：如 Li、U、Th |
-| 相容元素 | compatible element | 优先进晶体；Ni、Au、Cr、PGE |
-| 不相容元素 | incompatible element | 优先留熔体；**U**、Th |
+| Stokes 定律 / 堆晶 | Stokes' Law / cumulate | V = (ρ₁−ρ)gd²/(18μ)；晶体在岩浆房底堆积 |
+| 熔体不混溶 / 岩浆混合 | melt immiscibility / magma mixing | Ni–Cu 矿床 ／ 层状侵入体 |
+| 亲铁 / 亲硫 / 亲石 | siderophile / chalcophile / lithophile | 与铁 ／ 硫 ／ 硅酸盐的亲和性 |
+| 相容 / 不相容元素 | compatible / incompatible element | 进晶体（Ni、Cr、PGE、Au）／ 留熔体（**U**、Th） |
 | 分配系数 | distribution coefficient | 由离子电荷与半径控制 |
-| 层状侵入体 | layered intrusion | Cr、PGE 的主要载体 |
-| 金伯利岩 | kimberlite | 爆发式火山作用，金刚石载体 |
+| 层状侵入体 / 金伯利岩 | layered intrusion / kimberlite | Cr、PGE 载体 ／ 金刚石载体 |
 | 井底温度 | 📎 BHT (bottom-hole temperature) | 📎 受钻井液降温影响，需 Horner 校正 |
 | 柴郡盆地 | Cheshire Basin | Practical 2 研究区 |
 
