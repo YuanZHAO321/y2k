@@ -146,7 +146,7 @@ Lecture 1–11、Practical 1–11 编号对齐。课程前半（W1–W6）为沉
 | W01 | `Lecture/Week 1/Lecture 1 2025-26 handoutr.md` (5,359) | `Practical/Week 1/EART 27201 Practical 1 handoutR.md` (1,936) | 2 | 7,295 | ❌ | 全课无 transcript |
 | W02 | `Lecture/Week 2/Lecture 2 2025-26 slides.md` (2,135) | `Practical/Week 2/Stokes Law experiment 2025.md` (3,375) | 2 | 5,510 | ❌ | |
 | W03 | `Lecture/Week 3/Class 3 slide handout 2025revised.md` (1,831) | `Practical/Week 3/Class 3 practical handout 2025.md` (2,293) | 2 | 4,124 | ❌ | |
-| W04 | `Lecture/Week 4/Class 4 slide handout 2025revised.md` (1,035) | `Practical/Week 4/Class 3 practical handout 2025.md` (2,293) | 2 | 3,328 | ❌ | ⚠️ **Practical 是 W03 文件的完整重复**（除 front-matter 的 source 路径外逐字节相同）→ **W04 practical 实际缺失**。见异常 D-01 |
+| W04 | `Lecture/Week 4/Class 4 slide handout 2025revised.md` (1,035) | `Practical/Week 4/Class 3 practical handout 2025.md` (2,293) | 2 | 3,328 | ❌ | ✅ **Practical 有意沿用 W03 的 handout**（同一份实习讲义跨两周使用），用户 2026-08 确认。**不是缺失、不是误传，不得记为勘误。** |
 | W05 | `Lecture/Week 5/Lecture 5 2025-26 revised.md` (3,730) | `Practical/Week 5/Practical 5 2025-26 revised.md` (855)；`Palaeocurrent exercise.md` (1,932)；`Palaeocurrent data and analysis solutions 2025-26.md` (313) | 4 | 6,830 | ❌ | solutions 文件 313 词/5,785 字符（数据表为主） |
 | W06 | `Lecture/Week 6/Class 6 slides.md` (2,937)；`Bahamas case study.md` (809) | `Practical/Week 6/Practical 6 Non-clastic sedimentary rocks.md` (1,678) | 3 | 5,424 | ❌ | |
 | W07 | `Lecture/Week 7/EART27201 - Sedimentary Rocks and Fossils - Slides - Introduction and Corals - compressed.md` (1,767) | `Practical/Week 7/EART27201 - Sedimentary Rocks and Fossils - Practicals - Intro and corals.md` (3,310) | 2 | 5,077 | ❌ | 古生物段起点 |
@@ -391,7 +391,7 @@ Lecture 1–10、Practical 1–9（W10 为复习课，无 practical）。Lecture
 
 | 编号 | 课程 | 描述 |
 |---|---|---|
-| **D-01** | **EART27201** | `Practical/Week 4/Class 3 practical handout 2025.md` 与 `Practical/Week 3/Class 3 practical handout 2025.md` **除 front-matter 的 `source:` 路径外逐字节相同**（均 2,293 词 / 13,777 字符）。**Week 4 的 practical 实际缺失**，上传时误传了 Week 3 的件 |
+| ~~D-01~~ | EART27201 | ~~W04 practical 误传了 W03 的件~~ **→ 已由用户 2026-08 澄清：第四周实习有意沿用第三周的 handout（同一份讲义跨两周使用）。非缺失、非误传，不得记为勘误。** |
 | **D-02** | **EART26201** | `Practical/Week 8/EART26201 lab handbook 2025-1.md`（21,717 词）是**全课实验手册**（实验室安全守则、事故上报、单位/对数/滴定通用技能、Experiment 2 缓冲液与指示剂），并非第 8 周专属材料，却只放在 Week 8 下 |
 | **D-03** | **EART26001** | `Practical/Exams/Feedback carbonate coursework.md`（166 词）标题为"碳酸盐 coursework 反馈"，而本课（能源与资源）无碳酸盐 coursework；EART23202 `Practical/Coursework/` 下有同名文件（内容不同）。**疑似跨课误放** |
 | **D-04** | EART22201 | `Practical/EART22201 Reference Guide 2025.md`（3,357 词）不在任何 Week 下，是全课通用光性矿物学速查表 | 
