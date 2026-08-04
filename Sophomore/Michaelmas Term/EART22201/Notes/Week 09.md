@@ -31,10 +31,10 @@
 
 ### 1. 为什么要研究侵入体
 
-- **数量**：讲义的全球岩浆产量清单——**约 35% 被喷出（extruded），约 65% 被侵入（intruded）**。transcript：绝大部分岩浆从未到达地表，"those solidified magmas are ultimately what formed **the first continental crust**"。
+- **数量**：**约 35% 被喷出（extruded），约 65% 被侵入（intruded）**。transcript：绝大部分岩浆从未到达地表，"those solidified magmas are ultimately what formed **the first continental crust**"。
 - **经济**：绝大部分**铂族元素（PGE：Pt、Pd、Rh）**来自镁铁质侵入体；绝大部分**铜**来自硅质侵入体。
-- **"化石记录"**：讲义用三分图表示岩浆储存方式——(a) **深部单一大岩浆房**、地壳储存有限；(b) 主要储存于**上地壳岩床群**；(c) 储存于**下地壳岩床群**。火山灾害建模必须知道**岩浆储存在深还是浅（随成分如何变）**、**上升通道快还是慢、中途是否滞留**；活火山下面看不见，只能靠被剥蚀出露的古侵入体标定（"the past is the key to the present"）。
-- **流体通道**：侵入体几何常受**先存地质结构**约束；侵位过程**压裂围岩、提高渗透率**，但**固结后的侵入体本身渗透率很低**——它同时是"通道"与"隔板"，直接关系到油气储层、**CCS**、地热与成矿。transcript：岩浆不过是一种高黏度流体，其流动原理可外推到热液系统与 CCS。
+- **"化石记录"**：讲义三分图给出三种岩浆储存方式——(a) **深部单一大岩浆房**；(b) **上地壳岩床群**；(c) **下地壳岩床群**。火山灾害建模必须知道**岩浆储存在深还是浅（随成分如何变）**、**上升通道快还是慢、中途是否滞留**；活火山下面看不见，只能靠被剥蚀出露的古侵入体标定（"the past is the key to the present"）。
+- **流体通道**：侵入体几何常受**先存地质结构**约束；侵位**压裂围岩、提高渗透率**，但**固结后的侵入体本身渗透率很低**——它同时是"通道"与"隔板"，关系到油气储层、**CCS**、地热与成矿。岩浆不过是一种高黏度流体，其流动原理可外推到一般地壳流体问题。
 
 ### 2. 侵入体的形态术语（考点：会认名词）
 
@@ -293,9 +293,7 @@ Sierra Nevada 岩基**赋存脉型金矿**，金产于**石英脉、断层与剪
 
 ⚠️ PDF 图件文字丢失，**三套组合与柱上高度的对应关系已错位/不可确定**。📎 按物理约束重排：含 **fayalite+apatite+myrmekite** 者最演化 → **顶部（Upper Zone）**；含 **opx 而无 olivine** 者 → **Middle Zone**（橄榄石在此暂时退出结晶相序，到 Upper Zone 以富铁形式回归）；含 **olivine + 少量氧化物** 者 → **Lower Zone**。此排序与讲义的隐层理端值自洽。
 
-**Palisades Sill 剖面图（Best 2006 Fig. 12.14）**：纵轴 = **岩床内高度（0–300 m）**，并排三栏——**岩性柱**（见第二段 §8）、**MgO wt.% 曲线**（顶底高、夹心层最低）、**% plagioclase 曲线**（富橄榄石层处低，出该层后向夹心层递增）。
-
-**怎么读结论**：后两条曲线共同说明"由两侧向夹心层不断演化" = **封闭体系分离结晶**；而单独测得的**隐层理（橄榄石 Fo 值）在富橄榄石层出现异常低值**，与之矛盾 → **必须引入第二次注入**。这就是"**三种层理互相交叉检验**"的完整方法论。
+**Palisades Sill 剖面图（Best 2006 Fig. 12.14）**：纵轴 = **岩床内高度（0–300 m）**，并排三栏——**岩性柱**、**MgO wt.% 曲线**、**% plagioclase 曲线**（读法与结论见第二段 §8）。要点：**后两条曲线支持封闭体系分离结晶，而隐层理在富橄榄石层出现矛盾值 → 必须引入第二次注入**。这就是"**三种层理互相交叉检验**"的方法论。
 
 ### 7. 地壳熔融反应式
 
@@ -483,7 +481,7 @@ Sierra Nevada 岩基**赋存脉型金矿**，金产于**石英脉、断层与剪
 
 ### 附加数字资源
 
-层状橄长岩（Stokes Mountain）、Loch Doon 花岗闪长岩、**I 型：Shap 花岗岩**、**S 型：Luxulyan 黑云母花岗岩**、**A 型：Rockall 霓石花岗岩**；以及"纯属好玩"的**格陵兰 Ilímaussaq 杂岩的钠闪石异霞正长岩（arfvedsonite kakortokite）**——该杂岩是 **34 种矿物的模式产地**，包括**钠闪石 arfvedsonite、异性石 eudialyte（锆的次要矿石）、复三斜锰钛矿 aenigmatite（钠质单链硅酸盐但不是辉石）、方钠石 sodalite**。原文明说："**You don't need to learn these minerals.**"
+层状橄长岩（Stokes Mountain）、Loch Doon 花岗闪长岩、**I 型：Shap 花岗岩**、**S 型：Luxulyan 黑云母花岗岩**、**A 型：Rockall 霓石花岗岩**；以及"纯属好玩"的**格陵兰 Ilímaussaq 杂岩的钠闪石异霞正长岩（arfvedsonite kakortokite）**——该杂岩是 **34 种矿物的模式产地**（钠闪石、异性石 eudialyte、复三斜锰钛矿 aenigmatite、方钠石等）。原文明说："**You don't need to learn these minerals.**"
 
 ---
 
@@ -620,4 +618,4 @@ Sierra Nevada 岩基**赋存脉型金矿**，金产于**石英脉、断层与剪
 | `EART22201 - 01-Dec-transcript.md`，全篇 | 自动转写对专有名词的系统性错拼：Skaergaard→"scaregard / ScareGuard"；gabbro→"galbro"；plagioclase→"plagic laser"；euhedral→"uhedral"；hornblende→"horn blend"；clinopyroxene→"clina pyroxene"；dolerite→"dolorite"；Palisades→"palisade"；forsteritic→"foursteritic"；**solidus temperature→"solidest temperature"**；crustal→"crystal"；solidifies→"certifies"；anorogenic→"anorigenic"；dacitic→"dasitic"；tourmaline→"Tormelene"；**Shap granite→"Schaap granite"**；au fait→"O.F." | **自动语音转写错误**（非授课内容错误） | 阅读 transcript 时按上表还原。其中 **"solidest temperature" 必须读作 "solidus temperature（固相线温度）"**，否则整段含水量论证无法理解；**"crystal rocks" 应读作 "crustal rocks（地壳岩石）"** |
 | `W9 notes.md`，Skaergaard 地层柱一页 | 三套矿物组合（"Augite…fayalite…apatite…myrmekite" / "Plagioclase, augite, olivine, minor oxides" / "Plagioclase, augite, opx, oxides"）与柱状图上的高度位置**在 md 中已脱钩** | **PDF 图注与图形的空间对应关系丢失**，不是内容错误 | 按物理约束重排：含 **fayalite + apatite + myrmekite** 者最演化 → **顶部（Upper Zone）**；含 **opx 而无 olivine** 者 → **Middle Zone**；含 **olivine + 少量氧化物** 者 → **Lower Zone**。此排序与讲义给出的隐层理端值（底 An65/Fo65 → 顶 An30/Fo0）自洽 |
 
-**关于 OCR 补充段的可靠性说明**：讲义 `W9 notes.md` 末尾的 `## OCR 补充` 段**仅含 Page 24 一页**（"Magmatic sedimentation… creates cumulate textures" 的四步流程）。该段**文字完整、无乱码、无内部矛盾，且与 transcript 的口头叙述逐条吻合**，**可靠性高**，本笔记已直接采用。真正需要打折扣的是正文中大量 `<!-- picture text -->` 标记的**图件文字提取残片**（辉长岩薄片页、铝饱和度页、S/I/A 型花岗岩薄片页、Palisades 剖面页、Skaergaard 地层柱页），它们**语序错乱、标签与图形脱钩**，上表已逐条记录受影响的位置。
+**关于 OCR 补充段的可靠性**：讲义末尾的 `## OCR 补充` 段**仅含 Page 24 一页**，文字完整、与 transcript 逐条吻合，**可靠性高**，已直接采用；真正需要打折扣的是正文中的 `<!-- picture text -->` 图件文字残片——详见第四段 §0 与上表相关各行。
