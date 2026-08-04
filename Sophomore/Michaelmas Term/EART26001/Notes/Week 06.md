@@ -446,7 +446,7 @@ V = (ρ₁ − ρ) × g × d² / (18 × μ)
 
 ---
 
-## 四、课堂补充（transcript 中讲义没有的内容）
+## 四、课堂补充
 
 本周的转写长达约 8,000 词，是本课最长的一份录音，老师口头补充远超讲义。以下按主题整理。
 
@@ -736,8 +736,7 @@ Vaal Gold Ltd 在其大型 **Randfontein 金田**（Witwatersrand 的一部分�
 | `Practical 6 instructions.md`，Table 1（PDF 表格 OCR） | A3 行 `-28 / 44`；C3 行 `-40 / 33`；F1 行 `-33 / 37`；G8 行 `-23 / 23` | 小数点丢失，数值放大 10 倍 | 对照 `6-Petrography data students` 右半列可确认应为：A3 `-2.8 / 4.4`；C3 `-4.0 / 3.3`；F1 `-3.3 / 3.7`；G8 `-2.3 / 2.3`。 |
 | `Practical 6 instructions.md`，Task 第 2 步等值线设置 | "conglomerate thickness **40-80-120-160200 cm**" | 数字粘连 | 应为 **40 – 80 – 120 – 160 – 200 cm**（答案图上确实出现 160 cm 与 200 cm 两条等值线）。 |
 | `Practical 6 instructions.md`，页脚 | 每页页脚均为 "**Practical 3**" | 与文档标题 "Practical 6" 不符 | 应为 **Practical 6**；系模板复制未改。不影响内容。 |
-| `Practical 6 instructions.md`，Table 1 A5 行 与 `6-Petrography data students` 左半列 | instructions 与数据表右半列均为 `65 / -2.6 / 3.7`；数据表左半列为 `45 / -1.7 / 185` | 两套数据不一致（见下一行） | — |
-| `6-Petrography data students.md`，整张表 | 左半三列（thickness / phi / **Au ppb**）与右半三列（thickness / phi / **Au ppm**）并列 | **两套数据并非同一数据的单位换算**：Au 的比值稳定在约 **50**（而非 ppb→ppm 的 1000），phi 系统性相差 **1.0**，且约 15 口井的厚度不同、缺失值分布也不同。同一文件内并列两套未标注版本的数据，极易误用。 | **应使用右半三列**（与 instructions Table 1 完全一致）。左半三列为旧版/备用数据，若误用其 ppb 值（0.08–0.27 g/t）会得出"该区块毫无价值"的错误结论。建议在文件中明确标注版本。 |
+| `6-Petrography data students.md`，整张表 | 左半三列（thickness / phi / **Au ppb**）与右半三列（thickness / phi / **Au ppm**）并列。例：A5 左 `45 / -1.7 / 185`，右 `65 / -2.6 / 3.7` | **两套数据并非同一数据的单位换算**：Au 比值稳定在约 **50**（而非 ppb→ppm 的 1000），phi 系统性相差 **1.0**，且约 15 口井厚度不同、缺失值分布也不同。同一文件内并列两套未标注版本的数据，极易误用。 | **应使用右半三列**（与 instructions Table 1 完全一致）。左半三列为旧版/备用数据；若误用其 ppb 值（0.08–0.27 g/t）会得出"该区块毫无价值"的错误结论。建议在文件中明确标注版本。 |
 | `6-Petrography data students.md`，文件名与表内容 | 文件名为 "Petrography data" | 表中只有钻孔厚度、粒径、金品位，**没有任何岩相学（矿物组合、蚀变）观测项** | 该表实为 **Activity 2 的钻孔评价数据**；Activity 1 的岩相学是手标本观察，无配套数据表。文件名有误导性。 |
 | `06-Gold deposits.md`，"Introduction Reserves" 标题 | 标题为 "Reserves"，页内同时展示矿山产量与储量两张饼图 | 标题未覆盖全部内容 | 应为 "Production and reserves"。属排版小疵，不影响内容。 |
 | `EART26001 - 11-Nov-transcript.md`，全篇 | "Carbval Cratern"、"comatite"、"chloride and apidote"、"Fichtri"、"Ontelwacht"、"Vidvartis Rund / vidvatos run"、"Connanish"、"chur"、"jill core"、"uraniumite"、"Arkean / Achaean"、"gang material"、"pastries"、"wolframide"、"braids of air"、"metamorphose"、"oval print" | 自动语音转写的拼写错误（非内容错误） | 依次应为：**Kaapvaal Craton、komatiite、chlorite and epidote、Fig Tree、Onverwacht、Witwatersrand、Cononish、chert、drill core、uraninite、Archean、gangue、pay streaks、wolframite/tungsten (W)、braids of hair、metamorphosed、overprint**。阅读转写时需自行还原，尤其 "pastries → pay streaks" 与 "gang → gangue" 两处会影响理解。 |
