@@ -323,13 +323,7 @@ W03 还给出了热液体系的术语框架——**Vein（脉）/ Disseminated�
 
 ### 2.12 环境与社会影响
 
-讲义原文：**"All beneficiation methods (except bioleaching) have potentially severe negative side effects"**：
-- **焙烧产生的酸性矿山排水（AMD）**；
-- **氰化物与汞污染地下水，毒害人与牲畜**；
-- **尾矿常无防护堆放**——雨水淋滤残余化学品进入地下水，风把颗粒吹散；
-- **Witwatersrand 尾矿含铀 → 属于低放射性废物（low-level radioactive waste）**（老师口述："these are low radiation, low level radioactive deposits effectively"）；
-- **尾矿再处理仍会留下受污染的足迹**；
-- **温室气体排放**。
+讲义原文：**"All beneficiation methods (except bioleaching) have potentially severe negative side effects"**——焙烧产生的**酸性矿山排水（AMD）**；**氰化物与汞污染地下水、毒害人与牲畜**；**尾矿常无防护堆放**（雨水淋滤残余化学品入地下水，风吹散颗粒）；**Witwatersrand 尾矿含铀 → 低放射性废物**；**尾矿再处理仍留下受污染足迹**；**温室气体排放**。
 
 ---
 
