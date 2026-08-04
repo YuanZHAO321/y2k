@@ -814,54 +814,38 @@ V_pore = V_bulk − V_grain = 348.7 cm³
 |---|---|---|
 | Banded Iron Formation (BIF) | 条带状铁建造 | 富铁层与燧石／页岩层高分辨率互层的化学沉积岩，主体形成于太古宙—古元古代 |
 | Manganese Formation (MnF) | 锰建造 | 与 BIF 同源同机制，但沉淀的是锰氧化物，时代通常更晚 |
-| Ferrous (Fe²⁺) | 亚铁 | 还原态铁，**在还原性流体中可溶**，可被长距离搬运 |
-| Ferric (Fe³⁺) | 高铁／三价铁 | 氧化态铁，**不溶**，一遇氧化条件即沉淀 |
-| Manganous (Mn²⁺) | 亚锰 | 还原态锰，可溶 |
-| Manganic (Mn³⁺/Mn⁴⁺) | 高锰 | 氧化态锰，不溶；需比铁更强的氧化条件才形成 |
+| Ferrous (Fe²⁺) / Ferric (Fe³⁺) | 亚铁／高铁 | 还原态**可溶可搬运** vs 氧化态**不溶即沉淀** |
+| Manganous (Mn²⁺) / Manganic (Mn³⁺,Mn⁴⁺) | 亚锰／高锰 | 同上；但高锰需**比铁更强的氧化条件**才形成 |
 | Redox / Eh | 氧化还原／氧化还原电位 | 控制铁锰溶解—沉淀的主控变量 |
 | Eh–pH diagram | Eh–pH 图 | 展示不同 Eh、pH 下最稳定的溶解态或矿物相的相图 |
 | Great Oxidation Event (GOE) | 大氧化事件 | 约 2.45–2.32 Ga 大气游离氧首次显著上升（📎 本周材料仅有图，讲解留到 Week 11） |
 | Anoxic ocean | 缺氧海洋 | BIF 形成的必要前提，使 Fe²⁺ 得以在全球尺度溶解搬运 |
 | Anoxygenic photosynthesis | 不产氧光合作用 | 紫／绿细菌利用光与 Fe²⁺ 固碳，同时氧化铁 |
-| Photo-oxidation | 光氧化 | 纯非生物、无需氧、仅需光的 Fe²⁺ 氧化途径；实验室可行但规模上未证实 |
+| Photo-oxidation | 光氧化 | 纯非生物、无需氧、仅需光；实验室可行但规模上未证实 |
 | Anaerobic (Fe) oxidation | 厌氧铁氧化 | 以 NO₃⁻ 为电子受体，无需氧无需光，任意水深可发生 |
-| Diagenesis | 成岩作用 | 把原始铁硅酸盐／硅凝胶转变为赤铁矿、磁铁矿、菱铁矿的过程 |
-| Supergene (enrichment) | 表生（富集） | **自上而下**的大气水／地下水淋滤，脱硅富铁，是 BIF 变为可采矿石的关键 |
-| Hypogene | 深成／上升成因 | **自下而上**沿断层运移的较高温流体造成的富集；可用氧同位素识别 |
-| Laterite | 红土 | 湿热气候下强烈风化形成的富铁富铝土壤／风化壳 |
-| Ferricrete | 铁壳 | 半干旱气候下铁较稳定所形成的铁质硬壳 |
-| Bauxite | 铝土矿 | 铝的主要资源，红土化的极端产物，主要矿物为三水铝石 |
-| Gibbsite | 三水铝石 Al(OH)₃ | 铝土矿的主要矿物之一 |
+| Diagenesis | 成岩作用 | 把原始铁硅酸盐／硅凝胶转变为赤铁矿、磁铁矿、菱铁矿 |
+| Supergene (enrichment) | 表生（富集） | **自上而下**的大气水淋滤，脱硅富铁，是 BIF 变为可采矿石的关键 |
+| Hypogene | 深成／上升成因 | **自下而上**沿断层运移的较高温流体造成的富集；氧同位素可识别 |
+| Laterite / Ferricrete | 红土／铁壳 | 湿热气候下富铁富铝的风化壳；半干旱下铁更稳定形成铁壳 |
+| Bauxite | 铝土矿 | 铝的主要资源，红土化的极端产物，主要矿物为三水铝石 gibbsite Al(OH)₃ |
 | Kaolinite | 高岭石 Al₂Si₂O₅(OH)₄ | 长石水解脱硅的中间产物 |
 | Karstification | 岩溶（喀斯特）作用 | 弱酸性水溶蚀碳酸盐岩形成溶洞、残柱、落水洞 |
 | Angular unconformity | 角度不整合 | 下伏地层先褶皱、被剥蚀，再被上覆地层水平覆盖 |
 | Palaeosol | 古土壤 | 本周案例中约 2.2 Ga 的古风化壳，是表生富集的时间标志 |
-| Enrichment factor | 富集系数 | 矿石最低可采品位 / 地壳丰度；Fe ≈ 5×，Mn ≈ 220× |
-| Ore grade | 矿石品位 | 矿石中目标金属的百分含量 |
-| Beneficiation | 选矿 | 磨矿 + 磁选／重选 + 浮选，提高精矿品位 |
-| Flotation | 浮选 | 利用矿物表面疏水性，使目标矿物附着气泡上浮分离 |
+| Enrichment factor | 富集系数 | 最低可采品位 / 地壳丰度；Fe ≈ 5×，Mn ≈ 220× |
+| Beneficiation / Flotation | 选矿／浮选 | 磨矿 + 磁选／重选 + 浮选；浮选利用矿物表面**疏水性**附着气泡上浮 |
 | Pelletizing / Sintering | 造球／烧结 | 把精矿制成适合高炉入炉的块状产品 |
-| Open pit mining | 露天开采 | 适用于软矿石（沉积型 BIF/MnF） |
-| Underground mining | 地下开采 | 适用于硬矿石／脉型矿（如 Kiruna） |
 | Acid Mine Drainage (AMD) | 酸性矿山排水 | 硫化物氧化生成硫酸使水体 pH 骤降；亦可天然发生 |
-| Asbestos | 石棉 | 蛇纹石与角闪石的纤维状变种，BIF 变质的常见副产物，致癌 |
-| Chrysotile | 温石棉 Mg₆(OH)₈(Si₄O₁₀) | 蛇纹石族石棉 |
-| Crocidolite / Riebeckite | 青石棉／钠闪石 | 角闪石族石棉 |
-| Tiger's eye | 虎睛石 | 石棉进一步硅化重结晶形成的宝石，无纤维危害 |
-| Oolitic ironstone | 鲕状铁岩 | 含富铁鲕粒的生物碎屑砂岩，浅水高能，显生宙常见 |
-| Ooid / Pisoid | 鲕粒／豆粒 | 同心圈层状颗粒；豆粒粒径更大，常见于红土与铝土矿 |
-| Berthierine | 铁绿泥石 | 鲕状铁岩中常见的富铁层状硅酸盐 |
-| Chamosite | 鲕绿泥石 | 富 Fe²⁺ 的绿泥石族矿物 |
-| Glauconite | 海绿石 | 富 Fe³⁺ 的海相自生云母类矿物 |
-| Siderite | 菱铁矿 FeCO₃ | 含 Fe 48.2% |
-| Hematite | 赤铁矿 Fe₂O₃ | 含 Fe 69.9% |
-| Goethite | 针铁矿 FeOOH | 表生条件常见的铁氧氢氧化物 |
-| Magnetite | 磁铁矿 Fe₃O₄ | 强磁性，磁法勘探与磁选的基础 |
+| Asbestos | 石棉 | 蛇纹石（chrysotile）与角闪石（crocidolite、anthophyllite）的纤维状变种，BIF 变质副产物，致癌 |
+| Tiger's eye | 虎睛石 | 石棉进一步重结晶形成的宝石，无纤维危害 |
+| Oolitic ironstone | 鲕状铁岩 | 含富铁鲕粒的生物碎屑砂岩，**浅水高能**，显生宙常见 |
+| Ooid / Pisoid | 鲕粒／豆粒 | 同心圈层状颗粒；豆粒更大，常见于红土与铝土矿 |
+| Berthierine / Chamosite / Glauconite | 铁绿泥石／鲕绿泥石／海绿石 | 鲕状铁岩中常见的富铁层状硅酸盐与自生云母 |
+| Siderite / Hematite | 菱铁矿 FeCO₃／赤铁矿 Fe₂O₃ | 理论含铁 **48.2%** / **69.9%** |
+| Goethite / Magnetite | 针铁矿 FeOOH／磁铁矿 Fe₃O₄ | 表生常见铁氧氢氧化物／强磁性，磁法与磁选的基础 |
 | Jasper | 碧玉岩 | 赤铁质（红色）燧石，BIF 中的常见岩性 |
-| Braunite | 褐锰矿 Mn²⁺Mn³⁺₆(SiO₄)O₈ | Kalahari 锰矿的主要矿石矿物 |
-| Pyrolusite | 软锰矿 MnO₂ | 高价锰氧化物 |
-| Rhodochrosite | 菱锰矿 MnCO₃ | 还原态锰的碳酸盐 |
-| Kutnahorite | 钙锰矿 CaMn(CO₃)₂ | 还原态锰的碳酸盐 |
+| Braunite / Pyrolusite | 褐锰矿 Mn²⁺Mn³⁺₆(SiO₄)O₈／软锰矿 MnO₂ | Kalahari 主要矿石矿物／高价锰氧化物 |
+| Rhodochrosite / Kutnahorite | 菱锰矿 MnCO₃／钙锰矿 CaMn(CO₃)₂ | 还原态锰的碳酸盐 |
 | Manganese nodules | 锰结核 | 深海缓慢生长的富 Mn-Ni-Cu-Co 结核 |
 | Kalahari Manganese Field | 卡拉哈里锰矿田 | 南非，全球最大陆上锰矿，20–48 wt.% Mn，矿体厚 < 45 m |
 | Kaapvaal Craton | 卡普瓦尔克拉通 | 南非太古宙克拉通，本周 BIF/MnF 的构造背景 |
