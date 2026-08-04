@@ -295,15 +295,13 @@ $$\text{radius ratio} = \frac{r_{\text{cation}}}{r_{\text{anion}}}$$
 
 ### 1. 课务与资源（考试与复习相关）
 
-- **不再统一发印刷版 practical 讲义**：本周起 practical 全部题目放在 Canvas，只有需要标注的少数页会印。理由是环保减纸。**如果确实需要纸质版可以提前提出，老师会准备少量印刷本。**
-- **老师不发 PowerPoint 源文件**：因为备注栏混杂着"给自己看的教学笔记"。但**备注中的学术内容就是录制视频用的脚本**——想要这部分文字，直接在视频播放器里点 "download transcript" 下载文本即可。**所有讲座也都录音做成 podcast 并配字幕**。⚠️ 老师本人提醒："I can't vouch for how good the transcript is in identifying technical words like **mineral names**."（自动转写对矿物名极不可靠——本周材料本身就是活例，见勘误表。）
-- **Virtual Microscope（virtualmicroscope.org）** 是本课的核心线上资源，链接在 Canvas 的 course unit resources → online petrology and microscopy resources。它由 **Open University** 为远程学习者建立，扫描了英国多所大学的岩石薄片，涵盖火成岩/变质岩/沉积岩，还有 **Apollo 月球样品与陨石样品**。
-  - **Teaching resources → manual of minerals**：按矿物查典型薄片实例；也可复习 pleochroism / relief / cleavage / extinction 等概念（内容比 Week 02 讲的更多）。
-  - **一个非常实用的小栏目**：教你识别薄片中的**假象（artifacts）**——玻片上的灰尘、指纹、气泡长什么样。"如果你在薄片里看到奇怪的东西，先来这里查一下这到底是伪影还是真矿物。"
-  - **Explore 标签**可按岩石类型 + 造岩矿物组合检索（示例：igneous rock + olivine → 列出全部含橄榄石的火成岩薄片）。
-  - 每个条目有 **Object（手标本照片，可放大看粒度与结构）** 与 **Microscope（数字薄片）** 两个标签；数字薄片可切换 PPL/XPL、缩放、用 measure 工具量尺寸；多数还带若干 **rotation（旋转序列）**，模拟旋转载物台。**PPL = 起偏器东西向；XPL = 再插入南北向的分析镜。**
+- **视频脚本可直接下载**：老师不发 PowerPoint 源文件（备注栏混有自用教学笔记），但**备注中的学术内容就是录视频的脚本**，在视频播放器点 "download transcript" 即可拿到全文；所有讲座也录成 podcast 并配字幕。⚠️ 老师亲口提醒："I can't vouch for how good the transcript is in identifying technical words like **mineral names**."（自动转写对矿物名极不可靠——本周材料本身就是活例，见勘误表。）
+- **Virtual Microscope（virtualmicroscope.org）** 是本课核心线上资源，由 **Open University** 为远程学习者建立，扫描了英国多所大学的薄片，涵盖火成岩/变质岩/沉积岩，还有 Apollo 月球样品与陨石。
+  - **Teaching resources → manual of minerals**：按矿物查典型薄片，并可复习 pleochroism / relief / cleavage / extinction。
+  - 有一个很实用的小栏目教你识别薄片中的**假象（artifacts）**——玻片上的灰尘、指纹、气泡长什么样。看到怪东西先查它是伪影还是矿物。
+  - **Explore 标签**可按"岩石类型 + 造岩矿物"组合检索。每个条目有 **Object（手标本）** 与 **Microscope（数字薄片）** 两个标签；数字薄片可切换 PPL/XPL、缩放、量尺寸，多数带 **rotation（旋转序列）**模拟旋转载物台。**PPL = 起偏器东西向；XPL = 再插入南北向分析镜。**
 
-📎 背景补充：讲义末尾"Thin sections for classroom session"列出的 URL 与转写中演示的薄片可以逐条对应（推断，非材料明说）：橄榄石 = s339-07-basalt（火山岩）与 olivine-gabbro-huntly（深成岩）；augite = porphyritic-olivine-basalt-mauritius；opx vs cpx = m24-two-pyroxene-granulite-lewisian；角闪石 = i16 hornblende dacite tuff（火山岩，黄褐）与 m01 amphibolite Lough Nagilly（粗粒，绿色）；黑白云母 = biotite-granite-luxulyan；sanidine = obsidian-sandy-braes；orthoclase = syenite-ben-loyal；microcline = i03 Leinster granite；斜长石 = basalt-giants-causeway 与 diorite-magellan-straits（Rotation 1 有环带）；石英 = granite-lundy（注意 Rotation 1 其实是黄玉 topaz，不是石英）。
+📎 背景补充：讲义末尾"Thin sections for classroom session"的 URL 与转写演示的薄片可逐条对应（推断）：橄榄石 = s339-07-basalt（火山岩）与 olivine-gabbro-huntly（深成岩）；augite = porphyritic-olivine-basalt-mauritius；opx vs cpx = m24-two-pyroxene-granulite-lewisian；角闪石 = i16 hornblende dacite tuff 与 m01 amphibolite Lough Nagilly；黑白云母 = biotite-granite-luxulyan；sanidine = obsidian-sandy-braes；orthoclase = syenite-ben-loyal；microcline = i03 Leinster granite；斜长石 = basalt-giants-causeway 与 diorite-magellan-straits；石英 = granite-lundy（其 Rotation 1 其实是黄玉 topaz）。
 
 ### 2. 最重要的方法论：Describe, describe, describe
 
@@ -521,21 +519,21 @@ $$\text{radius ratio} = \frac{r_{\text{cation}}}{r_{\text{anion}}}$$
 
 ## 六、易错点 / 重点难点
 
-1. **半径比只是半定量指导，不是定律。** 讲义自身的 Si⁴⁺ 数值（0.26 Å vs 0.4 Å）就前后不一，用 0.26 会得出"三配位"的错误结论。考试要答"Si 在硅酸盐中总是四配位"，并知道半径比理论假设刚性球与纯离子键，而 Si–O 键有明显共价性。
-2. **"共用氧数"要会从通式反推**，用 O/Si = 4 − n/2 快算。别死背表格。
-3. **辉石 90° vs 角闪石 60° 是本周最高频的一分。** 记忆锚点：单链 = 单 I-beam = 窄 = 近方形 = 90°；双链 = 双 I-beam = 宽 = 菱形 = 60°。
+1. **半径比只是半定量指导，不是定律。** 讲义自身的 Si⁴⁺ 数值（0.26 vs 0.4 Å）就前后不一，用 0.26 会得出"三配位"的错误结论。答题写"Si 在硅酸盐中恒为四配位"，并说明该理论假设刚性球与纯离子键，而 Si–O 有明显共价性。
+2. **"共用氧数"要会从通式反推**：O/Si = 4 − n/2，别死背表格。
+3. **辉石 90° vs 角闪石 60° 是最高频的一分。** 记忆锚点：单链 = 单 I-beam = 窄 = 近方形 = 90°；双链 = 双 I-beam = 宽 = 菱形 = 60°。
 4. **消光角三档必须分清**：opx **平行消光（0°）**；hornblende **~15–25°**（实测 ~18°）；cpx/augite **~35–45°**（口述 30–40°）。**只在"只见一组解理"的切面上测**；两组解理的切面看到的是**对称消光**，不是消光角。
-5. **"每 90° 消光一次"没有信息量**——所有各向异性矿物都这样。有信息量的是**消光角**、**是否完全消光**（斑驳消光）、**干涉色阶次**。
-6. **橄榄石 vs 普通辉石**（Reference Guide p16，斜体为最具决定性者）：颜色（无色 vs 淡粉褐/灰）、**弯曲不规则裂纹 vs 两组垂直解理**、双折射率（0.035–0.052 vs 0.018–0.033）、**平行消光（相对晶面）vs 斜消光（相对解理）**、**易蚀变为蛇纹石/伊丁石 vs 抗蚀变**。
-7. **opx vs cpx**（Reference Guide p16）：**消光角最常用**；opx 通常无色不多色（例外：**顽火辉石 enstatite** 有微弱但很有特征的淡粉—淡绿多色性）；opx 一级干涉色、cpx 多为二级；**opx 从不出现双晶，cpx 可以有**。
+5. **"每 90° 消光一次"没有信息量**——所有各向异性矿物都这样。有信息量的是消光角、是否完全消光（斑驳消光）、干涉色阶次。
+6. **橄榄石 vs 普通辉石**（Reference Guide p16）：无色 vs 淡粉褐/灰；**弯曲不规则裂纹 vs 两组垂直解理**；δ 0.035–0.052 vs 0.018–0.033；**平行消光（相对晶面）vs 斜消光（相对解理）**；**易蚀变为蛇纹石/伊丁石 vs 抗蚀变**。
+7. **opx vs cpx**：**消光角最常用**；opx 通常无色不多色（例外：**enstatite** 有微弱而特征的淡粉—淡绿多色性）；opx 一级、cpx 多为二级干涉色；**opx 从不双晶，cpx 可以有**。
 8. **黑云母 vs 角闪石**：一组解理 vs 两组 60° 解理；斑驳（不完全）消光 vs 干净的完全消光；垂直解理方向参差晶缘 vs 良好晶面；有多色晕 vs 无多色晕。
-9. **碱性长石有出溶、斜长石没有** —— 记住化学理由：K⁺ 与 Na⁺ 半径差大（1.55 vs 1.32 Å）→ 低温有溶线间隙；Na⁺ 与 Ca²⁺ 半径几乎相同（1.02 vs 1.00 Å）且靠 [NaSi]↔[CaAl] 耦合替换 → 完全固溶、无间隙。**"斜长石永不出现条纹"是判别 A 与 P 的硬判据。**
-10. **"三名碱性长石 → 冷却速率"的推理链要能完整复述**：simple twin + 无条纹 → sanidine → 快冷 → 火山岩；simple twin + 有条纹 → orthoclase → 慢冷；cross-hatch twin + 有条纹 → microcline → 极慢冷（Al:Si 已有序化）。
-11. **石榴子石与空洞的混淆**：靠 PPL（高突起 + 粉色）而不是 XPL。
-12. **结晶顺序的三条判据**（Reference Guide p5）：被包裹者更早；早结晶者更自形，晚结晶者晶形差；同一矿物中大晶体先于小晶体。⚠️ 并且原文明确警告：**Bowen 反应序列通常不是判断结晶顺序的好证据**，因为多数岩浆体系里多种矿物同时结晶——要用**结构**说话。
-13. **模式含量必须加起来接近 100%**，而目估必然有误差，报数时给出区间比给一个精确数更专业。
-14. **蚀变矿物不进岩石名**：serpentine（橄榄石蚀变）、chlorite（黑云母蚀变）、sericite（长石蚀变）、zeolite（充填杏仁）都是次生矿物；apatite、zircon、opaque oxide、titanite 是副矿物（通常 <5%），**也不进岩石名**。岩石名 = 主要矿物（essential + type），type 矿物按**含量由少到多**排在前面（例："biotite muscovite granite" 表示白云母比黑云母多）。
-15. **含水矿物 = 含水环境**：角闪石、云母含 (OH)⁻，需要含水岩浆；辉石、橄榄石、长石是无水矿物。**这条既解释 81108 的角闪石包壳霓辉石，也预告了后半学期的俯冲带岩浆学。**
+9. **碱性长石有出溶、斜长石没有**——化学理由：K⁺ 与 Na⁺ 半径差大（1.55 vs 1.32 Å）→ 低温有溶线间隙；Na⁺ 与 Ca²⁺ 半径几乎相同（1.02 vs 1.00 Å）且靠 [NaSi]↔[CaAl] 耦合替换 → 完全固溶。**"斜长石永不出现条纹"是判别 A 与 P 的硬判据。**
+10. **"三名碱性长石 → 冷却速率"链要能完整复述**：简单双晶 + 无条纹 → sanidine → 快冷火山岩；简单双晶 + 有条纹 → orthoclase → 慢冷；格子双晶 + 有条纹 → microcline → 极慢冷（Al:Si 已有序化）。
+11. **石榴子石与气孔/空洞的混淆**：靠 PPL（高突起 + 粉色）而不是 XPL。
+12. **结晶顺序的三条判据**（Reference Guide p5）：被包裹者更早；早结晶者更自形；同一矿物中大晶体先于小晶体。⚠️ 原文明确警告：**Bowen 反应序列通常不是判断结晶顺序的好证据**（多数体系中多矿物同时结晶）——要用**结构**说话。
+13. **模式含量应合计接近 100%**，且目估必有误差，报区间比报精确数更专业。
+14. **蚀变与副矿物不进岩石名**：serpentine / chlorite / sericite / zeolite 是次生矿物；apatite、zircon、opaque oxide、titanite 是副矿物（通常 <5%）。岩石名 = essential + type 矿物，type 矿物按**含量由少到多**排在前面（"biotite muscovite granite" 表示白云母多于黑云母）。
+15. **含水矿物 = 含水环境**：角闪石、云母含 (OH)⁻，需含水岩浆；辉石、橄榄石、长石无水。**这条既解释 81108 的角闪石包壳霓辉石，也预告了后半学期的俯冲带岩浆学。**
 
 ---
 
@@ -544,60 +542,43 @@ $$\text{radius ratio} = \frac{r_{\text{cation}}}{r_{\text{anion}}}$$
 | 英文 | 中文 | 说明 |
 |---|---|---|
 | cation / anion | 阳离子 / 阴离子 | 失电子变小 / 得电子变大 |
-| ionic radius | 离子半径 | 随价态与配位数变化，单位 Å 或 nm |
-| radius ratio | 半径比 | r_cation / r_anion，决定配位数 |
+| ionic radius / radius ratio | 离子半径 / 半径比 | 半径随价态与配位数变化；半径比 = r阳/r阴，决定配位数 |
 | co-ordination number / polyhedron | 配位数 / 配位多面体 | 3 三角形、4 四面体、6 八面体、8 立方体、12 立方八面体 |
-| [SiO₄]⁴⁻ tetrahedron | 硅氧四面体 | 所有硅酸盐的基本单元，净电荷 −4 |
-| shared oxygen | 共用氧 | 相邻四面体共用的桥氧，决定聚合度 |
-| orthosilicate / island silicate | 岛状硅酸盐 | [SiO₄]⁴⁻，0 共用氧，例：olivine、garnet |
-| sorosilicate (double-island) | 双岛状硅酸盐 | [Si₂O₇]⁶⁻，例：epidote、zoisite |
-| ring silicate | 环状硅酸盐 | [Si₃O₉]⁶⁻，例：beryl、cordierite |
-| single chain silicate | 单链硅酸盐 | [Si₂O₆]⁴⁻，例：pyroxene |
-| double chain silicate | 双链硅酸盐 | [Si₄O₁₁]⁶⁻，例：amphibole |
-| sheet silicate | 层状硅酸盐 | [Si₄O₁₀]⁴⁻，例：mica、chlorite、clay |
-| framework silicate | 架状硅酸盐 | [AlSi₃O₈]⁻ / SiO₂，例：feldspar、quartz |
-| isomorphism | 类质同象 | 结构相同、化学不同 |
-| polymorphism | 同质多象 | 化学相同、结构不同 |
+| [SiO₄]⁴⁻ tetrahedron / shared oxygen | 硅氧四面体 / 共用氧 | 硅酸盐基本单元，净电荷 −4；共用氧数决定聚合度 |
+| orthosilicate (island silicate) | 岛状硅酸盐 | [SiO₄]⁴⁻，0 共用氧，例：olivine、garnet |
+| sorosilicate / ring silicate | 双岛状 / 环状硅酸盐 | [Si₂O₇]⁶⁻（epidote）/ [Si₃O₉]⁶⁻（beryl、cordierite） |
+| single / double chain silicate | 单链 / 双链硅酸盐 | [Si₂O₆]⁴⁻ 辉石 / [Si₄O₁₁]⁶⁻ 角闪石 |
+| sheet / framework silicate | 层状 / 架状硅酸盐 | [Si₄O₁₀]⁴⁻ 云母黏土 / [AlSi₃O₈]⁻、SiO₂ 长石石英 |
+| isomorphism / polymorphism | 类质同象 / 同质多象 | 结构同化学异 / 化学同结构异 |
 | metastable | 亚稳 | 出现在其稳定 P–T 范围之外的相 |
-| solid solution | 固溶体 | 端元之间成分连续变化 |
+| solid solution / endmember | 固溶体 / 端元 | 如 Fo–Fa、Ab–An、Ab–Or |
 | miscibility gap / solvus | 溶线间隙 / 溶线 | 低温下固溶体分离为两相的区域 |
-| exsolution | 出溶 | 固溶体降温分离成两相，如 perthite |
-| perthite / microperthite | 条纹长石 / 微条纹长石 | 碱性长石出溶的富 Na 与富 K 条纹 |
-| coupled substitution | 耦合替换 | [NaSi]⁵⁺ ↔ [CaAl]⁵⁺ |
-| endmember | 端元 | 如 forsterite / fayalite、albite / anorthite |
+| exsolution / perthite (microperthite) | 出溶 / 条纹长石（微条纹） | 碱性长石降温分离出富 Na 与富 K 条纹 |
+| coupled substitution | 耦合替换 | [NaSi]⁵⁺ ↔ [CaAl]⁵⁺（斜长石） |
 | forsterite (Fo) / fayalite (Fa) | 镁橄榄石 / 铁橄榄石 | Mg₂SiO₄ / Fe₂SiO₄ |
 | albite (Ab) / anorthite (An) / orthoclase (Or) | 钠长石 / 钙长石 / 正长石端元 | NaAlSi₃O₈ / CaAl₂Si₂O₈ / KAlSi₃O₈ |
 | sanidine / orthoclase / microcline | 透长石 / 正长石 / 微斜长石 | 冷却速率：快 / 中 / 极慢 |
-| plagioclase / alkali feldspar | 斜长石 / 碱性长石 | 前者无出溶，后者常出溶 |
-| augite / pigeonite / diopside | 普通辉石 / 易变辉石 / 透辉石 | 高 Ca cpx / 低 Ca cpx / CaMg 端元 cpx |
-| orthopyroxene (opx) / clinopyroxene (cpx) | 斜方辉石 / 单斜辉石 | 平行消光 / 斜消光 |
-| enstatite | 顽火辉石 | Mg₂Si₂O₆ opx，可有淡粉—淡绿多色性 |
-| aegirine-augite | 霓辉石—普通辉石 | 富 Na 的淡绿色 cpx |
+| plagioclase / alkali feldspar | 斜长石 / 碱性长石 | 前者永无出溶，后者常出溶 |
+| augite / pigeonite / diopside / aegirine-augite | 普通辉石 / 易变辉石 / 透辉石 / 霓辉石—普通辉石 | 高 Ca cpx / 低 Ca cpx / CaMg 端元 / 富 Na 淡绿 cpx |
+| orthopyroxene (opx) / clinopyroxene (cpx) / enstatite | 斜方辉石 / 单斜辉石 / 顽火辉石 | 平行消光 / 斜消光；enstatite 可有淡粉—淡绿多色性 |
 | hornblende / amphibole | 普通角闪石 / 角闪石 | 双链，含 (OH)⁻，解理 ~60° |
 | biotite / phlogopite / muscovite | 黑云母 / 金云母 / 白云母 | 层状，一组极完全解理 |
 | serpentine / chlorite / sericite | 蛇纹石 / 绿泥石 / 绢云母 | 分别为橄榄石 / 黑云母 / 长石的蚀变产物 |
 | titanite (sphene) / apatite / zircon / spinel | 榍石 / 磷灰石 / 锆石 / 尖晶石 | 常见副矿物 |
-| relief | 突起 | 矿物与树胶折射率差异的表现 |
-| pleochroism | 多色性 | 旋转载物台时 PPL 下颜色改变 |
-| pleochroic halo | 多色晕 | 锆石内 U 衰变的 α 粒子辐射损伤所致 |
+| relief / pleochroism / pleochroic halo | 突起 / 多色性 / 多色晕 | 多色晕由锆石内 U 衰变的 α 粒子辐射损伤造成 |
 | cleavage / fracture | 解理 / 裂纹 | 解理成组平行且平面；裂纹不规则 |
 | extinction angle | 消光角 | 消光位时解理迹（或晶棱）与十字丝的夹角 |
-| straight / inclined / symmetrical extinction | 平行 / 斜 / 对称消光 | 分别对应斜方晶系、单斜晶系、两组解理切面 |
-| speckled extinction | 斑驳消光 | 云母的特征：永不完全全黑 |
-| undulose / patchy extinction | 波状 / 斑块状消光 | 晶格弯曲，变形证据 |
-| interference colour | 干涉色 | Δ = t·δ 决定阶次 |
-| birefringence (δ) | 双折射率 | olivine 0.035–0.052；augite 0.018–0.033 |
-| isotropic / anisotropic | 各向同性 / 各向异性 | 等轴晶系各向同性，永远消光 |
-| uniaxial / biaxial | 一轴晶 / 二轴晶 | 二轴晶有三个主折射率与三个多色性颜色 |
-| simple twin / lamellar twin / cross-hatch twin | 简单双晶 / 聚片双晶 / 格子双晶 | 分别对应 sanidine-orthoclase / plagioclase / microcline |
+| straight / inclined / symmetrical extinction | 平行 / 斜 / 对称消光 | 对应斜方晶系 / 单斜晶系 / 两组解理切面 |
+| speckled / undulose extinction | 斑驳消光 / 波状消光 | 云母永不全黑 / 晶格弯曲，变形证据 |
+| interference colour / birefringence (δ) | 干涉色 / 双折射率 | Δ = t·δ；olivine 0.035–0.052，augite 0.018–0.033 |
+| isotropic / anisotropic; uniaxial / biaxial | 各向同性 / 各向异性；一轴晶 / 二轴晶 | 等轴晶各向同性永远消光；二轴晶有三个多色性颜色 |
+| simple / lamellar / cross-hatch twin | 简单 / 聚片 / 格子双晶 | 对应 sanidine-orthoclase / plagioclase / microcline |
 | zoning (normal / reverse / oscillatory) | 环带（正 / 反 / 韵律） | 核—边成分变化 |
-| modal mineralogy | 模式矿物组成 | 各矿物体积百分比，合计 100% |
-| point counting | 点计数 | 定量测模式含量的方法 |
+| modal mineralogy / point counting | 模式矿物组成 / 点计数 | 体积百分比合计 100%；点计数为定量方法 |
 | euhedral / subhedral / anhedral | 自形 / 半自形 / 他形 | 晶面发育程度 |
 | tabular / acicular / lath / prismatic | 板状 / 针状 / 板条状 / 柱状 | 晶体习性 |
 | poikilitic / oikocryst / chadacryst | 嵌晶结构 / 主晶 / 客晶 | 大晶包裹小晶 |
-| ophitic / subophitic | 辉绿结构 / 次辉绿结构 | 普通辉石包裹斜长石板条（全 / 部分） |
-| interstitial | 填隙的 | 晚期充填先成晶体间隙 |
+| ophitic / subophitic / interstitial | 辉绿 / 次辉绿 / 填隙 | 普通辉石包裹斜长石板条；填隙者最晚结晶 |
 | essential / type / accessory / secondary mineral | 主要 / 类型 / 副 / 次生矿物 | 前两者进岩石名，后两者不进 |
 | PPL / XPL | 单偏光 / 正交偏光 | plane-polarized / cross-polarized light |
 
