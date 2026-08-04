@@ -155,12 +155,12 @@ EF 低（Al 3–4, Fe）→ 地质上容易 → 矿床常见 → 价格极低 �
 `勘查 → 评价 → 开采 → 选矿（物理富集）→ 冶炼/精炼（化学提纯）→ 制造 → 使用 → 回收（城市采矿）→ 闭矿退役`
 
 ### 2.10 环境与社会影响
-**环境**：① 露天矿"quite a scar in the landscape"，直接摧毁自然环境；② **尾矿堆（tailing heaps）与废水塘（waste ponds）**可能泄漏；③ **溢油（oil spill）**摧毁生态系统；④ **温室气体**——采、选、运、冶全链条排放，讲义有"每吨金属的 CO₂ 排放"柱状图（拆成加工端与采矿端）。
+**环境**：① 露天矿"quite a scar in the landscape"；② **尾矿堆（tailing heaps）与废水塘（waste ponds）**可能泄漏；③ **溢油（oil spill）**摧毁生态系统；④ **温室气体**——采、选、运、冶全链条排放（讲义有"每吨金属 CO₂ 排放"柱状图，拆成加工端与采矿端）。
 
-**社会——手工/小规模采矿（artisanal (small-scale) mining, ASM）**：印尼某火山口湖，当地人**用镐头下到火山口徒手采单质硫**，背黄色硫块出来；火山气体极毒，工作极伤身。老师评价是**平衡的**：有严重社会与健康问题，但**确实提供当地生计**。
+**社会——手工/小规模采矿（artisanal (small-scale) mining, ASM）**：印尼某火山口湖，当地人**用镐头下到火山口徒手采单质硫**；火山气体极毒，工作极伤身。老师评价**平衡**：有严重社会与健康问题，但**确实提供当地生计**。
 
 ### 2.11 出路
-① **更可持续的消费 + 更平等的分配**（放在第一位）；② **城市采矿 / 循环经济** → 降低对一次开采依赖，**但不是所有东西都能回收**；③ 技术创新：**生物采矿（biomining）**、**尾矿再处理**、**钻探替代剥采与水平钻井**（降足迹提效率）、**用尾矿抵消 CO₂**；④ 增加勘查投资、推动项目上产；⑤ 勘查中用**大数据、地球化学、地球物理**扩展资源基础；⑥ **理解资源——从地质一路到供应链**。讲义多处直白写着 **"(NB: geologists needed!)"**。
+① **更可持续的消费 + 更平等的分配**（放在第一位）；② **城市采矿 / 循环经济**，**但不是所有东西都能回收**；③ 技术创新：**生物采矿（biomining）**、**尾矿再处理**、**钻探替代剥采与水平钻井**、**用尾矿抵消 CO₂**；④ 增加勘查投资、推动项目上产；⑤ 勘查中用**大数据、地球化学、地球物理**扩展资源基础；⑥ **理解资源——从地质一路到供应链**。讲义多处直白写着 **"(NB: geologists needed!)"**。
 
 ### 2.12 地球科学家的角色与技能
 > Geoscientists **know how to find and assess a deposit** using parameters such as **mineral grade, volumes in place**. Geoscientists are **no experts** in the economic, environmental, legal and societal factors, **but are aware of them.**
@@ -223,9 +223,7 @@ $$1\ \text{wt\%}=10^{4}\ \text{ppm}=10^{7}\ \text{ppb}\qquad 1\ \text{ppm}=1\ \t
 | **R 资源项目生命周期** | s28 | 流程条 | `Access → Explore → Appraise → Select → Define → Execute → Operate → Abandon`，阶段名 `Gaining access ｜ Exploration ｜ Appraisal ｜ Production ｜ Decommissioning`；**Brownfield Appraise（老区再评价）会折返**——这正是储量随时间增长的机制之一 |
 | **S 勘查地球化学异常图** | Arndt 2017, s29 | 水系底图 + 采样点 + 浓度分级着色 | 某 **Cu** 勘查区圈出高铜区，据此定钻位，**结果真的打到矿床**。这就是 Practical 1 要你做的事（Cu 换成 Au） |
 | **T 地震与磁法** | Total; Reid 2016, s30 | 采集示意 + 实测 | **地震**：**安哥拉**实测剖面，标尺 1 km / 2 km，可见分层结构面；**磁法**：平面磁场图上一个**大磁异常**，正下方对应**磁铁矿**矿体。配对逻辑：地震用于**盆地/油气**（要层与构造），磁法用于**磁性矿体**（要物性对比） |
-| **U 钻探与岩心** | s31 | 钻机 + 岩心编录照片 | 岩心可测**矿物含量、孔隙度**，最终确认矿床存在与否 |
-| **V 勘查方法构成随时间** | Arndt 2017, s34 | 标题 "Primary search method for base metal deposits"，横轴时间，纵轴占比 | **棕色 = 填图**，全时段重要；**1950 年代起地球物理与地球化学份额显著上升** |
-| **W 每吨金属的 CO₂ 排放** | Pell 2021, s33 | 柱状图，每柱拆"加工"与"采矿"两部分 | 环境成本随金属种类差异巨大 📎（补充推断：越难富集的金属，单位产量能耗与排放通常越高——材料未明说） |
+| **U 钻探与岩心**（s31）｜**V 勘查方法构成**（Arndt 2017, s34）｜**W 每吨金属 CO₂**（Pell 2021, s33） | — | — | U：岩心可测**矿物含量、孔隙度**，最终确认矿床存在与否。V：标题 "Primary search method for base metal deposits"，**棕色=填图全时段重要，1950 年代起物探与化探份额显著上升**。W：每柱拆"加工"与"采矿"两部分，环境成本随金属种类差异巨大 📎（补充推断：越难富集的金属单位排放通常越高，材料未明说） |
 
 ---
 
@@ -413,19 +411,15 @@ md 保留了图内数值（原件为图件，**空间位置无法从 md 复原�
 | 等值线图 | contour map | 点浓度数据插值成等浓度线 |
 | 地球化学异常 / 背景值 | geochemical anomaly / background | 显著高于背景 / 无矿化区正常水平 |
 | 地球物理勘探 | exploration geophysics | 地震、磁法、重力、电法等 |
-| 地震 / 地震剖面 | seismic / seismic line | 声波在地质不连续面反射成像 |
-| 地质不连续面 | geological discontinuity | 反射界面（层面、断层等） |
+| 地震 / 地震剖面 / 地质不连续面 | seismic / seismic line / geological discontinuity | 声波在反射界面（层面、断层）成像 |
 | 磁法 / 磁异常 / 磁铁矿 | magnetics / magnetic anomaly / magnetite | 测地表磁场；异常常对应 Fe₃O₄ 矿体 |
 | 钻探 / 岩心 / 岩心编录 | drilling / core / core logging | 唯一能实物验证矿床的手段 |
 | 孔隙度 | porosity | 孔隙体积占比（Week 8 核心参数） |
-| 评价（详查） | appraisal | 发现后评估规模与经济性 |
-| 棕地再勘查 | brownfield (exploration) | 已有矿山周边/深部的再勘查 |
-| 露天开采 | open cast / open pit mining | — |
-| 选矿（富集加工） | beneficiation | 磨矿、破碎、化学处理等**提质与加工** |
+| 评价（详查） / 棕地再勘查 | appraisal / brownfield | 发现后评估规模与经济性 / 已有矿山周边深部再勘查 |
+| 露天开采 / 选矿富集加工 | open cast mining / beneficiation | — / 磨矿、破碎、化学处理等**提质与加工** |
 | 尾矿（堆）/ 废水塘 | tailings (heaps) / waste pond | 选矿废料与含化学品废水 |
 | 手工（小规模）采矿 | artisanal (small-scale) mining, ASM | 非工业化、常无监管的小规模开采 |
-| 城市采矿 / 循环经济 | urban mining / circular economy | 从废旧产品回收 / 减少一次开采依赖 |
-| 一次（原生）开采 | primary mining / extraction | 直接从地下提取，区别于回收 |
+| 城市采矿 / 循环经济 / 一次开采 | urban mining / circular economy / primary mining | 从废旧产品回收；减少对直接从地下提取的依赖 |
 | 生物采矿 / 尾矿再处理 / 水平钻井 | biomining / re-processing of tailings / horizontal drilling | 三项减足迹提效率的创新 |
 | 地温梯度 / 压力梯度 | geothermal / pressure gradient | 温度、压力随深度的增加率（Week 2） |
 | STEPS / SDS | Stated Policies / Sustainable Development Scenario | 📎 IEA 两套标准情景，SDS 减排更激进 |

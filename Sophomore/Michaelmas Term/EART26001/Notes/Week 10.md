@@ -15,11 +15,10 @@
 Week 10 的铁与锰，是这条主线上**最后一类矿床**。它与 Week 09 的蒸发岩同属**沉积成因（sedimentary / surficial）**这一大类：两周都不再讨论岩浆或热液把金属从深部搬上来，而是讨论**海水本身的化学状态如何直接沉淀出矿石**。老师在课上把这层关系说得很明确：
 
 > "So we are firmly still in that surface slash marine type of deposit that we have been discussing for the last two weeks, really."
-> （我们仍然牢牢地处在过去两周一直在讨论的那种"地表／海相"矿床类型之中。）
 
-区别在于：**蒸发岩靠的是"蒸发浓缩 + 溶解度积"这一物理化学阈值**（水量减少 → 盐类依溶解度顺序析出）；而**铁锰靠的是"氧化还原状态跨越"这一电子转移阈值**（Fe²⁺/Mn²⁺ 溶解 → 遇氧化剂 → Fe³⁺/Mn⁴⁺ 不溶 → 沉淀）。两者都产生**分带／韵律层**，但驱动量不同：蒸发岩是浓度，铁锰是 Eh。理解这个对照，本周的知识就有了骨架。
+区别在于驱动量：**蒸发岩靠"蒸发浓缩 + 溶解度积"（浓度阈值）**，**铁锰靠"氧化还原状态跨越"（Eh 阈值）**——Fe²⁺/Mn²⁺ 溶解 → 遇氧化剂 → Fe³⁺/Mn⁴⁺ 不溶 → 沉淀。两者都产生分带与韵律层，把这个对照记住，本周的知识就有了骨架。
 
-另外要注意课程行政上的一个关键节点：**本周是最后一次讲授新矿床类型的课**。老师开场即说明：
+另外要注意课程行政上的关键节点：**本周是最后一次讲授新矿床类型的课**。老师开场即说明：
 
 > "So today is the last lecture where we actually cover a resource type... I want to remind you that we have another final lecture next Tuesday, so this is not the last lecture."
 
@@ -286,25 +285,17 @@ Week 10 的铁与锰，是这条主线上**最后一类矿床**。它与 Week 09
 
 ### 2.9 侧向延伸：红土型矿床与铝土矿中的铝
 
-老师用相当篇幅"离题"讲铝，理由是**同一套表生／残余（residual, superficial）机制**能形成一大类矿床：
+老师用相当篇幅"离题"讲铝，理由是**同一套表生／残余（residual, superficial）机制**能形成一大类矿床："It goes for elements like the **rare earths**. It goes for **nickel**, also for **gold**, usually above ultramafic rocks. And it also goes for **aluminium**."
 
-> "So this goes for iron and manganese, as we've seen. It goes for elements like the **rare earths**. It goes for **nickel**, also for **gold**, usually above ultramafic rocks. And it also goes for **aluminium**."
-
-**铝的性质与用途（讲义）**：地壳中极丰富（8%）、**低密度、高比强度（strength/weight ratio）、导热好、耐腐蚀** → 轻质结构材料（航空航天）与隔热材料。**主要资源：铝土矿（bauxite）**。
-
-**铝土矿的形成**：
-- 长期风化 + 岩溶化，母岩**可以是任何岩性**（灰岩、花岗岩都行）。讲义例子：西班牙白垩纪铝土矿覆于灰岩基岩之上；南美的铝土矿覆于**前寒武纪花岗岩**之上，主要风化事件发生在**白垩纪**，形成一个今天海拔约 **600 m** 的古风化面，后被水系切割。沙特阿拉伯的古土壤剖面厚约 **4 m**。
-- **产状特征**：常呈**球状颗粒（pisoids / 豆状体）**。
-- **关键化学反应链（讲义原文）**：
+- **铝的性质与用途**：地壳中极丰富（8%）、**低密度、高比强度、导热好、耐腐蚀** → 轻质结构材料（航空航天）与隔热材料。**主要资源：铝土矿（bauxite）**。
+- **形成条件**：长期风化 + 岩溶化，母岩**可以是任何岩性**（灰岩、花岗岩都行）。实例：西班牙白垩系铝土矿覆于灰岩之上；南美铝土矿覆于**前寒武纪花岗岩**之上，主风化期为**白垩纪**，形成今天海拔约 **600 m** 的古风化面；沙特阿拉伯的古土壤剖面厚约 **4 m**。常呈**球状颗粒（pisoids／豆状体）**。
+- **关键反应链（讲义原文）**：
   ```
-  长石 feldspar KAlSi₃O₈ + H₂O （水解 hydrolysis）
-      —（失 Si）→ 高岭石 kaolinite Al₂Si₂O₅(OH)₄
-      —（失 Si）→ 三水铝石 gibbsite Al(OH)₃
+  长石 KAlSi₃O₈ + H₂O（水解）—（失 Si）→ 高岭石 Al₂Si₂O₅(OH)₄ —（失 Si）→ 三水铝石 Al(OH)₃
   ```
   即**逐级脱硅、铝相对富集**。
-- **风化剖面中的量化（转写口述）**：结核状铁质层（nodular ironstone）中 Al ≈ **25%**、SiO₂ ≈ **35%**；向上到铝土矿层，Al 升到约 **50%**、SiO₂ 降到 **2–6%**。
-- **全球分布**：集中在**南美北部、非洲、东南亚**等热带区（现代红土化区），也有分布在今天非热带区的**古铝土矿**。
-- **副产资源**：**铝土矿及其加工废料"赤泥（red mud）"是稀土（REE）的重要次生来源**（REE 吸附在铁氧化物上）。老师提到**曼大本系正在做这方面研究**。此外红土型矿床还伴生 **Ni、REE、Au**。
+- **剖面量化（转写口述）**：结核状铁质层 Al ≈ **25%**、SiO₂ ≈ **35%**；向上到铝土矿层 Al 升至约 **50%**、SiO₂ 降到 **2–6%**。
+- **分布与副产**：集中于**南美北部、非洲、东南亚**等热带区，也有非热带区的**古铝土矿**。**铝土矿及其加工废料"赤泥（red mud）"是稀土（REE）的重要次生来源**（REE 吸附于铁氧化物），曼大本系正在做该方向研究；红土型矿床还伴生 **Ni、REE、Au**。
 
 ### 2.10 鲕状铁岩（Oolitic ironstone）——课堂未讲，但实习要考
 

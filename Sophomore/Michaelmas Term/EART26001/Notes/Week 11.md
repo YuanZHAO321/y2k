@@ -61,11 +61,7 @@
 - **同生 vs 后生（syngenetic vs epigenetic）**：同生＝矿石与围岩「同时」形成（岩浆结晶时、沉积时）；后生＝矿石在围岩形成之后由外来流体带入沉淀。这是判断一个矿床属于哪一组的第一把尺子。
 - **形成 vs 改造（formation vs upgrading）**：表生作用不只「新造」矿床，还能把已存在的矿床**升级（upgrade）**——把低品位变成可采品位。老师举的例子就是上周讲的铁矿：大气降水沿**不整合面（unconformity）**渗入，使铁矿石品位提高。
 
-老师在转写里补的几点分类心得：
-
-- **同一种元素可以有多种成因**：铀既在花岗岩中因岩浆结晶富集（亲石、不相容 → 最后结晶的矿物中），又能被流体淋滤、在花岗岩附近由热液再沉淀。所以铀既出现在 igneous 组、又出现在 hydrothermal 组。
-- **"hydrothermal" 是一个 umbrella term（伞形术语）**：火成的、变质的、下渗的海水或地下水、沉积盆地埋藏压实时排出的地层水，混在一起统称热液，因此**来源极多样，成分也极多样**。
-- 讲义列出的很多矿床（Cr、斑岩、MVT、VMS/Sedex、矽卡岩、云英岩、层状铜、高岭石）老师明确说 **"we haven't talked about ... specifically" / "I've not even touched on some of these"**，只是为了让分类表完整。
+老师在转写里补的三点分类心得：**①同一种元素可有多种成因**（铀既因岩浆结晶富集于花岗岩，又能被流体淋滤后由热液再沉淀，故同时出现在 igneous 与 hydrothermal 两组）；**②"hydrothermal" 是一个 umbrella term**，火成的、变质的、下渗海水/地下水、盆地压实排出的地层水混在一起统称热液，来源与成分都极多样；**③**讲义列出的许多矿床（Cr、斑岩、MVT、VMS/Sedex、矽卡岩、云英岩、层状铜、高岭石）老师明确说过 "we haven't talked about ... specifically"，列出只为分类表完整。
 
 ### 2.3 大气趋势（Atmospheric trends）：氧气
 
@@ -167,12 +163,9 @@ GOE 带来的氧气进入大气，并通过大气—地表环境的交换进入�
 | 基底剥蚀 | （转写另补：**金刚石**——与裂谷事件在时间上有宽泛关联） |
 | 沉积作用 | |
 
-老师在离散边缘的顺序讲得很清楚：裂谷期热流上涌 → 可形成金刚石与火成侵入体 → 洋盆形成后中脊黑烟囱产出贱金属、铁、铜（**喷流型 exhalative / Sedex**）→ 盆地一度与大洋隔绝则形成**蒸发岩**（举例：**红海裂谷**）→ 新生被动陆缘上有机质堆积＋多孔灰岩与砂岩沉积 → **石油系统**。
+老师把离散边缘的时间顺序讲得很清楚：裂谷期热流上涌 → **金刚石**与火成侵入体 → 洋盆形成后中脊**黑烟囱**产出贱金属、铁、铜（**喷流型 exhalative / Sedex**）→ 盆地一度与大洋隔绝则形成**蒸发岩**（例：**红海裂谷**）→ 新生被动陆缘上有机质堆积＋多孔灰岩与砂岩沉积 → **石油系统**。
 
-**(6) 矿床类型与超大陆旋回的时间对应（Groves 2007）**
-
-- **造山型金**（汇聚背景）：主要成矿期集中在**超大陆的开始与结束**，尤其是**超大陆聚合、造山带形成时**。老师举例：**Kenorland（转写作 "Kenoland"）形成之初**，以及 **Pangaea 聚合时**。
-- **克拉通内部型（intra-cratonic）如金刚石**：同样集中在**超大陆形成的起始与结束阶段**。
+**(6) 矿床类型与超大陆旋回的时间对应（Groves 2007）**：**造山型金**（汇聚背景）主要成矿期集中在**超大陆的开始与结束**，尤其是**聚合、造山带形成时**（例：**Kenorland**〔转写作 "Kenoland"〕形成之初、**Pangaea 聚合时**）；**克拉通内部型（intra-cratonic）如金刚石**同样集中在超大陆形成的**起止两端**。
 
 ### 2.7 本周的关键学习要点（讲义 Key learning points，全课总纲）
 
@@ -218,10 +211,7 @@ GOE 带来的氧气进入大气，并通过大气—地表环境的交换进入�
 
 ### 图 4：摩洛哥上白垩统露头剖面（TOC vs 相对海平面）
 
-- **左侧**：露头照片 ＋ 岩性柱（Cenomanian–Turonian），叠加**黑色 TOC 曲线**；富有机质层在露头上表现为**灰色条带**（老师指了三处，其中一处在人站立位置的底部）
-- **右侧**：**相对海平面曲线**，注意**向左为海平面升高、向右为降低**
-- **对应关系**：**TOC 峰值与相对海平面高位一一对应**
-- ⚠️ 转写把 TOC 误写为 "TUC"，把 Cenomanian 误写为 "Uption"（应为 Cenomanian–Turonian）——见勘误表。
+**左侧**为露头照片＋岩性柱（Cenomanian–Turonian），叠加**黑色 TOC 曲线**，富有机质层在露头上表现为**灰色条带**（老师指了三处）；**右侧**为**相对海平面曲线**，注意**向左为升高、向右为降低**。**对应关系：TOC 峰值与相对海平面高位一一对应。** ⚠️ 转写把 TOC 误写为 "TUC"、把 Cenomanian 误写为 "Uption"，见勘误表。
 
 ### 图 5：海侵成烃机制剖面示意（Arthur 2004）
 
@@ -403,74 +393,67 @@ GOE 带来的氧气进入大气，并通过大气—地表环境的交换进入�
 
 | 英文 | 中文 | 说明 |
 |---|---|---|
-| Economic geology | 经济地质学 | 老师给全课的学科定位：整合多学科概念，用于定位、理解、预测矿床 |
-| Commodity deposit / resource deposit | 商品矿床 / 资源矿床 | 有用商品在地壳可达部位充分富集、可盈利开采的地质体（Robb 2005） |
-| Syngenetic | 同生的 | 成矿与围岩形成同时（岩浆型、沉积型） |
-| Epigenetic | 后生的 | 成矿晚于围岩，由外来流体带入（岩浆热液、热液、表生） |
-| Igneous / magmatic deposit | 火成／岩浆矿床 | 与熔体形成、冷却、结晶相关 |
-| Magmatic-hydrothermal | 岩浆热液（的） | 由熔体出溶的含水流体沉淀成矿 |
-| Hydrothermal fluid | 热液 | 伞形术语：火成、变质、封存水、地表水的混合体，来源与成分都很多样 |
-| Connate water | 封存水／原生地层水 | 沉积物埋藏压实时释出的水 |
-| Meteoric fluid | 大气降水（成因流体） | 地表下渗流体，表生成矿与矿床升级的主角 |
-| Surficial / supergene | 表成／表生（的） | 地表流体成矿，并可**升级（upgrade）**已有矿床 |
-| Exsolution | 出溶 | 熔体冷却时释放出含水流体的过程 |
-| Lithophile | 亲石（元素） | 偏好与硅酸盐结合，如 U、Li、Sn、W |
-| Incompatible element | 不相容元素 | 不易进入早期结晶矿物，在残余熔体中富集 |
-| Partial melting | 部分熔融 | 太古宙高热流下熔融程度高，产生科马提岩 |
-| Komatiite | 科马提岩 | 超镁铁质火山岩，反映太古宙高部分熔融程度，与绿岩带富金相关 |
-| Greenstone belt | 绿岩带 | 太古宙古老陆壳碎块中的含金构造单元（例：Barberton） |
+| Economic geology | 经济地质学 | 全课的学科定位：整合多学科概念，定位/理解/预测矿床 |
+| Commodity / resource deposit | 商品矿床 / 资源矿床 | 充分富集＋可达＋可盈利开采（Robb 2005） |
+| Syngenetic / Epigenetic | 同生的 / 后生的 | 与围岩同时成矿 / 晚于围岩由外来流体带入 |
+| Igneous (magmatic) deposit | 火成（岩浆）矿床 | 与熔体形成、冷却、结晶相关 |
+| Magmatic-hydrothermal | 岩浆热液（的） | 熔体出溶的含水流体沉淀成矿 |
+| Hydrothermal fluid | 热液 | 伞形术语：火成、变质、封存水、地表水的混合 |
+| Connate water | 封存水／原生地层水 | 埋藏压实时从沉积物释出 |
+| Meteoric fluid | 大气降水成因流体 | 表生成矿与矿床升级的主角 |
+| Surficial / supergene | 表成 / 表生（的） | 地表流体成矿，并可**升级（upgrade）**已有矿床 |
+| Exsolution | 出溶 | 熔体冷却时释放含水流体 |
+| Lithophile | 亲石元素 | 偏好硅酸盐结合，如 U、Li、Sn、W |
+| Incompatible element | 不相容元素 | 在残余熔体中富集，最后结晶 |
+| Partial melting | 部分熔融 | 太古宙熔融程度高 → 科马提岩 |
+| Komatiite | 科马提岩 | 超镁铁质火山岩，只可能形成于太古宙；释放地幔金 |
+| Greenstone belt | 绿岩带 | 太古宙含金构造单元（例：Barberton） |
 | Layered intrusion | 层状侵入体 | PGE、Cr、Ni 的主要载体（例：Bushveld） |
-| PGE / PGM | 铂族元素 / 铂族矿物 | Platinum-group elements / minerals |
-| Orogenic gold | 造山型金 | 与造山带、变质—岩浆热液相关的金矿床 |
-| Porphyry Cu-Mo (-Au) | 斑岩型铜钼（金）矿 | 靠近火成体、由岩浆热液形成 |
-| Greisen | 云英岩（化） | 花岗岩周围 Sn-W 流体作用的产物（Cornwall） |
-| Skarn | 矽卡岩 | 火成侵入体改造沉积岩形成的 W-Cu-Zn-Mo 矿床 |
+| PGE / PGM | 铂族元素 / 铂族矿物 | — |
+| Orogenic gold | 造山型金 | 与造山带、变质—岩浆热液相关 |
+| Porphyry Cu-Mo(-Au) | 斑岩型铜钼（金）矿 | 靠近火成体，由岩浆热液形成 |
+| Greisen | 云英岩（化） | 花岗岩周围 Sn-W 流体作用（Cornwall） |
+| Skarn | 矽卡岩 | 侵入体改造沉积岩的 W-Cu-Zn-Mo 矿床 |
 | MVT (Mississippi Valley Type) | 密西西比河谷型 | 沉积岩容矿的 Pb-Zn 热液矿床 |
-| VMS / Sedex | 块状硫化物 / 喷流沉积型 | 海底喷流与黑烟囱相关的多金属矿床 |
-| Black smoker | 黑烟囱 | 洋中脊附近的高温热液喷口 |
+| VMS / Sedex | 块状硫化物 / 喷流沉积型 | 海底喷流、黑烟囱相关的多金属矿床 |
+| Black smoker | 黑烟囱 | 洋中脊高温热液喷口 |
 | Stratiform Cu | 层状铜矿 | 讲义列出、未细讲 |
 | Placer deposit | 砂矿 | 沉积搬运富集（Au、金刚石、U、Ti、Zr…） |
-| BIF (Banded iron formation) | 条带状铁建造 | 与 GOE 相关的大规模铁沉积 |
-| MnF (Manganese formation) | 锰建造 | 与 BIF 同期的锰沉积 |
+| BIF / MnF | 条带状铁建造 / 锰建造 | 与 GOE 相关的大规模 Fe、Mn 沉积 |
 | Oolitic ironstone | 鲕状铁岩 | 海侵得以保存的陆架沉积矿床之一 |
 | Bauxite / laterite | 铝土矿 / 红土 | 残积表生矿床；红土亦可富集 Ni、PGE |
-| Kaolinite | 高岭石 | 黏土矿床，讲义列出 |
-| GOE (Great Oxidation Event) | 大氧化事件 | 约 2.4–2.2 Ga，大气首次显著富氧 |
-| Redox-sensitive element | 氧化还原敏感元素 | 如 U、Fe、Mn，溶解度随氧化态变化 |
-| Detrital pyrite / uraninite | 碎屑黄铁矿 / 碎屑晶质铀矿 | 保存于 GOE 前地层，是还原性大气的证据（Witwatersrand ~2.8 Ga） |
-| ²³⁵U/²³⁸U ratio | 铀-235/铀-238 比值 | 随时间下降；讲义门槛 >1% 才可能自然链式反应 |
-| Oklo natural reactor | 奥克洛天然核反应堆 | 加蓬，约 20 亿年前自发运行 |
-| Uranium enrichment | 铀浓缩 | 人工提高 ²³⁵U 丰度以供反应堆使用 |
-| Kerogen | 干酪根 | 沉积岩中的固体有机质，成烃母质 |
-| Source rock | 烃源岩 | 含足够可成熟有机质的岩石 |
-| Maturation | 成熟（作用） | 有机质在埋藏受热下转化为油气 |
-| TOC (Total organic carbon) | 总有机碳 | 烃源岩品质的核心指标 |
-| Eukaryote / prokaryote | 真核生物 / 原核生物 | 真核来源有机质才能生成可观油气 |
-| Archaea / microbial mat | 古菌 / 微生物席 | 最早干酪根的主要来源，成烃能力差 |
-| Metazoa | 后生动物 | 讲义标 ~650 Ma；转写口述动物出现约 550 Ma |
-| Heterotrophic protist | 异养原生生物 | ~850 Ma |
+| Kaolinite | 高岭石 | 黏土矿床 |
+| GOE (Great Oxidation Event) | 大氧化事件 | 约 2.4–2.2 Ga |
+| Redox-sensitive element | 氧化还原敏感元素 | U、Fe、Mn 等，溶解度随氧化态变化 |
+| Detrital pyrite / uraninite | 碎屑黄铁矿 / 碎屑晶质铀矿 | 还原性大气的证据（Witwatersrand ~2.8 Ga） |
+| ²³⁵U/²³⁸U ratio | 铀-235/铀-238 比值 | 随时间下降；讲义门槛 >1% |
+| Oklo natural reactor | 奥克洛天然核反应堆 | 加蓬；需氧化窗口＋高 ²³⁵U 双重条件 |
+| Uranium enrichment | 铀浓缩 | 人工抬高 ²³⁵U 丰度 |
+| Kerogen | 干酪根 | 成烃母质；其**来源结构**决定成烃能力 |
+| Source rock / Maturation | 烃源岩 / 成熟作用 | 埋藏受热使有机质转化为油气 |
+| TOC (Total organic carbon) | 总有机碳 | 烃源岩品质核心指标 |
+| Eukaryote / prokaryote | 真核 / 原核生物 | 真核来源有机质才能生成可观油气 |
+| Archaea / microbial mat | 古菌 / 微生物席 | 最早干酪根来源，成烃能力差 |
+| Metazoa / Heterotrophic protist | 后生动物 / 异养原生生物 | ~650 Ma / ~850 Ma |
 | Eustatic / eustasy | 全球海平面（变化） | 由冰量与盆地容积共同控制 |
-| Transgression / regression | 海侵 / 海退 | 海侵利于烃源岩与陆架矿床保存；海退破坏已有矿床 |
+| Transgression / regression | 海侵 / 海退 | 海侵利于成烃与陆架矿床保存；海退破坏 |
 | Highstand | 海平面高位 | 与烃源岩发育一级相关 |
-| Greenhouse / icehouse climate | 温室 / 冰室气候 | 无极地冰、海平面高 / 有极地冰、海平面低 |
-| Sill (basin sill) | 盆地门槛 | 隔开受限盆地与开阔大洋的地形障壁 |
-| Stratification | 水体分层 | 低盐低密表层与高盐高密底层不混合 |
-| Anoxia / dysoxia | 缺氧 / 贫氧 | 底层水缺氧，提高有机质保存率 |
+| Greenhouse / icehouse climate | 温室 / 冰室气候 | 无极地冰海平面高 / 有极地冰海平面低 |
+| Sill (basin sill) | 盆地门槛 | 隔开受限盆地与开阔大洋的障壁 |
+| Stratification / Anoxia | 水体分层 / 缺氧 | 底层不混合并缺氧 → 有机质保存 |
 | Productivity vs preservation | 生产力 vs 保存 | 烃源岩形成的两条并行控制 |
-| Wilson cycle | 威尔逊旋回 | 大洋反复开合的数亿年尺度旋回 |
+| Wilson cycle | 威尔逊旋回 | 大洋反复开合，数亿年尺度 |
 | Crustal growth | 地壳增生 | 主峰约 2.7 Ga 与 1.9 Ga |
-| Supercontinent | 超大陆 | 例：Kenorland、Pangaea（泛大陆） |
+| Supercontinent | 超大陆 | 例：Kenorland、Pangaea |
 | Super plume event | 超级地幔柱事件 | 与裂谷化及地壳增生期相关 |
-| Convergent margin / subduction zone | 汇聚边缘 / 俯冲带 | 造山型、斑岩型、砂矿等的构造背景 |
-| Divergent margin / rifting | 离散边缘 / 裂谷作用 | Ni-Cu-PGE、Sedex/VMS、蒸发岩、烃源的构造背景 |
-| Passive margin | 被动陆缘 | 新生洋盆边缘，利于石油系统发育 |
+| Convergent margin / subduction zone | 汇聚边缘 / 俯冲带 | 造山型金、斑岩、砂矿的背景 |
+| Divergent margin / rifting | 离散边缘 / 裂谷作用 | Ni-Cu-PGE、Sedex/VMS、蒸发岩、烃源的背景 |
+| Passive margin | 被动陆缘 | 利于石油系统发育 |
 | Craton | 克拉通 | 稳定古老陆核 |
-| Unconformity | 不整合面 | 表生流体渗入通道，铁矿升级与不整合型铀矿的关键构造 |
+| Unconformity | 不整合面 | 表生流体通道；铁矿升级与不整合型铀矿的关键 |
 | Overarching controls | 总控因素 | 大气圈、生物圈、地圈、水圈 |
-| Predictive tool | 预测工具 | 由过程知识推测矿床出现的时空位置 |
 | Set exercise / Test | 定量练习 / 课程测验 | 本课 25%，以 practical 计算与图件判读为主 |
-| License block | 许可区块 | 勘探/开采许可范围；问答中体积计算的边界 |
-| Cross-section | 剖面（图） | 读取倾角与几何关系的图件 |
+| License block / Cross-section | 许可区块 / 剖面图 | 体积计算题中的边界与倾角读取工具 |
 
 ---
 
