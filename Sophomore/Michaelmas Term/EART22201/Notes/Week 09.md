@@ -1,0 +1,910 @@
+# EART22201 Igneous Minerals and Processes — Week 09 学习笔记
+
+## 一、本周主题
+
+**本周主题：镁铁质与硅质侵入体（Mafic and silicic intrusions）——即"没有喷出来的那一半岩浆系统"。**
+
+这个判断完全来自材料本身，三份材料互相印证：
+
+- 讲义 `W9 notes.md` 首页标题即 **"EART 22201 Igneous minerals and processes — Mafic and silicic intrusions, Lesson 9"**，其目录把本讲分成三大块：
+  - **第 1 块**：侵入体在地质记录中的形态与术语（1.1）、为什么要研究侵入体（1.2）；
+  - **第 2 块**：镁铁质侵入体——辉长岩与粗玄岩（2.1）、大型岩浆房的封闭体系分离结晶：**Skaergaard 层状侵入体**（2.2）、小型侵入体中的结晶：**Palisades 岩床**（2.3）；
+  - **第 3 块**：硅质侵入体——花岗岩与花岗质岩类及其成因（3.1）、花岗质岩的火成结构（3.2）、不同构造背景下的花岗岩（3.3：陆陆碰撞带 vs 大陆边缘）。
+- Practical 9 的标题一字不差：**"Practical 9: Mafic and silicic intrusions"**，三部分正好对应——Skaergaard 层状堆晶辉长岩薄片、花岗岩薄片（S/I/A 型）、花岗岩手标本，外加 Palisades Sill 附加薄片。
+- 课堂 transcript 开场即定调：
+
+  > "this week we're moving on from our exploration of the three different tectonic settings of igneous activity. And we're going on to think about **the non-erupted part of those igneous systems**."
+
+**在全课骨架中的位置。** 本课的主线是「硅酸盐矿物晶体化学与偏光光性 → 相图与地球化学数据 → 解释岩浆生成、分异与构造背景」。前八周走的是**喷出岩**路线：先建立矿物光性与晶体化学工具，再依次讲三大构造背景的火山岩（洋中脊 / 洋岛 / 俯冲带的玄武岩—安山岩—英安岩—流纹岩）。本周是这条主线的**镜像补完**——把同样的矿物学与分异原理搬到**深部凝固**的那 65% 岩浆上去。三处明确的前后衔接：
+
+1. transcript 说 "We spent quite a lot of time talking about basalts the past few weeks. **Gabbros are basically the solidified, coarse-grained products**"——辉长岩 = 慢冷的玄武岩，本质矿物完全相同；
+2. "andesites, dacites and rhyolites **that we talked about last week**"——花岗质岩就是它们的中—粗粒等价物，所以 Week 08（俯冲带火山岩）直接接到本周的花岗岩；
+3. "we saw **last week** that you only get hornblende when your magma is ever so slightly wet"——上周建立的"角闪石=湿岩浆=俯冲带"这条判据，本周原封不动地用来判别辉长岩的构造背景。
+
+**向后与向外的接口。** 老师课上明确预告：花岗质熔体能溶解更多水，"that is to do with **the polymerization of the silica** in the magma. And we're gonna talk a lot about that next week"——Week 10 讲**火山喷发（viscosity / polymerisation）**，本周末尾的含水量讨论就是那一讲的引子。对**上游** EART26201 地球化学原理，本周直接调用了它 Lecture 4 的成果：讲义在辉石出溶那两页明确标注 "Phase diagrams (extra) are from **EART 26201 Principles of Geochemistry, Lecture 4**"（Di–En 辉石体系的溶线 + 共结）。对**下游** EART26001 能源与资源，transcript 开篇就点名了：铂族元素（Pt、Pd、Rh）来自镁铁质侵入体，铜来自硅质侵入体，末尾的加州淘金热正是造山型/岩浆热液型金矿的原型。
+
+> 📎 背景补充：本周处在学期收尾阶段。transcript 开头有一段考务信息：**不安排复习课**；下周（Week 10）课程继续但 practical 较短，届时会把**全课程所有薄片**摆出来供复习；G45 实验室在没有其他班的时候可自由使用，薄片也可借到"恐龙走廊尽头"的本科自习区（用完必须归还）。课程大纲（spec）写 practical test 在 **Week 12**、2 小时、占 30%。
+
+---
+
+## 二、核心概念
+
+### 1. 为什么要研究侵入体：数量、经济与"化石记录"
+
+**（1）数量上占大头。** 讲义给的全球岩浆产量清单：**约 35% 的年均岩浆产量被喷出（extruded），约 65% 被侵入（intruded）**。transcript 讲得更狠："the vast majority of magma that is produced in the Earth never makes it to the surface. And those solidified magmas are ultimately what formed **the first continental crust** that you and I are walking on today."
+
+**（2）经济上占大头。** transcript：地球绝大部分**铂族元素（PGE：platinum, palladium, rhodium）**来自镁铁质侵入体；绝大部分**铜**来自硅质侵入体。"understanding these is also important from an energy and resources perspective——我们想知道金属在哪里沉淀、以什么品位沉淀、怎么去找新资源。"
+
+**（3）它们是古岩浆系统的"化石记录"。** 讲义把这一点提炼为一张三分图：岩浆可以 (a) 储存在**深部单一大岩浆房**、地壳浅部储存有限；(b) 主要储存在**上地壳岩床群**；(c) 储存在**下地壳岩床群**。现代火山灾害建模需要知道的正是这两件事：
+
+- 岩浆储存在**深还是浅**？这随成分怎么变？
+- 岩浆的**上升通道**是快是慢？中途有没有滞留？
+
+而这些在活火山下面是看不见的——只能靠被剥蚀出露的古侵入体来标定。transcript 把这条逻辑说成 "the past is the key to the present"（将今论古的反向用法）。
+
+**（4）它们控制地壳里的流体通道。** 讲义列了四条：侵入体的几何形态常受**先存地质结构**约束；侵入过程**压裂围岩、提高渗透率**；但**固结后的侵入体本身渗透率很低**。因此侵入体网络同时是"通道"和"隔板"，直接关系到——油气储层、**CCS 碳捕集与封存**、地热、成矿。transcript 补一句思想方法：岩浆无非是一种**高黏度流体**，理解岩浆在地下如何流动的原理可以外推到热液系统、CCS 等一般地壳流体问题。
+
+### 2. 侵入体的形态术语（考点：会认名词）
+
+讲义按几何形状分三类：
+
+| 类别 | 名称 | 定义 |
+|---|---|---|
+| **不规则形（irregular-shaped）** | **岩基 Batholith** | 大型，地表出露面积 **>100 km²** |
+| | **岩株 Stock** | 小型，地表出露面积 **<100 km²** |
+| **规则形（regular-shaped）** | **岩盖 Laccolith** | 平的一面朝下（平底），穹隆状 |
+| | **岩盆 Lopolith** | 平的一面朝上（平顶），盆（碗）状 |
+| **板状（sheet-like）** | **岩墙 Dyke** | 通常近**直立**，**切穿**先存岩层；可延伸数十至数百 km |
+| | **岩床 Sill** | 通常近**水平**，与先存岩层**整合（conformable）** |
+
+⚠️ 讲义原文把 laccolith 写成 "flat side down, **bowl shape**"、把 lopolith 写成 "flat side up, **dome shape**"，形状词与标准定义相反或至少极易误读，见文末勘误表。**记忆口诀**：laccolith 像一朵蘑菇（底平顶鼓，把上覆地层顶起来）；lopolith 像一只碟子（顶平底凹，因下沉而成盆）。
+
+transcript 强调重点："**The key ones that you really need to remember are sills and dykes.**" 并特别点出 **dyke 在把岩浆从深部输送到浅部的过程中最重要**。
+
+📎 背景补充：`batholith` 一词老师在讲 Sierra Nevada 时给了一个操作性定义——"**a name given to multiple plutons of granite all in the same area**"，即岩基是由多个岩株/岩体（plutons）复合而成的，不是一次注入的单一巨型岩体。
+
+### 3. 侵入体的冷却与固结构造
+
+**（1）冷凝边（chilled margin）与粒度梯度。** 讲义："Chilled margin at the contact with cold country rock；**Grain size increases with distance from the contact**；这对**所有形状与尺度**的侵入体都成立。" 物理成因：结晶粒度由**冷却速率**（更严格说是过冷度 ΔT 控制的成核率/生长率之比）决定；贴着冷围岩的地方过冷度最大 → 成核率远高于生长率 → 大量细小晶体；越往内部冷却越慢 → 晶体少而大。transcript 补充：Palisades 这种规模的岩床，冷凝边"**不足以快到形成玄武质玻璃**"，但仍是**极细粒**的。
+
+**冷凝边最重要的用途：它代表母岩浆（parental melt）的成分**——因为它在来不及分异之前就凝住了。这是 Practical 和 Lecture 都反复用到的推理支点。
+
+**（2）柱状节理（columnar joints）。** 讲义三条：节理在**固结之后**形成，岩石冷缩开裂；柱体**常为六边形**，边数可以是 **3–8**；**冷却越快，柱体越窄**。柱状节理**垂直于冷却面**发育。
+
+transcript 里有一段完整的课堂问答，是讲义上没有的（见第四段）。
+
+**（3）穿切关系（cross-cutting relationships）定相对年龄。** 讲义给了两个尺度的实例：
+- 区域尺度（岩墙群 dyke swarm）：1. 二叠—石炭纪（蓝）→ 2. 晚石炭世（绿）→ 3. 古近纪（粉）；
+- 露头尺度：1. 浅灰**辉长岩** → 2. 白色**伟晶质花岗岩** → 3. 黑色**粗玄岩**。
+
+transcript 给出读图规则：在穿切接触处，**连续不断的那一条是最年轻的**（被切断的那个更老）。
+
+### 4. 辉长岩与粗玄岩：薄片里看什么
+
+**辉长岩 = 慢冷的玄武岩**，本质矿物完全一致：
+
+- **必要矿物（essential minerals，所有辉长岩都有）**：**单斜辉石（普通辉石 augite）** + **斜长石（高 Ca）**——与玄武岩相同。
+- **特征矿物（type minerals）**：
+  - **拉斑质辉长岩（tholeiitic gabbro）**：氧化物（磁铁矿、尖晶石）；普通辉石中可见**薄的易变辉石出溶片晶**；
+  - **碱性辉长岩（alkali gabbro）**：霞石（nepheline）* + 氧化物。（*本单元不考霞石类岩石。）
+  - 注意讲义的措辞：type minerals **可能**出现在某些辉长岩里，**不一定全有**。
+- **粒度与结构**：粗粒；可能的结构有**堆晶（cumulate）、填隙（interstitial）、辉绿（ophitic）、包含（poikilitic）**。
+- **中粒等价物 = 粗玄岩 dolerite**（美国文献常称 **diabase**）。
+
+**进一步分类**用 Streckeisen 的镁铁质三角图（在 Practical Reference Handout 里）：以 plag–px–ol 及 plag–cpx–opx–hbl 的模式比例投点。
+
+**最重要的一条构造判据**（讲义 + transcript 双重强调）：
+
+> **典型辉长岩矿物组合是 plag + cpx ± ol，没有含水矿物 → 干岩浆。**
+> **俯冲带形成的辉长岩可能含角闪石（hornblende） → 湿岩浆的证据。**
+
+transcript："if you see a gabbro that's got a little bit of hornblende in it, that tells you that **you must be in a subduction zone setting**. Most of the gabbros that we see in mid-ocean ridge settings or ocean islands will be dry."
+
+### 5. 大型镁铁质岩浆房的封闭体系分离结晶：Skaergaard
+
+**背景设定。** transcript 的比喻很直白："this is what happens when you intrude **a huge bucket full of basaltic magma** into the crust, **seal it off**, and let it undergo **closed-system fractional crystallization**——no material goes in, no material comes out."
+
+**冷却几何。** 侵入体**从顶向下、从底向上、从两侧向内**同时结晶（因为热是从这三个方向散失的），三个方向的结晶前锋最后相遇于**夹心层（sandwich horizon）**——那里是**最后几滴残余熔体**的所在。
+
+📎 背景补充：这三个方向的产物在 Skaergaard 文献里分别叫 Upper Border Series（上部边缘系列，自顶向下结晶）、Layered Series（层状系列，自底向上结晶）、Marginal Border Series（边缘系列，自侧向内结晶）；Practical 提到的 "Lower Layered Series (500 m up)" 与 "Upper Layered Series (2000 m up)" 属于第二类。材料本身只给了 "crystallises from the bottom up" 这一假设。
+
+**三种层理（本周最核心的概念对比，必考）：**
+
+| 层理类型 | 定义 | 可否肉眼/薄片观察 | 成因 |
+|---|---|---|---|
+| **模式层理 modal layering** | **矿物的模式比例**随高度变化 | **能看见**（手标本、薄片） | 分离结晶过程中结晶相组合与比例随温度改变 |
+| **隐层理 cryptic layering** | **每种矿物自身的成分**随高度变化 | **看不见**，必须测化学成分 | 固溶体矿物随熔体演化连续改变成分（相图控制） |
+| **韵律层理 rhythmic layering** | 重复出现的层状图案 | 能看见 | "**岩浆沉积**"：层底富**致密的铁镁矿物**（橄榄石、辉石），层顶富**密度较低、富硅的斜长石**——即**正粒序（normal grading）** |
+
+Skaergaard 的具体表现：
+
+- **模式层理**（讲义列出三套组合，对应侵入体不同高度）：
+  - 含**普通辉石（绿+褐）、铁橄榄石 fayalite、斜长石、氧化物、磷灰石、蠕英石 myrmekite**——最演化的一套；
+  - **斜长石、普通辉石、橄榄石、少量氧化物**；
+  - **斜长石、普通辉石、斜方辉石、氧化物**。
+- **隐层理**：底部 **An65 斜长石 / Fo65 橄榄石 / 富 Mg 单斜辉石** → 顶部 **An30 斜长石 / Fo0 橄榄石（= 纯铁橄榄石）/ 富 Fe 单斜辉石**。
+
+transcript 把成因说得很清楚："the compositions of those minerals change **according to the phase diagrams**——最富镁的橄榄石、最富钙的斜长石在底部，往夹心层去则越来越富铁、富钠。我们在薄片里看不出来，所以叫它 cryptic layering——**cryptic 是因为看不见，但只要有化学成分数据就能测出来**。"
+
+📎 背景补充：为什么"往上越富 Fe / 富 Na"？这正是 EART26201 W03–W04 的固溶体二元相图结论。斜长石 Ab–An 是完全固溶体，高温端元是 **An（钙长石）**，随温度下降结晶出的斜长石连续变钠；橄榄石 Fo–Fa 同理，高温端元是 **Fo（镁橄榄石）**。分离结晶把早期富 Ca、富 Mg 的晶体从体系中移走，残余熔体持续富 Fe、富 Na、富不相容元素，于是越晚结晶（= 位置越靠近夹心层）的矿物越"演化"。Practical 第一题问的就是这件事。
+
+**磷灰石为什么是"晚期"标志？** Practical 的推理：磷灰石 Ca₅(PO₄)₃(F,Cl,OH) 只有在熔体中**磷浓度足够高**时才会饱和结晶；P 是强不相容元素，只有在分离结晶进行到很晚、残余熔体大幅减少之后才富集到饱和。所以**见到磷灰石 = 演化熔体 = 侵入体上部**。
+
+### 6. 堆晶结构（cumulate texture）：物理成因与薄片判据
+
+**物理前提**：镁铁质岩浆**黏度低**，晶体能在熔体中沉降。transcript 的四步链条：
+
+1. 大的**自形（euhedral）**晶体在熔体中**自由漂浮**生长；
+2. **致密的晶体沉降**到岩浆房底部堆积；
+3. 矿物在堆积体的**孔隙（pore space）**里结晶；
+4. 得到 **cumulus phase（堆晶相）+ intercumulus phase（粒间相）** 的组合。
+
+**薄片判据（讲义原文）：**
+
+- **堆晶相 cumulus phase(s)**：自形晶体构成**互相接触的骨架（touching framework）**；有**优选方位（preferred mineral alignment）**；晶体被另一种矿物**完全包围**。
+- **粒间相 intercumulus phase(s)**：**他形（anhedral）**晶体充填孔隙，**有时呈光性连续（optical continuity）**——即整片粒间矿物同时消光，说明它是一个大晶体；这种晶体**完整包裹**其他自形矿物。
+
+📎 背景补充："光性连续"是判断粒间相最好用的一招：转动物台时，视域里被斜长石隔开的好几块辉石**同时消光、同时变亮**，说明它们其实是同一颗巨晶（oikocryst）的不同截面——这正是 **poikilitic（包含结构）** 的定义，Reference Guide 里写作"大晶体 oikocryst 完全包裹小晶体 chadacryst"；若被包裹的是斜长石板条、包裹者是普通辉石，则专称 **ophitic（辉绿结构）**，"typical in dolerites"。
+
+**关键限定**（transcript）："we **only** find this texture in the products of **mafic** intrusions"——花岗岩里没有堆晶结构（原因见第 9 条）。
+
+### 7. 辉石出溶：冷却速率的温度计
+
+讲义把出溶结构直接定为**慢冷指示器**：
+
+- **慢冷**：一代**薄的出溶片晶（thin exsolution lamellae）**；
+- **超慢冷**：**厚的或团块状（blebby）**片晶；和/或 **"反式易变辉石（inverted pigeonite）"**——具**两代**不同方向的出溶片晶。
+
+三种典型晶体（讲义原文）：
+1. **均一的普通辉石晶体**（未出溶）；
+2. **普通辉石 + 薄的易变辉石片晶**；
+3. **原本是易变辉石、现已转变为斜方辉石的晶体（"inverted pigeonite"）+ 厚的普通辉石片晶**。
+
+Practical 给出的规则更对称：
+
+- **富 Ca 的单斜辉石（cpx）会出溶出薄的贫 Ca 斜方辉石（opx）片晶**；
+- **贫 Ca 的斜方辉石（opx）会出溶出薄的富 Ca 单斜辉石（cpx）片晶**；
+- 极慢冷时形成 **inverted pigeonite**：**寄主斜方辉石中含两代、两个不同方向的普通辉石出溶片晶**。
+
+📎 背景补充：出溶的物理机制来自 EART26201 L4 的 **Di–En 体系溶线（solvus）**。高温时 Ca-rich 与 Ca-poor 辉石可以互溶（一个相），温度降到溶线以下后单相变得不稳定，通过**固态扩散**分离成两个成分不同的相。片晶沿特定晶面（辉石中通常是 (001) 或 (100)）析出以最小化界面应变能。**片晶厚度反映扩散时间**：冷得越慢，扩散距离越长，片晶越粗——所以厚片晶 = 深成、超慢冷。"Inverted pigeonite" 还多一层信息：易变辉石（pigeonite，单斜、贫 Ca）在低温下相变为斜方辉石，**相变改变了晶体学取向**，于是相变前后析出的两代普通辉石片晶方向不同。
+
+### 8. 小型镁铁质侵入体：Palisades Sill
+
+**基本参数（讲义 + transcript）**：三叠纪（~200 Ma），与**泛大陆（Pangaea）裂解**期的大规模裂谷作用有关；位于**美国东海岸**；**厚约 300 m**；顶底围岩都是三叠系沉积岩。
+
+**自下而上的剖面（讲义原文顺序，由底向顶）：**
+
+| 层位 | 岩性与矿物 | 意义 |
+|---|---|---|
+| **底部冷凝边 chilled margin** | 极细粒 | **最能代表母熔体成分** |
+| **富橄榄石层（olivine-rich layer）** | **20–25% 橄榄石** + plag + augite + 氧化物；**堆晶结构** | 见下文"问题" |
+| **正常粗玄岩** | plag + augite + 氧化物 | 粒度**向上变粗** |
+| **夹心层 sandwich horizon** | 除必要矿物 plag + cpx 外：**高达 30% 石英**、少量**角闪石与黑云母**、**蠕英石 myrmekite** | 最演化的残余熔体 |
+| **正常粗玄岩** | | 粒度**向下变粗** |
+| **顶部冷凝边** | 极细粒 | |
+
+*蠕英石 myrmekite = 斜长石晶体内部细小的石英"蠕虫状"（rod）连晶。* transcript 的描述：正交偏光下"看起来像黑白的虫子长在一起"；老师说 "Don't worry about this. You're not gonna see it very often. But just in case you do see it in the practical, this is a thing that exists."
+
+**夹心层为什么这么怪？** transcript 解释：最后几滴熔体里堆积了所有**没能进入硅酸盐矿物的不相容元素**，并且还剩下**足够的溶解水**，因此能结晶出少量**角闪石与黑云母**这类含水矿物，还能出现**石英**和石英—长石连晶结构。
+
+**模式层理与主量元素的验证。** 讲义/transcript：把不同高度的岩石打成全岩成分，**MgO wt.%** 在侵入体的顶、底最高（最原始），在**夹心层最低**；**斜长石模式含量（% plagioclase）**在富橄榄石层里很低，出了这一层之后向夹心层方向**递增**。"这就是一个相当直白的分离结晶趋势。" 结论：**模式层理与成分层理基本都符合封闭体系分离结晶。**
+
+**隐层理揭穿的破绽（本周最精彩的推理链）：**
+
+1. 先用**冷凝边**的全岩成分，**计算**与之达到化学平衡的斜长石/橄榄石成分——得到一个相当原始的值；
+2. 富橄榄石层**正上方**与**冷凝边正下方**的正常粗玄岩：**富钙（anorthitic）斜长石 + 富镁（forsteritic）橄榄石** ✓；
+3. 越靠近夹心层：**斜长石越钠、橄榄石越铁** ✓；夹心层本身最极端 ✓；
+4. **但富橄榄石层不对**。如果它是这个岩床自身分离结晶的产物，它的橄榄石应当**与冷凝边平衡的橄榄石相近、甚至比它正上方的橄榄石更富镁**（因为它应该是最早结晶的）。实测结果**并非如此**——讲义原文："Olivines in the olivine-rich layer are **too iron-rich** to have crystallized early from the Palisades Sill magma."
+5. **结论**：这些橄榄石**不属于封闭体系分离结晶史**，必须由**第二次熔体注入**带进来。
+
+transcript 讲的两阶段模型：**阶段一**——侵入岩床、形成冷凝边、有一大缸岩浆；**阶段二**——在岩床底部**注入一小批富橄榄石的晶浆（olivine-rich slurry）**，它来自地壳更深处，携带的橄榄石成分与本地岩浆不同。
+
+**方法论要点**（老师原话）："we can learn quite a lot about how large magma chambers and large intrusions are fed by looking at **disruptions to the cryptic layering**."——**隐层理的不连续 = 补给事件的指纹**。
+
+### 9. 硅质侵入体：花岗岩与花岗质岩类
+
+**定义与产状。** 讲义：花岗岩与花岗质岩类是**安山岩、英安岩、流纹岩的中—粗粒等价物**；是**大陆地壳中最丰富的岩石类型**；主要形成于**大陆弧**和**陆陆碰撞带**。
+
+**"granite" 一词的两种用法**（transcript 特别澄清，讲义没写）：
+- **宽松用法**：任何主要由**碱性长石 + 斜长石 + 石英**组成的粗粒岩石；
+- **严格用法**：**QAP 图上那个特定的 granite 区**，即三者比例大致相当。
+
+**两种成因途径**（transcript）：
+1. 镁铁质岩浆的**极度分离结晶**——"that's pretty unusual"（对应讲义提到的 **M 型**：由地幔来源熔体经广泛分离结晶形成，**真正的 M 型花岗岩相当罕见**）；
+2. **熔融先存地壳岩石**——"**by far the most common way of making a granite**"。而且**被熔的地壳岩石是什么味道，出来的花岗岩就是什么味道**。
+
+**S / I / A（/M）型分类（按源岩）：**
+
+| 类型 | 源区 | 典型构造背景 | 铝饱和度 | 特征矿物 |
+|---|---|---|---|---|
+| **S 型**（sedimentary） | 熔融**沉积**成因地壳岩石 | 陆陆**碰撞带**，如**喜马拉雅** | **过铝质 peraluminous** | **富 Al 型**：白云母、堇青石、红柱石、石榴石、黑云母（+电气石） |
+| **I 型**（igneous） | 熔融**火成**成因地壳岩石 | **大陆边缘**（大陆弧），如**美国西部** | **偏铝质 metaluminous** | **富 Ca 型**：角闪石、辉石、黑云母 |
+| **A 型**（anorogenic） | **非造山**背景下**干**条件熔融**下地壳** | **大陆裂谷**，如**澳大利亚东南** | **过碱质 peralkaline** | **富 Na-K 型**：霓石 aegirine、钠闪石 riebeckite、富 Fe 黑云母 |
+| **M 型** | 地幔来源熔体的广泛分离结晶 | — | — | 真 M 型罕见 |
+
+老师明确划重点：**"S-type and I-type are the two that you should worry about for this unit."**
+
+**铝饱和度（alumina saturation）的化学逻辑——本周最需要"讲透"的一条因果链：**
+
+讲义定义：**铝饱和度 = Al₂O₃ 对 (Na₂O + K₂O + CaO) 的摩尔比**。
+
+transcript 的推导（讲义只给了结论）：
+- 花岗质岩浆中含量高的其他元素是 **Na、K、Ca**；
+- **沉积岩在化学风化过程中特别容易丢失 Ca 和 Na**（长石水解 → Ca²⁺、Na⁺ 随水流失，Al 留在黏土矿物里）；
+- 于是**沉积源区已经被"剥掉"了 Ca、Na**，这些元素**不可能进入**由它熔出的岩浆，也就**不可能进入**结晶出来的矿物；
+- 剩下相对过量的 Al 只能去结晶**富铝矿物**：白云母、堇青石、红柱石、石榴石、电气石 → **过铝质、S 型**；
+- 反过来，**火成岩在化学风化中丢失的 Ca、Na 少得多**，这些元素可以进入熔体、进入矿物 → 结晶**富 Ca 矿物**：角闪石、辉石、黑云母 → **偏铝质、I 型**。
+
+老师给的一句话记忆法：
+> **共同点**：S 型和 I 型**都能**结晶**黑云母**。
+> **区别**：**S 型几乎总含白云母（无色云母）；I 型通常含角闪石或辉石之一。**
+> 讲义补一句反向判据：**S 型 NOT hornblende；I 型 NOT muscovite or tourmaline。**
+
+### 10. 三类花岗岩的薄片鉴定清单
+
+**所有花岗岩的必要矿物（三者缺一不可，且要估模式比例以做 QAP 分类）：斜长石（高 Na）、碱性长石、石英**——与**流纹岩**的必要矿物相同。粒度粗，**粒状（granular）结构**。
+
+三个可用的公共观察点（讲义反复出现）：
+- **石英**：新鲜、未蚀变（fresh, unaltered）——这是把石英和长石区分开的第一眼特征；
+- **碱性长石**：**简单双晶 = 正长石 orthoclase**；**格子（交叉影线）双晶 cross-hatch twinning = 微斜长石 microcline**；常见**条纹长石 perthite 出溶片晶**；常有**尘状的绢云母化（dusty alteration to sericite）**；
+- **斜长石**：**聚片双晶（multiple lamellar twinning）**。
+
+| | **S 型** | **I 型** | **A 型** |
+|---|---|---|---|
+| 特征矿物 | **白云母**、**电气石**、黑云母，及其他**富 Al 矿物**（如堇青石） | **角闪石**、黑云母，及其他**富 Ca 矿物** | **碱性辉石**（霓石）、**碱性闪石**（钠闪石）、**富 Fe 黑云母**，及其他不寻常的**富 Na-K 矿物** |
+| 禁止项 | **不含角闪石** | **不含白云母或电气石** | — |
+| 黑云母的多色晕 | **多色晕（pleochroic haloes）常见** | 多色晕**较 S 型少见** | — |
+| 石英/长石特点 | — | — | **碱性长石极多、石英极少** |
+| 关键单矿物特征 | **电气石**：PPL 下有色且多色性，**中等突起，无解理**；**白云母**：无色云母，干涉色亮（绿松石、粉、橙） | **角闪石**：PPL 下呈**褐色和/或绿色**多色性 | **霓石**：PPL 下**特征的蓝绿色多色性**；**钠闪石**：强多色性，可见**深墨蓝色** |
+
+📎 背景补充（Reference Guide 口径）：钠质辉石与钠质闪石"**强烈着色且多色性强，典型颜色是草绿、蓝绿、深墨蓝**"——这在以无色矿物为主的花岗岩薄片里极其醒目，**看到深蓝绿色的链状硅酸盐就该想到 A 型**。
+
+**多色晕（pleochroic halo）的物理成因**（transcript 用虚拟显微镜现场演示，讲义完全没有）：见第四段。
+
+### 11. 花岗质岩浆中的水
+
+讲义两句话：
+- **在任意给定压力下，流纹质（花岗质）岩浆能溶解的水都比玄武质岩浆多**；
+- **在 600–700 °C 处 H₂O 溶解度的快速下降可导致大量 H₂O 出溶。**（此句表述可疑，见勘误表）
+
+transcript 的完整说法：这是一张**压力 vs 溶解水含量**的图，"for any pressure that you pick, a basaltic magma at approximately its **solidus** temperature can contain **far less** dissolved water than the equivalent rhyolitic magma at its solidus temperature. And that is to do with **the polymerization of the silica** in the magma."
+
+**三个后果（老师逐条点出）：**
+1. 花岗质/流纹质岩浆**更容易结晶含水矿物**（因为更湿）；
+2. **喷发驱动力更大**：水出溶成气泡 → 气泡膨胀、聚并 → **强爆发式的安山质/英安质/流纹质喷发**（Week 10 展开）；
+3. 若这些流体**没有喷出**而是形成**热液系统**，那是**溶解并富集工业金属的绝佳机制**——花岗质岩浆周围的热液系统里常见**铜、金**等金属的矿脉与矿体。
+
+📎 背景补充：硅在熔体中形成 SiO₄ 四面体的聚合网络（polymerisation）。H₂O 以 OH⁻ 形式**打断桥氧（bridging oxygen）**：Si–O–Si + H₂O → 2(Si–OH)。富硅、高聚合度的流纹质熔体桥氧多，可被打断的位点多，因而**溶解度更高**；同时这也是水能**急剧降低流纹质熔体黏度**的原因（Week 10）。至于"600–700 °C 溶解度骤降"，更常规的表述是 **second boiling（二次沸腾/退溶沸腾）**：花岗质岩浆冷却时结晶的是**无水矿物**（石英、长石），水被排斥进不断减少的残余熔体，残余熔体最终**达到水饱和而析出独立流体相**——这正是产生热液系统与斑岩型矿床的机制。⚠️ 材料原句把它写成"溶解度随温度骤降"，与"溶解度主要受压力控制"的常识不符，请以本条理解为准。
+
+### 12. 花岗岩的结构：从露头到手标本
+
+**（1）露头尺度：包体、捕虏体（enclaves, inclusions, xenoliths）**
+
+讲义定义：**Enclave** 是**厘米到米级**的包体，其**岩性、成分或粒度**与寄主花岗岩形成对比。四类：
+
+- **围岩捕虏体（xenoliths of country rock）**：常由花岗岩体**顶部的顶蚀作用（stoping）**带入；
+- **残余体（restite）**：**岩浆生成后未熔融的残余物**；
+- **同源包体（cognate inclusions）**：**同一岩浆在更早分异阶段结晶出来的火成物质**——可以是单晶或晶体堆积物；
+- **复合捕虏体（composite xenoliths）**：含两种或以上对比性岩性。
+
+transcript 补充的野外观察要点（讲义没有）见第四段。
+
+**（2）手标本尺度：巨晶与晶体面理**
+
+**碱性长石巨晶（megacrysts）**：讲义给出物理前提——**碱性长石在硅质岩浆中成核率低、生长速率高**。两条形成路径：
+1. 碱性长石**最先成核**，在其他矿物开始结晶前已长得很大；
+2. 所有矿物**大致同时成核**，但碱性长石**长得最快**，形成最大的晶体。
+
+⚠️ 由此得到一条重要的方法论警告（transcript）："**in granitic rocks you do need to be a little bit careful about how you interpret differences in crystal size. Sometimes it's to do with when the minerals started growing, but sometimes it's to do with the relative growth rates.**"——在花岗岩里，**大 ≠ 早**。
+
+**面理（foliation）**：讲义指出 **granites are too viscous to form cumulate textures or rhythmic layering**，但仍可产生矿物定向：
+1. **同结晶剪切（syn-crystallization shearing）**：新岩浆注入已存在的花岗质岩浆，把已形成的晶体推挤成优选方位；
+2. **结晶后构造变形（post-crystallization tectonic deformation）**：面理通常**垂直于最大主应力方向**发育。
+
+**（3）为什么花岗岩里没有堆晶结构**（讲义 + transcript 一致）：
+
+1. 大的自形晶体在岩浆中**自由漂浮**生长；
+2. **高硅岩浆黏度太高，晶体沉降无法发生** → **岩浆房底部没有晶体堆积**；
+3. 其余岩浆就地固结 → **早期形成的自形晶体随机分布在岩石中**。
+
+结论：**"Granites do not form cumulate textures. No cumulus in granites."** 花岗岩的典型结构就叫 **granitic texture**（粒度大致均一、晶体互相镶嵌、多为半自形—他形）。
+
+### 13. 构造背景一：陆陆碰撞带的 S 型花岗岩（喜马拉雅）
+
+**两代岩浆的对比（讲义）：**
+
+| | **Trans-Himalayan batholith（冈底斯岩基）** | **High Himalayan leucogranites（高喜马拉雅淡色花岗岩）** |
+|---|---|---|
+| 构造背景 | **大陆弧**：特提斯洋向亚洲之下**俯冲** | **陆陆碰撞**：侵入到正在变质的岩石中 |
+| 年龄 | ~**130–55 Ma** | ~**25–15 Ma** |
+| 类型 | 主要为 **I 型**，具**钙碱性（calc-alkaline）**特征 | **全部为 S 型** |
+| 同位素 | — | **⁸⁷Sr/⁸⁶Sr 与沉积（地壳）源区一致** |
+
+**为什么碰撞带能熔？**（transcript 的重点澄清——讲义完全没写）碰撞带**没有明显的外来热输入**（不像俯冲带有地幔楔部分熔融）。但是：
+1. **加厚地壳**这个动作本身就把物质**埋深、加热**；
+2. **陆壳富含放射性生热元素（如 U）**，加厚之后**放射性衰变生热总量成倍增加**；
+3. 二者叠加**足以把地壳推过熔点**。
+
+**淡色花岗岩（leucogranite）**："leuco 就是浅色/白色的意思"。珠峰剖面（transcript 描述照片）：**峰顶是灰岩**，其下是一套**（变质）泥岩**，泥岩熔融产生花岗质岩浆；努子峰前壁上能同时看到**黑色的 restite（熔融后的残余）**和**浅色的花岗岩**。矿物学上：**大量白云母 + 堇青石 + 电气石**，有时还有**从沉积源区继承来的石榴石**——**富铝矿物来自富铝沉积物的熔融**。
+
+**熔融反应（讲义原文，Gill 2010 Fig. 8.4.1）：**
+
+- **有流体（vapour-present）**：**mu + qz + plag + H₂O → melt**，熔体分数 **F ≈ 0.4**
+- **无流体（vapour-absent / 脱水熔融）**：**mu + qz + plag → melt**，熔体分数 **F ≈ 0.12**
+
+**触发方式**：**加热和/或降压**都能引发地壳熔融。transcript 的机制解释：变质泥岩富含**白云母**，白云母晶格里含**水**；加热到一定程度水要从晶格里出来；**给岩石加水就降低它的固相线温度**（与俯冲带给地幔橄榄岩加水、降低固相线导致熔融**完全同理**）。降压路径则对应**山脉顶部被剥蚀**时的减压。产物的 **⁸⁷Sr/⁸⁶Sr 高**，与陆壳熔融一致。
+
+### 14. 构造背景二：大陆边缘的 I 型花岗岩（美国西部 Cordilleran）
+
+**实例（讲义）**：在北美板块之下俯冲的**大陆弧**背景中侵入：
+- **Sierra Nevada 岩基**：~**114–87 Ma**；
+- **Idaho 岩基**：~**98–53 Ma**；
+- 岩性：**I 型的英云闪长岩（tonalite）、花岗闪长岩（granodiorite）与花岗岩**；
+- 成因："**Metaluminous (I-type) compositions formed by melting Al-poor, Ca-rich igneous rocks in the lower crust**"，因此结晶**贫 Al、富 Ca 的特征矿物**。
+
+**复合环带岩体（composite, zoned plutons）**——Yosemite 的 **Tuolumne Intrusive Series**（讲义给出五期）：
+(a) 初次侵入：**石英闪长岩 quartz diorite** → (b) 新岩浆注入 1：**花岗闪长岩** → (c) 注入 2：**斑状花岗闪长岩** → (d-1) 注入 3：**花岗闪长岩** → (d-2) 末期：**花岗斑岩 granite porphyry**。
+
+**规律：岩体内部通常比外部更年轻、更长英质（more felsic）。** transcript 的图像化解释：把它想成**气球式膨胀**——每次新成分从中心注入、把先前的部分向外推，于是形成**放射状的成分"地层"**和一套复杂的穿切关系。成分演化方向：早期富斜长石、贫碱性长石的**闪长质**成分 → 越来越接近**真正的花岗岩**成分（在 QAP 图上从 P 角向 Q–A 方向迁移）。
+
+**I 型花岗质岩浆的四步生成模型（讲义原文）：**
+
+1. **地幔楔中湿橄榄岩（wet peridotite）部分熔融**产生**镁铁质岩浆**；
+2. 镁铁质岩浆**在下地壳结晶**，形成**辉长岩与闪长岩**（→ 造出一个偏镁铁质的下地壳）；
+3. **后续的热镁铁质岩浆注入**，使这些**火成成因的下地壳岩石发生部分熔融**，产生**中性和演化的岩浆**；
+4. 中性/演化岩浆**上升到上地壳形成岩基**（途中继续分离结晶）。
+
+**两类证据（讲义分栏列出）：**
+
+- **分离结晶的证据**：**环带岩体代表分异的各个阶段**——早期侵入是英云闪长岩，晚期侵入是花岗岩；分离结晶可以把 tonalite 一路做到 granite。
+- **陆壳熔融/混染的证据**：**⁸⁷Sr/⁸⁶Sr 随离岩浆弧的距离增大而升高**，指示**陆壳同化混染程度更高**；不同程度的陆壳同化改变同位素特征。
+
+transcript 的归纳：序列中**越靠"下端"（地幔来源）形成的岩浆，同位素越像地幔；越靠"地壳端"形成的，越像地壳**。因此**大陆边缘花岗岩的化学变化范围比碰撞带花岗岩大得多**——因为多了一个来自地幔楔的**原生火成组分**。
+
+### 15. 应用落点：Sierra Nevada 岩基与加州淘金热（1848–49）
+
+讲义 + transcript：
+- Sierra Nevada 岩基**赋存脉型金矿（gold lode deposits）**，金产于**石英脉、断层和剪切带**中——那条著名的 **"the mother lode"** 主矿脉沿岩基背侧延伸；
+- 机制分工非常清楚：**花岗质岩浆提供热液流体（热的、富硅的流体）**，这些流体**从地壳别处把金溶解、搬运并浓缩**到断层控制的脉体中；
+- **金的最终来源**被认为是**如今增生到北美板块上的古大洋地体**，原始成矿很可能发生在**类似黑烟囱的海底火山喷口**；
+- 老师最后一句："a lot of exploration, **particularly for copper at the moment** actually, is going on in these."
+
+📎 背景补充：这条"岩浆提供热与流体、围岩提供金属、构造提供通道与圈闭"的三要素模型，是 EART26001 能源与资源里**造山型金矿（orogenic gold）**与**斑岩型铜矿（porphyry Cu）**的通用框架。本周只需掌握定性逻辑。
+
+---
+
+## 三、公式与图表
+
+### 1. 铝饱和度（Alumina Saturation）
+
+**讲义给出的定义式（文字形式）：**
+
+> alumina saturation = **molar ratio of Al₂O₃ to (Na₂O + K₂O + CaO)**
+
+逐项说明：
+
+- **Al₂O₃ / Na₂O / K₂O / CaO**：全岩主量元素氧化物，单位通常是 **wt.%**，但**必须先除以各自分子量换算成摩尔数**再作比——这是"molar ratio"的含义（分子量：Al₂O₃ 101.96、Na₂O 61.98、K₂O 94.20、CaO 56.08 g/mol）。
+- **适用条件**：用于**花岗质（长英质）岩石**的化学分类；需要有全岩化学分析（薄片本身给不出这个比值，只能通过**特征矿物**间接判断）。
+- **三个区间（讲义的三分表）**：
+
+| 比值 | 名称 | 对应类型 | 特征矿物 |
+|---|---|---|---|
+| Al₂O₃ > Na₂O + K₂O + CaO | **过铝质 peraluminous** | **S 型** | 白云母、堇青石、红柱石、石榴石、黑云母 |
+| Na₂O + K₂O < Al₂O₃ < Na₂O + K₂O + CaO | **偏铝质 metaluminous** | **I 型** | 角闪石、辉石、黑云母 |
+| Al₂O₃ < Na₂O + K₂O | **过碱质 peralkaline** | **A 型** | 霓石、钠闪石 |
+
+> 📎 背景补充：文献通用记法是 **ASI = A/CNK = molar Al₂O₃/(CaO + Na₂O + K₂O)**，配合 **A/NK = molar Al₂O₃/(Na₂O + K₂O)**，画成 A/CNK–A/NK 二元图（Shand 图）：**ASI > 1 过铝**，**ASI < 1 且 A/NK > 1 偏铝**，**A/NK < 1 过碱**。⚠️ 讲义这一页在 md 里已被压成一张残缺的表（混入了游离的 "CaO"、"riebeckite" 等字样），坐标轴与分区线全部丢失，只能靠标签重建；中间那一栏的"偏铝质"判据讲义并未写出上下界，上表中间行的不等式是补充的。
+
+### 2. 干涉色与双折射率：Michel-Lévy 图的读法（Practical Part 1 直接考）
+
+**关系式（材料未写出公式，但整道题就是在用它）：**
+
+> **Γ = d × Δn**
+
+- **Γ**：**光程差（retardation）**，单位 **nm**；决定看到的干涉色。
+- **d**：薄片**厚度**，标准值 **30 µm = 30000 nm**。
+- **Δn**：**双折射率（birefringence）**，无量纲；对某一矿物而言，**最大双折射率**只在特定切面（含两个主折射率方向的切面）出现。
+
+**Michel-Lévy 色序表的读法**：横轴 = 双折射率 Δn（或直接是 Γ），纵轴 = 薄片厚度 d，图内为色带，从原点发散出的每条斜射线对应一个 Δn 值。用法：**沿 d = 30 µm 的水平线，找到你观察到的最高干涉色，横向读出 Δn**。色序界线（每 550 nm 一个"级 order"）：一级 0–550 nm、二级 550–1100 nm、三级 1100–1650 nm。
+
+**Practical 给的两个数值：**
+
+| 矿物 | 最大 Δn（材料给值） | Γ = 30000 × Δn | 材料给的干涉色 |
+|---|---|---|---|
+| **镁橄榄石 forsterite** | **0.035** | **1050 nm** | "second-order sensitive tint (pink)"（⚠️ 见勘误表） |
+| **铁橄榄石 fayalite** | **0.052** | **1560 nm** | **三级粉红** |
+
+**用途（重点）**：**橄榄石越富铁（越 fayalitic），双折射率越高，最高干涉色越高**。所以在薄片里可以**半定量地判断橄榄石的 Fo 值**。
+
+⚠️ **关键限定条件**（Practical 原文强调）：干涉色**同时取决于晶体在薄片中的切向（orientation）**，所以**只有"最高干涉色"才携带成分信息**。实操上必须**在整张薄片里看很多颗橄榄石**，记录各自的干涉色，取其中**最高**的那个再去读 Δn。
+
+📎 背景补充（Reference Guide 的对照值）：**橄榄石 Δn = 0.035–0.052（可达三级色）**；**普通辉石 Δn = 0.018–0.033（最多到二级色）**——这也是区分二者的定量依据之一。
+
+### 3. 斜长石消光角法测成分（Reference Guide 的标准操作，Practical Part 1 直接考）
+
+**图件描述**：Reference Guide 里的曲线图，**横轴 = 斜长石成分（An mol%，从 An₀ 钠长石到 An₁₀₀ 钙长石）**，**纵轴 = 最大消光角（°）**。曲线在低 An 一端进入**负角度**区，随 An 增大穿过 0° 并单调上升。
+
+**七步操作规程（Reference Guide 原文）：**
+
+1. 找一颗晶体：**把双晶面（twin plane）转到 N–S 方向时，两组双晶片在整个晶体范围内呈相同深浅的浅灰色**。这种取向的晶体应有**对称消光角**，即左右两侧角 **a 与 a′ 相差不超过几度**。
+2. **转动物台分别测 a 和 a′。**
+3. 若 a 与 a′ **相差过大**，说明切向不合适，**弃用此读数**，另找晶体。
+4. 若二者接近，取 **消光角 = (a + a′)/2**。
+5. **再多测几颗晶体。**
+6. 由于不同晶体切向不同，读数会有分散——**取所测得的最高消光角**。
+7. 把最高值投到曲线上读出 An 值。
+
+⚠️ **方法的固有局限（Reference Guide 明写）**：**无法区分负消光角与正消光角**，所以 15° 既可能是 −15°（= **钠长石 albite**），也可能是 +15°（= **奥长石 oligoclase**）。要区分必须用**别的光性方法**，例如**贝克线法（Becke Line Test）测折射率**。
+
+**Practical 9 的两个实测结果：**
+
+| 样品 | 最大消光角 | 读出成分 | 命名 |
+|---|---|---|---|
+| **EG4381** | **~35°** | **~An60** | **拉长石 labradorite** |
+| **EG4314** | **~25°** | **~An40** | **中长石 andesine** |
+
+📎 背景补充（斜长石命名区间）：An0–10 钠长石 albite、10–30 奥长石 oligoclase、30–50 **中长石 andesine**、50–70 **拉长石 labradorite**、70–90 培长石 bytownite、90–100 钙长石 anorthite。材料给的两个命名与区间一致 ✓。
+
+### 4. QAP(F) 三角图（花岗质岩分类，Practical 直接考）
+
+**图件描述（Reference Guide + 讲义）：**
+
+- 这是**上下相对的两个三角形**组成的菱形图。上三角顶点为 **Q（石英 Quartz）**，下三角底顶点为 **F（似长石 Feldspathoid，"foid"）**；中间共用的两个顶点是 **A（碱性长石 Alkali feldspar，左）** 与 **P（斜长石 Plagioclase，右）**。
+- **一块岩石不可能同时含石英和似长石**（二者化学上不共存），所以任何样品只落在**上三角（QAP，硅饱和）**或**下三角（APF，硅不饱和）**其中之一。**本单元只用上三角 QAP。**
+
+**使用步骤（Reference Guide 原文）：**
+
+1. 估计样品中 **Q、A、P（、F）** 各自的模式百分比；
+2. **无似长石时**：把 Q、A、P **归一化到 100%**，投到 **QAP 三角**上；
+3. **无石英时**：把 A、P、F 归一化到 100%，投到 APF 三角上；
+4. QAP(F) 给出岩石的**根名（root name）**；进一步的细分靠**特征矿物**（例如 "biotite muscovite granite"，**最不丰富的特征矿物写在最前面**）。
+
+**分区读法（据 transcript 的口头说明）：**
+
+- **严格意义的 granite** = Q、A、P **三者比例大致相当**的那一区（Q 约 20–60%，A/P 比例居中）；
+- **碱长花岗岩 alkali granite** ≈ **50% 碱性长石 + 50% 石英，几乎不含斜长石**（靠 Q–A 边）；
+- **英云闪长岩 tonalite** ≈ **主要是石英 + 斜长石，几乎不含碱性长石**（靠 Q–P 边）；
+- 沿 A→P 方向、石英含量下降依次是 **syenite（正长岩）→ monzonite（二长岩）→ diorite/gabbro（闪长岩/辉长岩）**。
+
+⚠️ 老师的实操提醒："these differences can be difficult to see in hand specimen, and they can be quite difficult to estimate in a thin section **because of the coarse grain size. But nevertheless, have a go.**" **粗粒岩石在一个视域里往往装不下有代表性的矿物比例**，所以估模式比例时要**多视域扫**，或者**把薄片举起来对光看整体**。
+
+📎 背景补充：Reference Guide 附有 **"Chart for estimating modal proportions of minerals in rocks"**（面积百分比对照图版），标了 FELDSPAR / CPX / ORTHOPYROXENE 三套。考试估模式比例时用它对照，能显著减少系统性高估。
+
+### 5. 镁铁质岩的 Streckeisen 三角图
+
+Reference Guide 描述两张（讲义说"in the Practical Reference Handout"）：
+
+- **超镁铁质岩（>90% 铁镁矿物）**：顶点为 **ol（橄榄石）–opx（斜方辉石）–cpx（单斜辉石）**（Streckeisen, 1973）；
+- **镁铁质岩**：以 **plg（斜长石）–px（辉石总量）–ol（橄榄石）** 为顶点；落在阴影区内的岩石再用第二张 **plg–cpx–opx–hbl** 图细分（Streckeisen, 1967）。
+
+**本周的用法**：判断一块辉长岩是 **plag + cpx ± ol**（干，MOR/OIB）还是 **plag + cpx + hbl**（湿，俯冲带）。
+
+### 6. 岩浆含水量—压力图
+
+**图件描述（讲义 + transcript）**：横轴 = **溶解水含量（wt.%）**，纵轴 = **压力**（相当于深度）；图上有**玄武质**与**流纹质**两条溶解度曲线（各自取在其固相线温度附近）。**读法**：在任一压力水平线上，流纹质曲线所对应的水含量**明显大于**玄武质。结论：**流纹质（花岗质）岩浆在同样深度能"装"更多水。**
+
+### 7. Skaergaard 与 Palisades 的柱状剖面图
+
+**Skaergaard 地层柱**：纵轴 = 侵入体内的**高度**；柱内按高度标注（自下而上）：
+- 下部：**斜长石 + 普通辉石 + 橄榄石 + 少量氧化物**；
+- 中部：**斜长石 + 普通辉石 + 斜方辉石 + 氧化物**；
+- 上部：**普通辉石（绿+褐）+ 铁橄榄石 + 斜长石 + 氧化物 + 磷灰石 + 蠕英石**。
+右侧配隐层理曲线：**底 An65 / Fo65 / Mg 质 cpx → 顶 An30 / Fo0 / Fe 质 cpx**。
+
+⚠️ 由于 PDF 图件文字丢失，**三套矿物组合与柱上高度位置的对应关系在 md 里已错位/不可确定**，上表顺序是按"演化程度自下而上递增"这一物理约束重排的。📎 在真实的 Skaergaard 中，含**斜方辉石但不含橄榄石**的组合对应 **Middle Zone（中带）**——那里橄榄石因分离结晶暂时退出结晶相序，到 Upper Zone 又以**富铁橄榄石**的形式回归；这与讲义给出的三套组合是自洽的。
+
+**Palisades Sill 剖面图（Best 2006 Fig. 12.14）**：纵轴 = **岩床内高度（0–300 m）**，并排三条曲线/柱：
+1. **岩性柱**：底冷凝边 → 富橄榄石层 → 正常粗玄岩（向上变粗）→ **夹心层** → 正常粗玄岩（向下变粗）→ 顶冷凝边；
+2. **岩浆成分曲线：MgO wt.%** —— 顶、底高（原始），**夹心层最低**（演化）；
+3. **模式层理曲线：% plagioclase** —— **富橄榄石层处很低**，出该层后**向夹心层递增**。
+
+**怎么读结论**：曲线 2、3 一起说明"从两侧向夹心层方向不断演化" = **封闭体系分离结晶**；而单独测的**隐层理（橄榄石 Fo 值）在富橄榄石层处出现异常低值（过于富铁）**，与曲线 2、3 的结论矛盾 → **必须引入第二次注入**。这就是"**用三种层理互相交叉检验**"的完整方法论。
+
+### 8. 地壳熔融反应式
+
+> **有流体**：**mu + qz + plag + H₂O → melt**，**F ≈ 0.4**
+> **无流体**：**mu + qz + plag → melt**，**F ≈ 0.12**
+
+- **mu** = 白云母 muscovite；**qz** = 石英；**plag** = 斜长石；**F** = **熔体分数（melt fraction）**，无量纲（0–1）。
+- **含义**：外部有自由水相时熔体产率**高得多（40% vs 12%）**；无流体时熔体的全部水只能来自**白云母脱水**，因而产率受限。
+- **适用条件**：泥岩/变泥岩（pelites and metapelites）的部分熔融，即 **S 型花岗岩的生成反应**。
+- **触发**：**加热**（地壳加厚 + 放射性生热）**和/或降压**（造山带被剥蚀）。
+
+---
+
+## 四、课堂补充
+
+本周有 6,637 词的完整 transcript，以下是**讲义上没有、只在课堂口头出现**的内容。
+
+### 1. 关于讲义材料的可靠性（先说这一条）
+
+- 讲义 `W9 notes.md` **末尾单独有一个 `## OCR 补充` 段**，注明"以下内容由图片 OCR 识别得到，原文件该处无可提取文字"。**该段只有 Page 24 一页**，内容是"岩浆沉积产生堆晶结构"的四步流程：(1) 大的自形晶体在岩浆中自由漂浮生长；(2) **致密晶体沉降穿过岩浆并在岩浆房底部堆积**；(3) 矿物在堆晶相之间的孔隙中结晶；(4) 粒间矿物。**这一段文字清晰、无乱码，且与 transcript 的口头叙述逐条对应，可靠性高，可以放心使用。**
+- **但真正需要警惕的不是这一段。** 讲义正文中有大量 `<!-- Start of picture text -->` 标记的**图片内文字提取残片**，这些不是 OCR 补充段，却**破碎、语序错乱、标签与图形脱钩**，可靠性明显更低。典型受害页：
+  - **辉长岩薄片页**（"gabbros: • Olivine • • Olivine • Nepheline* • necessarily all. 2 mm"）——项目符号内容大面积丢失；
+  - **铝饱和度三分表**——坐标轴与分区线全丢，表格里混进游离的 "CaO"、"riebeckite"；
+  - **S 型 / I 型花岗岩薄片页**——两页的所有标注被压成一段连续文字，"Plagioclase look for multiple lamellar twinning / Biotite / Alkali feldspar look for pleochroic haloes in PPL / cross-hatch twinning = microcline" 这一串里，**"look for pleochroic haloes in PPL" 明显属于 Biotite 而不是 Alkali feldspar**，被排版挤在了一起；
+  - **Palisades Sill 页**——图注文字与剖面位置完全脱钩，只能靠逻辑重排。
+
+  **使用建议**：涉及"哪个特征属于哪个矿物"的细节，**一律以 Reference Guide 和 transcript 为准**，不要照抄 picture-text 残片的行序。
+
+### 2. 柱状节理的完整课堂问答（讲义只有三句话）
+
+有同学问：为什么有些柱状节理是"**colonnade（下部规则大柱）+ entablature（上部不规则细柱）**、上面什么都没有"，而另一些的 entablature 是**夹在中间**的？老师的回答（并坦承 "I'm not au fait with the math"）：
+
+- 取决于**岩浆成分、侵入体厚度、冷却方式**三者；
+- **熔岩流**：顶面通过**对流**向空气散热，冷得**相对快**，来不及形成规整柱体 → 顶部呈**很不规则的冷却结构**；
+- **从底向上冷却**：走的是与地面的**传导（conduction）**；**土壤导热性差**，所以**自底向上的冷却速率比自顶向下慢** → 这就决定了柱体"建筑结构"的上下差异；
+- 但这又取决于厚度：**几十米厚的熔岩流**与**只有个位数米厚**的表现不同；
+- **岩床（sill）**：顶、底两个方向的冷却速率不同，**两个冷却前锋在中间相遇** → 于是**不规则的 entablature 被夹在中间**；
+- 总规律：**冷却速率↑ → 柱体边数↓（6 边 → 5 边 → 4 边）、直径↓、规则性↓**。
+
+### 3. Skaergaard 与 Palisades 的规模对比（讲义没给数字）
+
+- **Palisades Sill：约 300 m 厚**；
+- **Skaergaard：比它"大一个数量级（an order of magnitude larger）"**。⚠️ 老师先说 Skaergaard 是 "hundreds of metres in height" 然后立刻自我更正，见勘误表。Practical 里的样品高度（500 m 与 2000 m）本身就说明 Skaergaard 至少是 km 量级。
+
+### 4. 多色晕（pleochroic halo）的虚拟显微镜演示（讲义完全没有）
+
+老师现场切到 virtual microscope 演示一颗黑云母：
+
+1. 转动物台，**黑云母本身多色性**：一个方向是**红棕色**，另一个方向是**麦秆黄色**；
+2. **关键**：黑云母里的那些**深色圆斑本身也是多色的**——一个方向是**灰蒙蒙的（dusty grey）**，另一个方向是**墨黑色（inky black）**；
+3. 在第二个例子里能看到，**每个圆斑的正中央都有一颗极小的白色矿物包体**——那是**锆石（zircon）**；
+4. **成因链**：**锆石能把铀（U）纳入晶格 → 铀衰变释放 α 粒子 → α 粒子损伤周围黑云母的晶格 → 形成"辐射损伤晕（radiation damage halo）"**；
+5. **地质含义**：这说明我们熔的是**含锆石、铀含量高的沉积岩** → **多色晕在熔融地壳沉积物形成的 S 型花岗岩中特别常见**；
+6. 老师的两句补充："**Don't worry, you're not gonna get irradiated** by any of these rocks. The concentrations are incredibly low."；有时看不到锆石包体，那只是**锆石太小、薄片没切到**。
+
+📎 背景补充：这条推理链把三件事串起来了——**锆石是最耐风化的重矿物之一**，因此在沉积岩（尤其砂岩、泥岩）中富集；锆石又是**U-Pb 定年**的主力矿物，原因也是它容纳 U 而排斥 Pb。所以"薄片里的多色晕"其实是"这块地壳曾经过沉积循环"的一个可视化指纹。
+
+### 5. 花岗岩露头上的野外观察经验（讲义只列了名词）
+
+- **捕虏体的边缘是圆化的（rounded edges）**——这是老师反复指的重点。推理："**brittle fracture of crustal rock should give us brittle edges, and now those brittle edges are not there anymore**" → 说明这些捕虏体**已经开始溶解进花岗质岩浆里了**；有时甚至能看到反应"正在进行中"的样子。
+- **顶蚀作用（stoping）的野外形态**：花岗岩体顶部**压裂上覆沉积岩** → 岩石**沿垂直于层面的方向破裂** → 成块的层状沉积物**倾斜、掉落**进岩浆房。
+- **Restite 捕虏体极黑**：它们是地壳岩石大部分被部分熔融之后的**残余**，通常是**偏镁铁质的残渣**，常富含**黑云母、辉石**。
+- **与变质岩石学的接口**：老师点名说下学期 Alison 会讲 **migmatite（混合岩）**——"heated up so much that they start melting"；**restite 就是高变质岩熔融后的剩余物**，是火成—变质岩石学之间的过渡地带。
+
+### 6. 碱性长石巨晶：Shap granite 的虚拟显微镜实例（讲义只给了原理）
+
+老师用**湖区（Lake District）的 Shap granite**（"just up the road"）做例子：它以**巨大的粉红色碱性长石**闻名；**手标本和薄片里都能清楚看到**——"this whole area here is **one crystal**"，**正交偏光下整片同时消光**证明它是单晶。两种成因（与讲义一致）+ 一条方法论警告：**花岗岩里晶体大小的差异，可能反映"什么时候开始长"，也可能反映"长得多快"，不能直接当作结晶顺序的证据。**
+
+📎 背景补充：Reference Guide 的"结晶顺序"章节也给了同方向的提醒——"In most igneous systems, multiple minerals crystallize together simultaneously, so **Bowen's Reaction Series is not usually good evidence for the order of crystallization**"；正确做法是看**结构证据**：(a) 一种矿物包裹另一种 → **被包裹者更老**；(b) **早结晶的一般自形**，晚结晶的必须绕开先存晶体因而形状差；(c) 同一矿物既有大晶体又有小晶体 → **大的先长**。注意 (c) 与老师对花岗岩的警告之间存在张力——在**高黏度、生长速率差异极大**的花岗质体系里，(c) 这条要慎用。
+
+### 7. 陆陆碰撞带为什么能熔（讲义完全没有的因果链）
+
+老师承认这个问题"**doesn't make a whole lot of sense necessarily**"——碰撞带并没有明显的热输入。三步补上：**加厚地壳 = 把物质埋深加热** + **陆壳富铀等放射性元素，加厚后放射性生热总量大增** → **足以把地壳推过熔点**。并明确对比："at continental collision zones, we're **not** really necessarily introducing heat by partial melting of the mantle, but we are introducing enough heat by other mechanisms to melt pre-existing rock."
+
+### 8. 白云母脱水熔融的类比（讲义只给反应式）
+
+老师把它类比成俯冲带：**变质泥岩富含白云母 → 白云母晶格里含水 → 加热到一定程度水被逼出 → 给岩石加水就降低固相线 → 熔融**。"Much like we did in the subduction zone: we introduce water to mantle peridotite, we lower the solidus temperature, it melts. **Similar things happen in crustal rocks.**" 并强调**加热路径和降压路径都能触发同一个脱水熔融反应**。
+
+### 9. 岩基的"气球式"生长（讲义只给了 5 期序列）
+
+transcript 的动态图像：成分 1 侵入 → 形成岩体、部分固结 → 成分 2 **在同一位置**侵入 → **岩体像气球一样向外膨胀** → 得到**放射状的成分"地层"**和复杂的穿切关系，据此可判读**哪部分最老、哪部分最新**，并看到**成分从闪长质向真正的花岗岩演化**的完整进程。
+
+### 10. 一些顺带点到、"不要求掌握"但可能在 practical 里遇到的矿物
+
+- **榍石 titanite（= sphene）**："diamond shaped, dark coloured, high relief"，**与下地壳火成岩相关**——"you're not expected to know this one"；Practical 里 16265 号片明确要求"尝试识别原生岩浆成因的绿帘石与榍石"。
+- **蠕英石 myrmekite**："Don't worry about this. You're not gonna see it very often."
+- **堇青石 cordierite**：主要产于变质岩，"You don't need to worry about identifying this."
+- **似长石系列（nepheline 等）**："We're not gonna be using this diagram in this unit"——只需知道存在**硅不饱和的等价岩类**。
+- **A 型花岗岩**：老师课上两次说 "I'll skip over the A-type granites"、"I won't go into the A-type granites in much detail here"——**但讲义有完整两页，Practical 也安排了 A 型样品（Skye 的 Eastern Red Hills）**，所以不能完全不看。
+
+### 11. 老师明示的"考试要点"
+
+transcript 中三处以 "what you should be able to do" 形式给出的划重点：
+
+1. **解释 modal layering 与 cryptic layering 的区别**——"Modal is referring to the **proportions** of different minerals. We can see that. Cryptic is referring to the **compositions** of those minerals. We can measure that, but we don't see it in a hand specimen or in a thin section."
+2. **看一块辉长质岩石并描述其结构**——"what we would expect to find is this **cumulus texture** of well-formed euhedral cumulus crystals and then intercumulus minerals filling up the pore space. And the whole thing will be **very coarse grained**."
+3. **S 型与 I 型花岗岩是本单元的核心**——"the key takeaway here is the S-type and the I-type granites"；"S-type and I-type are the two that you should worry about for this unit."
+
+---
+
+## 五、Practical 要点
+
+### 目的（Practical 原文的 learning outcomes）
+
+完成本次 practical 后应能：
+1. **识别并描述镁铁质火成岩中的模式层理**；
+2. **根据斜长石成分预测其薄片中的消光角**（反向也成立：由消光角定成分）；
+3. **识别并描述花岗岩的矿物学与结构**；
+4. **根据矿物学特征解释花岗岩的形成机制与构造成因**；
+另外练习：**从观察到的火成结构反推复杂火成岩的结晶顺序**。
+
+时间分配：**Part 1（45 min）Skaergaard 层状堆晶辉长岩 → Part 2（45 min）花岗岩薄片 → Part 3（15 min）花岗岩手标本 → 附加：Palisades Sill 薄片**。
+
+### Part 1：Skaergaard 层状堆晶辉长岩
+
+**理论铺垫的三问三答：**
+
+**Q：斜长石固溶体的高温结晶端元是什么？冷却岩浆中结晶的斜长石成分如何变化？**
+**A：高温端元是钙长石（anorthite, An）。随结晶进行，结晶出的斜长石越来越钠质（albitic / Na-rich）、越来越不钙质。**
+
+**Q：Fo 与 Fa 的最大双折射率对应什么干涉色？**
+**A：Fo 的 Δn = 0.035 → 二级（材料写 "sensitive tint (pink)"）；Fa 的 Δn = 0.052 → 三级粉红。**（换算见第三段 §2；术语问题见勘误表）
+
+**Q：辉石的出溶规则是什么？**
+**A：富 Ca 的 cpx 出溶薄的贫 Ca opx 片晶；贫 Ca 的 opx 出溶薄的富 Ca cpx 片晶。片晶厚度反映冷却速率——冷却越慢片晶越厚；极慢冷时形成"反式易变辉石"，寄主 opx 中含两代、两个方向的普通辉石片晶。**
+
+---
+
+#### 薄片 **EG4381**
+
+| 问题 | 答案 | 判据链 |
+|---|---|---|
+| 三种主要硅酸盐矿物？模式比例？哪些是堆晶相、哪些是粒间相？ | **斜长石、橄榄石、普通辉石**。**斜长石与橄榄石是堆晶相**；**普通辉石既作为堆晶晶体出现，也作为填隙的粒间晶体出现** | 堆晶相 → **自形、互相接触构成骨架、有优选方位**；粒间相 → **他形、充填孔隙、可能光性连续、可包裹自形晶** |
+| 测斜长石成分 | **最大消光角 ~35° → ~An60（拉长石 labradorite）** | 必须找**双晶面 N–S 时两组双晶灰度相同**的晶体；a 与 a′ 相差几度以内才有效；取 (a+a′)/2；多测几颗**取最大值**；投曲线读 An |
+| 估橄榄石最高干涉色 | **约二级中部（绿、黄、橙）** | 必须扫过整张薄片、记录多颗橄榄石，**只有最高干涉色才反映成分** |
+| 斜长石有明显优选方位、形成纹层（lamination），如何描述？怎么形成的？ | **堆晶结构（cumulus texture）**，通过**重力沉降（gravity settling）**形成。**斜长石呈板状（tabular），沉降时会平躺下来，于是形成这种特征的纹层。** 此外该样品还经历了**压实（compaction）** | 压实的两条证据：**(1) 弯曲的斜长石晶体**——正交偏光下最好看，**有些晶体的聚片双晶纹不是笔直的**；**(2) 粒间矿物相对偏少**——说明晶体堆积压实时**熔体已被挤出孔隙** |
+
+#### 薄片 **EG4314**
+
+| 问题 | 答案 |
+|---|---|
+| 除三种主要硅酸盐外还有非硅酸盐矿物**磷灰石 apatite**，它的 PPL 与 XPL 光性？ | **PPL：无色，中等突起（moderate relief）**；**六方晶系对称**，倾向形成**自形柱状晶体**；**底面切片近六边形，XPL 下各向同性（isotropic）**；**柱状切片显示一级低干涉色（灰—白）** |
+| 斜长石成分 | **最大消光角 ~25° → ~An40（中长石 andesine）** |
+| 橄榄石最高干涉色 | **约三级绿**。**要点不是精确色号，而是：EG4314 的橄榄石干涉色系统性高于 EG4381，因此更富铁** |
+
+📎 背景补充：磷灰石 Ca₅(PO₄)₃(F,Cl,OH) 是**六方晶系、单轴负光性**。所谓"底面切片各向同性"严格说是**切面垂直于光轴 c，因而近乎全消光**——不是真正的等轴各向同性矿物。它的 Δn ≈ 0.003，30 µm 下 Γ ≈ 90 nm，正好是**一级灰白**，与材料给的描述一致 ✓。**识别口诀：无色 + 中等/较高突起 + 一级灰 + 自形六边形/柱状**——与石英（低突起、一级灰、他形）的区别就在**突起**和**自形程度**。
+
+#### 综合解释题（本次 practical 的核心推理）
+
+**题目**：EG4381 与 EG4314 一个来自 Skaergaard 的 **Lower Layered Series（500 m 处）**，另一个来自 **Upper Layered Series（2000 m 处）**。假定 Skaergaard 自下而上结晶，哪个是哪个？
+
+**答案：EG4381 = 下部层状系列；EG4314 = 上部层状系列。**
+
+**两条独立判据：**
+
+1. **隐层理判据**：EG4381 的斜长石**更钙质（An60 > An40）**、橄榄石**更镁质（二级干涉色 < 三级）** → 它**结晶得更早、从更镁铁质的液体中结晶** → 必然来自侵入体**下部**。
+2. **模式层理/矿物出现判据**：EG4314 含**磷灰石**，而磷灰石**只在熔体中磷浓度足够高的晚期阶段才结晶** → 该岩石必来自侵入体**上部、靠近夹心层**。
+
+⭐ **Practical 明确写出的"保底"评分要点**：
+> "**Even if you were not able to measure the compositions** of the plagioclases and olivines in the two samples, **the presence of apatite in EG4314 tells you that this gabbro must have crystallized from a more evolved melt.**"
+
+——即：**测不出消光角不影响拿分，但必须抓住"磷灰石 = 演化熔体"这条定性判据。** 这是很典型的考点设计。
+
+**常见错误提醒**（Practical 反复出现的措辞）：
+- "**Do not spend too long on this**: if you can't find a suitable crystal, move on"——消光角测量是**限时任务**，找不到合适取向的晶体就放弃，不要卡住；
+- "**Do not worry if you found it challenging to determine the precise interference colour**"——干涉色只需给出**大致级序**与**相对高低**；
+- 最致命的错误是**只测一颗晶体就下结论**：无论斜长石消光角还是橄榄石干涉色，**都必须多测取最大值**，否则系统性低估。
+
+### Part 2：花岗岩薄片
+
+#### **S 型：Cornubian Batholith（英格兰西南）**
+
+**背景（Practical 原文）**：**复合的、过铝质的 S 型花岗岩体**。多数为**黑云母花岗岩**，但**丰富的白云母指示其过铝质性质**。部分成分**极度分异**，**B、Li、F 浓度很高**，因而可含**富 Li 和 F 的白云母、黄玉 topaz（富 F）、电气石 tourmaline（富 B）**。部分地点**热液蚀变非常强烈**。
+
+**薄片 14911 / 14910（Land's End, Cornwall）**
+
+| 问题 | 答案 | 推理链 |
+|---|---|---|
+| 三种主要无色硅酸盐矿物？ | **碱性长石、斜长石、石英** | 花岗岩的三种必要矿物 |
+| 这三种矿物内部有什么结构？说明什么历史？ | **碱性长石呈微条纹（micro-perthitic）** → **指示相对较慢的冷却速率**（出溶需要扩散时间）<br>**斜长石有环带（zoned）**，**很可能是正环带而非振荡环带** → 反映**结晶过程中岩浆的化学演化**<br>**长石（尤其斜长石）绢云母化（altered to sericite）** → **固结之后经历了一定程度的热液蚀变** | 出溶→冷速；环带→熔体演化；蚀变→后期流体 |
+| 石英呈什么状态？ | **有时呈波状消光（undulose extinction）**，或**开始重结晶为亚晶（subgrains）** → **两者都是变形的证据** | 变形 → 晶格畸变 → 消光不同时 |
+| 其他原生矿物 | **黑云母中含大量锆石包体（带多色晕）**；常见**柱状磷灰石**与**板状钛铁矿 ilmenite**；部分薄片含**副矿物黄玉** | |
+| 次生矿物 | 少数薄片含**堇青石的自形假象（pseudomorphs after cordierite）**：**方形/矩形到六边形**，原为**岩浆成因堇青石（铝硅酸盐矿物）**，现已**完全被细粒次生黏土矿物与绢云母取代**。**白云母与电气石是常见的晚期热液矿物** | 形态保留 + 成分被替换 = 假象 |
+
+📎 背景补充：**"正环带（normal zoning）"与"振荡环带（oscillatory zoning）"的区分**（Reference Guide 定义）：正环带指**核部为高温成分、边部为低温成分**（斜长石即核 An 高、边 An 低），反映单调冷却/演化；**振荡环带**是成分反复来回，最常见于**俯冲带火山岩的斜长石**，反映岩浆房中反复的补给/减压事件。深成花岗岩里出现**正环带**是合理的。
+
+#### **I 型与 A 型**
+
+**背景（Practical 原文）**：
+
+- **I 型：Donegal（爱尔兰西北）**——属 **Newer Caledonian Series**，侵入 **Dalradian 变质岩**，形成于**加里东造山运动**期间；**放射性年龄 390–410 Ma**；与 **Iapetus 洋闭合期间的洋岩石圈俯冲**有关；岩性包括**英云闪长岩、花岗闪长岩和花岗岩**，另有**闪辉正煌岩（appinite）**小侵入体（appinite = 富角闪石与斜长石的深成岩）。
+- **A 型：Skye 的 Eastern Red Hills（苏格兰）**——**Hebridean Tertiary igneous province** 发育晚期侵位，约 **57–55 Ma**，与**北大西洋张开**有关；构造上与化学上属**过碱质 A 型花岗岩**，但**碱质富集程度不强，矿物学上与偏铝质 I 型花岗岩非常相似**。
+
+⚠️ 最后这句是**重要的应试提醒**：**Skye 的 A 型样品在显微镜下看起来像 I 型**，所以不要指望在这片薄片里找到霓石或钠闪石。
+
+**薄片 16265（Ardara pluton）或 M2（Beinn an Dubhaich granite, Skye）**——两片都要看，因为**结构差异很大**。
+
+| 问题 | 答案 |
+|---|---|
+| 无色硅酸盐矿物？估模式比例并用 QAPF 分类 | **石英、斜长石、碱性长石**。**斜长石模式含量略高于 S 型花岗岩**。分类结果取决于估计值，**可能得到 granite 或 granodiorite** |
+| 两种镁铁矿物？多色性颜色？ | **角闪石与黑云母**。**角闪石：深绿—中绿—黄**。**黑云母：绿褐色（green-brown）——这是 I 型花岗质岩的特征**，与 **S 型花岗质岩中黑云母的麦秆黄褐色（straw yellow-brown）**略有区别。**注意不含白云母等富铝矿物** |
+| **16265 专项** | 尝试识别**原生岩浆成因的绿帘石 epidote 与榍石 sphene**。注意**镁铁矿物的强烈优选方位**——这是岩浆在**膨胀应力场（inflationary stress field）**下结晶造成的：**黑云母尤其呈垂直于主压应力方向排列**。**该优选方位举起薄片对光看比在显微镜下看更清楚** |
+| **M2 专项** | 可能见到少量绿帘石。**长石呈尘状（dusty）结构，广泛蚀变为黏土矿物** → **由水造成** → 说明**花岗岩周围存在活跃的热液系统**；Beinn an Dubhaich 热液系统很可能**同时含大气降水（meteoric water）和相当比例的岩浆水** |
+
+⭐ **本题的核心鉴定推理链（考试必写清楚）**：
+> **观察**：绿褐色多色性的角闪石 + 绿褐色黑云母，**无白云母、无电气石** →
+> **推断**：富 Ca 型特征矿物、无富 Al 型特征矿物 → **偏铝质** →
+> **结论**：**I 型花岗岩，源自火成成因下地壳的部分熔融，构造背景为俯冲相关的大陆边缘/大陆弧**。
+
+**薄片 16272（Appinite, Ardara pluton）**
+
+- **产状与年代关系**：闪辉正煌岩以**小侵入体**出现在 Ardara 岩体**边缘**，也作为**主岩体内的包体**存在 → **说明它比外围的花岗闪长岩结晶更早**。（这是一条纯**野外/产状关系**的定年推理：作为包体存在 = 更老。）
+- **命名**：名字来自苏格兰阿盖尔的 **Appin** 地区。若按 QAPF 分类，"**可能是角闪石闪长岩（hornblende diorite）**"。
+- **成因判据**：**闪辉正煌岩是镁铁质深成岩，因此必然由地幔熔融形成，而非地壳熔融。**
+- **主要矿物**：**最丰富的是绿褐色多色性的角闪石**，以及**填隙状的斜长石（广泛绢云母化）**；还有**填隙的石英与方解石**；低模式比例的其他矿物包括**磁铁矿、白云母、黑云母、磷灰石、绿帘石**。
+
+### Part 3：花岗岩手标本
+
+| 标本 | 问题 | 答案与判据 |
+|---|---|---|
+| **15276**（Strontian granite，近 Ballachulish） | 主要长英质矿物？QAPF 分类？ | **斜长石与石英为主，碱性长石不多 → 英云闪长岩 tonalite**（QAP 图上靠 Q–P 边） |
+| **9753 / 9781 / 9813 / 9817**（"Xenolithic Ballachulish Granite"） | 捕虏体的可能来源？ | 捕虏体是**卷入的围岩碎块**。**部分明显具面理 → 必为变沉积岩**；**部分为火成成因——因为它们粒度太粗，不可能是沉积岩**，且**粒度与色率（colour index）范围较宽**。**颜色更深的镁铁质捕虏体可能代表早期结晶的镁铁质岩浆碎块被卷入花岗岩**；其他捕虏体可能是**混合岩浆**，或者**与主体花岗岩成分相同但结晶更早、更快** |
+| **9805A**（Appin，闪辉正煌岩与角闪石岩的接触） | 可能成因？ | **角闪石岩 hornblendite = 富角闪石的镁铁质—超镁铁质岩**。**最镁铁质的矿物是角闪石，所以它很可能最先结晶**。闪辉正煌岩可能是**角闪石岩的分离结晶产物**，或者是**长英质物质同化混染进更镁铁质岩浆的产物** |
+
+📎 **手标本判据小结**：**"太粗粒 → 不可能是沉积岩"** 是一条非常好用的野外快速判据；**"有面理 → 变沉积岩"** 同理。两条都不需要任何仪器。
+
+### 附加：Palisades Sill 薄片
+
+| 薄片 | 问题 | 答案与判据 |
+|---|---|---|
+| **11396**（冷凝边） | 橄榄石有何特征？基质有哪些矿物？ | 背景：岩浆侵位时底部一薄层与冷围岩接触**快速冷却结晶**，**因来不及分异而代表岩浆的初始成分**；它是**典型玄武岩**，含**橄榄石、斜长石、单斜辉石的微斑晶（microphenocrysts）**。<br>答：**橄榄石破裂（fractured）并部分蛇纹石化（altered to serpentine）→ 指示热液蚀变**。**基质含斜长石、普通辉石和氧化物** |
+| **11393 或 11398** | 四种主要硅酸盐矿物？结构如何描述？ | **橄榄石、普通辉石（cpx）、斜方辉石（opx）、斜长石**。**结构为包含结构（poikilitic）**。<br>另注意一个不寻常的结构关系：**黑云母包围氧化物矿物**——黑云母把氧化物当作**拓扑外延模板（topotactic template）**，即**氧化物的晶体结构为黑云母提供了极好的成核位点** |
+| **11394** | 11393/11398 中的哪种主要硅酸盐矿物在此缺失？ | **缺橄榄石**。本片含**斜长石、普通辉石、斜方辉石，但无橄榄石**。<br>**关键判据**：**橄榄石与石英不会在同一块岩石中共存**，因此**存在石英—碱性长石的显微文象连晶（granophyric intergrowths）**这一事实，与**橄榄石的缺失**是自洽的。另可见**辉石中的出溶结构** |
+
+**综合解释题**：11393/11398 与 11394 来自岩床的不同高度，假定自下而上结晶，哪个更高？
+
+**答案：11394 更高。两条证据：**
+1. **11393/11398 含橄榄石而 11394 不含。橄榄石是早期结晶矿物，所以含橄榄石的样品必来自岩床下部。**
+2. **石英—碱性长石的显微文象连晶必须从相当演化的熔体中结晶，说明 11394 相当接近夹心层。**
+
+📎 背景补充：**"橄榄石与石英不共存"**的热力学根据是反应 **Mg₂SiO₄（Fo）+ SiO₂（Qz）→ 2 MgSiO₃（En）**——在硅过饱和的熔体里，橄榄石会被反应掉转成斜方辉石。所以**在同一薄片里同时"看到"橄榄石和石英**，通常意味着你认错了其中之一（最常见是把**普通辉石**或**蚀变橄榄石**当成了别的东西），或者是**极端不平衡**（如快速淬火的火山岩、外来捕虏晶）。⚠️ 严格说材料的绝对化表述"will not coexist"只在**平衡**条件下成立。
+
+### 附加数字资源（Practical 列出）
+
+层状辉长岩（Stokes Mountain 的层状橄长岩 troctolite）、Loch Doon 花岗闪长岩、**I 型：Shap 花岗岩**、**S 型：Luxulyan 黑云母花岗岩**、**A 型：Rockall 霓石花岗岩**；以及"纯属好玩"的**格陵兰 Ilímaussaq 杂岩的钠闪石异霞正长岩（arfvedsonite kakortokite）**——该杂岩是 **34 种矿物的模式产地**，包括**钠闪石 arfvedsonite（钠质闪石）、异性石 eudialyte（钠质环状硅酸盐，锆的次要矿石）、复三斜锰钛矿 aenigmatite（钠质单链硅酸盐，但不是辉石）、方钠石 sodalite（钠质架状硅酸盐）**。Practical 明说：**"You don't need to learn these minerals or be able to recognise them."**
+
+---
+
+## 六、易错点 / 重点难点
+
+1. **modal / cryptic / rhythmic 三种层理张冠李戴（头号考点）。**
+   - **modal = 比例（proportions），看得见**；
+   - **cryptic = 单矿物成分（compositions），看不见、要测**；
+   - **rhythmic = 重复的层序图案，底部富致密铁镁矿物、顶部富斜长石（正粒序）**。
+   记忆抓手：**crypt-（隐秘）= 藏起来的成分信息**。
+
+2. **"cumulus" 与 "cumulate" 的用法。** **cumulate texture（堆晶结构）**是结构名；**cumulus phase / intercumulus phase** 是这个结构里的两类矿物角色。**花岗岩里绝对不能写 cumulate texture**——高黏度使晶体无法沉降，这是本周明确的"禁止项"。
+
+3. **粒间相 ≠ 后期蚀变产物。** intercumulus 矿物是**原生岩浆矿物**，只是**结晶得晚、充填在孔隙里**，因而是**他形**。真正的次生矿物（蛇纹石、绢云母、绿泥石、黏土）不参与岩石定名（Reference Guide 明写）。
+
+4. **出溶片晶厚度与冷却速率的方向。** **冷却越慢 → 扩散时间越长 → 片晶越厚**。⚠️ Practical 原文写成 "thickness is **proportional to** the cooling rate"，但紧接着又写 "slower cooling produces thicker lamellae"——**两句自相矛盾**，正确的是**反比**（见勘误表）。**记结论不记那句话。**
+
+5. **"inverted pigeonite" 的三层信息**：(1) 寄主现在是**斜方辉石**；(2) 它**曾经是易变辉石（单斜）**；(3) 有**两代、两个方向**的普通辉石片晶 → **超慢冷 + 经历过相变**。别把它简单当成"厚片晶"。
+
+6. **测斜长石消光角的三个陷阱**：(a) **切面必须合适**（双晶面 N–S 时两组双晶灰度相同、a 与 a′ 相差几度以内），否则读数无效；(b) **必须取多颗晶体的最大值**，单颗读数必然偏低；(c) **正负角度不可区分**，15° 可能是钠长石也可能是奥长石，需要**贝克线法测折射率**才能定夺。
+
+7. **干涉色只有"最高值"有意义。** 橄榄石的干涉色随切向变化很大，随便挑一颗读出的颜色**没有成分含义**。同理，Reference Guide 强调区分 opx 与 cpx 时，要选**只显示一组解理迹、且干涉色最高**的晶体来测消光角。
+
+8. **蠕英石（myrmekite）≠ 显微文象连晶（granophyric intergrowth）。**
+   - **myrmekite**：**斜长石**晶体**内部**的细小**石英蠕虫状连晶**（Skaergaard 上部带、Palisades 夹心层）；
+   - **granophyric / graphic**：**石英 + 碱性长石**的连晶（Palisades 11394）。
+   两者都出现在**最演化的残余熔体**里，但**主体矿物不同**。
+
+9. **S 型 vs I 型的"排除法"比"确认法"更可靠。** **看到白云母或电气石 → S 型**（I 型不含）；**看到角闪石或辉石 → I 型**（S 型不含角闪石）。**黑云母两者都有，不能单独作判据**——但**黑云母的多色性颜色**可以：**I 型偏绿褐，S 型偏麦秆黄褐**；**多色晕在 S 型中更常见**。
+
+10. **A 型花岗岩的"名实不符"陷阱。** 教科书上 A 型 = 过碱质 + 霓石/钠闪石，但 Practical 明确警告 **Skye 的 Eastern Red Hills"碱质富集不强，矿物学上与偏铝质 I 型非常相似"**——**构造/化学上的分类不等于薄片里看得到的矿物学**。
+
+11. **化学风化因果链别记反。** **沉积岩丢 Ca、Na → 相对富 Al → 过铝质 → 富 Al 矿物 → S 型**；**火成岩丢得少 → Ca、Na 保留 → 偏铝质 → 富 Ca 矿物 → I 型**。
+
+12. **在花岗岩里"大晶体 = 先结晶"是错的。** 碱性长石**成核率低、生长速率高**，所以巨晶可能只是**长得快**而不是**长得早**。这与 Reference Guide 的通用规则"大晶体先长"存在张力，**花岗岩要特别小心**。
+
+13. **碰撞带的热源不是地幔。** 是**加厚导致的埋深加热 + 陆壳放射性生热（U 等）**，不要写成"地幔上涌供热"。
+
+14. **加水熔融的方向别记反。** **加水 → 降低固相线温度 → 熔融**（俯冲带的地幔橄榄岩、碰撞带的变泥岩，机制完全相同）。而白云母提供水的方式是**脱水（dehydration）**，不是"引入外来水"。
+
+15. **冷凝边的两个作用别混。** **粒度上**它是最细的；**成分上**它代表**母熔体**——所有"用冷凝边成分反算平衡矿物成分"的推理都建立在这一点上。
+
+16. **QAP 分类的实操困难要承认。** 粗粒岩石一个视域装不下代表性比例，估值必然有误差；**Practical 的标准答案本身就写"你的分类可能是 granite 也可能是 granodiorite"**——所以答题时要**写出你的模式估计值**，让判据可追溯，而不是只给一个岩石名。
+
+17. **别把"65% 被侵入"和"绝大多数岩浆到不了地表"当成同一个数字。** 讲义给的是 65:35，transcript 说的是 "vast majority"，两者口径不同（见勘误表）。
+
+---
+
+## 七、本周术语表
+
+| 英文 | 中文 | 说明 |
+|---|---|---|
+| Intrusion / intrusive | 侵入体 / 侵入的 | 约 65% 的年均岩浆产量被侵入而非喷出 |
+| Batholith | 岩基 | 出露面积 >100 km²；由多个岩体（plutons）复合而成 |
+| Stock | 岩株 | 出露面积 <100 km² |
+| Laccolith | 岩盖 | 平底、上凸（穹隆状） |
+| Lopolith | 岩盆 | 平顶、下凹（盆状） |
+| Dyke | 岩墙 | 近直立、切穿地层；岩浆向上输送的主通道 |
+| Sill | 岩床 | 近水平、与地层整合 |
+| Pluton | 岩体 / 深成岩体 | 单次或数次侵位形成的独立侵入体 |
+| Chilled margin | 冷凝边 | 与冷围岩接触处的极细粒带；**代表母熔体成分** |
+| Columnar joint | 柱状节理 | 固结后冷缩形成；常六边形（3–8 边）；冷得越快柱越窄 |
+| Colonnade / Entablature | 下部柱列 / 上部乱柱 | 柱状节理剖面上的两段式结构 |
+| Country rock | 围岩 | |
+| Cross-cutting relationship | 穿切关系 | 连续未被切断者更年轻 |
+| Gabbro | 辉长岩 | 粗粒；必要矿物 plag（高 Ca）+ cpx |
+| Dolerite / Diabase | 粗玄岩 / 辉绿岩 | 中粒；美国文献多用 diabase |
+| Tholeiitic / Alkali gabbro | 拉斑质 / 碱性辉长岩 | 特征矿物分别为氧化物 / 霞石 + 氧化物 |
+| Modal layering | 模式层理 | 矿物**比例**随高度变化，**可见** |
+| Cryptic layering | 隐层理 | 矿物**成分**随高度变化，**不可见、需测** |
+| Rhythmic layering | 韵律层理 | 重复层序；底富铁镁矿物、顶富斜长石（正粒序） |
+| Magmatic sedimentation | 岩浆沉积 | 晶体在低黏度镁铁质岩浆中的重力沉降 |
+| Cumulate texture | 堆晶结构 | 由晶体沉降形成；**花岗岩中不出现** |
+| Cumulus phase | 堆晶相 | 自形、互相接触构成骨架、常有优选方位 |
+| Intercumulus phase | 粒间相 | 他形、充填孔隙、可呈光性连续 |
+| Compaction | 压实 | 证据：弯曲的斜长石双晶纹、粒间矿物偏少 |
+| Sandwich horizon | 夹心层 | 上下（及侧向）结晶前锋相遇处，最后残余熔体所在 |
+| Exsolution lamellae | 出溶片晶 | 冷却速率指示器：越慢越厚 |
+| Inverted pigeonite | 反式易变辉石 | 原为易变辉石、现为斜方辉石；含**两代两方向**的普通辉石片晶 |
+| Pigeonite | 易变辉石 | 贫 Ca 的单斜辉石 |
+| Augite | 普通辉石 | 富 Ca 的单斜辉石，Δn = 0.018–0.033 |
+| Enstatite | 顽火辉石 | Mg₂Si₂O₆ 斜方辉石；偶显极特征的淡粉—淡绿弱多色性 |
+| Forsterite / Fayalite | 镁橄榄石 / 铁橄榄石 | Δn 分别为 0.035 / 0.052 |
+| Anorthite / Albite | 钙长石 / 钠长石 | 斜长石固溶体两端元；**An 为高温端元** |
+| Labradorite / Andesine | 拉长石 / 中长石 | An50–70 / An30–50 |
+| Extinction angle | 消光角 | 测斜长石成分的标准方法；取**最大值** |
+| Birefringence (Δn) | 双折射率 | Γ = d × Δn，d = 30 µm |
+| Michel-Lévy chart | 米歇尔-列维干涉色图 | 由 Δn 与 d 查干涉色，或反查 Δn |
+| Becke Line Test | 贝克线法 | 比较折射率；用于区分正负消光角的歧义 |
+| Apatite | 磷灰石 | 无色、中等突起、自形柱状、底面近六边形近全消光；**晚期结晶 → 演化熔体标志** |
+| Myrmekite | 蠕英石 | 斜长石**内部**的石英蠕虫状连晶 |
+| Granophyric intergrowth | 显微文象连晶 | **石英 + 碱性长石**的连晶；演化残余熔体标志 |
+| Perthite / Microperthite | 条纹长石 / 微条纹长石 | 碱性长石出溶为富 Na 与富 K 畴；指示慢冷 |
+| Orthoclase / Microcline | 正长石 / 微斜长石 | **简单双晶** / **格子（交叉影线）双晶** |
+| Sericite | 绢云母 | 细粒白云母；长石蚀变产物，呈"尘状" |
+| Granite (strict) | 花岗岩（狭义） | QAP 图上 Q、A、P 比例大致相当的区 |
+| Granitoid | 花岗质岩类 | 广义：以 A + P + Q 为主的粗粒岩 |
+| QAPF diagram | QAPF 图 | Q–A–P（硅饱和）/ A–P–F（硅不饱和）双三角；石英与似长石不共存 |
+| Tonalite | 英云闪长岩 | 主要为 Q + P，几乎无 A |
+| Granodiorite | 花岗闪长岩 | P 明显多于 A |
+| Alkali granite | 碱长花岗岩 | 约 50% A + 50% Q，几乎无 P |
+| Diorite | 闪长岩 | 与辉长岩的区别在于**富角闪石** |
+| Appinite | 闪辉正煌岩 | 富角闪石与斜长石的镁铁质深成岩；**地幔来源** |
+| Hornblendite | 角闪石岩 | 富角闪石的镁铁质—超镁铁质岩 |
+| S-type granite | S 型花岗岩 | 熔融沉积成因地壳；**过铝质**；白云母、电气石、堇青石、石榴石 |
+| I-type granite | I 型花岗岩 | 熔融火成成因地壳；**偏铝质**；角闪石、辉石、黑云母 |
+| A-type granite | A 型花岗岩 | 非造山、干条件熔融下地壳；**过碱质**；霓石、钠闪石 |
+| M-type granite | M 型花岗岩 | 地幔来源熔体的广泛分离结晶；**罕见** |
+| Alumina saturation (ASI) | 铝饱和度 | molar Al₂O₃/(Na₂O + K₂O + CaO) |
+| Peraluminous / Metaluminous / Peralkaline | 过铝质 / 偏铝质 / 过碱质 | 对应 S / I / A 型 |
+| Leucogranite | 淡色花岗岩 | leuco = 浅色；高喜马拉雅的 S 型代表 |
+| Pelite / Metapelite | 泥质岩 / 变泥质岩 | S 型花岗岩的源岩 |
+| Dehydration melting | 脱水熔融 | 白云母释水 → 降低固相线 → 熔融 |
+| Melt fraction (F) | 熔体分数 | 有流体 F≈0.4；无流体 F≈0.12 |
+| ⁸⁷Sr/⁸⁶Sr | 锶同位素比值 | 高值 = 陆壳来源；沿弧向内陆升高 = 同化混染增强 |
+| Enclave | 包体 | cm–m 级、与寄主岩性/成分/粒度对比 |
+| Xenolith | 捕虏体 | 围岩碎块；边缘圆化 = 正在溶解 |
+| Restite | 残余体 | 部分熔融后的固体残渣，通常偏镁铁质、极暗 |
+| Cognate inclusion | 同源包体 | 同一岩浆早期结晶的火成物质 |
+| Stoping | 顶蚀作用 | 岩体顶部压裂围岩、碎块坠入岩浆房 |
+| Migmatite | 混合岩 | 高变质度、开始熔融的岩石（下学期内容） |
+| Megacryst | 巨晶 | 碱性长石常见；成核率低 + 生长快 |
+| Foliation | 面理 | 同结晶剪切或结晶后构造变形；**垂直于最大主应力** |
+| Granitic texture | 花岗结构 | 粒度大致均一、半自形—他形、互相镶嵌 |
+| Poikilitic / Ophitic | 包含结构 / 辉绿结构 | 大晶体（oikocryst）包裹小晶体（chadacryst）；后者特指普通辉石包裹斜长石板条 |
+| Undulose extinction | 波状消光 | 变形证据 |
+| Subgrain | 亚晶 | 重结晶初期；变形证据 |
+| Pleochroic halo | 多色晕 | 锆石中 U 衰变的 α 粒子损伤黑云母晶格；**S 型花岗岩中常见** |
+| Zircon | 锆石 | 可容纳 U；多色晕的成因矿物 |
+| Titanite / Sphene | 榍石 | 菱形、深色、高突起；与下地壳火成岩相关 |
+| Tourmaline | 电气石 | PPL 有色且多色，**中等突起、无解理**；富 B |
+| Topaz | 黄玉 | 富 F；极度分异的 S 型花岗岩中出现 |
+| Cordierite | 堇青石 | 富 Al；Cornubian 中常呈假象（pseudomorph） |
+| Aegirine | 霓石 | 碱性辉石；PPL 特征蓝绿色多色性 |
+| Riebeckite | 钠闪石 | 碱性闪石；PPL 深墨蓝色强多色性 |
+| Second boiling | 二次沸腾 | （📎 补充术语）结晶无水矿物使残余熔体达到水饱和而析出流体相 |
+| Lode deposit / Mother lode | 脉型矿床 / 主矿脉 | Sierra Nevada 金矿；石英脉 + 断层 + 剪切带控制 |
+
+---
+
+## 附：材料勘误表
+
+| 位置（文件名 + 大致段落） | 材料原文 | 问题 | 更正 / 说明 |
+|---|---|---|---|
+| `W9 notes.md`，"Igneous intrusions of different volumes, scales and geometries" 一页 | "Laccolith: **flat side down, bowl shape**"；"Lopolith: **flat side up, dome shape**" | **形状描述与标准定义相反或严重歧义**。岩盖（laccolith）是**平底 + 上凸穹隆**（蘑菇状），岩盆（lopolith）是**平顶 + 下凹盆状**（碟状）。原文把 "bowl" 配给 laccolith、把 "dome" 配给 lopolith，若按字面读则完全颠倒；即使按"倒扣的碗/倒扣的穹隆"勉强解释，也极易误导 | 应为 **Laccolith: flat side down, dome shape**；**Lopolith: flat side up, bowl (basin) shape** |
+| `Practical 9 solutions.md`，Part 1 "Pyroxene" 段 | "The thickness of the exsolution lamellae is **proportional to** the cooling rate: **slower cooling produces thicker lamellae**." | **同一句内自相矛盾**。若厚度与冷却速率成正比，则冷得越快片晶越厚，与后半句相反 | 应为 **inversely proportional to the cooling rate**（或直接写"冷却越慢，片晶越厚"）。物理上：片晶粗化受**固态扩散**控制，慢冷 = 高温停留时间长 = 扩散距离大 = 片晶粗 |
+| `Practical 9 solutions.md`，Part 1 干涉色题答案 | "Forsterite: maximum birefringence = 0.035, corresponding to **second-order sensitive tint (pink)**" | **术语误用**。"Sensitive tint（灵敏色/一级红）"专指 **550 nm、一级与二级的分界紫红色**，不存在"二级灵敏色"。按 Γ = 30 µm × 0.035 = **1050 nm**，落在**二级上部、接近二/三级分界（1100 nm）的粉红—红色带** | 干涉色**位置判断正确**（二级顶部粉红），但**名称应改为"二级红/二级顶部粉红"**，不应称 sensitive tint。Fa 的 0.052 → Γ = 1560 nm，属**三级上部**，材料给的"三级粉红"合理 ✓ |
+| `EART22201 - 01-Dec-transcript.md`，喜马拉雅段 | "We mainly find I-type granites with **alkaline**, so subduction-related signatures" | **术语错误**。讲义同一内容写的是 "Mainly I-type granites with **calc-alkaline** signatures"；俯冲带的标志是**钙碱性（calc-alkaline）**，而 "alkaline（碱性）"在岩石学中指完全不同的一类岩浆（洋岛/裂谷） | 应为 **calc-alkaline**。疑为自动转写漏词 |
+| `EART22201 - 01-Dec-transcript.md`，美国西部段 | "The San Andreas Fault is currently a strike-slip fault, but **a few million years ago**, that was a subduction zone." | **时间量级错误**。法拉隆板块在加州段的俯冲于约 **28–30 Ma** 前终止并转为转换边界；且本段讨论的 Sierra Nevada 岩基年龄为 **114–87 Ma**（讲义），与"几百万年前"相差一到两个数量级 | 应为**数千万年前（tens of millions of years）**。口误 |
+| `EART22201 - 01-Dec-transcript.md`，Palisades 与 Skaergaard 规模对比 | "where the Skaergaard intrusion is **hundreds of metres in height**, the Palisades Sill is just 300 metres… **Sorry, Skaergaard will be an order of magnitude larger than this**" | **前半句错误，老师当场自我更正**。Skaergaard 层状系列厚度即达 km 量级（Practical 中的样品分别取自 **500 m** 与 **2000 m** 高度，已超过"数百米"） | 以**自我更正后的说法**为准：Skaergaard 比 Palisades（300 m）**大一个数量级**，即 **~3 km 量级** |
+| `EART22201 - 01-Dec-transcript.md`，Palisades 冷却方向 | "we know that this thing will be cooling **from the top upwards and from the bottom downwards**" | **方向颠倒**。热从顶、底两个接触面散失，**结晶前锋应自顶向下、自底向上**向内推进。老师在讲 Skaergaard 时的表述是正确的："crystallize **from the top down, from the bottom up**, and from the sides inwards" | 应为 **from the top downwards and from the bottom upwards**。口误 |
+| `EART22201 - 01-Dec-transcript.md`，开场经济意义段 | "the vast majority of the earth's platinum group elements, **gold**, platinum, palladium, rhodium come from **mafic intrusions**" | **与她自己后文矛盾**。金并非铂族元素；且课末明确讲 Sierra Nevada 的金来自**花岗质岩浆驱动的热液系统**（硅质侵入体），全球金矿主体也是造山型/热液型与古砂矿，而非镁铁质侵入体 | 建议理解为：**铂族元素（Pt、Pd、Rh）主要来自镁铁质（层状）侵入体；金与铜主要与硅质侵入体的热液系统相关**。原句应是把 gold 顺口带入了 PGE 列表 |
+| `W9 notes.md`，"Granitic magmas may have high dissolved water contents" 一页 | "**Rapid decrease in H₂O solubility at 600-700 °C** can cause exsolution of large volumes of H₂O" | **表述可疑/易误导**。硅酸盐熔体中 H₂O 的溶解度**主要由压力控制**，温度依赖性弱；同一页的图本身画的也是"压力 vs 溶解水含量"。600–700 °C 是**花岗质岩浆的固相线温度区间**，该处大量出溶水的真实机制是**结晶无水矿物导致残余熔体水饱和（second boiling / 退溶沸腾）**，或**减压出溶** | 建议按 **second boiling（二次沸腾）** 或 **减压出溶** 理解。⚠️ 该页图件文字已丢失，无法核对原图究竟画的是什么，此处按物理机制标注存疑 |
+| `W9 notes.md`，全球岩浆产量页 vs transcript 开场 | 讲义："~35% extruded / **~65% intruded**"；transcript："**the vast majority** of magma… never makes it to the surface" | **两处口径不一致**（非硬错误）。65% 谈不上 "vast majority"；文献常引的侵入:喷出比在 **约 2:1 到 10:1** 之间，随统计口径（是否含洋中脊）差异很大 | 答题时**引用讲义的 65:35**，"vast majority" 当作口语强调即可 |
+| `W9 notes.md`，铝饱和度一页 | 表格中混入游离字符串 "CaO"（出现在 riebeckite 一列内）、"CaO" 单独成格，坐标轴与分区线全部丢失 | **PDF 图件文字提取失败**，不是内容错误，但表格已不可按行阅读 | 该页应按"**S 型=过铝质/富 Al 矿物；I 型=偏铝质/富 Ca 矿物；A 型=过碱质/富 Na-K 矿物**"三列理解；具体图形以 Practical Reference Handout 为准 |
+| `W9 notes.md`，S 型花岗岩薄片页（第二张，picture text） | "…**Alkali feldspar** look for pleochroic haloes in PPL / cross-hatch twinning = microcline…" | **标注错行**。"look for pleochroic haloes in PPL" 属于**黑云母（Biotite）**，被 PDF 排版挤到了 Alkali feldspar 的说明中（同一页第一张 slide 中该句正确地跟在 Biotite 之后） | 正确对应：**Biotite → 找多色晕**；**Alkali feldspar → 找格子双晶（microcline）/ 简单双晶（orthoclase）/ 条纹结构 / 绢云母化** |
+| `Practical 9 solutions.md`，Eastern Red Hills 段 | "the Eastern Red Hills granites are **perakaline** A-type granites" | **拼写错误** | 应为 **peralkaline** |
+| `Practical 9 solutions.md`，Ilímaussaq 附加资源段 | "**Eudialite**, a sodic cyclosilicate" | **拼写错误** | 应为 **Eudialyte**（异性石） |
+| `Practical 9 solutions.md`，Part 1 引用页码 | "The procedure for using extinction angles… is explained in the **Reference Handout (p 24)**" | **页码不符**。`EART22201 Reference Guide 2025.md` 中该操作规程所在页的页脚编号为 **17** | 疑为引用 **PDF 文件页码**而非手册印刷页码；查阅时按"Procedure for determining plagioclase composition"标题定位即可 |
+| `Practical 9 solutions.md`，薄片 11394 段 | "**Olivine and quartz will not coexist in the same rock**" | **绝对化表述**。该不共存关系是**平衡态**结论（Fo + Qz → 2 En）；在强烈不平衡条件下（快速淬火、外来捕虏晶、反应边未完成）二者可以并存于同一岩石 | 建议表述为"**在平衡条件下不共存**"。就本题（深成、慢冷的岩床）而言，材料的推理完全正确 ✓ |
+| `EART22201 - 01-Dec-transcript.md`，全篇 | 自动转写对专有名词的系统性错拼：Skaergaard→"scaregard / ScareGuard"；gabbro→"galbro"；plagioclase→"plagic laser"；euhedral→"uhedral"；hornblende→"horn blend"；clinopyroxene→"clina pyroxene"；dolerite→"dolorite"；Palisades→"palisade"；forsteritic→"foursteritic"；**solidus temperature→"solidest temperature"**；crustal→"crystal"；solidifies→"certifies"；anorogenic→"anorigenic"；dacitic→"dasitic"；tourmaline→"Tormelene"；**Shap granite→"Schaap granite"**；au fait→"O.F." | **自动语音转写错误**（非授课内容错误） | 阅读 transcript 时按上表还原。其中 **"solidest temperature" 必须读作 "solidus temperature（固相线温度）"**，否则整段含水量论证无法理解；**"crystal rocks" 应读作 "crustal rocks（地壳岩石）"** |
+| `W9 notes.md`，Skaergaard 地层柱一页 | 三套矿物组合（"Augite…fayalite…apatite…myrmekite" / "Plagioclase, augite, olivine, minor oxides" / "Plagioclase, augite, opx, oxides"）与柱状图上的高度位置**在 md 中已脱钩** | **PDF 图注与图形的空间对应关系丢失**，不是内容错误 | 按物理约束重排：含 **fayalite + apatite + myrmekite** 者最演化 → **顶部（Upper Zone）**；含 **opx 而无 olivine** 者 → **Middle Zone**；含 **olivine + 少量氧化物** 者 → **Lower Zone**。此排序与讲义给出的隐层理端值（底 An65/Fo65 → 顶 An30/Fo0）自洽 |
+
+**关于 OCR 补充段的可靠性说明**：讲义 `W9 notes.md` 末尾的 `## OCR 补充` 段**仅含 Page 24 一页**（"Magmatic sedimentation… creates cumulate textures" 的四步流程）。该段**文字完整、无乱码、无内部矛盾，且与 transcript 的口头叙述逐条吻合**，**可靠性高**，本笔记已直接采用。真正需要打折扣的是正文中大量 `<!-- picture text -->` 标记的**图件文字提取残片**（辉长岩薄片页、铝饱和度页、S/I/A 型花岗岩薄片页、Palisades 剖面页、Skaergaard 地层柱页），它们**语序错乱、标签与图形脱钩**，上表已逐条记录受影响的位置。
