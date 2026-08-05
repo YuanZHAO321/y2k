@@ -375,7 +375,7 @@ Lecture 1–10、Practical 1–9（W10 为复习课，无 practical）。Lecture
 | 编号 | 课程 | 描述 | 规范内部编号裁定 |
 |---|---|---|---|
 | **B-01** | **EART21202** | 文件名里的 "Week N" 与文件夹周号从 W06 起整体 **+1**（课程官方周号含 12-Mar 期中测验周）；另外**文件夹 Week 3 的两个文件被命名为 "Week 4_..."，但幻灯片首页自称 "Week 3 - Radiation and the Greenhouse Effect"** | ✅ **采用文件夹编号 Week 01–10**（连续）。对应表见 §2.7。证据：10 份 transcript 日期链 05-Feb→07-May + 19-Mar transcript 明言"自期中测验后第一次见面" |
-| **B-02** | **EART29102** | **W08 与 W09 的实际授课日期倒置**：W09 transcript 为 23-Mar（复活节前），W08 transcript 为 21-Apr（复活节后） | ✅ **采用文件夹/课程官方编号 Week 01–10**，不按日期重排。W08/W09 的 Agent 需在笔记里说明日期与周号不同步 |
+| **~~B-02~~** | **EART29102** | ~~W08 与 W09 的实际授课日期倒置~~ | ❌ **已撤销（2026-08-05）**：不存在倒置，是**两份 transcript 上传时被放进了对方的文件夹**（用户确认为手误，经词频核验证实）。已 `git mv` 互换归位，日期链与周号完全一致，**无需任何额外标注**。详见 §2.11 |
 | **B-03** | **EART28202** | Lecture 与 Practical 主题在 W04、W07、W08、W09、W10 不对应（W01/02/03/05/06 完全吻合，故**不是整体位移型错位**） | ✅ **不重编号、不重新配对**。Practical 是独立的图幅/赤平投影技能序列。详见 §2.10 |
 | **B-04** | EART26201 | Practical 文件名与周号不一致：W06 `EXPERIMENT 1`、W07 `exp 1 answers`、W09 `practical 2 post lab answers`（指 Experiment 1/2 而非第 N 周） | 无需处理，只是实验编号 ≠ 周号 |
 
@@ -485,7 +485,7 @@ Lecture 1–10、Practical 1–9（W10 为复习课，无 practical）。Lecture
 
 ## 5. 给后续周笔记 Agent 的取用约定（摘要）
 
-1. **规范内部编号一律采用文件夹的 `Week N`**，全部 9 门周结构课都从 Week 01 起、连续无空缺。三处需要额外说明的：EART21202（讲义标题周号从 W06 起 +1）、EART29102（W08/W09 授课日期倒置）、EART28202（practical 主题不逐周对应 lecture）。
+1. **规范内部编号一律采用文件夹的 `Week N`**，全部 9 门周结构课都从 Week 01 起、连续无空缺。两处需要额外说明的：EART21202（讲义标题周号从 W06 起 +1）、EART28202（practical 主题不逐周对应 lecture）。~~EART29102（W08/W09 授课日期倒置）~~ 已于 2026-08-05 撤销——那是 transcript 放错文件夹，已互换归位，无需说明。
 2. **一个周 Agent 读一个周单元 = 该周 `Lecture/Week N/` + `Practical/Week N/` 下的全部 md**（型2 课程为 `Week N/` 下全部 md），外加该课根目录的 `(EARTxxxxx) 课程名.md` 作为背景。
 3. **transcript 全文精读**（PLAN.md §0.2），slides/handout 同等地位。无 transcript 的 47 个周单元不必因此判为失败。
 4. **不读 pdf/pptx/docx/xlsx 原件**。本次核查确认：**所有 384 个非 md 原件都有配对的 md，无一遗漏**（逐个比对 `<basename>.md` / `<filename>.md` 两种命名，零缺口）。
