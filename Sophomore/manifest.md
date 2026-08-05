@@ -309,8 +309,15 @@ W01/02/03/05/06 完全吻合，说明**不存在整体位移型错位**（若整
 
 Lecture 1–10、Practical 1–9（W10 为复习课，无 practical）。Lecture N 与 Practical N 主题逐周吻合（GIS 导论↔ArcGIS Pro 入门、空间分析↔空间分析、遥感↔遥感、3D↔3D）。
 
-**⚠️ 授课日期倒置（不改编号，但要标注）**：transcript 日期显示 `Week 9`（23-Mar，3D geospatial）**实际早于** `Week 8`（21-Apr，Spatial Visualisation）——因为 3D 那节排在复活节假前的第 8 个教学档期，而 Spatial Visualisation 挪到了假后。课程自身的材料编号（`Lecture 8 Spatial Visualisation`、`Practical 8`）与文件夹一致，内容逻辑也成立。
-**结论：规范内部编号仍取文件夹编号 Week 01–10**；W08/W09 的周 Agent 需知道 transcript 日期与周号不同步，**不要据日期改写周序**。
+**~~⚠️ 授课日期倒置~~ → 已撤销（2026-08-05 更正）**：0b 原记「W09 transcript 23-Mar 早于 W08 transcript 21-Apr，属日期与周号不同步」，并据此编了一套「3D 排在假前第 8 档期、Visualisation 挪到假后」的解释。**实际不存在倒置**——用户 2026-08-05 指出大二各周 transcript 本应严格按时间顺序，此处是上传时手误；经内容核验确证**两份 transcript 被放进了对方的文件夹**：
+
+| 转写 | 3D 类词频 | 可视化类词频 | 实际主题 | 原位置 | 更正后 |
+|---|---|---|---|---|---|
+| 23-Mar | 6 | 12 | **空间可视化** | Week 9 ❌ | **Week 8** ✅ |
+| 21-Apr | 21 | 3 | **三维地理空间** | Week 8 ❌ | **Week 9** ✅ |
+
+**已执行 `git mv` 互换（含 .md 与 .txt）。更正后：Lecture 8 Spatial Visualisation ↔ 23-Mar（复活节前）、Lecture 9 3D ↔ 21-Apr（节后），既按时间顺序、也按编号顺序，全课 transcript 日期链完全连续。**
+**结论：规范内部编号取文件夹编号 Week 01–10，且日期与周号一致，无需任何额外标注。**
 
 | 周次 | Lecture md | Practical md | 该周 md 数 | 该周词数 | transcript | 备注 |
 |---|---|---|---|---|---|---|
@@ -321,8 +328,8 @@ Lecture 1–10、Practical 1–9（W10 为复习课，无 practical）。Lecture
 | W05 | `Lecture/Week 5/Lecture 5 - Spatial statistics.md` (1,103)；`EART29102 - 02-Mar-transcript.md` (5,850) | `Practical/Week 5/Practical 5 - Spatial statistics.md` (2,167) | 3 | 9,120 | ✅ 02-Mar | |
 | W06 | `Lecture/Week 6/Geospatial Techniques - Lecture 6 - Remote Sensing - 2026.md` (2,026)；`EART29102 - 09-Mar-transcript.md` (8,340) | `Practical/Week 6/Practical 6 -Remote Sensing.md` (2,878) | 3 | 13,244 | ✅ 09-Mar | 本课最大周 |
 | W07 | `Lecture/Week 7/Lecture 7 - Terrain Analysis.md` (1,249)；`EART29102 - 16-Mar-transcript.md` (6,563) | `Practical/Week 7/Practical 7 - Wind turbines.md` (2,623) | 3 | 10,435 | ✅ 16-Mar | |
-| W08 | `Lecture/Week 8/Lecture 8 Spatial Visualisation.md` (1,354)；`EART29102 - 21-Apr-transcript.md` (5,353) | `Practical/Week 8/Practical 8 - Solar radiation mapping and map layout.md` (2,658) | 3 | 9,365 | ✅ **21-Apr（假后）** | 实际授课晚于 W09，见上文 |
-| W09 | `Lecture/Week 9/Lecture - 3D geospatial techniques.md` (1,923)；`EART29102 - 23-Mar-transcript.md` (5,242) | `Practical/Week 9/Practical - 3D geospatial techniques.md` (3,179) | 3 | 10,344 | ✅ **23-Mar（假前）** | 实际授课早于 W08 |
+| W08 | `Lecture/Week 8/Lecture 8 Spatial Visualisation.md` (1,354)；`EART29102 - 23-Mar-transcript.md` (5,242) | `Practical/Week 8/Practical 8 - Solar radiation mapping and map layout.md` (2,658) | 3 | 9,254 | ✅ 23-Mar | 转写已于 2026-08-05 更正归位 |
+| W09 | `Lecture/Week 9/Lecture - 3D geospatial techniques.md` (1,923)；`EART29102 - 21-Apr-transcript.md` (5,353) | `Practical/Week 9/Practical - 3D geospatial techniques.md` (3,179) | 3 | 10,455 | ✅ 21-Apr | 转写已于 2026-08-05 更正归位 |
 | W10 | `Lecture/Week 10/Lecture 10 Course review_handout.md` (1,827)；`EART29102 - 27-Apr-transcript.md` (6,506) | —（**无 practical**） | 2 | 8,333 | ✅ 27-Apr | 复习课 |
 
 **非周单元材料**：无。
