@@ -16,7 +16,7 @@
 | 1 | EART29200 职业发展与项目准备 | 1（非周） | ✅ | - [x] **不做**（见 §1，仅 1 份笔记即定稿） |
 | 2 | EART24001 地质图 | 10 | ✅ | - [x] **已完成**（约 24,700 字，勘误汇总 42 条） |
 | 3 | EART28101 野外填图入门 | 1（仅 spec） | ✅ | - [x] **不做**（见 §3，材料缺失） |
-| 4 | EART26201 地球化学原理 | 10 | ✅ | - [x] **已完成**（约 5.9 万字，勘误汇总 141 条） |
+| 4 | EART26201 地球化学原理 | 10 | ✅ | ⏳ 重做中（首版已撤销，见 §4 材料异常摘要） |
 | 5 | EART22201 火成矿物与作用 | 10 | ✅ | - [ ] 待办（见 §5） |
 | 6 | EART27201 沉积岩与化石 | 11 | ✅ | - [ ] 待办（见 §6） |
 | 7 | EART26001 能源与资源 | 11 | ✅ | - [ ] 待办（见 §7） |
@@ -260,7 +260,7 @@ CV 撰写要求、EDIA（Equality, Diversity, Inclusion and Accessibility）在�
 - **周次错位**：课程大纲 spec 的 lecture 从 Week 2 排到 Week 12（含 Week 7 reading week），文件夹是 Week 1–10 连续。**规范内部编号 = 文件夹编号**，已在全部 10 份笔记中统一。
 - **transcript 全覆盖**：10 周齐全，连续周一 29-Sep → 08-Dec，单份 5,214–7,212 词。这是大二笔记质量最有保障的一门课。
 - **W05 数据表限流**：`Practical/Week 5/EART26201_Practical5_feedback.xlsx.md` 为 30,488 词 / 222 行的 xlsx 超宽表倾印，已指示 Agent 只读表头与前后说明、不逐行读数据。**阶段二同样不要读该文件。**
-- **W08 实验手册误放**：`Practical/Week 8/EART26201 lab handbook 2025-1.md`（21,717 词）是**全课通用实验手册**，非第 8 周专属。W08 Agent 只读了通用技能段与 EXPERIMENT 2；**安全守则段（约 L65–664）至今未被任何笔记覆盖**，阶段二如需可单独处理。
+- **W08 实验手册误放**：`Practical/Week 8/EART26201 lab handbook 2025-1.md`（21,717 词）是**全课通用实验手册**，非第 8 周专属。**首次派发时我在 W08 提示词里写了「安全守则段（L65–664）本周不读，留给阶段二课程笔记统一处理」，这是架构性错误**——原始材料一律只由周 Agent 通读，课程总纲只在周笔记之上重组，不得有例外口子。**2026-08-07 已修补**：把该行段精确加入 W08 的原提示词后重跑 W08，并重跑本课课程总纲（提示词中允许读原文的例外条款已删除）。手册三段（安全守则 L65–664 / 通用技能 L665–1003 / EXPERIMENT 2 L1004–1278）现已全部落在 W08 笔记内。
 - **quiz answers 版本混杂**：W06、W08、W09 的随堂测验答案是 **2024 版**（W07、W10 是当年版），且 W06 那份 OCR 质量低。相关矛盾已记入各周勘误表。
 - **实验编号 ≠ 周次**：W07 的 practical 是 Experiment 1 的答案，W09 的是 Experiment 2 的课后答案。属正常，不是错误。
 - 非教学文件夹（按用户 2026-08 规则跳过）：`Lecture/Past Papers/`（5 份往年卷）、`Practical/Assessments/`（2 份）。**阶段二做课程笔记时可用往年卷校验知识点覆盖度。**
@@ -278,7 +278,7 @@ CV 撰写要求、EDIA（Equality, Diversity, Inclusion and Accessibility）在�
 **完整精读这 10 份周笔记**（合计约 10.4 万字，600 KB）：
 `/home/user/y2k/Sophomore/Michaelmas Term/EART26201/Notes/Week 01.md` 到 `Week 10.md`
 
-**不要去读原始材料**（Lecture/Practical 下的幻灯片、transcript、feedback、实验手册）。课程总纲的职责是**在周笔记之上做重组与提炼**，不是重新学一遍原文。**尤其不要读 `Practical/Week 5/EART26201_Practical5_feedback.xlsx.md`**（3 万词数据表倾印，token 黑洞）。
+**不要去读任何原始材料**（Lecture/Practical 下的幻灯片、transcript、feedback、实验手册），**一处例外也没有**。课程总纲的职责是**在周笔记之上做重组与提炼**，不是重新学一遍原文——原始材料的通读是周 Agent 的职责，已经全部完成。**尤其不要读 `Practical/Week 5/EART26201_Practical5_feedback.xlsx.md`**（3 万词数据表倾印，token 黑洞）。
 
 ## 产出
 写入 `/home/user/y2k/Sophomore/Michaelmas Term/EART26201/Course Notes.md`（注意：放在**课程文件夹根目录**，不在 `Notes/` 里）。
@@ -316,8 +316,7 @@ CV 撰写要求、EDIA（Equality, Diversity, Inclusion and Accessibility）在�
 δ 记号与标准物、平衡分馏 vs 动力学分馏、分馏系数 α/ε/Δ、瑞利分馏、GMWL、δ¹³C 储库、δ¹⁸O 古温度计。
 
 ## 七、实验课体系
-EXPERIMENT 1 与 EXPERIMENT 2 的完整流程（目的、原理、操作、数据处理、预期结果），以及实验手册通用技能段的内容（单位换算、对数运算、滴定操作）。
-> 注：全课实验手册中的**实验室安全守则段（约 L65–664）至今未被任何周笔记覆盖**。若你判断有必要，可从 `Practical/Week 8/EART26201 lab handbook 2025-1.md` 的该行段单独读取补上；否则在本节明确写出这一缺口。这是唯一允许你读原始材料的例外。
+EXPERIMENT 1 与 EXPERIMENT 2 的完整流程（目的、原理、操作、数据处理、预期结果）、实验手册通用技能段的内容（单位换算、对数运算、滴定操作），以及**实验室安全守则与事故上报流程**。这三部分的原始材料都已由 W07、W08、W09 三份周笔记覆盖，**全部从周笔记中取用，不要去读实验手册原文**。
 
 ## 八、公式与常数总表
 把全课的定量关系汇总成一张大表，每条写公式、符号含义、单位、适用条件、典型数值。至少含：分配系数与部分熔融方程、等时线方程与衰变定律、ΔG = ΔH − TΔS、平衡常数与活度、相律、Arrhenius 式、Fick 定律、Debye–Hückel 式、Ksp 与饱和指数、Henderson–Hasselbalch 式、碱度定义式、能斯特方程与 pe–Eh 换算、δ 定义式与瑞利方程。
